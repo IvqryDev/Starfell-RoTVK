@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = welcomescreen_welcome
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1766887182629
+  last_edited_time = 1771553823374
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:cfdb2a57-65ec-4649-a6d9-10dc9b277978-1766887165306] = [groups:][instances:]
+  [loading_requirement_container_meta:8a2ba236-edd7-42f6-b087-3dcd561a0f9b-1771553311528] = [groups:][instances:]
 }
 
 customization {
@@ -200,7 +200,7 @@ element {
 
 element {
   interactable = true
-  source = &oWill &ohe &obreak &oand &olose &othe &ofight, &oor &orise &oand &oend &othe &oreign &oof &onight?"
+  source = &oWill &othey &obreak &oand &olose &othe &ofight, &oor &orise &oand &oend &othe &oreign &oof &onight?"
   source_mode = direct
   shadow = true
   scale = 2.2
@@ -245,9 +245,9 @@ element {
   auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -370
+  x = -383
   y = -190
-  width = 741
+  width = 766
   height = 40
   stretch_x = false
   stretch_y = false
@@ -605,7 +605,7 @@ element {
 element {
   interactable = false
   mouse_following = false
-  source = This is a prequel to Starfell: The Second Knight and first chapter of Starfell. You play as the only member of your creed, the Valcon Knight. The six Valcons created you in order to seal Umbrocron, the tyrant god of shadow, in The Shadow Islands, a dimension resting just above the void. You must face the &oHarbingers &oof &oShadow before you can unlock the portal to seal Umbrocron away forever. Forge weapons and armor, form strategies and spells, and build your world around you. Will it be enough to banish Umbrocron? May the stars be with you...
+  source = This is a prequel to Starfell: The Second Knight and first chapter of Starfell. You play as the only member of your creed, the Valcon Knight. The six Valcons created you in order to seal Umbrocron, the tyrant god of shadow, in The Shadow Islands, a dimension resting just above the void. You must face the four shardbearers that serve umbrocron and protect the keys before you can unlock the portal to seal Umbrocron away forever. Forge weapons and armor, form strategies and spells, and build your world around you. Will it be enough to banish Umbrocron? May the stars be with you...
   source_mode = direct
   nine_slice_border_top = 5
   nine_slice_border_right = 5
@@ -644,8 +644,8 @@ element {
   auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -448
-  y = -67
+  x = -450
+  y = -74
   width = 276
   height = 40
   stretch_x = false
@@ -672,7 +672,7 @@ element {
 element {
   interactable = false
   mouse_following = false
-  source = If you notice any bugs, please report them to the Starlight Studios' Discord Server, link in the main menu. Or if you have any suggestions, want to chat, or see some teasers, please don't hesitate to join. The creation of this modpack wouldn't be possible without the help and contributions of: raspmary, cwdotpng, noelle.jpg, ZYX, .Kaitodoe, MysterWobble, and NineRavens. Now go play, and let the stars guide you!
+  source = If you notice any bugs, please report them to the Starlight Studios' Discord Server, link in the main menu. Or if you have any suggestions, want to chat, or see some teasers, please don't hesitate to join. The creation of this modpack wouldn't be possible without the help, contributions, and inspiration of: raspmary, GrayGravity, Excelsus, Apenaz, cwdotpng, noelle.jpg, ZYX, .Kaitodoe, MysterWobble, and NineRavens. Let the stars guide you!
   source_mode = direct
   nine_slice_border_top = 5
   nine_slice_border_right = 5
@@ -712,7 +712,7 @@ element {
   sticky_anchor = false
   anchor_point = mid-centered
   x = 171
-  y = -51
+  y = -57
   width = 276
   height = 40
   stretch_x = false

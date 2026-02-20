@@ -6,7 +6,7 @@
 	#Allowed values: (0,)
 	"Advancement Visibility Depth" = 2
 	#Blocks that Quark should treat as Shulker Boxes.
-	"Shulker Boxes" = ["minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:cyan_shulker_box", "minecraft:purple_shulker_box", "minecraft:blue_shulker_box", "minecraft:brown_shulker_box", "minecraft:green_shulker_box", "minecraft:red_shulker_box", "minecraft:black_shulker_box"]
+	"Shulker Boxes" = ["minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:cyan_shulker_box", "minecraft:purple_shulker_box", "minecraft:blue_shulker_box", "minecraft:brown_shulker_box", "minecraft:green_shulker_box", "minecraft:red_shulker_box", "minecraft:black_shulker_box", "supplementaries:sack", "suppsquared:sack_white", "suppsquared:sack_yellow", "suppsquared:sack_red", "suppsquared:sack_blue", "suppsquared:sack_light_blue", "suppsquared:sack_gray", "suppsquared:sack_light_gray", "suppsquared:sack_green", "suppsquared:sack_lime", "suppsquared:sack_orange", "suppsquared:sack_pink", "suppsquared:sack_purple", "suppsquared:sack_magenta", "suppsquared:sack_brown", "suppsquared:sack_black", "suppsquared:sack_cyan"]
 	#Should Quark treat anything with 'shulker_box' in its item identifier as a shulker box?
 	"Interpret Shulker Box Like Blocks" = true
 	#Set to true if you need to find the class name for a screen that's causing problems
@@ -120,14 +120,14 @@
 	"Raw Metal Bricks" = false
 	Rope = false
 	"Shear Vines" = true
-	Shingles = true
+	Shingles = false
 	"Soul Sandstone" = false
 	Stools = false
 	"Sturdy Stone" = true
 	Thatch = false
 	"Variant Bookshelves" = false
 	"Variant Chests" = false
-	"Variant Furnaces" = true
+	"Variant Furnaces" = false
 	"Variant Ladders" = false
 	"Vertical Planks" = false
 	"Vertical Slabs" = false
@@ -506,7 +506,7 @@
 	"Better Elytra Rocket" = false
 	"Campfires Boost Elytra" = false
 	"Compasses Work Everywhere" = true
-	"Coral On Cactus" = true
+	"Coral On Cactus" = false
 	"Diamond Repair" = false
 	"Double Door Opening" = true
 	"Dragon Scales" = false
