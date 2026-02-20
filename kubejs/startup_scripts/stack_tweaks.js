@@ -86,4 +86,5 @@ ItemEvents.modification(event => {
 	stackTo64('minecraft:egg')
 	stackTo64('farmersdelight:rotten_tomato')
 	stackTo64('nomansland:incendiary_arrow')
+	stackTo16('quark:ancient_tome')
 })

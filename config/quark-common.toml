@@ -357,7 +357,7 @@
 
 	[tools.ancient_tomes]
 		#Format is lootTable,weight. i.e. "minecraft:chests/stronghold_library,30"
-		"Loot Tables" = ["quark:misc/monster_box,12"]
+		"Loot Tables" = ["quark:misc/monster_box,20"]
 		"Item Quality" = 2
 		"Normal Upgrade Cost" = 10
 		"Limit Break Upgrade Extra Cost" = 20
@@ -1154,13 +1154,13 @@
 		"Min Mob Count" = 5
 		"Max Mob Count" = 8
 		"Enable Extra Loot Table" = true
-		"Activation Range" = 2.5
+		"Activation Range" = 4.0
 		#How many blocks to search vertically from a position before trying to place a block. Higher means you'll get more boxes in open spaces.
 		"Search Range" = 15
 
 		[world.monster_box.dimensions]
 			"Is Blacklist" = false
-			Dimensions = ["minecraft:overworld"]
+			Dimensions = ["minecraft:overworld", "minecraft:nether"]
 
 	[world.nether_obsidian_spikes]
 		#The chance for a chunk to contain spikes (1 is 100%, 0 is 0%)

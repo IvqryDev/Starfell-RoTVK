@@ -3,7 +3,7 @@
     "shieldexp:iron_shield",
     "shieldexp:netherite_shield",
     "shieldexp:diamond_shield",
-    "block_factorys_bosses:frozen_fist"
+    "block_factorys_bosses:ice_gauntlet"
   ],
   "shieldBlacklist": [],
   "stashingCooldown": true,
