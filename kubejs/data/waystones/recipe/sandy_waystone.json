@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L#",
+    "CDC",
+    "#O#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cut_sandstone"
+    },
+    "L": {
+      "item": "minecraft:lodestone"
+    },
+    "C": {
+      "item": "minecraft:chiseled_sandstone"
+    },
+    "D": {
+      "item": "valcon:mythril_core"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "id": "waystones:sandy_waystone",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "cFc",
+    "ccc"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "W": {
+      "item": "minecraft:wooden_shovel"
+    },
+    "c": {
+      "item": "minecraft:iron_ingot"
+    },
+    "F": [
+      {
+        "item": "minecraft:water_bucket"
+      },
+      {
+        "item": "minersdelight:water_cup"
+      }
+    ]
+  },
+  "result": {
+    "id": "farmersdelight:cooking_pot",
+    "count": 1
+  }
+}

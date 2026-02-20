@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "_",
+        "i",
+        "_"
+    ],
+    "key": {
+        "_": {
+            "item": "minecraft:stone_brick_slab"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "id": "minecraft:lodestone",
+        "count": 1
+    }
+}

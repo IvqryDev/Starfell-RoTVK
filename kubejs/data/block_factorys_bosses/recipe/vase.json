@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#G#",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "tag": "minecraft:terracotta"
+        },
+        "G": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "result": {
+        "id": "block_factorys_bosses:vase",
+        "count": 3
+    }
+}

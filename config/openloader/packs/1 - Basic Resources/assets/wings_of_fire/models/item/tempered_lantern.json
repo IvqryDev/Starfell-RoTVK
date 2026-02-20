@@ -1,0 +1,7 @@
+{
+  "parent": "wings_of_fire:custom/spiritlantern",
+  "textures": {
+    "0": "wings_of_fire:block/spiritlantern",
+    "particle": "wings_of_fire:item/spiritlantern"
+  }
+}

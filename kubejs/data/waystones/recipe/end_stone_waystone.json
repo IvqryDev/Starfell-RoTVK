@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        "CDC",
+        "#O#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:end_stone"
+        },
+        "L": {
+            "item": "minecraft:lodestone"
+        },
+        "C": {
+            "item": "minecraft:end_stone_bricks"
+        },
+        "D": {
+            "item": "valcon:mythril_core"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        }
+    },
+    "result": {
+        "id": "waystones:end_stone_waystone",
+        "count": 1
+    }
+}

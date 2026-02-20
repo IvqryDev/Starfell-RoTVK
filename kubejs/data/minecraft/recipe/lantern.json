@@ -1,0 +1,27 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" 3 ",
+		"121"
+	],
+	"key": {
+		"1": {
+			"item": "minecraft:iron_nugget"
+		},
+		"2": [
+			{
+				"item": "minecraft:coal"
+			},
+			{
+				"item": "minecraft:charcoal"
+			}
+		],
+		"3": {
+			"item": "minecraft:chain"
+		}
+	},
+	"result": {
+		"id": "minecraft:lantern",
+		"count": 6
+	}
+}

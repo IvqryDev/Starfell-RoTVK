@@ -1,0 +1,12 @@
+#en avant
+					"captain_left_arm.rz": "left_arm.rz",
+					"captain_left_arm.rx": "left_arm.rx + 20",
+					"captain_left_arm.ry": "left_arm.ry + 5"
+#ou
+					"captain_left_arm.rz": "left_arm.rz",
+					"captain_left_arm.rx": "left_arm.rx - 5",
+					"captain_left_arm.ry": "left_arm.ry - 20"
+#droite
+					"captain_left_arm.rz": "left_arm.rz",
+					"captain_left_arm.rx": "left_arm.rx",
+					"captain_left_arm.ry": "left_arm.ry - 20"

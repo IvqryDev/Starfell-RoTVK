@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:note_block"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "pigsteel:pigsteel_chunk"
+    }
+  },
+  "pattern": [
+    "A A",
+    "IRI",
+    "LNL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "etched:radio"
+  }
+}

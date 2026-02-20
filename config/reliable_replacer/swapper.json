@@ -1,0 +1,12 @@
+{
+  "swapper": {
+    "minecraft:jukebox": "etched:album_jukebox",
+    "block_factorys_bosses:rusty_prison_door": "minecraft:air",
+    "block_factorys_bosses:prison_door": "minecraft:air",
+    "block_factorys_bosses:wall_torch": "minecraft:air",
+    "block_factorys_bosses:underwold_wall_torch": "minecraft:air",
+    "cookscollection:lemon_leaves": "minecraft:oak_leaves",
+    "cookscollection:fruiting_lemon_leaves": "minecraft:oak_leaves",
+    "cookscollection:lemon_log": "minecraft:oak_log"
+  }
+}

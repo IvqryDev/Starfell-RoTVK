@@ -1,0 +1,30 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "zeta:flag",
+      "flag": "seed_pouch"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "S": {
+      "item": "minecraft:string"
+    },
+    "X": {
+      "tag": "quark:seed_pouch_holdable"
+    }
+  },
+  "pattern": [
+    " S ",
+    "HXH",
+    " H "
+  ],
+  "result": {
+    "count": 1,
+    "id": "quark:seed_pouch"
+  }
+}

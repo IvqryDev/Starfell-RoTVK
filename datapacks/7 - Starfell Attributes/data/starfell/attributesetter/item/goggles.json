@@ -1,0 +1,9 @@
+{
+  "create:goggles": [
+    {
+      "attribute": "block_interaction_range",
+      "value": 1,
+      "operation": "ADDITION"
+    }
+  ]
+}

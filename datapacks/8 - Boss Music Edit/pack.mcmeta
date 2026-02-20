@@ -1,0 +1,19 @@
+{
+    "pack": {
+      "pack_format": 34,
+      "description": [
+        {
+          "translate": "Adds battle music that plays when a Wither or Ender Dragon is active.",
+          "color": "#9421aa"
+        },
+        {
+          "translate": "\n"
+        },
+        {
+          "translate": "By The Exiled Fellow",
+          "color": "#bababa"
+        }
+      ]
+    }
+  }
+  

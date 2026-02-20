@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [15, 94],
+    "min_format": 15,
+    "max_format": 94,
+    "description": [
+      {
+        "text": "Wisp-like redesign for allays! ",
+        "color": "#E5B1FF"
+      },
+      {
+        "text": "By Ekho & noelledotjpg",
+        "color": "#7570CE"
+      }
+    ]
+  }
+}

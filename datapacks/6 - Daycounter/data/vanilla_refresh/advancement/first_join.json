@@ -1,0 +1,11 @@
+{
+    "criteria": {
+      "s": {
+        "trigger": "minecraft:tick"
+      }
+    },
+    "rewards": {
+      "function": "vanilla_refresh:day_counter/first_join"
+    }
+  }
+  

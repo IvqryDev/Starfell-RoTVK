@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#L#",
+    "CDC",
+    "#O#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "L": {
+      "item": "minecraft:lodestone"
+    },
+    "C": {
+      "item": "minecraft:chiseled_deepslate"
+    },
+    "D": {
+      "item": "valcon:mythril_core"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "id": "waystones:deepslate_waystone",
+    "count": 1
+  }
+}

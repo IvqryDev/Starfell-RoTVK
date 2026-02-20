@@ -1,0 +1,9 @@
+{
+  "parent": "wings_of_fire:custom/brazieroff",
+  "textures": {
+    "all": "wings_of_fire:block/cradleoff",
+    "particle": "wings_of_fire:block/cradlebreak",
+    "1": "wings_of_fire:block/cradleoff"
+  },
+  "render_type": "cutout_mipped"
+}

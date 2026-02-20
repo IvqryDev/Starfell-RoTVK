@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 70
+      },
+   "description": [{"text":"By Lanostry","color":"#cca06a"},{"text":"\nBeta 1.0","color":"#625a55"}]
+  }
+}

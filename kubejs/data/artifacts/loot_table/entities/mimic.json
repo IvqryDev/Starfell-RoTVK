@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:tag",
+          "name": "valcon:default_accessories",
+          "expand": true
+        }
+      ]
+    }
+  ],
+  "random_sequence": "artifacts:entities/mimic"
+}

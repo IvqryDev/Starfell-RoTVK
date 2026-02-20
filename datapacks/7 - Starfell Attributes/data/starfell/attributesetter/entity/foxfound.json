@@ -1,0 +1,9 @@
+{
+  "quark:foxhound": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 45,
+      "operation": "BASE"
+    }
+  ]
+}

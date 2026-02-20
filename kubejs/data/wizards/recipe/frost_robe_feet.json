@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "J": {
+      "item": "jewelry:sapphire"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "LJL",
+    "W W"
+  ],
+  "result": {
+    "count": 1,
+    "id": "wizards:frost_robe_feet"
+  }
+}

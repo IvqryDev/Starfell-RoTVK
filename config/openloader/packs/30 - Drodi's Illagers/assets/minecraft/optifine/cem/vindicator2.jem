@@ -1,0 +1,186 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"texture": "textures/entity/illager/mountaineer.png",
+			"textureSize": [128, 64],
+			"boxes": [
+				{"coordinates": [-4, 24, -4, 8, 10, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-1, 23, -6, 2, 4, 2], "textureOffset": [24, 0]}
+			],
+			"submodels": [
+				{
+					"id": "hats",
+					"invertAxis": "xy",
+					"translate": [0, 24, 0],
+					"boxes": [
+						{
+							"coordinates": [-4, 0, -4, 8, 10, 8],
+							"uvNorth": [40, 8, 48, 18],
+							"uvEast": [32, 8, 40, 18],
+							"uvSouth": [56, 8, 64, 18],
+							"uvWest": [48, 8, 56, 18],
+							"uvUp": [48, 8, 40, 0],
+							"uvDown": [0, 0, 0, 0],
+							"sizeAdd": 0.49
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"texture": "textures/entity/illager/mountaineer.png",
+			"textureSize": [128, 64],
+			"boxes": [
+				{"coordinates": [-4, 12, -3, 8, 12, 6], "textureOffset": [0, 18]}
+			],
+			"submodels": [
+				{
+					"id": "bodywear",
+					"invertAxis": "xy",
+					"translate": [0, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [-4, 2, -3, 8, 22, 6],
+							"uvNorth": [6, 42, 14, 64],
+							"uvEast": [0, 42, 6, 64],
+							"uvSouth": [20, 42, 28, 64],
+							"uvWest": [14, 42, 20, 64],
+							"uvUp": [14, 42, 6, 36],
+							"uvDown": [0, 0, 0, 0],
+							"sizeAdd": 0.5
+						}
+					],
+					"submodels": [
+						{
+							"id": "backpack",
+							"invertAxis": "xy",
+							"translate": [0, 1.2, 6.2],
+							"boxes": [
+								{"coordinates": [-5, 11, -3, 10, 12, 6], "textureOffset": [96, 46]},
+								{
+									"coordinates": [-5, 11, 3, 10, 4, 3],
+									"uvNorth": [0, 0, 0, 0],
+									"uvEast": [102, 33, 105, 37],
+									"uvSouth": [118, 33, 128, 37],
+									"uvWest": [115, 33, 118, 37],
+									"uvUp": [0, 0, 0, 0],
+									"uvDown": [125, 30, 115, 33]
+								},
+								{"coordinates": [-7, 15, 3, 14, 4, 4], "textureOffset": [92, 37]},
+								{
+									"coordinates": [-7, 7, 7, 14, 8, 0],
+									"uvNorth": [0, 0, 0, 0],
+									"uvEast": [0, 0, 0, 0],
+									"uvSouth": [82, 33, 96, 41],
+									"uvWest": [0, 0, 0, 0],
+									"uvUp": [0, 0, 0, 0],
+									"uvDown": [0, 0, 0, 0]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "arms",
+			"id": "arms",
+			"invertAxis": "xy",
+			"translate": [0, -20.5, -0.3],
+			"texture": "textures/entity/illager/mountaineer.png",
+			"textureSize": [128, 64],
+			"submodels": [
+				{
+					"id": "arms_rotation",
+					"invertAxis": "xy",
+					"translate": [0, 22.5, 0.35],
+					"boxes": [
+						{"coordinates": [4, -8, -2.05, 4, 8, 4], "textureOffset": [62, 20]},
+						{"coordinates": [-4, -8, -2.05, 8, 4, 4], "textureOffset": [44, 36]}
+					],
+					"submodels": [
+						{
+							"id": "arms_flipped2",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [0, -24, 0],
+							"boxes": [
+								{"coordinates": [-8, 16, -2.05, 4, 8, 4], "textureOffset": [62, 20]}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0],
+			"texture": "textures/entity/illager/mountaineer.png",
+			"textureSize": [128, 64],
+			"boxes": [
+				{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [28, 20]},
+				{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [44, 20], "sizeAdd": 0.51}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0],
+			"texture": "textures/entity/illager/mountaineer.png",
+			"textureSize": [128, 64],
+			"boxes": [
+				{"coordinates": [4, 12, -2, 4, 12, 4], "textureOffset": [28, 20]},
+				{"coordinates": [4, 12, -2, 4, 12, 4], "textureOffset": [44, 20], "sizeAdd": 0.51}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [2, -12, 0],
+			"texture": "textures/entity/illager/mountaineer.png",
+			"textureSize": [128, 64],
+			"boxes": [
+				{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [28, 36]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-2, -12, 0],
+			"texture": "textures/entity/illager/mountaineer.png",
+			"textureSize": [128, 64],
+			"boxes": [
+				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [28, 36]}
+			]
+		},
+		{
+			"part": "nose",
+			"id": "nose",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "hat",
+			"id": "hat",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}

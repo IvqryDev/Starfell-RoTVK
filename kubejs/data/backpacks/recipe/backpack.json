@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "S": {
+      "tag": "supplementaries:sacks"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "ILI",
+    "LSL",
+    "ILI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "backpacks:backpack"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "minecraft:turtle_helmet": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 4,
+      "operation": "BASE"
+    }
+  ],
+  "nomansland:tortoise_shell": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 10,
+      "operation": "BASE"
+    }
+  ]
+}

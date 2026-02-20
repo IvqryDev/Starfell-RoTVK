@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nomansland:resin_oil_bottle"
+        },
+        {
+            "item": "minecraft:arrow"
+        },
+        {
+            "item": "minecraft:arrow"
+        },
+        {
+            "item": "minecraft:arrow"
+        },
+        {
+            "item": "minecraft:arrow"
+        },
+        {
+            "item": "minecraft:arrow"
+        },
+        {
+            "item": "minecraft:arrow"
+        },
+        {
+            "item": "minecraft:arrow"
+        },
+        {
+            "item": "minecraft:arrow"
+        }
+    ],
+    "result": {
+        "id": "nomansland:incendiary_arrow",
+        "count": 8
+    }
+}

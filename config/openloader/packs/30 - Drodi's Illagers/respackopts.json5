@@ -1,0 +1,15 @@
+{
+    id: "drodiIllagers",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+        pillagerModel: true,
+	vindicatorModel: true,
+	evokerModel: true,
+	evokerFangsModel: true,
+	vexModel: true,
+	ravagerModel: true,
+	witchModel: true,
+	illusionerModel: true
+    }
+}

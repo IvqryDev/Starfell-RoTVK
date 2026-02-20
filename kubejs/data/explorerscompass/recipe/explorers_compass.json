@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:smithing_transform",
+    "template": {
+        "item": "valcon:compass_casting_mold"
+    },
+    "base": {
+        "item": "minecraft:compass"
+    },
+    "addition": {
+        "item": "minecraft:gold_ingot"
+    },
+    "result": {
+        "id": "explorerscompass:explorerscompass"
+    }
+}

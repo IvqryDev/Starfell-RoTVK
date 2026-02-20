@@ -1,0 +1,3 @@
+execute store success score #dragon_alive boss_music_mod.ender_dragon if entity @e[type=ender_dragon,limit=1]
+execute if score #dragon_alive boss_music_mod.ender_dragon matches 1 as @a[predicate=boss_music_mod:end_island] at @s run function boss_music_mod:ender_dragon_play
+execute as @a[scores={boss_music_mod.ender_dragon=1..},predicate=boss_music_mod:ender_dragon/stop_music] run function boss_music_mod:ender_dragon_stop

@@ -1,0 +1,50 @@
+1.0.0
+Release of the datapack
+
+1.0.1
+Wrong datapack description...
+
+1.0.2
+Resolved a bug where if you leave the horse by rightclicking something that moves the player too far, it breaks.
+
+1.1.0
+Now compatible with every vanilla horse-like creature! Horses (even dead ones), donkeys, mules, camels, ...
+
+1.2.0
+Fixed for 25w03a which brings compatibility with all entities ridables with saddles! (pigs, ...)
++ added versions for multiple MC versions compatibility
+
+1.2.1
+Didn't check if I didn't broke older versions by updating (broke older in the same time btw ::) love me)
+
+1.2.2
+* Minecraft updates have broken the background of the advancements list.
+
+1.2.3
+* Updated for 1.21.9+ new pack.mcmeta formats
+* Renamed from "Horse Stay Still" to "Mounts Stay Still"
+
+1.2.4
+- Made the loading message appear only if you have the tag "convention.debug"
+- Moved the datapack's advancements icons to the community's convention tab.
+- Reworked overlays (now that I understand them properly...)
+- Fixed some issues I introduced when renaming the datapack
+
+-----------------------------------------------------------------------------------
+
+## BONUS
++ compatibility with Happy Ghast!
+# add:
+
+        ,
+		{
+		  "directory": "v80-1.21.6",
+		  "formats": [80, 81],
+		  "min_format": 80,
+		  "max_format": 9999
+		}
+
+to the overlays of the pack.mcmeta
+
+!!! THIS FEATURE DOES NOT WORK AS INTENDED AND MAY CAUSE SOME TROUBLE.
+Your ghast can be stuck in the air if you leave it up in there or be permanently immobilized forever when you uninstall the datapack.

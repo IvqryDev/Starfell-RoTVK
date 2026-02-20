@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"5": "item/soul_rocker/projectile_5",
+		"particle": "item/soul_rocker/projectile_0"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#5"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#5"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#5"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -6, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}

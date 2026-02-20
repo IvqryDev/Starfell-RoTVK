@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "III",
+        "iii"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:flint"
+        },
+        "I": {
+            "item": "minecraft:iron_nugget"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "id": "nomansland:spike_trap",
+        "count": 6
+    }
+}

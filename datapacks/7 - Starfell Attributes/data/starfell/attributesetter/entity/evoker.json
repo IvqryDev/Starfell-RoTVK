@@ -1,0 +1,9 @@
+{
+  "minecraft:evoker": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 110,
+      "operation": "BASE"
+    }
+  ]
+}

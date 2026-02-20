@@ -1,0 +1,32 @@
+{
+  "recipe_modifications": [
+    {
+      "action": "remove",
+      "filter": {
+        "id": [
+          "farmersdelight:wheat_dough_from_water",
+          "minecraft:exposed_copper_bulb",
+          "minecraft:weathered_copper_bulb",
+          "minecraft:oxidized_copper_bulb",
+          "minecraft:waxed_copper_bulb",
+          "minecraft:waxed_exposed_copper_bulb",
+          "minecraft:waxed_weathered_copper_bulb",
+          "minecraft:waxed_oxidized_copper_bulb",
+          "endermanoverhaul:ender_eye",
+          "vanillabackport:bundle",
+          "mynethersdelight:crafting/tnt_alt",
+          "vanillabackport:cake",
+          "minecraft:cake",
+          "pigsteel:blasting/iron_nugget_from_blasting_pigsteel_chunk",
+          "pigsteel:smelting/iron_nugget_from_smelting_pigsteel_chunk",
+          "skill_tree_rpgs:orb_of_oblivion",
+          "anvil:repairing/tool/skill_tree_rpgs/orb_of_oblivion",
+          "crafting:repairing/skill_tree_rpgs/orb_of_oblivion",
+          "skill_trees_rpgs:orb_of_oblivion",
+          "minecraft:dried_ghast",
+          "minecraft:painting"
+        ]
+      }
+    }
+  ]
+}

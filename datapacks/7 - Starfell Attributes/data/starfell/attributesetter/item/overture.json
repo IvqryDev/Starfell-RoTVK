@@ -1,0 +1,9 @@
+{
+  "block_factorys_bosses:frozen_fist": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 6,
+      "operation": "BASE"
+    }
+  ]
+}

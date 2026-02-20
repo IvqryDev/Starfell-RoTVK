@@ -1,0 +1,35 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_use",
+      "total": 12,
+      "item": "heart:crystals_heart_crystal",
+      "display": {
+        "icon": {
+          "item": "heart:crystals_heart_crystal"
+        },
+        "name": "Max out your vitality bar."
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:experience",
+      "experience": 10,
+      "display": {
+        "icon": {
+          "item": "minecraft:experience_bottle"
+        },
+        "name": "10x Soul Levels"
+      }
+    }
+  ],
+  "display": {
+    "title": "Perfect Vitals",
+    "description": "Max out your vitality bar at 20 hearts.\n\nHeart crystals can be found underground and drop shards. Combine nine shards together to get permanent upgrade to your vitality bar, maxing out at 20 hearts.",
+    "icon": {
+      "item": "heart:crystals_heart_crystal"
+    }
+  }
+}
