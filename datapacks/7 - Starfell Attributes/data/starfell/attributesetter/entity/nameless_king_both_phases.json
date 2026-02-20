@@ -1,0 +1,9 @@
+{
+  "block_factorys_bosses:underworld_knight": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 170,
+      "operation": "BASE"
+    }
+  ]
+}
