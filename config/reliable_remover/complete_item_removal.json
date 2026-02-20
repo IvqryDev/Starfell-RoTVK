@@ -564,7 +564,10 @@
             "cookscollection:fish_and_chips",
             "cookscollection:fried_potato",
             "cookscollection:lemon_muffin",
-            "minecraft:lingering_potion"
+            "minecraft:lingering_potion",
+            "minecraft:short_dry_grass",
+            "minecraft:tall_dry_grass",
+            "paladins:wooden_great_hammer"
         ]
     }
 ]

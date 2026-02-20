@@ -7,6 +7,8 @@
     "block_factorys_bosses:underwold_wall_torch": "minecraft:air",
     "cookscollection:lemon_leaves": "minecraft:oak_leaves",
     "cookscollection:fruiting_lemon_leaves": "minecraft:oak_leaves",
-    "cookscollection:lemon_log": "minecraft:oak_log"
+    "cookscollection:lemon_log": "minecraft:oak_log",
+    "minecraft:tall_dry_grass": "nomansland:tall_beachgrass",
+    "minecraft:short_dry_grass": "nomansland:short_beachgrass"
   }
 }
