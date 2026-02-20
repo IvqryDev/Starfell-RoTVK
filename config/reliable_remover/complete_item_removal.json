@@ -563,7 +563,8 @@
             "cookscollection:lemonade",
             "cookscollection:fish_and_chips",
             "cookscollection:fried_potato",
-            "cookscollection:lemon_muffin"
+            "cookscollection:lemon_muffin",
+            "minecraft:lingering_potion"
         ]
     }
 ]
