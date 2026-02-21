@@ -6,7 +6,7 @@ alternative_swing_animation = true
 special_base_attribute_modifiers = false
 #Show a shield indicator similar to the attack indicator when actively blocking.
 #Default Value: true
-shield_indicator = true
+shield_indicator = false
 #Items that will not be rendered as being held in first person when placed in the offhand.
 #Default Value: [minecraft:totem_of_undying]
 hidden_offhand_items = [""]
