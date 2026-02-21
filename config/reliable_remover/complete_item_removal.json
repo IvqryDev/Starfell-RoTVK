@@ -567,7 +567,8 @@
             "minecraft:lingering_potion",
             "minecraft:short_dry_grass",
             "minecraft:tall_dry_grass",
-            "paladins:wooden_great_hammer"
+            "paladins:wooden_great_hammer",
+            "overweight_farming:melon_juice"
         ]
     }
 ]
