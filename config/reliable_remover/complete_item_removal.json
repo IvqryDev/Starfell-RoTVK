@@ -568,7 +568,10 @@
             "minecraft:short_dry_grass",
             "minecraft:tall_dry_grass",
             "paladins:wooden_great_hammer",
-            "overweight_farming:melon_juice"
+            "overweight_farming:melon_juice",
+            "waystones:return_scroll",
+            "waystones:blank_scroll",
+            "waystones:warp_scroll"
         ]
     }
 ]

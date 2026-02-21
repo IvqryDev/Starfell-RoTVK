@@ -186,5 +186,6 @@
   "enchantment.minecraft.swift_sneak": "Rogue",
   "item.minecraft.glowstone_dust": "Glowstone Shard",
   "attribute.name.generic.max_health": "Maximum Vitality",
-  "item.minecraft.nether_star": "Evenstar"
+  "item.minecraft.nether_star": "Evenstar",
+  "block.minecraft.ladder": "Ladder"
 }

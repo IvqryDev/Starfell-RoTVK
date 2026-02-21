@@ -172,8 +172,8 @@
   "selectWorld.gameMode.hardcore": "Apocalypse+",
   "selectWorld.gameMode.survival": "Classic",
   "selectWorld.gameMode.creative.info": "For the artists. Create, build, and explore without limits. You can fly, have endless materials, and can't be hurt by monsters.",
-  "selectWorld.gameMode.survival.info": "The intented Starfell experience. Explore an ancient world and conquer the Harbingers of shadow.",
-  "selectWorld.gameMode.hardcore.info": "Only for the worthy. Classic mode on Apocalypse difficulty. One life, one chance.",
+  "selectWorld.gameMode.survival.info": "The intented Starfell experience. Explore an ancient world and defeat Umbrocron and the four shardbearers.",
+  "selectWorld.gameMode.hardcore.info": "Only for the worthy. Classic mode locked Apocalypse difficulty. One life, one chance.",
   "options.difficulty.hard.info": "Only for the experienced. Monsters spawn frequently equipped with gear and deal devastating damage.",
   "options.difficulty.normal.info": "The intended Starfell experience. Monsters spawn and deal normal damage.",
   "options.difficulty.easy.info": "The beginner experience. Monsters spawn and deal miniscule damage.",
@@ -186,5 +186,6 @@
   "enchantment.minecraft.swift_sneak": "Rogue",
   "item.minecraft.glowstone_dust": "Glowstone Shard",
   "attribute.name.generic.max_health": "Maximum Vitality",
-  "item.minecraft.nether_star": "Evenstar"
+  "item.minecraft.nether_star": "Evenstar",
+  "block.minecraft.ladder": "Ladder"
 }
