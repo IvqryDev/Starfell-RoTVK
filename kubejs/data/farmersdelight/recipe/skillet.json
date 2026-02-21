@@ -1,19 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " iI",
-        " Ii",
-        "B  "
+        " II",
+        " II",
+        "C  "
     ],
     "key": {
-        "i": {
+        "I": {
             "item": "minecraft:iron_ingot"
         },
-        "I": {
-            "item": "create:iron_sheet"
-        },
-        "B": {
-            "item": "minecraft:brick"
+        "C": {
+            "item": "minecraft:copper_ingot"
         }
     },
     "result": {
