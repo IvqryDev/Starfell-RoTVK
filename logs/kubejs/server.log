@@ -1,0 +1,8 @@
+[21:37:51] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[21:37:51] [INIT] Loaded plugins:
+[21:37:51] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[21:37:51] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[21:37:51] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[21:37:51] [INFO] Loaded script server_scripts:spawner_events.js in 0.006 s
+[21:37:51] [INFO] Loaded 1/1 KubeJS server scripts in 0.022 s with 0 errors and 0 warnings
+[21:37:59] [INFO] Server resource reload complete!

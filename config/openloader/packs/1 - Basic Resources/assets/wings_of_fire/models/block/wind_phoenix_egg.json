@@ -1,9 +1,0 @@
-{
-  "parent": "wings_of_fire:custom/windphoenixegg",
-  "textures": {
-    "all": "wings_of_fire:block/windpheonixegg",
-    "particle": "wings_of_fire:block/windpheonixeggbreak",
-    "2": "wings_of_fire:block/windpheonixegg"
-  },
-  "render_type": "solid"
-}

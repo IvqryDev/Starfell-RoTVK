@@ -4,7 +4,7 @@
 	"render_type": "minecraft:cutout",
 	"textures": {
 		"0": "heart_crystals:block/heart_lantern",
-		"particle": "#0"
+		"particle": "heart_crystals:block/heart_crystal"
 	},
 	"elements": [
 		{

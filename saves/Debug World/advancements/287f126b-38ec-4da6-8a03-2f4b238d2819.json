@@ -1,0 +1,178 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2026-02-19 21:49:25 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-02-19 21:49:25 -0600"
+    },
+    "done": true
+  },
+  "rpg_series:misc_items": {
+    "criteria": {
+      "always": "2026-02-19 21:49:25 -0600"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2026-02-19 21:49:25 -0600"
+    },
+    "done": true
+  },
+  "sozoka:me": {
+    "criteria": {
+      "Install a datapack made by SozoKa": "2026-02-19 21:49:25 -0600"
+    },
+    "done": true
+  },
+  "mountsstaystill:dpsystem/icon": {
+    "criteria": {
+      "Install \"Mounts Stay Still!\" datapack": "2026-02-19 21:49:25 -0600"
+    },
+    "done": true
+  },
+  "vanilla_refresh:first_join": {
+    "criteria": {
+      "s": "2026-02-19 21:49:25 -0600"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-02-19 21:49:28 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-02-19 21:49:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2026-02-20 01:05:51 -0600",
+      "clifftree:sparse_forest": "2026-02-20 02:19:43 -0600",
+      "minecraft:ocean": "2026-02-20 13:36:59 -0600",
+      "minecraft:lukewarm_ocean": "2026-02-20 01:50:43 -0600",
+      "minecraft:river": "2026-02-20 02:19:13 -0600",
+      "minecraft:plains": "2026-02-19 21:49:29 -0600"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2026-02-19 21:49:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-02-19 21:49:53 -0600",
+      "minecraft:nether_wastes": "2026-02-19 22:03:02 -0600",
+      "minecraft:soul_sand_valley": "2026-02-19 21:50:05 -0600",
+      "minecraft:basalt_deltas": "2026-02-19 22:03:20 -0600",
+      "minecraft:warped_forest": "2026-02-20 01:51:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-02-19 21:49:53 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-02-19 21:49:53 -0600"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:kill_underworld_knight": {
+    "criteria": {
+      "kill": "2026-02-19 21:54:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-02-19 21:54:10 -0600"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:kill_all_bosses": {
+    "criteria": {
+      "kill_knight": "2026-02-19 21:54:10 -0600"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2026-02-19 22:00:14 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2026-02-20 01:05:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2026-02-20 13:31:18 -0600",
+      "minecraft:cave_spider": "2026-02-20 01:08:03 -0600",
+      "minecraft:skeleton": "2026-02-20 01:59:58 -0600",
+      "minecraft:witch": "2026-02-20 01:07:59 -0600",
+      "minecraft:zombie": "2026-02-20 01:07:52 -0600"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2026-02-20 01:07:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-02-20 01:08:44 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-02-20 01:13:40 -0600"
+    },
+    "done": true
+  },
+  "block_factorys_bosses:die_boss": {
+    "criteria": {
+      "die_to_boss": "2026-02-20 01:52:46 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-02-20 02:26:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2026-02-20 13:31:18 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-02-20 13:32:23 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

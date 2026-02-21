@@ -1,9 +1,0 @@
-{
-  "parent": "wings_of_fire:custom/braziersimmer",
-  "textures": {
-    "all": "wings_of_fire:block/cradlesimmer",
-    "particle": "wings_of_fire:block/cradlebreak",
-    "2": "wings_of_fire:block/cradlesimmer"
-  },
-  "render_type": "cutout_mipped"
-}

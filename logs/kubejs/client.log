@@ -1,0 +1,6 @@
+[21:50:14] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[21:50:14] [INIT] Loaded plugins:
+[21:50:14] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[21:50:14] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[21:50:14] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[21:50:14] [INFO] Loaded 0/0 KubeJS client scripts in 0.019 s with 0 errors and 0 warnings

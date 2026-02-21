@@ -1,7 +1,0 @@
-{
-  "parent": "wings_of_fire:custom/firephoenixlantern",
-  "textures": {
-    "0": "wings_of_fire:block/firephoenixlantern",
-    "particle": "wings_of_fire:item/firephoenixlantern"
-  }
-}

@@ -1,0 +1,50 @@
+/give IvqryDev minecraft:netherite_sword
+/gamemode creative
+/effect give IvqryDev minecraft:regeneration infinite 99
+/gamemode survival
+/gamemode creative
+/kill
+/reload
+/give IvqryDev quark:monster_box
+/reload
+/summon block_factorys_bosses:underworld_knight
+/tp IvqryDev 9999 ~ 9999
+/setblock ~ ~ ~ minecraft:obsidian
+/locate structure block_factorys_bosses:underworld_arena
+/tp @s 224 ~ -1376
+/effect give IvqryDev minecraft:resistance infinite
+/gamemode survival
+/effect give IvqryDev minecraft:resistance 9-infinite
+/gamemode creative
+/tp IvqryDev 9999 ~ 9999
+/locate structure block_factorys_bosses:underworld_arena
+/tp @s 224 ~ -1376
+/effect give IvqryDev minecraft:resistance infinite 99
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/rremover hand
+/rremover hotbar
+/reload
+/time set midnight
+/effect give IvqryDev minecraft:resistance infinite 99
+/gamemode survival
+/reload
+/accessories c
+/gamemode creative
+/gamemode survival
+/give IvqryDev minecraft:skeleton_spawn_egg 64
+/clear
+/gamemode creative
+/kill
+/kill @e[type=block_factorys_bosses:underworld_knight]
+/reload
+/effect clear
+/effect clear IvqryDev minecraft:invisibility
+/gamemode survival
+/gamemode creative
+/reload
+/gamemode survival
+/gamemode creative
+/kill @e[type=block_factorys_bosses:underworld_knight]

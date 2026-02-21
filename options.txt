@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:10
+renderDistance:11
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0

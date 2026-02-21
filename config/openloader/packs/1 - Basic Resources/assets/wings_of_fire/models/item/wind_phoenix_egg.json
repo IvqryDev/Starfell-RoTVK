@@ -1,7 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "wings_of_fire:item/winpheonixeggitem"
-  },
-  "render_type": "translucent"
-}

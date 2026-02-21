@@ -1,0 +1,11 @@
+[21:50:13] [INIT] KubeJS 2101.7.2-build.348; MC 2101 NeoForge
+[21:50:13] [INIT] Loaded plugins:
+[21:50:13] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSPlugin
+[21:50:13] [INIT] - dev.latvian.mods.kubejs.plugin.builtin.BuiltinKubeJSClientPlugin
+[21:50:13] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[21:50:14] [INFO] Loaded script startup_scripts:durability_tweaks.js in 0.07 s
+[21:50:14] [INFO] Loaded script startup_scripts:sound_registry.js in 0.003 s
+[21:50:14] [INFO] Loaded script startup_scripts:stack_tweaks.js in 0.003 s
+[21:50:14] [INFO] Loaded 3/3 KubeJS startup scripts in 1.223 s with 0 errors and 0 warnings
+[21:50:14] [INFO] Validated 86 files in kubejs/assets/ in 22ms
+[21:50:15] [INFO] Validated 1850 files in kubejs/data/ in 420ms
