@@ -80,11 +80,7 @@
     "minecraft:map",
     "minecraft:filled_map",
     "minecraft:empty_map",
-    "map_atlases:atlas",
-    "map_atlases:end_atlas",
-    "map_atlases:nether_atlas",
-    "naturescompass:naturescompass",
-    "antiqueatlas:antique_atlas"
+    "aa4-atlas:antique_atlas"
   ],
   "season_items": [
     "sereneseasons:calendar",
