@@ -571,7 +571,14 @@
             "overweight_farming:melon_juice",
             "waystones:return_scroll",
             "waystones:blank_scroll",
-            "waystones:warp_scroll"
+            "waystones:warp_scroll",
+            "nomansland:white_flowerbed",
+            "nomansland:violet_flowerbed",
+            "nomansland:blue_flowerbed",
+            "nomansland:yellow_flowerbed",
+            "nomansland:red_flowerbed",
+            "oreganized:purple_datura",
+            "oreganized:datura"
         ]
     }
 ]
