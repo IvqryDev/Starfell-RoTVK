@@ -600,7 +600,8 @@
             "supplementaries:netherite_door",
             "suppsquared:heavy_key",
             "supplementaries:key",
-            "supplementaries:safe"
+            "supplementaries:safe",
+            "takesapillage:music_disc_bastille_blues"
         ]
     }
 ]
