@@ -158,7 +158,6 @@
     "rpg_series:loot_tier/tier_0_weapons": [
       "archers:flint_spear",
       "paladins:stone_claymore",
-      "paladins:wooden_great_hammer",
       "paladins:stone_great_hammer",
       "paladins:acolyte_wand",
       "rogues:flint_dagger",
@@ -233,7 +232,6 @@
       "arsenal:unique_mace_1",
       "arsenal:unique_mace_2",
       "arsenal:unique_mace_sw",
-      "paladins:wooden_great_hammer",
       "paladins:stone_great_hammer",
       "paladins:iron_great_hammer",
       "paladins:golden_great_hammer",

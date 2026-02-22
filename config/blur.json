@@ -1,9 +1,18 @@
 {
-  "configVersion": 2,
+  "configVersion": 3,
   "blurContainers": true,
-  "fadeTimeMillis": 300,
-  "fadeOutTimeMillis": 300,
-  "animationCurve": "FLAT",
+  "blurBooks": true,
+  "blurSigns": true,
+  "blurCommandBlocks": true,
+  "blurTitleScreen": false,
+  "darkenTitleScreen": false,
+  "showScreenID": false,
+  "forceEnabledScreens": [
+    "dev.emi.emi.screen.RecipeScreen",
+    "mezz.jei.gui.recipes.RecipesGui",
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen"
+  ],
+  "forceDisabledScreens": [],
   "useGradient": true,
   "gradientStart": "#000000",
   "gradientStartAlpha": 75,
@@ -11,11 +20,8 @@
   "gradientEndAlpha": 75,
   "gradientRotation": 0,
   "rainbowMode": false,
-  "excludedScreens": [
-    "net.irisshaders.iris.gui.screen.ShaderPackScreen"
-  ],
-  "forceEnabledScreens": [
-    "dev.emi.emi.screen.RecipeScreen"
-  ],
-  "forceDisabledScreens": []
+  "fadeTimeMillis": 300,
+  "fadeOutTimeMillis": 300,
+  "blurAnimationCurve": "FLAT",
+  "backgroundAnimationCurve": "FLAT"
 }
