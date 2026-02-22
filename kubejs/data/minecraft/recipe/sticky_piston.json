@@ -1,5 +1,5 @@
 {
-  "type": "create:item_application",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:piston"
