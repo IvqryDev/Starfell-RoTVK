@@ -1,0 +1,8 @@
+[
+  {
+    "name": "after_grace_period",
+    "conditions": {
+      "mindaycount": 1
+    }
+  }
+]

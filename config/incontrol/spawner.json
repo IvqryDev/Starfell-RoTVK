@@ -1,0 +1,19 @@
+[
+  {
+    "phase": "after_grace_period",
+    "mobsfrombiome": "monster",
+    "persecond": 0.5,
+    "attempts": 20,
+    "amount": {
+      "minimum": 3,
+      "maximum": 6
+    },
+    "conditions": {
+      "dimension": [
+        "minecraft:overworld",
+        "minecraft:nether"
+      ],
+      "maxhostile": 200
+    }
+  }
+]
