@@ -8,9 +8,9 @@
   ],
   "objectives": [
     {
-      "type": "questlog:entity_kill",
+      "type": "questlog:item_obtain",
       "total": 1,
-      "entity": "block_factorys_bosses:underworld_knight",
+      "item": "valcon:shard_of_souls",
       "display": {
         "name": "Slay the Nameless King and obtain the shard of souls.",
         "icon": {

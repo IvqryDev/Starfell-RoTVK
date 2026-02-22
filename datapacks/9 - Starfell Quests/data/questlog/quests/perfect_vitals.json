@@ -4,7 +4,7 @@
     {
       "type": "questlog:item_use",
       "total": 12,
-      "item": "heart:crystals_heart_crystal",
+      "item": "heart_crystals:heart_crystal",
       "display": {
         "icon": {
           "item": "heart:crystals_heart_crystal"
@@ -29,7 +29,10 @@
     "title": "Perfect Vitals",
     "description": "Max out your vitality bar at 20 hearts.\n\nHeart crystals can be found underground and drop shards. Combine nine shards together to get permanent upgrade to your vitality bar, maxing out at 20 hearts.",
     "icon": {
-      "item": "heart:crystals_heart_crystal"
+      "item": "heart_crystals:heart_crystal"
+    },
+    "notification": {
+      "toastOnTrigger": false
     }
   }
 }

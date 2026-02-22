@@ -41,6 +41,9 @@
     "description": "Construct a mythril core out of diamonds, ghast tears, and sheer determination.\n\nYou've seen this before. These are what was in that lab that cartographer was talking about. It's even more fascinating up close. Who knows what this could be used for, with your calculations it could process the entirety of the pantheon's archives thirty times over in under a minute! It's self sufficient, incredibly powerful, and unimaginably sturdy, I wonder what ancient machinery this was used to power. Something great I would imagine...",
     "icon": {
       "item": "valcon:mythril_core"
+    },
+    "notification": {
+      "toastOnTrigger": false
     }
   }
 }

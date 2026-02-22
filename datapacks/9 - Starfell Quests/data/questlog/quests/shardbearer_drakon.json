@@ -8,9 +8,9 @@
   ],
   "objectives": [
     {
-      "type": "questlog:entity_kill",
+      "type": "questlog:item_obtain",
       "total": 1,
-      "entity": "block_factorys_bosses:infernal_dragon",
+      "item": "valcon:shard_of_wrath",
       "display": {
         "name": "Slay Drakon and obtain the shard of wrath.",
         "icon": {

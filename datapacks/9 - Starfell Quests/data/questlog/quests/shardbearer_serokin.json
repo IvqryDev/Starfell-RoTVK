@@ -8,9 +8,9 @@
   ],
   "objectives": [
     {
-      "type": "questlog:entity_kill",
+      "type": "questlog:item_obtain",
       "total": 1,
-      "entity": "minecraft:wither",
+      "item": "valcon:shard_of_sorrow",
       "display": {
         "name": "Bring peace to Serokin and obtain the shard of sorrow.",
         "icon": {
