@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LCL",
+    "LRL",
+    "LLL"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "C": {
+      "tag": "c:cobblestones"
+    },
+    "R": {
+      "item": "quark:smithing_template_rune"
+    }
+  },
+  "result": {
+    "id": "quark:smithing_template_rune",
+    "count": 2
+  }
+}
