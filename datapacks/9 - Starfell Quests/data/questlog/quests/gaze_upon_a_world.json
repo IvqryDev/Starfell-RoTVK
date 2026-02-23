@@ -1,0 +1,38 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:visit_dimension",
+      "total": 1,
+      "dimension": "minecraft:overworld",
+      "display": {
+        "name": "Start Your Journey.",
+        "icon": {
+          "item": "supplementaries:globe"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "supplementaries:flute",
+      "display": {
+        "name": "1x Beastmaster Flute",
+        "icon": {
+          "item": "supplementaries:flute"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Gaze Upon A World",
+    "description": "You are the Valcon Knight. You have one job; kill the shardbearers and slay the corrupted god of shadow, Umbrocron.\n\n\"Inside the strange bunker we found runic inscriptions, the other cartographers thought it was just a different mutation of our tongue, Xatrac, but I realized there were no symbols in common with our variation. It's fascinating! But I can't help but wonder, what happened here? These damn lights keep flickering in the distant halls. No one has been here in years, decades, or I am not a scholar of of this world. I have copied down these symbols in my second journal. It's strange... These walls are made out of a pure metal I have never seen before, nothing can dent nor scratch it. The others have moved on, mapping this place will be fun!\"\n\n- Unnamed Cartographer",
+    "icon": {
+      "item": "supplementaries:globe"
+    },
+    "notification": {
+      "toastOnTrigger": false
+    }
+  }
+}

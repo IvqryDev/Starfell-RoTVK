@@ -1,0 +1,8 @@
+{
+ "values": [
+  {
+   "id": "revault:load",
+   "required": false
+  }
+ ]
+}

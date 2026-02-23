@@ -1,0 +1,15 @@
+{
+  "quests": [
+    "questlog:quests/gaze_upon_a_world",
+    "questlog:quests/shardbearer_tharnok",
+    "questlog:quests/shardbearer_nameless_king",
+    "questlog:quests/shardbearer_drakon",
+    "questlog:quests/shardbearer_serokin",
+    "questlog:quests/verison_the_vanquisher",
+    "questlog:quests/verul_the_redeemer",
+    "questlog:quests/varkon_the_champion",
+    "questlog:quests/verocon_the_conqueror",
+    "questlog:quests/just_getting_started",
+    "questlog:quests/finality_the_dark_dragon"
+  ]
+}

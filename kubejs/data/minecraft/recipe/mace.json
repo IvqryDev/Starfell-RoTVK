@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "accept_mirrored": true,
+  "key": {
+    "H": {
+      "item": "minecraft:heavy_core"
+    },
+    "B": {
+      "item": "minecraft:breeze_rod"
+    },
+    "S": {
+      "item": "valcon:ashen_steel_ingot"
+    }
+  },
+  "pattern": [
+    "SHS",
+    " S ",
+    " B ",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:mace"
+  }
+}

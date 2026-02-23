@@ -1,0 +1,8 @@
+You found a bug or need help with something?
+Join my Discord server and head over to the bug reporting channel!
+
+    - Make sure you have the necessary mods (usually EMF & ETF) and the latest versions of those mods.
+    - Please check if the bug is actually caused by my resource pack. You can do this by removing all other resource packs except mine to see if that resolves the issue.
+
+Discord server link : 
+https://discord.gg/uKFmfG3s2B

@@ -1,0 +1,67 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+       
+         {
+          "type": "item",
+          "weight": 65,
+          "name": "minecraft:ominous_trial_key",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            },
+            {
+              "function": "set_components",
+              "components": {
+                "minecraft:custom_model_data": 6768
+              }
+            },
+            {
+              "function": "set_name",
+              "name": [
+                {
+                  "text": "Dragon Key"
+                }
+              ],
+              "target": "item_name"
+            }
+          ]
+        },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:golden_apple",
+          "weight": 47,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+         {
+          "type": "minecraft:item",
+          "name": "minecraft:enchanted_golden_apple",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "min": 1,
+                "max": 1
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

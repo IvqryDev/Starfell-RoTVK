@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 2
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minersdelight:bat_wing"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "minecraft:entities/bat"
+}

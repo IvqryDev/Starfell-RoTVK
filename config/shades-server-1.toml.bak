@@ -1,0 +1,10 @@
+#If enabled, instead of a new shade replacing the old, Shades will not disappear until slain.
+allowMultipleShades = true
+#If enabled, when a shade is replaced with a new shade (the player.json dies before killing their shade), the items are dropped at the location of the old shade instead of getting permanently destroyed.
+dropItemsFromReplacedShade = true
+#If enabled, the 'owner', a.k.a. whoever died, are the only thing that can damage their shade. If disabled, anything and anyone can damage a shade.
+onlyOwnerCanDamageShade = true
+#If enabled, shades will be enabled in peaceful mode.
+spawnShadesInPeaceful = false
+#If enabled, Shades will display who it belongs to above its head.
+showShadeOwnerNames = false

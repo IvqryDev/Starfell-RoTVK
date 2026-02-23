@@ -1,0 +1,24 @@
+{
+  "swapper": {
+    "minecraft:jukebox": "etched:album_jukebox",
+
+    "block_factorys_bosses:rusty_prison_door": "minecraft:air",
+    "block_factorys_bosses:prison_door": "minecraft:air",
+    "block_factorys_bosses:wall_torch": "minecraft:air",
+    "block_factorys_bosses:underwold_wall_torch": "minecraft:air",
+
+    "cookscollection:lemon_leaves": "minecraft:oak_leaves",
+    "cookscollection:fruiting_lemon_leaves": "minecraft:oak_leaves",
+    "cookscollection:lemon_log": "minecraft:oak_log",
+
+    "minecraft:tall_dry_grass": "nomansland:tall_beachgrass",
+    "minecraft:short_dry_grass": "nomansland:short_beachgrass",
+    "nomansland:white_flowerbed": "minecraft:short_grass",
+    "nomansland:violet_flowerbed": "minecraft:short_grass",
+    "nomansland:blue_flowerbed": "minecraft:short_grass",
+    "nomansland:yellow_flowerbed": "minecraft:short_grass",
+    "nomansland:red_flowerbed": "minecraft:short_grass",
+    "oreganized:purple_datura": "nomansland:thistle",
+    "oreganized:datura": "nomansland:wild_mint"
+  }
+}

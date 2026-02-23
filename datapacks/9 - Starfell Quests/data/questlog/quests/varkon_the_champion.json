@@ -1,0 +1,38 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "armory_rpgs:champion_upgrade_crystal",
+      "display": {
+        "name": "Obtain the Champions lost crystal.",
+        "icon": {
+          "item": "armory_rpgs:champion_upgrade_crystal"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:rib_armor_trim_smithing_template",
+      "display": {
+        "name": "1x Rib Armor Trim",
+        "icon": {
+          "item": "minecraft:rib_armor_trim_smithing_template"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Varkon The Champion",
+    "description": "Verul The Redeemer, fourth of the six Valcons, left behind this jewel for those he deems worthy. This crystal grants the ability to unlock the devastating strength of the savager and legionnaire.\n\n- ??? to the Valcon Knight",
+    "icon": {
+      "item": "armory_rpgs:champion_upgrade_crystal"
+    },
+    "notification": {
+      "toastOnTrigger": false
+    }
+  }
+}

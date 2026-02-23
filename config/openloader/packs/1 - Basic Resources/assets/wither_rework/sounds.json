@@ -1,0 +1,10 @@
+{
+  "soul_string.note.f_major": {
+    "sounds": [
+      "wither_rework:soul_string_f_major"]
+  },
+  "music.wither_theme": {
+    "sounds": [
+      "wither_rework:wither_theme"]
+  }
+}

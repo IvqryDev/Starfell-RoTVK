@@ -1,0 +1,36 @@
+{
+
+  "enhancedcelestials.name.blood_moon": "Crimson Moons",
+  "enhancedcelestials.name.blue_moon": "Cerulean Moons",
+  "enhancedcelestials.name.harvest_moon": "Amber Moons",
+  "enhancedcelestials.name.moon": "Moons",
+  "enhancedcelestials.name.super_blood_moon": "Super Crimson Moons",
+  "enhancedcelestials.name.super_blue_moon": "Super Cerulean Moons",
+  "enhancedcelestials.name.super_harvest_moon": "Super Amber Moons",
+  "enhancedcelestials.name.super_moon": "False Moons",
+
+  "enhancedcelestials.notification.blood_moon.rise": "§4ERROR 71430 - CRIMSON MOONS PROJECT MALFUNCTION! WORLD STATUS: CORRUPT - PROCEED WITH CAUTION!",
+  "enhancedcelestials.notification.blood_moon.set": "§aRECALIBRATION COMPLETE! | CRIMSON MOONS PROJECT RESTORED! STATUS: CHARGING.",
+
+  "enhancedcelestials.notification.blue_moon.rise": "§4ERROR 1035 - CERULEAN MOONS PROJECT MALFUNCTION! WORLD STATUS: CORRUPT - PROCEED WITH CAUTION!",
+  "enhancedcelestials.notification.blue_moon.set": "§aRECALIBRATION COMPLETE! - CERULEAN MOONS PROJECT RESTORED! STATUS: CHARGING.",
+
+  "enhancedcelestials.notification.harvest_moon.rise": "§4ERROR 65095 - AMBER MOONS PROJECT MALFUNCTION! WORLD STATUS: CORRUPT - PROCEED WITH CAUTION!",
+  "enhancedcelestials.notification.harvest_moon.set": "§RECALIBRATION COMPLETE! - AMBER MOONS PROJECT RESTORED! STATUS: CHARGING.",
+
+
+
+  "enhancedcelestials.notification.super_blood_moon.rise": "§4ERROR 03417 - CRIMSON MOONS PROJECT MALFUNCTION! WORLD STATUS: OVERTHROWN - PROCEED WITH CAUTION!",
+  "enhancedcelestials.notification.super_blood_moon.set": "§aRECALIBRATION COMPLETE! - CRIMSON MOONS PROJECT RESTORED! STATUS: CHARGING.",
+
+  "enhancedcelestials.notification.super_blue_moon.rise": "§4ERROR 5301 - CERULEAN MOONS PROJECT MALFUNCTION! WORLD STATUS: OVERTHROWN - PROCEED WITH CAUTION!",
+  "enhancedcelestials.notification.super_blue_moon.set": "§aRECALIBRATION COMPLETE! - CERULEAN MOONS PROJECT RESTORED! STATUS: CHARGING.",
+
+  "enhancedcelestials.notification.super_harvest_moon.rise": "§4ERROR 59056 - AMBER MOONS PROJECT MALFUNCTION! WORLD STATUS: OVERTHROWN - PROCEED WITH CAUTION!",
+  "enhancedcelestials.notification.super_harvest_moon.set": "§aRECALIBRATION COMPLETE! - AMBER MOONS PROJECT RESTORED! STATUS: CHARGING.",
+
+  "enhancedcelestials.notification.super_moon.rise": "§4ERROR 71430 - FALSE MOONS PROJECT MALFUNCTION! WORLD STATUS: ON HOLD - PROCEED WITH CAUTION!",
+  "enhancedcelestials.notification.super_moon.set": "§aRECALIBRATION COMPLETE! - FALSE MOONS PROJECT RESTORED! STATUS: ACTIVE.",
+
+  "enhancedcelestials.sleep.fail": "You must not sleep. Not now."
+}

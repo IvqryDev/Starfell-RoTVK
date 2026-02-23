@@ -1,0 +1,11 @@
+{
+  "entity.minecraft.phantom": "Dark Raven",
+  "gamerule.doInsomnia": "Spawn Dark Raven",
+  "item.minecraft.phantom_membrane": "Dark Raven Feather",
+  "item.minecraft.phantom_spawn_egg": "Dark Raven Spawn Egg",
+  "subtitles.entity.phantom.bite": "Dark Raven bites",
+  "subtitles.entity.phantom.death": "Dark Raven dies",
+  "subtitles.entity.phantom.flap": "Dark Raven flaps",
+  "subtitles.entity.phantom.hurt": "Dark Raven hurts",
+  "subtitles.entity.phantom.swoop": "Dark Raven swoops"
+}

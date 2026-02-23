@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "tag": "minecraft:planks"
+    },
+    "i": {
+      "item": "minecraft:iron_nugget"
+    },
+    "o": {
+      "item": "create:iron_sheet"
+    }
+  },
+  "pattern": [
+    "ioi",
+    "oWo",
+    "ioi"
+  ],
+  "result": {
+	"count": 1,
+    "id": "minecraft:shield"
+  },
+  "show_notification": true
+}

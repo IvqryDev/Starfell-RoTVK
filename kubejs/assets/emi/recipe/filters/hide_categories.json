@@ -1,0 +1,31 @@
+{
+  "filters": [
+    {
+      "category": "minecraft:blasting"
+    },
+    {
+      "category": "minecraft:smoking"
+    },
+    {
+      "category": "emi:anvil_repairing"
+    },
+	{
+      "category": "emi:grinding"
+    },
+	{
+      "category": "emi:world_interaction"
+    },
+	{
+      "category": "miners_delight:cooking"
+    },
+	{
+      "category": "brewinandchewin:flaxen_cheese_ripening"
+    },
+	{
+      "category": "brewinandchewin:scarlet_cheese_ripening"
+    },
+	{
+      "category": "mynethersdelight:forgoting"
+    }
+  ]
+}

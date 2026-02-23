@@ -1,0 +1,107 @@
+{
+  "current_controller": "1d72d84f85f346592a006332246d9b90",
+  "controllers": {
+    "1d72d84f85f346592a006332246d9b90": {
+      "config": {
+        "controlify:input": {
+          "h_look_sensitivity": 0.90000004,
+          "v_look_sensitivity": 0.9,
+          "v_look_invert": false,
+          "virtual_mouse_sensitivity": 0.90000004,
+          "reduce_aiming_sensitivity": true,
+          "button_activation_threshold": 0.5,
+          "look_input_curve": "STANDARD",
+          "is_l_c_e": false,
+          "deadzones": {
+            "controlify:right_stick": 0.08,
+            "controlify:left_stick": 0.09675415
+          },
+          "deadzones_calibrated": true,
+          "delayed_calibration": false,
+          "mixed_input": false,
+          "keep_default_bindings": false,
+          "radial_actions": [
+            "controlify:take_screenshot",
+            "controlify:toggle_debug_menu",
+            "fabric-key-binding-api-v1:supplementaries.keybind.quiver",
+            "fabric-key-binding-api-v1:iris.keybind.toggleshaders",
+            "fabric-key-binding-api-v1:key.antique_atlas.open",
+            "controlify:open_chat",
+            "fabric-key-binding-api-v1:key.puffish_skills.open",
+            "controlify:swap_hands"
+          ],
+          "radial_button_focus_timeout_ticks": 20,
+          "mapping": null,
+          "bindings": {
+            "controlify:sneak": {
+              "button": "controlify:button/east"
+            },
+            "controlify:change_perspective": {
+              "button": "controlify:button/dpad_up"
+            },
+            "controlify:swap_hands": {},
+            "controlify:pick_block": {},
+            "controlify:open_chat": {},
+            "controlify:radial_menu": {
+              "button": "controlify:button/back"
+            },
+            "fabric-key-binding-api-v1:key.puffish_skills.open": {
+              "button": "controlify:button/dpad_down"
+            },
+            "fabric-key-binding-api-v1:keybinds.combat_roll.roll": {
+              "button": "controlify:button/west"
+            },
+            "fabric-key-binding-api-v1:key.ponder.ponder": {
+              "button": "controlify:button/dpad_up"
+            },
+            "fabric-key-binding-api-v1:key.spyglass-improvements.use": {
+              "button": "controlify:button/dpad_right"
+            }
+          }
+        },
+        "controlify:config/generic": {
+          "nickname": "Controller",
+          "auto_jump": false,
+          "toggle_sprint": true,
+          "toggle_sneak": true,
+          "disable_fly_drifting": false,
+          "guide_verbosity": "FULL",
+          "show_ingame_guide": true,
+          "ingame_guide_bottom": false,
+          "show_screen_guides": false,
+          "show_on_screen_keyboard": true,
+          "dont_show_controller_submission": false,
+          "hint_keyboard_cursor": true,
+          "hint_keyboard_command_suggester": true,
+          "hint_keyboard_sign_line": true
+        },
+        "controlify:rumble": {
+          "enabled": true,
+          "vibration_strengths": {
+            "controlify:gui": 1.0,
+            "controlify:interaction": 1.0,
+            "controlify:player": 1.0,
+            "controlify:master": 1.0,
+            "controlify:world": 1.0
+          }
+        }
+      }
+    }
+  },
+  "global": {
+    "virtual_mouse_screens": [
+      "net.minecraft.client.gui.screens.inventory.AbstractContainerScreen"
+    ],
+    "keyboardMovement": false,
+    "keyboard_movement_whitelist": [],
+    "out_of_focus_input": false,
+    "vibration_onboarded": false,
+    "reach_around": "OFF",
+    "allow_server_rumble": true,
+    "extra_ui_sounds": true,
+    "notify_low_battery": true,
+    "ingame_button_guide_scale": 1.0,
+    "use_enhanced_steam_deck_driver": true,
+    "seen_servers": []
+  }
+}

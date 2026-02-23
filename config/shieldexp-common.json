@@ -1,0 +1,22 @@
+{
+  "shieldList": [
+    "shieldexp:iron_shield",
+    "shieldexp:netherite_shield",
+    "shieldexp:diamond_shield",
+    "block_factorys_bosses:ice_gauntlet"
+  ],
+  "shieldBlacklist": [],
+  "stashingCooldown": true,
+  "generalCooldown": true,
+  "speedModification": true,
+  "advancedExplosions": false,
+  "lenientParry": false,
+  "lenientStamina": false,
+  "tooltips": true,
+  "tooltipCooldown": true,
+  "tooltipStamina": false,
+  "tooltipSpeed": false,
+  "tooltipParryDamage": true,
+  "tooltipParryWindow": false,
+  "tooltipBlastResistance": false
+}

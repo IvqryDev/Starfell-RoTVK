@@ -1,0 +1,9 @@
+{
+  "minecraft:ravager": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 150,
+      "operation": "BASE"
+    }
+  ]
+}

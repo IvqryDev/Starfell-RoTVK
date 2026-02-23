@@ -1,0 +1,35 @@
+{
+  "minecraft:wolf_armor": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 25,
+      "operation": "BASE"
+    }
+  ],
+  "minecraft:diamond_horse_armor": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 25,
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor_toughness",
+      "value": 5,
+      "operation": "BASE"
+    }
+  ],
+  "minecraft:iron_horse_armor": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 20,
+      "operation": "BASE"
+    }
+  ],
+  "minecraft:golden_horse_armor": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 15,
+      "operation": "BASE"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 45],
+	"texture": "textures/entity/illager/iceologer_ice.png",
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [-5, -11, 5],
+			"submodels": [
+				{
+					"id": "ice1",
+					"invertAxis": "xy",
+					"translate": [5, 11, -5],
+					"boxes": [
+						{"coordinates": [-13, 39, -3, 16, 16, 16], "textureOffset": [0, 0]}
+					]
+				}
+			]
+		},
+		{
+			"part": "lower_jaw",
+			"id": "lower_jaw",
+			"invertAxis": "xy",
+			"translate": [-1.5, -26, 4],
+			"submodels": [
+				{
+					"id": "lower_jaw_rotation",
+					"invertAxis": "xy",
+					"translate": [-0.5, 19, 0],
+					"rotate": [-180, 0, 0]
+				}
+			],
+			"animations": [
+				{
+					"lower_jaw_rotation.rx": "0"
+				}
+			]
+		},
+		{
+			"part": "upper_jaw",
+			"id": "upper_jaw",
+			"invertAxis": "xy",
+			"translate": [-2.5, -26, 4],
+			"submodels": [
+				{
+					"id": "upper_jaw_rotation",
+					"invertAxis": "xy",
+					"translate": [0.5, 19, 0],
+					"rotate": [-180, -180, 0]
+				}
+			],
+			"animations": [
+				{
+					"upper_jaw_rotation.rx": "0",
+					"upper_jaw_rotation.ry": "0"
+				}
+			]
+		}
+	]
+}

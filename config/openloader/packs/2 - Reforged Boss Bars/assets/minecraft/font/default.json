@@ -1,0 +1,15 @@
+{
+    "providers": [
+
+	{ "type": "bitmap",
+            "file": "minecraft:font/enderdragon.png",
+            "ascent": 9, "height": 32,
+            "chars": ["\uE804"]
+        },
+	{ "type": "bitmap",
+            "file": "minecraft:font/wither.png",
+            "ascent": 9, "height": 39,
+            "chars": ["\uE805"]
+        }
+    ]
+}

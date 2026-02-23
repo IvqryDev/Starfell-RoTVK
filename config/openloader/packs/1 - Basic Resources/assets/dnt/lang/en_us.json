@@ -1,0 +1,13 @@
+{
+    "enchantment.dnt.gravity": "Gravity",
+    "enchantment.dnt.gravity.desc": "Shoot arrows that pull all entities towards it",
+    "enchantment.dnt.traveler": "Traveler",
+    "enchantment.dnt.traveler.desc": "Increases running speed and allows you to run up full blocks.",
+    "enchantment.dnt.wither_coated": "Sorrow",
+    "enchantment.dnt.wither_coated.desc": "Apply wither at the cost of more durability",
+    "enchantment.dnt.power": "Might",
+    "enchantment.dnt.power.desc": "Increases the damage of arrows and bolts fired from ranged weapons",
+    "enchantment.dnt.piercing": "Blowthrough",
+    "enchantment.dnt.multishot": "Marksman",
+    "enchantment.dnt.multishot.desc": "Allows you to fire a second arrow for the price of one."
+}

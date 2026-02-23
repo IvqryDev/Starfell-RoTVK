@@ -1,0 +1,36 @@
+You can give your wolf any name in any language, but to change its skin,
+add next to the name the skin number from the list, for example:
+Charlie (D001); *A012* Harry; Sandy G001
+
+RENAMES:
+
+Items
+
+Pelmen (bread cooked_porkchop cooked_beef cooked_chicken cooked_rabbit cooked_mutton) - *pelmen*
+
+Regular wolves
+
+Gray wolf - *A001*
+Orange and white wolf - *A002*
+Gray and beige wolf - *A003*
+Black and white wolf - *A004*
+Light brown and white wolf - *A005*
+Black orange and white wolf - *A006*
+Golden wolf - *A007*
+Dark gray wolf - *A008*
+Fire wolf - *A009*
+Ice wolf - *A010*
+Beige and black wolf - *A011*
+White wolf - *A012*
+
+Big cats:
+
+Tiger - *B001*
+Leopard - *B002*
+Caracal - *B003*
+Snow leopard - *B004*
+
+Dogs:
+
+White Brook's dog - *Umka*
+Tamereq's dog - *Ares*

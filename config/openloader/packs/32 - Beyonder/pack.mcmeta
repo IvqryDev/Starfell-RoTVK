@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"pack_format": 20,
+    	"min_format": 20,
+    	"max_format": 32767,
+		"supported_formats": {
+			"min_inclusive": 20,
+			"max_inclusive": 32767
+		},
+		"description": "Revamps for End-related things!"
+	}
+}

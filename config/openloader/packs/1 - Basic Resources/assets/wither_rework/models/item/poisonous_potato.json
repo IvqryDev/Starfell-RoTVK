@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/poisonous_potato"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "wither_rework:weapon/soul_rocker"
+		}
+	}
+}

@@ -1,0 +1,61 @@
+  Please don't give polar foxes the names of raccoons, red pandas, 
+dragons and other foxes with modified models,
+otherwise their model will be broken (to fix, use the names of normal foxes)
+  You can give your fox any name in any language, but to change its skin,
+add next to the name the skin number from the list, for example:
+  Charlie (D001); *A012* Harry; Sandy G001
+
+RENAMES:
+
+Regular foxes
+
+Red fox - *A001*
+Yellow fox - *A002*
+Orange fox - *A003*
+Orange and white fox - *A004*
+Gray fox - *A005*
+Silver fox - *A006*
+White fox - *A007*
+Golden fox - *A008*
+Cross fox - *A009*
+Cream fox - *A010*
+Gray and white fox - *A011*
+Siam fox - *A012*
+Clover fox - *A013*
+light brown fox - *A014*
+Brown and orange fox - *A015*
+Black and white fox - *A016*
+Yellow and white - *A017*
+
+Raccoons
+
+Gray raccoon - *B001*
+Gold raccoon - *B002*
+Tanuki - *B003*
+Gray and orange - *B004*
+
+Red pandas
+
+Red panda - *C001*
+Marten - *C002*
+Small panda - *C003*
+
+Dragons
+
+Black dragon - *D001*
+white and red dragon - *D002*
+Blue shark - *D003*
+
+Capybara
+
+Brown capybara - *E001*
+
+Fennec
+
+Sandy fennec - *G001*
+Brown fennec - *G002*
+
+Polar foxes
+
+Spirit - *W001*
+Blue and white - *W002*

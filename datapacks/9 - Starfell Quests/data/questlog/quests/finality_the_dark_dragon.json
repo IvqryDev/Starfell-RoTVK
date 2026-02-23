@@ -1,0 +1,42 @@
+{
+  "triggers": [
+    {
+      "type": "questlog:quest_complete",
+      "total": 1,
+      "quest": "questlog:quests/shardbearer_serokin"
+    }
+  ],
+  "objectives": [
+    {
+      "type": "questlog:entity_kill",
+      "total": 1,
+      "entity": "minecraft:ender_dragon",
+      "display": {
+        "name": "Slay Umbrocron, the Eternal Tyrant of Shadow and fulfil your purpose.",
+        "icon": {
+          "item": "minecraft:dragon_skull"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:end_crystal",
+      "count": 4,
+      "display": {
+        "name": "4x Shadow Crystals - Try the fight again!",
+        "icon": {
+          "item": "minecraft:end_crystal"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Finality: The Dark Dragon",
+    "description": "\"Through desolation's toll, horror churns in thundering storms;\nCorrupted god now roars it's last, umbral shadow cast.\"\n\n\"The priests would tell stories of your ventures for years to come, but it would not last. The Valcons would retract from this world. The would become uninvolved with their work as gods. Like all things are, you will be forgotten. No one to tell your story to the children in the market. No historian to record your adventures. No artist to paint your feelings. No one at all...\"\n\n\"But that's just a hypothetical isn't it? Just because they don't know of your deeds doesn't mean they aren't grateful for you, doesn't mean you didn't bring hope back to this world, doesn't mean you don't exist. That's a total lie! You saved your people, you did that, you. Whatever, I don't mean to bring the mood down. Tonight is for you, and your work is finally finished.\"\n\n- ??? to the Valcon Knight\n\n",
+    "icon": {
+      "item": "minecraft:dragon_head"
+    }
+  }
+}

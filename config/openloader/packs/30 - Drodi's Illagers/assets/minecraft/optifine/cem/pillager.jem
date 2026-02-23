@@ -1,0 +1,831 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [16, 16],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"animations": [
+				{
+					"captain_torso.visible": "nbt(equipment.head.id,\"minecraft:white_banner\")",
+					"captain_head.visible": "nbt(equipment.head.id,\"minecraft:white_banner\")",
+					"captain_right_arm.visible": "nbt(equipment.head.id,\"minecraft:white_banner\")",
+					"captain_left_arm.visible": "nbt(equipment.head.id,\"minecraft:white_banner\")",
+					"captain_left_leg.visible": "nbt(equipment.head.id,\"minecraft:white_banner\")",
+					"captain_right_leg.visible": "nbt(equipment.head.id,\"minecraft:white_banner\")"
+				},
+				{
+					"torso.visible": "!nbt(equipment.head.id,\"minecraft:white_banner\")",
+					"head2.visible": "!nbt(equipment.head.id,\"minecraft:white_banner\")",
+					"right_arm2.visible": "!nbt(equipment.head.id,\"minecraft:white_banner\")",
+					"left_arm2.visible": "!nbt(equipment.head.id,\"minecraft:white_banner\")"
+				},
+				{
+					"global_head.rx": "head.rx",
+					"global_head.ry": "head.ry",
+					"global_head.rz": "head.rz",
+					"head.ty": "+ 200"
+				},
+				{
+					"captain_left_arm.rz": "left_arm.rz",
+					"captain_left_arm.rx": "left_arm.rx",
+					"captain_left_arm.ry": "left_arm.ry - 20"
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"texture": "textures/entity/illager/drodi_pillager.png",
+			"textureSize": [128, 64],
+			"submodels": [
+				{
+					"id": "torso",
+					"invertAxis": "xy",
+					"translate": [0, 24, 0],
+					"boxes": [
+						{"coordinates": [-4, -12, -3, 8, 12, 6], "textureOffset": [0, 18]},
+						{
+							"coordinates": [-4, -19.8, -3, 8, 20, 6],
+							"uvNorth": [6, 42, 14, 62],
+							"uvEast": [0, 42, 6, 62],
+							"uvSouth": [20, 42, 28, 62],
+							"uvWest": [14, 42, 20, 62],
+							"uvUp": [14, 42, 6, 36],
+							"uvDown": [0, 0, 0, 0],
+							"sizeAdd": 0.5
+						}
+					],
+					"submodels": [
+						{
+							"id": "equipement",
+							"invertAxis": "xy",
+							"translate": [0, -11.5, -0.25],
+							"submodels": [
+								{
+									"id": "backpack",
+									"invertAxis": "xy",
+									"translate": [0, -11.3, 6.55],
+									"boxes": [
+										{"coordinates": [-5, 11, -3, 10, 12, 6], "textureOffset": [96, 46]},
+										{
+											"coordinates": [-5, 11, 3, 10, 4, 3],
+											"uvNorth": [0, 0, 0, 0],
+											"uvEast": [102, 33, 105, 37],
+											"uvSouth": [118, 33, 128, 37],
+											"uvWest": [115, 33, 118, 37],
+											"uvUp": [0, 0, 0, 0],
+											"uvDown": [125, 30, 115, 33]
+										},
+										{"coordinates": [-7, 15, 3, 14, 4, 4], "textureOffset": [92, 37]},
+										{
+											"coordinates": [-7, 7, 7, 14, 8, 0],
+											"uvNorth": [0, 0, 0, 0],
+											"uvEast": [0, 0, 0, 0],
+											"uvSouth": [82, 33, 96, 41],
+											"uvWest": [0, 0, 0, 0],
+											"uvUp": [0, 0, 0, 0],
+											"uvDown": [0, 0, 0, 0]
+										}
+									]
+								},
+								{
+									"id": "spyglass",
+									"invertAxis": "xy",
+									"translate": [-5.75, -2.25, -2],
+									"rotate": [179.8273, -24.89837, -5.51385],
+									"boxes": [
+										{"coordinates": [-1, -5, -1, 2, 10, 2], "textureOffset": [80, 52]},
+										{"coordinates": [-1.5, -5, -1.5, 3, 10, 3], "textureOffset": [68, 51]}
+									]
+								},
+								{
+									"id": "lantern",
+									"invertAxis": "xy",
+									"translate": [5.25, 1.5, -3],
+									"rotate": [0.88045, 9.96156, 5.07673],
+									"boxes": [
+										{"coordinates": [-2, -7, -2, 4, 6, 4], "textureOffset": [36, 54], "sizeAdd": 0.5},
+										{
+											"coordinates": [-1, -0.5, -1, 2, 2, 2],
+											"uvNorth": [50, 56, 52, 58],
+											"uvEast": [48, 56, 50, 58],
+											"uvSouth": [54, 56, 56, 58],
+											"uvWest": [52, 56, 54, 58],
+											"uvUp": [52, 56, 50, 54],
+											"uvDown": [0, 0, 0, 0]
+										},
+										{"coordinates": [-2, -7, -2, 4, 6, 4], "textureOffset": [52, 54]}
+									]
+								},
+								{
+									"id": "quiver",
+									"invertAxis": "xy",
+									"mirrorTexture": "u",
+									"translate": [1, 6.5, 6.25],
+									"rotate": [0, -90, 50],
+									"submodels": [
+										{
+											"id": "quiver_rot",
+											"invertAxis": "xy",
+											"translate": [-0.7762, 0.61826, 0.90147],
+											"rotate": [-90, 0, 90],
+											"boxes": [
+												{"coordinates": [-2.5, -7, -2, 5, 14, 4], "textureOffset": [110, 0]},
+												{
+													"coordinates": [-2.5, -7, -2, 5, 14, 4],
+													"uvNorth": [96, 4, 101, 18],
+													"uvEast": [92, 4, 96, 18],
+													"uvSouth": [105, 4, 110, 18],
+													"uvWest": [101, 4, 105, 18],
+													"uvUp": [101, 4, 96, 0],
+													"sizeAdd": 0.25
+												}
+											],
+											"submodels": [
+												{
+													"id": "arrow_top",
+													"invertAxis": "xy",
+													"translate": [-1, -1, -2.5],
+													"boxes": [
+														{
+															"coordinates": [0.5, 8, 2, 3, 6, 0],
+															"uvNorth": [125, 19, 128, 25]
+														}
+													],
+													"submodels": [
+														{
+															"id": "arrow_top_rot",
+															"invertAxis": "xy",
+															"translate": [2, 10.5, 2],
+															"rotate": [0, 90, 0],
+															"boxes": [
+																{
+																	"coordinates": [-1.5, -2.5, 0, 3, 6, 0],
+																	"uvNorth": [125, 19, 128, 25]
+																}
+															]
+														}
+													]
+												},
+												{
+													"id": "arrow_bottom",
+													"invertAxis": "xy",
+													"translate": [-3, -2, -1.5],
+													"boxes": [
+														{
+															"coordinates": [0.5, 8, 2, 3, 6, 0],
+															"uvNorth": [125, 19, 128, 25]
+														}
+													],
+													"submodels": [
+														{
+															"id": "arrow_bottom_rot",
+															"invertAxis": "xy",
+															"translate": [2, 10.5, 2],
+															"rotate": [0, 90, 0],
+															"boxes": [
+																{
+																	"coordinates": [-1.5, -2.5, 0, 3, 6, 0],
+																	"uvNorth": [125, 19, 128, 25]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "captain_torso",
+					"invertAxis": "xy",
+					"translate": [0, 24, 0],
+					"texture": "textures/entity/illager/drodi_pillager_scar.png",
+					"boxes": [
+						{"coordinates": [-4, -12, -3, 8, 12, 6], "textureOffset": [0, 18]},
+						{
+							"coordinates": [-4, -19.8, -3, 8, 20, 6],
+							"uvNorth": [6, 42, 14, 62],
+							"uvEast": [0, 42, 6, 62],
+							"uvSouth": [20, 42, 28, 62],
+							"uvWest": [14, 42, 20, 62],
+							"uvUp": [14, 42, 6, 36],
+							"uvDown": [0, 0, 0, 0],
+							"sizeAdd": 0.5
+						}
+					],
+					"submodels": [
+						{
+							"id": "potion",
+							"invertAxis": "xy",
+							"translate": [5.5, -8, -2],
+							"rotate": [2.9148, -22.84535, 5.40612],
+							"boxes": [
+								{"coordinates": [-1.5, -5, -1.5, 3, 3, 3], "textureOffset": [116, 29]},
+								{
+									"coordinates": [-2.5, -6, -2.5, 5, 5, 5],
+									"uvNorth": [123, 41, 128, 46],
+									"uvEast": [128, 41, 123, 46],
+									"uvSouth": [123, 41, 128, 46],
+									"uvWest": [128, 41, 123, 46],
+									"uvUp": [128, 41, 123, 46],
+									"uvDown": [128, 46, 123, 41]
+								},
+								{
+									"coordinates": [-1.5, -2, -1.5, 3, 3, 3],
+									"uvNorth": [122, 38, 125, 41],
+									"uvEast": [125, 38, 122, 41],
+									"uvSouth": [125, 29, 122, 32],
+									"uvWest": [125, 38, 128, 41],
+									"uvUp": [125, 38, 122, 35],
+									"uvDown": [128, 38, 125, 35]
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "global_head",
+					"invertAxis": "xy",
+					"translate": [0, 24, 0],
+					"boxes": [
+						{"coordinates": [-1, -1, -6, 2, 4, 2], "textureOffset": [24, 0]}
+					],
+					"submodels": [
+						{
+							"id": "head2",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"boxes": [
+								{"coordinates": [-4, 0, -4, 8, 10, 8], "textureOffset": [0, 0]}
+							],
+							"submodels": [
+								{
+									"id": "hat2",
+									"invertAxis": "xy",
+									"translate": [0, -24, 0],
+									"boxes": [
+										{
+											"coordinates": [-4, 24, -4, 8, 10, 8],
+											"uvNorth": [40, 8, 48, 18],
+											"uvEast": [32, 8, 40, 18],
+											"uvSouth": [56, 8, 64, 18],
+											"uvWest": [48, 8, 56, 18],
+											"uvUp": [48, 8, 40, 0],
+											"uvDown": [0, 0, 0, 0],
+											"sizeAdd": 0.5
+										}
+									],
+									"submodels": [
+										{
+											"id": "hat_flat",
+											"invertAxis": "xy",
+											"translate": [0, 31.025, 0],
+											"rotate": [90, 0, 0],
+											"boxes": [
+												{
+													"coordinates": [-6, -8, -1.075, 12, 16, 2],
+													"uvNorth": [0, 0, 0, 0],
+													"uvEast": [78, 2, 80, 18],
+													"uvSouth": [0, 0, 0, 0],
+													"uvWest": [64, 2, 66, 18],
+													"uvUp": [0, 0, 0, 0],
+													"uvDown": [0, 0, 0, 0]
+												}
+											],
+											"submodels": [
+												{
+													"id": "head_sub_2",
+													"invertAxis": "xy",
+													"mirrorTexture": "u",
+													"translate": [0, 0, 0],
+													"boxes": [
+														{
+															"coordinates": [-6, -8, 0.925, 12, 16, 0],
+															"uvNorth": [78, 2, 66, 18],
+															"uvEast": [0, 0, 0, 0],
+															"uvSouth": [0, 0, 0, 0],
+															"uvWest": [0, 0, 0, 0],
+															"uvUp": [0, 0, 0, 0],
+															"uvDown": [0, 0, 0, 0]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						},
+						{
+							"id": "captain_head",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"texture": "textures/entity/illager/drodi_pillager_scar.png",
+							"boxes": [
+								{"coordinates": [-4, 0, -4, 8, 10, 8], "textureOffset": [0, 0]},
+								{
+									"coordinates": [-4, 0, -4, 8, 10, 8],
+									"uvNorth": [40, 8, 48, 18],
+									"uvEast": [32, 8, 40, 18],
+									"uvSouth": [56, 8, 64, 18],
+									"uvWest": [48, 8, 56, 18],
+									"uvUp": [48, 8, 40, 0],
+									"uvDown": [0, 0, 0, 0],
+									"sizeAdd": 0.5
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "captain_left_arm",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [-5, 22, 0],
+					"texture": "textures/entity/illager/drodi_pillager_scar.png",
+					"boxes": [
+						{"coordinates": [-3, -10, -2, 4, 12, 4], "textureOffset": [28, 20]}
+					],
+					"submodels": [
+						{
+							"id": "left_sleeve2",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [5, -22, 0],
+							"boxes": [
+								{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [44, 20], "sizeAdd": 0.5}
+							]
+						},
+						{
+							"id": "bone2",
+							"invertAxis": "xy",
+							"translate": [-1.5, -8.5, 17],
+							"rotate": [-12.54624, -4.88119, -11.41518],
+							"submodels": [
+								{
+									"id": "illager_spear",
+									"invertAxis": "xy",
+									"translate": [0, 2, 0],
+									"rotate": [-90, 35, -90],
+									"texture": "textures/entity/illager/illager_spear.png",
+									"boxes": [
+										{
+											"coordinates": [22, 26, -1, 3, 3, 1],
+											"uvNorth": [78, 17, 75, 20],
+											"uvEast": [77, 17, 78, 20],
+											"uvSouth": [75, 17, 78, 20],
+											"uvWest": [75, 17, 76, 20],
+											"uvUp": [75, 17, 78, 18],
+											"uvDown": [75, 19, 78, 20]
+										},
+										{
+											"coordinates": [20, 20, -1, 2, 8, 1],
+											"uvNorth": [75, 18, 73, 26],
+											"uvEast": [74, 18, 75, 26],
+											"uvSouth": [73, 18, 75, 26],
+											"uvWest": [73, 18, 74, 26],
+											"uvUp": [73, 18, 75, 19],
+											"uvDown": [73, 25, 75, 26]
+										},
+										{
+											"coordinates": [18, 21, -1, 2, 6, 1],
+											"uvNorth": [73, 19, 71, 25],
+											"uvEast": [72, 19, 73, 25],
+											"uvSouth": [71, 19, 73, 25],
+											"uvWest": [71, 19, 72, 25],
+											"uvUp": [71, 19, 73, 20],
+											"uvDown": [71, 24, 73, 25]
+										},
+										{
+											"coordinates": [16, 24, -1, 2, 2, 1],
+											"uvNorth": [71, 20, 69, 22],
+											"uvEast": [70, 20, 71, 22],
+											"uvSouth": [69, 20, 71, 22],
+											"uvWest": [69, 20, 70, 22],
+											"uvUp": [69, 20, 71, 21],
+											"uvDown": [69, 21, 71, 22]
+										},
+										{
+											"coordinates": [22, 24, -1, 2, 2, 1],
+											"uvNorth": [77, 20, 75, 22],
+											"uvEast": [76, 20, 77, 22],
+											"uvSouth": [75, 20, 77, 22],
+											"uvWest": [75, 20, 76, 22],
+											"uvUp": [75, 20, 77, 21],
+											"uvDown": [75, 21, 77, 22]
+										},
+										{
+											"coordinates": [17, 2, -1, 1, 22, 1],
+											"uvNorth": [71, 22, 70, 44],
+											"uvEast": [70, 22, 71, 44],
+											"uvSouth": [70, 22, 71, 44],
+											"uvWest": [70, 22, 71, 44],
+											"uvUp": [70, 22, 71, 23],
+											"uvDown": [70, 43, 71, 44]
+										},
+										{
+											"coordinates": [22, 22, -1, 1, 2, 1],
+											"uvNorth": [76, 22, 75, 24],
+											"uvEast": [75, 22, 76, 24],
+											"uvSouth": [75, 22, 76, 24],
+											"uvWest": [75, 22, 76, 24],
+											"uvUp": [75, 22, 76, 23],
+											"uvDown": [75, 23, 76, 24]
+										},
+										{
+											"coordinates": [16, 2, -1, 1, 20, 1],
+											"uvNorth": [70, 24, 69, 44],
+											"uvEast": [69, 24, 70, 44],
+											"uvSouth": [69, 24, 70, 44],
+											"uvWest": [69, 24, 70, 44],
+											"uvUp": [69, 24, 70, 25],
+											"uvDown": [69, 43, 70, 44]
+										},
+										{
+											"coordinates": [15, 1, -1, 1, 20, 1],
+											"uvNorth": [69, 25, 68, 45],
+											"uvEast": [68, 25, 69, 45],
+											"uvSouth": [68, 25, 69, 45],
+											"uvWest": [68, 25, 69, 45],
+											"uvUp": [68, 25, 69, 26],
+											"uvDown": [68, 44, 69, 45]
+										},
+										{
+											"coordinates": [18, 11, -1, 1, 10, 1],
+											"uvNorth": [72, 25, 71, 35],
+											"uvEast": [71, 25, 72, 35],
+											"uvSouth": [71, 25, 72, 35],
+											"uvWest": [71, 25, 72, 35],
+											"uvUp": [71, 25, 72, 26],
+											"uvDown": [71, 34, 72, 35]
+										},
+										{
+											"coordinates": [14, 1, -1, 1, 19, 1],
+											"uvNorth": [68, 26, 67, 45],
+											"uvEast": [67, 26, 68, 45],
+											"uvSouth": [67, 26, 68, 45],
+											"uvWest": [67, 26, 68, 45],
+											"uvUp": [67, 26, 68, 27],
+											"uvDown": [67, 44, 68, 45]
+										},
+										{
+											"coordinates": [13, 1, -1, 1, 18, 1],
+											"uvNorth": [67, 27, 66, 45],
+											"uvEast": [66, 27, 67, 45],
+											"uvSouth": [66, 27, 67, 45],
+											"uvWest": [66, 27, 67, 45],
+											"uvUp": [66, 27, 67, 28],
+											"uvDown": [66, 44, 67, 45]
+										},
+										{
+											"coordinates": [12, 1, -1, 1, 17, 1],
+											"uvNorth": [66, 28, 65, 45],
+											"uvEast": [65, 28, 66, 45],
+											"uvSouth": [65, 28, 66, 45],
+											"uvWest": [65, 28, 66, 45],
+											"uvUp": [65, 28, 66, 29],
+											"uvDown": [65, 44, 66, 45]
+										},
+										{
+											"coordinates": [11, 14, -1, 1, 3, 1],
+											"uvNorth": [65, 29, 64, 32],
+											"uvEast": [64, 29, 65, 32],
+											"uvSouth": [64, 29, 65, 32],
+											"uvWest": [64, 29, 65, 32],
+											"uvUp": [64, 29, 65, 30],
+											"uvDown": [64, 31, 65, 32]
+										},
+										{
+											"coordinates": [10, 13, -1, 1, 3, 1],
+											"uvNorth": [64, 30, 63, 33],
+											"uvEast": [63, 30, 64, 33],
+											"uvSouth": [63, 30, 64, 33],
+											"uvWest": [63, 30, 64, 33],
+											"uvUp": [63, 30, 64, 31],
+											"uvDown": [63, 32, 64, 33]
+										},
+										{
+											"coordinates": [9, 12, -1, 1, 3, 1],
+											"uvNorth": [63, 31, 62, 34],
+											"uvEast": [62, 31, 63, 34],
+											"uvSouth": [62, 31, 63, 34],
+											"uvWest": [62, 31, 63, 34],
+											"uvUp": [62, 31, 63, 32],
+											"uvDown": [62, 33, 63, 34]
+										},
+										{
+											"coordinates": [8, 11, -1, 1, 3, 1],
+											"uvNorth": [62, 32, 61, 35],
+											"uvEast": [61, 32, 62, 35],
+											"uvSouth": [61, 32, 62, 35],
+											"uvWest": [61, 32, 62, 35],
+											"uvUp": [61, 32, 62, 33],
+											"uvDown": [61, 34, 62, 35]
+										},
+										{
+											"coordinates": [7, 10, -1, 1, 3, 1],
+											"uvNorth": [61, 33, 60, 36],
+											"uvEast": [60, 33, 61, 36],
+											"uvSouth": [60, 33, 61, 36],
+											"uvWest": [60, 33, 61, 36],
+											"uvUp": [60, 33, 61, 34],
+											"uvDown": [60, 35, 61, 36]
+										},
+										{
+											"coordinates": [6, 9, -1, 1, 3, 1],
+											"uvNorth": [60, 34, 59, 37],
+											"uvEast": [59, 34, 60, 37],
+											"uvSouth": [59, 34, 60, 37],
+											"uvWest": [59, 34, 60, 37],
+											"uvUp": [59, 34, 60, 35],
+											"uvDown": [59, 36, 60, 37]
+										},
+										{
+											"coordinates": [5, 8, -1, 1, 3, 1],
+											"uvNorth": [59, 35, 58, 38],
+											"uvEast": [58, 35, 59, 38],
+											"uvSouth": [58, 35, 59, 38],
+											"uvWest": [58, 35, 59, 38],
+											"uvUp": [58, 35, 59, 36],
+											"uvDown": [58, 37, 59, 38]
+										},
+										{
+											"coordinates": [4, 7, -1, 1, 3, 1],
+											"uvNorth": [58, 36, 57, 39],
+											"uvEast": [57, 36, 58, 39],
+											"uvSouth": [57, 36, 58, 39],
+											"uvWest": [57, 36, 58, 39],
+											"uvUp": [57, 36, 58, 37],
+											"uvDown": [57, 38, 58, 39]
+										},
+										{
+											"coordinates": [3, 6, -1, 1, 3, 1],
+											"uvNorth": [57, 37, 56, 40],
+											"uvEast": [56, 37, 57, 40],
+											"uvSouth": [56, 37, 57, 40],
+											"uvWest": [56, 37, 57, 40],
+											"uvUp": [56, 37, 57, 38],
+											"uvDown": [56, 39, 57, 40]
+										},
+										{
+											"coordinates": [2, 5, -1, 1, 3, 1],
+											"uvNorth": [56, 38, 55, 41],
+											"uvEast": [55, 38, 56, 41],
+											"uvSouth": [55, 38, 56, 41],
+											"uvWest": [55, 38, 56, 41],
+											"uvUp": [55, 38, 56, 39],
+											"uvDown": [55, 40, 56, 41]
+										},
+										{
+											"coordinates": [11, 4, -1, 1, 4, 1],
+											"uvNorth": [65, 38, 64, 42],
+											"uvEast": [64, 38, 65, 42],
+											"uvSouth": [64, 38, 65, 42],
+											"uvWest": [64, 38, 65, 42],
+											"uvUp": [64, 38, 65, 39],
+											"uvDown": [64, 41, 65, 42]
+										},
+										{
+											"coordinates": [1, 4, -1, 1, 3, 1],
+											"uvNorth": [55, 39, 54, 42],
+											"uvEast": [54, 39, 55, 42],
+											"uvSouth": [54, 39, 55, 42],
+											"uvWest": [54, 39, 55, 42],
+											"uvUp": [54, 39, 55, 40],
+											"uvDown": [54, 41, 55, 42]
+										},
+										{
+											"coordinates": [0, 3, -1, 1, 3, 1],
+											"uvNorth": [54, 40, 53, 43],
+											"uvEast": [53, 40, 54, 43],
+											"uvSouth": [53, 40, 54, 43],
+											"uvWest": [53, 40, 54, 43],
+											"uvUp": [53, 40, 54, 41],
+											"uvDown": [53, 42, 54, 43]
+										},
+										{
+											"coordinates": [-1, 2, -1, 1, 3, 1],
+											"uvNorth": [53, 41, 52, 44],
+											"uvEast": [52, 41, 53, 44],
+											"uvSouth": [52, 41, 53, 44],
+											"uvWest": [52, 41, 53, 44],
+											"uvUp": [52, 41, 53, 42],
+											"uvDown": [52, 43, 53, 44]
+										},
+										{
+											"coordinates": [-2, 0, -1, 1, 4, 1],
+											"uvNorth": [52, 42, 51, 46],
+											"uvEast": [51, 42, 52, 46],
+											"uvSouth": [51, 42, 52, 46],
+											"uvWest": [51, 42, 52, 46],
+											"uvUp": [51, 42, 52, 43],
+											"uvDown": [51, 45, 52, 46]
+										},
+										{
+											"coordinates": [-4, 0, -1, 2, 3, 1],
+											"uvNorth": [51, 43, 49, 46],
+											"uvEast": [50, 43, 51, 46],
+											"uvSouth": [49, 43, 51, 46],
+											"uvWest": [49, 43, 50, 46],
+											"uvUp": [49, 43, 51, 44],
+											"uvDown": [49, 45, 51, 46]
+										}
+									],
+									"submodels": [
+										{
+											"id": "bone",
+											"invertAxis": "xy",
+											"translate": [0, 0, 0]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [5, -22, 0],
+			"texture": "textures/entity/illager/drodi_pillager.png",
+			"textureSize": [128, 64],
+			"submodels": [
+				{
+					"id": "left_arm2",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [-5, 22, 0],
+					"boxes": [
+						{"coordinates": [-3, -10, -2, 4, 12, 4], "textureOffset": [28, 20]}
+					],
+					"submodels": [
+						{
+							"id": "left_sleeve",
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"translate": [5, -22, 0],
+							"boxes": [
+								{"coordinates": [-8, 12, -2, 4, 12, 4], "textureOffset": [44, 20], "sizeAdd": 0.5}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-5, -22, 0],
+			"texture": "textures/entity/illager/drodi_pillager.png",
+			"textureSize": [128, 64],
+			"submodels": [
+				{
+					"id": "right_arm2",
+					"invertAxis": "xy",
+					"translate": [5, 22, 0],
+					"boxes": [
+						{"coordinates": [-1, -10, -2, 4, 12, 4], "textureOffset": [28, 20]}
+					],
+					"submodels": [
+						{
+							"id": "right_sleeve",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"boxes": [
+								{
+									"coordinates": [-1, -10, -2, 4, 12, 4],
+									"uvNorth": [48, 24, 52, 36],
+									"uvEast": [44, 24, 48, 36],
+									"uvSouth": [56, 24, 60, 36],
+									"uvWest": [52, 24, 56, 36],
+									"uvUp": [52, 24, 48, 20],
+									"uvDown": [0, 0, 0, 0],
+									"sizeAdd": 0.5
+								}
+							]
+						}
+					]
+				},
+				{
+					"id": "captain_right_arm",
+					"invertAxis": "xy",
+					"translate": [5, 22, 0],
+					"texture": "textures/entity/illager/drodi_pillager_scar.png",
+					"boxes": [
+						{"coordinates": [-1, -10, -2, 4, 12, 4], "textureOffset": [28, 20]}
+					],
+					"submodels": [
+						{
+							"id": "right_sleeve2",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"boxes": [
+								{
+									"coordinates": [-1, -10, -2, 4, 12, 4],
+									"uvNorth": [48, 24, 52, 36],
+									"uvEast": [44, 24, 48, 36],
+									"uvSouth": [56, 24, 60, 36],
+									"uvWest": [52, 24, 56, 36],
+									"uvUp": [52, 24, 48, 20],
+									"uvDown": [0, 0, 0, 0],
+									"sizeAdd": 0.5
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"mirrorTexture": "u",
+			"translate": [2, -12, 0],
+			"texture": "textures/entity/illager/drodi_pillager.png",
+			"textureSize": [128, 64],
+			"boxes": [
+				{"coordinates": [-4, 0, -2, 4, 12, 4], "textureOffset": [44, 36]},
+				{
+					"coordinates": [-3, 0, -1, 2, 4, 2],
+					"uvNorth": [36, 54, 34, 58],
+					"uvEast": [38, 54, 36, 58],
+					"uvSouth": [40, 54, 38, 58],
+					"uvWest": [34, 54, 32, 58],
+					"uvUp": [0, 0, 0, 0],
+					"uvDown": [36, 52, 38, 54]
+				},
+				{
+					"coordinates": [-4, 4, -2, 4, 0, 4],
+					"uvNorth": [0, 0, 0, 0],
+					"uvEast": [0, 0, 0, 0],
+					"uvSouth": [0, 0, 0, 0],
+					"uvWest": [0, 0, 0, 0],
+					"uvUp": [0, 0, 0, 0],
+					"uvDown": [32, 52, 28, 56]
+				}
+			],
+			"submodels": [
+				{
+					"id": "captain_left_leg",
+					"invertAxis": "xy",
+					"mirrorTexture": "u",
+					"translate": [-2, 12, 0],
+					"texture": "textures/entity/illager/drodi_pillager_scar.png",
+					"boxes": [
+						{"coordinates": [-2, -12, -2, 4, 12, 4], "textureOffset": [60, 36], "sizeAdd": 0.5}
+					]
+				}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-2, -12, 0],
+			"texture": "textures/entity/illager/drodi_pillager.png",
+			"textureSize": [128, 64],
+			"boxes": [
+				{"coordinates": [0, 0, -2, 4, 12, 4], "textureOffset": [28, 36]}
+			],
+			"submodels": [
+				{
+					"id": "captain_right_leg",
+					"invertAxis": "xy",
+					"translate": [2, 12, 0],
+					"texture": "textures/entity/illager/drodi_pillager_scar.png",
+					"boxes": [
+						{"coordinates": [-2, -12, -2, 4, 12, 4], "textureOffset": [60, 36], "sizeAdd": 0.5}
+					]
+				}
+			]
+		},
+		{
+			"part": "nose",
+			"id": "nose",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		},
+		{
+			"part": "hat",
+			"id": "hat",
+			"invertAxis": "xy",
+			"translate": [0, 0, 0]
+		}
+	]
+}

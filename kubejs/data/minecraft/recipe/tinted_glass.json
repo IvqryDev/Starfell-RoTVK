@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:amethyst_shard"
+        },
+        {
+            "item": "minecraft:glass"
+        },
+        {
+            "item": "minecraft:glass"
+        },
+        {
+            "item": "minecraft:glass"
+        },
+        {
+            "item": "minecraft:glass"
+        }
+    ],
+    "result": {
+        "id": "minecraft:tinted_glass",
+        "count": 4
+    }
+}

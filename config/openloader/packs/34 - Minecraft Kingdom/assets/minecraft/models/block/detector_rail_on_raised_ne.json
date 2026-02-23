@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/rail_raised_ne",
+  "textures": {
+    "1": "minecraft:block/rail_tilted_upper",
+    "2": "minecraft:block/detector_rail_on_tilted_under",
+    "particle": "minecraft:block/detector_rail_under"
+  }
+}

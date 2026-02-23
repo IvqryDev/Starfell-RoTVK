@@ -1,0 +1,39 @@
+{
+  "pack": {
+    
+        "min_format": 15,
+        "max_format": 9999,
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 9999
+    },
+    "description": [
+      {
+        "translate": "Adds a daycounter, displaying at the start of each day"
+      }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "min_format": 1,
+        "max_format": 9999,
+        "formats": {
+          "min_inclusive": 1,
+          "max_inclusive": 9999
+        },
+        "directory": "overlay-empty"
+      },
+      {
+        "min_format": 48,
+        "max_format": 9999,
+        "formats": {
+          "min_inclusive": 48,
+          "max_inclusive": 9999
+        },
+        "directory": "1.21-above"
+      }
+    ]
+  }
+}

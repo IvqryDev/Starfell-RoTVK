@@ -1,0 +1,213 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [-1, -7.5, 3],
+			"animations": [
+				{
+					"anti_body.rx": "-body.rx+if(tail.rx<-0.1, -11,0)+if(tail.rx<-0.1,cos(time/15)/15, 0)",
+					"anti_body.ry": "-body.ry+if(tail.rx<-0.1, -11,0)",
+					"anti_body.rz": "-body.rz+if(tail.rx<-0.1, -12.5,0)",
+					"anti_body.tx": "if(tail.rx<-0.1, -3,0)+if(tail.rx<-0.1&&is_child, 1.8, 0)"
+				},
+				{
+					"head2.rx": "head.rx+pi/2",
+					"head2.ry": "head.ry",
+					"head2.rz": "0",
+					"head2.tz": "if(is_sitting, 3.5, 0)+if(is_child, 0, 0)",
+					"head2.ty": "if(is_sitting, 2, 0)+if(is_child, -3, 0)+if(is_sitting&&is_child,3,0)+if(tail.rx<-0.1, -2,0)",
+					"head2.sx": "if(is_child, 1.6, 1)",
+					"head2.sy": "if(is_child, 1.6, 1)",
+					"head2.sz": "if(is_child, 1.6, 1)"
+				},
+				{
+					"body2.ty": "if(is_sitting, -4.5,-8)",
+					"lego3.tz": "if(is_sitting, -0.5,0)",
+					"lego4.tz": "if(is_sitting, -0.5,0)",
+					"lego3.ty": "if(is_sitting, -3,-3.5)",
+					"lego4.ty": "if(is_sitting, -3,-3.5)",
+					"lego1.tz": "if(is_sitting, 9,4)",
+					"lego2.tz": "if(is_sitting, 9,4)",
+					"tail2.tz": "if(is_sitting, 11,9)+if(tail.rx<-0.1, 1.5, 0)",
+					"tail2.tx": "if(tail.rx<-0.1, 0, 0)",
+					"tail2.ty": "if(is_sitting, -9,-10)+if(tail.rx<-0.1, 4, 0)",
+					"tail2.rx": "if(tail.rx<-0.1, 0.5, 0)",
+					"lego1.ty": "if(is_sitting, -2,-3.5)",
+					"lego2.ty": "if(is_sitting, -2,-3.5)",
+					"leg1.rx": "sin(limb_swing)*limb_speed/2+if(is_sitting,4.7,0)",
+					"leg2.rx": "-sin(limb_swing)*limb_speed/2+if(is_sitting,4.7,0)",
+					"leg3.rx": "-sin(limb_swing)*limb_speed/2",
+					"leg4.rx": "sin(limb_swing)*limb_speed/2"
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -8, 6],
+			"rotate": [-90, 0, 0],
+			"submodels": [
+				{
+					"id": "body2",
+					"invertAxis": "xy",
+					"translate": [0, 8, -6],
+					"boxes": [
+						{"coordinates": [-2.5, -12, -4.1, 5, 8, 4], "textureOffset": [0, 10]},
+						{"coordinates": [-2.5, -12, -5.1, 5, 8, 1], "textureOffset": [0, 22]}
+					]
+				},
+				{
+					"id": "anti_body",
+					"invertAxis": "xy",
+					"translate": [0, 4, -9],
+					"submodels": [
+						{
+							"id": "head2",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"submodels": [
+								{
+									"id": "bone2",
+									"invertAxis": "xy",
+									"translate": [4.16776, 2.6, 1.51525],
+									"rotate": [89.08581, 0.18057, 45.92387],
+									"boxes": [
+										{"coordinates": [0, -3, -2, 0, 5, 3], "textureOffset": [6, 28]}
+									]
+								},
+								{
+									"id": "bone4",
+									"invertAxis": "xy",
+									"translate": [2.1, 1.9, 5.3],
+									"rotate": [79.98604, 15.45293, -7.97912],
+									"boxes": [
+										{"coordinates": [-1.2, -3.1, -0.5, 4, 5, 1], "textureOffset": [26, 15]}
+									]
+								},
+								{
+									"id": "bone3",
+									"invertAxis": "xy",
+									"translate": [-2.1, 1.9, 5.3],
+									"rotate": [79.98604, -15.45293, 7.97912],
+									"boxes": [
+										{"coordinates": [-2.8, -3.1, -0.5, 4, 5, 1], "textureOffset": [22, 0]}
+									]
+								},
+								{
+									"id": "bone",
+									"invertAxis": "xy",
+									"translate": [-4.16776, 2.6, 1.51525],
+									"rotate": [89.08581, -0.18057, -45.92387],
+									"boxes": [
+										{"coordinates": [0, -3, -2, 0, 5, 3], "textureOffset": [0, 28]}
+									]
+								}
+							],
+							"boxes": [
+								{"coordinates": [-1.5, 4, -1.5, 3, 3, 2], "textureOffset": [30, 4]},
+								{"coordinates": [-3, 0, -1.6, 6, 5, 5], "textureOffset": [0, 0]}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-5, -6.5, -7],
+			"submodels": [
+				{
+					"id": "lego1",
+					"invertAxis": "xy",
+					"translate": [5, 3.5, 4],
+					"boxes": [
+						{"coordinates": [-4.599, -3.5, -0.9, 2, 5, 2], "textureOffset": [28, 30]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [-1, -6.5, -7],
+			"submodels": [
+				{
+					"id": "lego2",
+					"invertAxis": "xy",
+					"translate": [1, 3.5, 4],
+					"boxes": [
+						{"coordinates": [-3.401, -3.5, -0.9, 2, 5, 2], "textureOffset": [28, 23]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-5, -6.5, 0],
+			"submodels": [
+				{
+					"id": "lego3",
+					"invertAxis": "xy",
+					"translate": [4.9, 3.5, 0],
+					"boxes": [
+						{"coordinates": [-4.599, -3.5, -1.2, 2, 6, 2], "textureOffset": [20, 25]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [-1, -6.5, 0],
+			"submodels": [
+				{
+					"id": "lego4",
+					"invertAxis": "xy",
+					"translate": [1, 3.5, 0],
+					"boxes": [
+						{"coordinates": [-3.301, -3.5, -1.2, 2, 6, 2], "textureOffset": [12, 25]}
+					]
+				}
+			]
+		},
+		{
+			"part": "tail",
+			"id": "tail",
+			"invertAxis": "xy",
+			"translate": [-4, -7, -9],
+			"rotate": [-90, 0, 0],
+			"submodels": [
+				{
+					"id": "tail2",
+					"invertAxis": "xy",
+					"translate": [0, 10, 9],
+					"boxes": [
+						{"coordinates": [-2, -5, -3.2, 4, 5, 4], "textureOffset": [18, 6]},
+						{"coordinates": [-2, -8, -3.2, 4, 3, 4], "textureOffset": [14, 18]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		}
+	]
+}

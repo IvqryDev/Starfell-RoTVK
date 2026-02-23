@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "minecraft:polished_deepslate"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "DID",
+    "DDD"
+  ],
+  "result": {
+    "count": 4,
+    "id": "newworld:tombstone"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "GEG",
+        "PPP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:breeze_rod"
+        },
+        "G": {
+            "item": "minecraft:ghast_tear"
+        },
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        }
+    },
+    "result": {
+        "id": "endermanoverhaul:ancient_pearl",
+        "count": 1
+    }
+}

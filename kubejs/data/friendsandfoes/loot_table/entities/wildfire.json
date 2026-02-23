@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "friendsandfoes:wildfire_crown"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "skill_tree_rpgs:orb_of_oblivion"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "friendsandfoes:entities/wildfire"
+}

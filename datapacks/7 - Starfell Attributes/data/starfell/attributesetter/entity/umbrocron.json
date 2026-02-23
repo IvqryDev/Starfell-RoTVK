@@ -1,0 +1,9 @@
+{
+  "minecraft:ender_dragon": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 350,
+      "operation": "BASE"
+    }
+  ]
+}

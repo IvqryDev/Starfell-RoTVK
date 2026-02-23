@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:enchantable/weapon",
+    "#minecraft:enchantable/bow",
+    "#minecraft:enchantable/crossbow",
+    "#paladins:melee_weapons",
+    "#rogues:melee_weapons"
+  ]
+}

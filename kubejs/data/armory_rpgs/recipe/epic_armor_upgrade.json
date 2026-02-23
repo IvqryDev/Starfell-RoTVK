@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " d ",
+    "dtd",
+    " d "
+  ],
+  "key": {
+    "d": {
+      "item": "block_factorys_bosses:dragon_bone"
+    },
+    "t": {
+      "item": "armory_rpgs:epic_armor_upgrade"
+    }
+  },
+  "result": {
+    "id": "armory_rpgs:epic_armor_upgrade",
+    "count": 2
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "triggers": [],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "armory_rpgs:redeemer_upgrade_crystal",
+      "display": {
+        "name": "Obtain the Redeemer's lost crystal.",
+        "icon": {
+          "item": "armory_rpgs:redeemer_upgrade_crystal"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:flow_armor_trim_smithing_template",
+      "display": {
+        "icon": {
+          "item": "minecraft:flow_armor_trim_smithing_template"
+        },
+        "name": "1x Flow Armor Trim"
+      }
+    }
+  ],
+  "display": {
+    "title": "Verul The Redeemer",
+    "description": "Verul The Redeemer, third of the six Valcons, left behind this jewel for those she deems worthy. This crystal grants the ability to unlock the holy energy of the justicars and avatars.\n\n- ??? to the Valcon Knight",
+    "icon": {
+      "item": "armory_rpgs:redeemer_upgrade_crystal"
+    },
+    "notification": {
+      "toastOnTrigger": false
+    }
+  }
+}

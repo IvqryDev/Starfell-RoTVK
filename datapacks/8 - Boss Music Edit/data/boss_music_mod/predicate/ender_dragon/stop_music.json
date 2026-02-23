@@ -1,0 +1,24 @@
+{
+  "condition": "minecraft:any_of",
+  "terms": [
+    {
+      "condition": "minecraft:value_check",
+      "value": {
+        "type": "minecraft:score",
+        "target": {
+          "type": "minecraft:fixed",
+          "name": "#dragon_alive"
+        },
+        "score": "boss_music_mod.ender_dragon"
+      },
+      "range": 0
+    },
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:reference",
+        "name": "boss_music_mod:end_island"
+      }
+    }
+  ]
+}

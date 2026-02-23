@@ -1,0 +1,15 @@
+{
+  "creativetab.cookscollection.cookscollections_tab": "Cooks Collection",
+
+  "recipe.cookscollection.shapeless_baking": "Shapeless Forging",
+  "recipe.cookscollection.shaped_baking": "Shaped Forging",
+
+  "cookscollection.subtitles.oven.crackle": "Forge roars",
+  "cookscollection.subtitles.oven.open": "Forge crackers",
+  "cookscollection.subtitles.oven.close": "Forge sparks",
+
+  "block.cookscollection.oven": "Forge",
+
+  "container.cookscollection.oven.heated": "Heated!",
+  "container.cookscollection.oven.not_heated": "Requires a heat source from below..."
+}

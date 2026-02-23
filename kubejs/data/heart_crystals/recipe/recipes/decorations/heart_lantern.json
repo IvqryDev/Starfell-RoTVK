@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 3 ",
+    "121"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_nugget"
+    },
+    "2": {
+        "item": "heart_crystals:heart_crystal_shard"
+    },
+    "3": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "id": "heart_crystals:heart_lantern",
+    "count": 6
+  }
+}

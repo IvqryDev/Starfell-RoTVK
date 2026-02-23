@@ -1,0 +1,44 @@
+{
+  "triggers": [
+    {
+      "type": "questlog:quest_complete",
+      "total": 1,
+      "quest": "questlog:quests/gaze_upon_a_world"
+    }
+  ],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "valcon:shard_of_winter",
+      "display": {
+        "name": "Slay Tharnok and obtain the shard of winter.",
+        "icon": {
+          "item": "valcon:shard_of_winter"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "relics_rpgs:medium_proc_frost_power",
+      "display": {
+        "icon": {
+          "item": "relics_rpgs:medium_proc_frost_power"
+        },
+        "name": "1x Frost Orb"
+      }
+    }
+  ],
+  "display": {
+    "title": "Shardbearer: Tharnok",
+    "description": "\"Day 1 - I've met up with that one cartographer I told you about, he needed help translating some 'ancient text' but it was all weird ramblings about some king and this mysterious valuable. What a load of bullshit, no miner has ever seen something with those properties!\nDay 3 - There's been no sight nor sound of a bird for two days. The people of Eldbereth were so kind to me when I stumbled in there camp. I couldn't understand them perfectly, but they shared stories of these far off lands of amazing feats, they were able to harness the power of our moons. Hell, if only we had that kind of power.\nDay 7 - I've decided to move on through the blizzards in order to get home quicker, I don't want these lembas rations to run out.\nDay 11 - The blizzard should have stopped by now. What the fuck is going on? I fear I'm losing my way. These damn winds are getting on my nerves...\nDay 23 - Please... I'll do anything... Just promise me I'll get to go home...\"\n\n\"Are you certain? Very well. You will bear the shard of winter. You will stop at nothing to protect it, and slay those who seek it. And don't worry, you'll get home safe and sound. But I would urge you to be careful what you wish for...\"\n\n- ??? The Deceiver",
+    "icon": {
+      "item": "block_factorys_bosses:frozen_fist"
+    },
+    "notification": {
+      "toastOnTrigger": false
+    }
+  }
+}

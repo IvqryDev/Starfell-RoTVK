@@ -1,0 +1,9 @@
+{
+  "minecraft:elder_guardian": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 140,
+      "operation": "BASE"
+    }
+  ]
+}

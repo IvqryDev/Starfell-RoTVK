@@ -1,0 +1,44 @@
+{
+  "shieldexp:iron_shield": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 2,
+      "slot": "mainhand",
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 1,
+      "slot": "offhand",
+      "operation": "BASE"
+    }
+  ],
+  "shieldexp:diamond_shield": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 3,
+      "slot": "mainhand",
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 2,
+      "slot": "offhand",
+      "operation": "BASE"
+    }
+  ],
+  "shieldexp:netherite_shield": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 4,
+      "slot": "mainhand",
+      "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 2,
+      "slot": "offhand",
+      "operation": "BASE"
+    }
+  ]
+}

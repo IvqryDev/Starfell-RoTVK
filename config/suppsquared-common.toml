@@ -1,0 +1,5 @@
+[features]
+	#Enable plaques
+	plaques = false
+	#Enable lanterns
+	lanterns = true

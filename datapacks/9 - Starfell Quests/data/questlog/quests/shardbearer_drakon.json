@@ -1,0 +1,41 @@
+{
+  "triggers": [
+    {
+      "type": "questlog:quest_complete",
+      "total": 1,
+      "quest": "questlog:quests/shardbearer_nameless_king"
+    }
+  ],
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "total": 1,
+      "item": "valcon:shard_of_wrath",
+      "display": {
+        "name": "Slay Drakon and obtain the shard of wrath.",
+        "icon": {
+          "item": "valcon:shard_of_wrath"
+        }
+      }
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:loot_table",
+      "loot_table": "valcon:dragon_scales",
+      "display": {
+        "name": "1x Dragon Scale",
+        "icon": {
+          "item": "relics_rpgs:greater_proc_physical_trans"
+        }
+      }
+    }
+  ],
+  "display": {
+    "title": "Shardbearer: Drakon",
+    "description": "\"I have found two fitting individuals to bear keys to the abyssal seas. Two more remain. My old friend Varkon seems to have created a new life form; flying, infernal beasts. Imbecile. Their form is crude and their minds are fueled off of anger and malice. But I must thank him, a mindless creature is a perfect vessel for another shardbearer, and I think I know just the place. Dol'Naer was once a beacon reaching to the stars in days long since past, and now it shall be the birthplace of my dynasty. Welcome, Drakon, bearer of the shard of wrath.\"\n\n- Eternal Tyrant of Shadow",
+    "icon": {
+      "item": "block_factorys_bosses:dragon_skull"
+    }
+  }
+}

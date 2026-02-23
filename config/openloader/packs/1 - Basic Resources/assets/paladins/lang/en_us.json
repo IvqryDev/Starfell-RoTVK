@@ -1,0 +1,28 @@
+{
+  "item.paladins.paladin_armor_head": "Paladin Helm",
+  "item.paladins.paladin_armor_chest": "Paladin Breastplate",
+  "item.paladins.paladin_armor_legs": "Paladin Legplates",
+  "item.paladins.paladin_armor_feet": "Paladin Greaves",
+
+  "item.paladins.crusader_armor_head": "Crusader Helm",
+  "item.paladins.crusader_armor_chest": "Crusader Breastplate",
+  "item.paladins.crusader_armor_legs": "Crusader Legplates",
+  "item.paladins.crusader_armor_feet": "Crusader Greaves",
+
+  "item.paladins.netherite_crusader_armor_head": "Netherite Crusader Helm",
+  "item.paladins.netherite_crusader_armor_chest": "Netherite Crusader Breastplate",
+  "item.paladins.netherite_crusader_armor_legs": "Netherite Crusader Legplates",
+  "item.paladins.netherite_crusader_armor_feet": "Netherite Crusader Greaves",
+
+  "item.paladins.stone_claymore": "Stone Greatsword",
+  "item.paladins.iron_claymore": "Iron Greatsword",
+  "item.paladins.golden_claymore": "Golden Greatsword",
+  "item.paladins.diamond_claymore": "Diamond Greatsword",
+  "item.paladins.netherite_claymore": "Netherite Greatsword",
+
+  "item.paladins.stone_mace": "Stone Morningstar",
+  "item.paladins.iron_mace": "Iron Morningstar",
+  "item.paladins.golden_mace": "Golden Morningstar",
+  "item.paladins.diamond_mace": "Diamond Morningstar",
+  "item.paladins.netherite_mace": "Netherite Morningstar"
+}
