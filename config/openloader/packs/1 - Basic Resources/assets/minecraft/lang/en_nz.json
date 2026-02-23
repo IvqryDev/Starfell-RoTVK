@@ -30,7 +30,6 @@
   "item.minecraft.shield": "Iron Shield",
   "item.minecraft.enchanted_book": "Enchanted Tome",
   "item.minecraft.wooden_sword": "Training Sword",
-  "item.minecraft.stone_sword": "Stone Broadsword",
   "item.minecraft.iron_sword": "Iron Broadsword",
   "item.minecraft.golden_sword": "Golden Broadsword",
   "item.minecraft.diamond_sword": "Diamond Broadsword",
@@ -187,5 +186,10 @@
   "item.minecraft.glowstone_dust": "Glowstone Shard",
   "attribute.name.generic.max_health": "Maximum Vitality",
   "item.minecraft.nether_star": "Evenstar",
-  "block.minecraft.ladder": "Ladder"
+  "block.minecraft.ladder": "Ladder",
+  "item.minecraft.stone_axe": "Copper Axe",
+  "item.minecraft.stone_pickaxe": "Copper Pickaxe",
+  "item.minecraft.stone_hoe": "Copper Hoe",
+  "item.minecraft.stone_shovel": "Copper Shovel",
+  "item.minecraft.stone_sword": "Copper Broadword"
 }

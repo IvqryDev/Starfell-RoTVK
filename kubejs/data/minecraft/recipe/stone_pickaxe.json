@@ -1,16 +1,13 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "###",
-        "S/S",
+        "ccc",
+        " / ",
         " / "
     ],
     "key": {
-        "#": {
-            "tag": "minecraft:stone_tool_materials"
-        },
-        "S": {
-            "item": "farmersdelight:canvas"
+        "c": {
+            "item": "minecraft:copper_ingot"
         },
         "/": {
             "item": "minecraft:stick"
