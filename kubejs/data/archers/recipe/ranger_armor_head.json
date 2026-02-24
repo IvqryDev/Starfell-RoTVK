@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "nomansland:sturdy_scute"
+    },
+    "R": {
+      "item": "minecraft:leather"
+    },
+    "L": {
+      "item": "minecraft:turtle_scute"
+    }
+  },
+  "pattern": [
+    "SRS",
+    "L L"
+  ],
+  "result": {
+    "count": 1,
+    "id": "archers:ranger_armor_head"
+  }
+}
