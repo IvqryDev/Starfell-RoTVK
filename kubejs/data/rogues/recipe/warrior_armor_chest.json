@@ -3,10 +3,10 @@
   "category": "equipment",
   "key": {
     "C": {
-      "item": "minecraft:string"
+      "item": "minecraft:chain"
     },
     "I": {
-      "item": "create:iron_sheet"
+      "item": "minecraft:iron_ingot"
     },
     "L": {
       "item": "minecraft:leather"
@@ -15,7 +15,7 @@
   "pattern": [
     "C C",
     "III",
-    "LLL"
+    "LIL"
   ],
   "result": {
     "count": 1,
