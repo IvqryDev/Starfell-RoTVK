@@ -1,15 +1,7 @@
 ==== Connector Mixin Patch Audit Summary ====
-Successful: 2
-Partial: 1
+Successful: 0
+Partial: 0
 Failed: 0
-Success rate: 100.00%        Accuracy: 83.33%
+Success rate: NaN%        Accuracy: NaN%
 =============================================
-
-Mixin method folk/sisby/antique_atlas/mixin/MixinHeldItemRenderer enableFirstPersonAtlasRendering(ZLnet/minecraft/client/player/AbstractClientPlayer;FFLnet/minecraft/world/InteractionHand;FLnet/minecraft/world/item/ItemStack;FLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)Z
-  >> Using org.sinytra.adapter.patch.transformer.operation.unit.ModifyMixinType
-     - Modify type to Lorg/sinytra/adapter/runtime/inject/ModifyInstanceofValue;
-
-Mixin method me/pepperbell/continuity/client/mixin/FallingBlockEntityRendererMixin continuity$beforeRenderModel(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
-  >> Using org.sinytra.adapter.patch.transformer.operation.unit.ModifyInjectionPoint
-     - Change injection point to Lnet/minecraft/client/renderer/block/BlockRenderDispatcher;getBlockModel(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/client/resources/model/BakedModel;
 
