@@ -582,7 +582,27 @@
             "hominid:music_disc_hematoma",
             "paladins:stone_great_hammer",
             "paladins:stone_claymore",
-            "rogues:stone_double_axe"
+            "rogues:stone_double_axe",
+            "minecraft:chainmail_boots",
+            "minecraft:iron_boots",
+            "minecraft:golden_boots",
+            "minecraft:diamond_boots",
+            "minecraft:netherite_boots",
+            "minecraft:netherite_helmet",
+            "minecraft:chainmail_helmet",
+            "minecraft:iron_helmet",
+            "minecraft:golden_helmet",
+            "minecraft:diamond_helmet",
+            "minecraft:chainmail_chestplate",
+            "minecraft:iron_chestplate",
+            "minecraft:golden_chestplate",
+            "minecraft:diamond_chestplate",
+            "minecraft:netherite_chestplate",
+            "minecraft:chainmail_leggings",
+            "minecraft:iron_leggings",
+            "minecraft:golden_leggings",
+            "minecraft:diamond_leggings",
+            "minecraft:netherite_leggings"
         ]
     }
 ]
