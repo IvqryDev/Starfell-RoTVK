@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ##",
+        "#F#",
+        "## "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lapis_lazuli"
+        },
+        "F": {
+            "item": "minecraft:feather"
+        }
+    },
+    "result": {
+        "id": "relics_rpgs:lesser_roll",
+        "count": 1
+    }
+}

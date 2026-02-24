@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ##",
+        "#F#",
+        "## "
+    ],
+    "key": {
+        "#": {
+            "item": "oreganized:lead_ingot"
+        },
+        "F": {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+    "result": {
+        "id": "relics_rpgs:lesser_use_damage",
+        "count": 1
+    }
+}
