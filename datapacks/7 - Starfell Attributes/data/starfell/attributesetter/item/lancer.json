@@ -1,0 +1,86 @@
+{
+  "archers:ranger_armor_feet": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.08,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "archers:ranger_armor_legs": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.08,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "archers:ranger_armor_chest": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.08,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "archers:ranger_armor_head": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.08,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "archers:netherite_ranger_armor_feet": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.12,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "archers:netherite_ranger_armor_legs": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.12,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "archers:netherite_ranger_armor_chest": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.12,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "archers:netherite_ranger_armor_head": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.12,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:strider_armor_feet": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.16,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:strider_armor_legs": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.16,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:strider_armor_chest": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.16,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:strider_armor_head": [
+    {
+      "attribute": "puffish_attributes:tamed_damage",
+      "value": 0.16,
+      "operation": "MULTIPLY_BASE"
+    }
+  ]
+}
