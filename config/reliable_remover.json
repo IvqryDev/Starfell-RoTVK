@@ -8,8 +8,11 @@
   "removeDroppedItems": true,
   "removeItemsFromLootChests": true,
   "removeItemsFromStorage": true,
+  "removeItemsFromInfoTabs": true,
+  "removeMobEquipment": false,
   "enableEmiRemoval": true,
   "showEmiToast": false,
   "showEmiChatMessages": true,
-  "reloadAfterRemoval": false
+  "reloadAfterRemoval": false,
+  "blacklistedItems": []
 }
