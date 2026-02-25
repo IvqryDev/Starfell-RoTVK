@@ -1486,7 +1486,7 @@
 
 		[mobs.toretoise.spawn_config]
 			#Allowed values: (0,)
-			"Spawn Weight" = 120
+			"Spawn Weight" = 80
 			#Allowed values: [1,)
 			"Min Group Size" = 2
 			#Allowed values: [1,)
@@ -1499,8 +1499,8 @@
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.toretoise.spawn_config.biomes.biomes]
-					Biomes = []
-					"Is Blacklist" = true
+					Biomes = ["clifftree:caves", "clifftree:cold_caves", "clifftree:dirt_caves", "clifftree:frozen_caves", "clifftree:lukewarm_caves", "clifftree:mushroom_caves", "clifftree:warm_caves", "minecraft:dripstone_caves", "minecraft:lush_caves", "nomansland:cave_depths"]
+					"Is Blacklist" = false
 
 	[mobs.wraith]
 		#List of sound sets to use with wraiths.
