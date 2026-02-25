@@ -157,11 +157,8 @@
     ],
     "rpg_series:loot_tier/tier_0_weapons": [
       "archers:flint_spear",
-      "paladins:stone_claymore",
-      "paladins:stone_great_hammer",
       "paladins:acolyte_wand",
       "rogues:flint_dagger",
-      "rogues:stone_double_axe",
       "wizards:wand_novice"
     ],
     "rpg_series:archetype/defense_weapon": [],
@@ -216,7 +213,6 @@
       "jewelry:netherite_sapphire_ring"
     ],
     "rpg_series:archetype/melee_damage_weapon": [
-      "paladins:stone_claymore",
       "paladins:iron_claymore",
       "paladins:golden_claymore",
       "paladins:diamond_claymore",
@@ -232,7 +228,6 @@
       "arsenal:unique_mace_1",
       "arsenal:unique_mace_2",
       "arsenal:unique_mace_sw",
-      "paladins:stone_great_hammer",
       "paladins:iron_great_hammer",
       "paladins:golden_great_hammer",
       "paladins:diamond_great_hammer",
@@ -263,7 +258,6 @@
       "arsenal:unique_sickle_1",
       "arsenal:unique_sickle_2",
       "arsenal:unique_sickle_sw",
-      "rogues:stone_double_axe",
       "rogues:iron_double_axe",
       "rogues:golden_double_axe",
       "rogues:diamond_double_axe",
