@@ -12,7 +12,7 @@
 	[redstone.speaker_block]
 		enabled = false
 		#Enable/disable speaker block narrator mode
-		narrator_enabled = true
+		narrator_enabled = false
 		#Max text
 		# Default: 32
 		# Range: 0 ~ 10000
@@ -189,11 +189,11 @@
 		#Maximum number of sacks after which the overencumbered effect will be applied. Each multiple of this number will increase the effect strength by one
 		# Default: 2
 		# Range: 1 ~ 50
-		sack_increment = 8
+		sack_increment = 4
 		#How many slots should a sack have
 		# Default: 9
 		# Range: 1 ~ 27
-		slots = 12
+		slots = 27
 
 	[functional.bamboo_spikes]
 		enabled = false
@@ -357,7 +357,7 @@
 		enabled = false
 
 	[building.blackboard]
-		enabled = true
+		enabled = false
 		#Enable to draw directly on a blackboard using any dye. Gui still only works in black and white
 		colored_blackboard = false
 		#Interaction mode for blackboards
@@ -391,14 +391,14 @@
 		#Allows notice boards to accept and display any item, not just maps and books
 		allow_any_item = false
 		#Enables a GUI for the block. Not needed as the block just holds one item which you can place by clicking on it
-		gui = true
+		gui = false
 
 	[building.pedestal]
 		enabled = true
 		#If enabled end crystals placed on a pedestals will provide an enchantment power bonus equivalent to 3 bookshelves
 		# Default: 3.0
 		# Range: 0.0 ~ 100.0
-		crystal_enchanting = 3.0
+		crystal_enchanting = 5.0
 
 	[building.ash]
 		enabled = true
@@ -454,8 +454,8 @@
 		simple_mode = true
 
 	[building.netherite_doors]
-		door = true
-		trapdoor = true
+		door = false
+		trapdoor = false
 		#Makes netherite doors and trapdoors unbreakable
 		unbreakable = false
 
@@ -466,7 +466,7 @@
 [tools]
 	candy = false
 	confetti_popper = false
-	stasis = true
+	stasis = false
 	altimeter = true
 
 	[tools.slice_map]
@@ -571,11 +571,11 @@
 		#Radius in which an unbound flute will search pets
 		# Default: 64
 		# Range: 0 ~ 500
-		unbound_radius = 64
+		unbound_radius = 384
 		#Max distance at which a bound flute will allow a pet to teleport
 		# Default: 64
 		# Range: 0 ~ 500
-		bound_distance = 128
+		bound_distance = 384
 
 	[tools.slingshot]
 		enabled = false
@@ -648,10 +648,6 @@
 		#Adds dragon banner pattern made from dragon head
 		enabled = true
 
-	[tweaks.shulker_helmet]
-		#Allows wearing shulker shells
-		enabled = true
-
 	[tweaks.ai_tweaks]
 		#Allows pillagers to use cannon boats. Add more entities to the 'supplementaries:can_use_cannon_boat' tag to allow them to use cannon boats as well
 		pillagers_use_cannon_boats = false
@@ -698,18 +694,10 @@
 
 	[tweaks.map_tweaks]
 		#Enables beacons, lodestones, respawn anchors, beds, conduits, portals to be displayed on maps by clicking one of them with a map
-		block_map_markers = true
+		block_map_markers = false
 		#Shows a death marker on your map when you die. Requires a recovery compass in player inventory or similar
 		#Allowed Values: OFF, WITH_COMPASS, ALWAYS
 		death_marker = "WITH_COMPASS"
-		#If Quark is installed adventurer maps will be replaced by adventurer quills. These will not lag the server when generating
-		quill_adventurer_maps = true
-		#If Quark is installed replaces buried treasure and mansion maps with their equivalent quill form. This removes the lag spike they create when generating
-		quill_vanilla_maps = true
-		#Miminum search radius for quill. Used to incrase the radius of vanilla searches. For reference buried treasures are at 50 and locate is at 100 chunks
-		# Default: 75
-		# Range: 10 ~ 600
-		min_search_radius = 75
 		#Makes blocks tagged as 'tinted_on_map' use their tint color. This allows for accurate biome colors for water and grass as well as other custom block that use any tint
 		tinted_blocks_on_maps = true
 
@@ -738,7 +726,7 @@
 		#Amount of rotten flesh needed
 		# Default: 64
 		# Range: 1 ~ 1000
-		rotten_flesh = 64
+		rotten_flesh = 24
 		#Allows zombie horses to be ridden underwater
 		rideable_underwater = true
 		#Convert a zombie horse back by feeding it a golden carrot
@@ -780,6 +768,6 @@
 
 	[tweaks.clock_and_compass]
 		#Allow to right click with a clock to display current time in numerical form
-		clock_right_click = true
+		clock_right_click = false
 		#Allow to right click with a compass to display current coordinates in numerical form
 		compass_right_click = false
