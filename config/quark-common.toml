@@ -1441,7 +1441,7 @@
 
 	[mobs.stonelings]
 		"Max Y Level" = 0
-		"Enable Diamond Heart" = true
+		"Enable Diamond Heart" = false
 		#When enabled, stonelings are much more aggressive in checking for players
 		"Cautious Stonelings" = false
 		"Tamable Stonelings" = true
@@ -1463,12 +1463,12 @@
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[mobs.stonelings.spawn_config.biomes.tags]
 					"Biome Tags" = ["c:is_void", "minecraft:is_nether", "minecraft:is_end"]
-					"Is Blacklist" = true
+					"Is Blacklist" = false
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
 				[mobs.stonelings.spawn_config.biomes.biomes]
-					Biomes = []
-					"Is Blacklist" = true
+					Biomes = ["clifftree:caves", "clifftree:cold_caves", "clifftree:dirt_caves", "clifftree:frozen_caves", "clifftree:lukewarm_caves", "clifftree:mushroom_caves", "clifftree:warm_caves", "minecraft:dripstone_caves", "minecraft:lush_caves", "nomansland:cave_depths"]
+					"Is Blacklist" = false
 
 	[mobs.toretoise]
 		"Max Y Level" = 0
