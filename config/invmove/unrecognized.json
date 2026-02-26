@@ -1,0 +1,8 @@
+{
+  "allowMovement": {
+    "dev.emi.emi.screen.RecipeScreen": true
+  },
+  "hideBackground": {
+    "dev.emi.emi.screen.RecipeScreen": true
+  }
+}
