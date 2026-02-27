@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        " I ",
+        "___"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        },
+        "_": {
+            "item": "minecraft:smooth_stone_slab"
+        }
+    },
+    "result": {
+        "id": "minecraft:anvil",
+        "count": 1
+    }
+}

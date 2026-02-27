@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "T": {
+      "item": "oreganized:silver_ingot"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    "GTG",
+    "W W"
+  ],
+  "result": {
+    "count": 1,
+    "id": "paladins:prior_robe_feet"
+  }
+}
