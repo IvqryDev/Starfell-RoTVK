@@ -1,0 +1,17 @@
+{
+  "inputs": "nomansland:grass_sprouts",
+  "output": "newworld:moss_sprouts",
+  "biomes": [
+    "minecraft:forest",
+    "minecraft:birch_forest",
+    "minecraft:dark_forest",
+    "minecraft:old_growth_birth_forest",
+    "minecraft:windswept_forest",
+    "nomansland:autumnal_forest",
+    "nomansland:boreal_forest",
+    "nomansland:maple_forest",
+    "nomansland:old_growth_forest",
+    "clifftree:sparse_forest"
+  ],
+  "probability": 0.45
+}
