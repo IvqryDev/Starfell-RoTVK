@@ -602,7 +602,8 @@
             "minecraft:iron_leggings",
             "minecraft:golden_leggings",
             "minecraft:diamond_leggings",
-            "minecraft:netherite_leggings"
+            "minecraft:netherite_leggings",
+            "mineccraft:tipped_arrow"
         ]
     }
 ]
