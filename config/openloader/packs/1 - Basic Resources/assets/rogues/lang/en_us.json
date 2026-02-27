@@ -1,0 +1,16 @@
+{
+  "item.rogues.warrior_armor_head": "Warrior Helm",
+  "item.rogues.warrior_armor_chest": "Warrior Platemail",
+  "item.rogues.warrior_armor_legs": "Warrior Legplates",
+  "item.rogues.warrior_armor_feet": "Warrior Greaves",
+
+  "item.rogues.berserker_armor_head": "Ashen Berserker Horned-Helm",
+  "item.rogues.berserker_armor_chest": "Ashen Berserker Breastplate",
+  "item.rogues.berserker_armor_legs": "Ashen Berserker Legplates",
+  "item.rogues.berserker_armor_feet": "Ashen Berserker Greaves",
+
+  "item.rogues.netherite_berserker_armor_head": "Netherite Berserker Horned-Helm",
+  "item.rogues.netherite_berserker_armor_chest": "Netherite Berserker Breastplate",
+  "item.rogues.netherite_berserker_armor_legs": "Netherite Berserker Legplates",
+  "item.rogues.netherite_berserker_armor_feet": "Netherite Berserker Greaves"
+}
