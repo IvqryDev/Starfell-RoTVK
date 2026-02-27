@@ -8,8 +8,8 @@
       {
         "amount": {
           "type": "minecraft:linear",
-          "base": 0.15,
-          "per_level_above_first": 0.15
+          "base": 0.08,
+          "per_level_above_first": 0.08
         },
         "attribute": "combat_roll:recharge",
         "id": "combat_roll:enchantment.acrobat",
