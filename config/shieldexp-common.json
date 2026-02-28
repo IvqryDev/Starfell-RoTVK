@@ -3,7 +3,23 @@
     "shieldexp:iron_shield",
     "shieldexp:netherite_shield",
     "shieldexp:diamond_shield",
-    "block_factorys_bosses:ice_gauntlet"
+    "block_factorys_bosses:ice_gauntlet",
+
+    "rogues:iron_dagger",
+    "rogues:golden_dagger",
+    "rogues:diamond_dagger",
+    "rogues:netherite_dagger",
+    "arsenal:unique_dagger_1",
+    "arsenal:unique_dagger_2",
+    "arsenal:unique_dagger_sw",
+
+    "rogues:iron_sickle",
+    "rogues:golden_sickle",
+    "rogues:diamond_sickle",
+    "rogues:netherite_sickle",
+    "arsenal:unique_sickle_1",
+    "arsenal:unique_sickle_2",
+    "arsenal:unique_sickle_sw"
   ],
   "shieldBlacklist": [],
   "stashingCooldown": true,
@@ -17,6 +33,6 @@
   "tooltipStamina": false,
   "tooltipSpeed": false,
   "tooltipParryDamage": true,
-  "tooltipParryWindow": false,
+  "tooltipParryWindow": true,
   "tooltipBlastResistance": false
 }
