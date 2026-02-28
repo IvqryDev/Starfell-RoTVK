@@ -11,7 +11,7 @@
   "removeItemsFromStorage": true,
   "removeItemsFromInfoTabs": true,
   "removeMobEquipment": false,
-  "enableEmiRemoval": true,
+  "enableEmiRemoval": false,
   "showEmiToast": false,
   "showEmiChatMessages": true,
   "reloadAfterRemoval": false,
