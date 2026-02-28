@@ -17,6 +17,10 @@
   "particlePriority": true,
   "particleBatching": true,
   "animationThrottling": true,
+  "smoothScrolling": true,
+  "windowStyle": true,
+  "windowMaterial": "TABBED",
+  "windowCorner": "ROUND",
   "fastServerPing": true,
   "preserveScrollOnRefresh": true,
   "directConnectPreview": true,
@@ -47,9 +51,12 @@
   "amdOptimizations": true,
   "intelOptimizations": true,
   "adaptiveSync": true,
-  "displaySyncOptimization": true,
+  "displaySyncRefreshRate": -1,
   "temporalReprojection": false,
   "fullbright": false,
-  "devMode": true,
-  "androidWarningShown": false
+  "fastAnimations": false,
+  "cachedEnumValues": true,
+  "fastWorldLoading": false,
+  "fastIpPing": true,
+  "devMode": true
 }
