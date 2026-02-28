@@ -128,7 +128,6 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.camera_mode:key.keyboard.unknown
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
@@ -151,6 +150,7 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.change_hotbar:key.keyboard.unknown
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
@@ -166,7 +166,6 @@ key_keybinds.combat_roll.roll:key.mouse.5
 key_key.inventoryessentials.single_transfer:key.keyboard.unknown
 key_key.inventoryessentials.screen_bulk_drop:key.keyboard.unknown
 key_key.inventoryessentials.sort_inventory:key.keyboard.z
-key_key.openthirdperson.cam_button:key.keyboard.left.alt
 key_key.spyglass-improvements.use:key.keyboard.c
 key_key.antique_atlas.open:key.keyboard.m
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt

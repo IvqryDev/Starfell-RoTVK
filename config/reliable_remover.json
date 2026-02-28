@@ -5,6 +5,7 @@
   "removeItemsFromCreativeTabs": true,
   "removeItemsFromEmi": true,
   "removeItemsFromInventories": true,
+  "removeItemsOnInventoryOpen": true,
   "removeDroppedItems": true,
   "removeItemsFromLootChests": true,
   "removeItemsFromStorage": true,
@@ -14,5 +15,7 @@
   "showEmiToast": false,
   "showEmiChatMessages": true,
   "reloadAfterRemoval": false,
-  "blacklistedItems": []
+  "blacklistedItems": [
+    ""
+  ]
 }

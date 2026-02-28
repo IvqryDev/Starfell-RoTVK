@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:diamond"
+    },
+    "H": {
+      "item": "minecraft:iron_ingot"
+    },
+    "M": {
+      "item": "valcon:mythril_core"
+    }
+  },
+  "pattern": [
+    " AM",
+    " HA",
+    "H  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "paladins:diamond_holy_staff"
+  }
+}
