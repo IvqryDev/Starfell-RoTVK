@@ -3,7 +3,7 @@
 #Default Value: 1.0
 # Default: 1.0
 # Range: 0.0 ~ 4.0
-attack_interval_multiplier = 1.0
+attack_interval_multiplier = 0.8
 #The fraction of the attack interval that can be scaled by distance.
 #Setting this to e.g. 0.25 means 25% of the total attack interval time will scale depending on how far a target is away from the skeleton, while the remaining 75% are fixed.
 #Default Value: 0.5

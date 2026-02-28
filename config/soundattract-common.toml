@@ -213,7 +213,7 @@
 		#General Stealth System Settings
 		[general.sound_attract_main.general_stealth_settings]
 			#Master switch for all custom stealth mechanics. If false, mobs use vanilla detection (modified only by maxStealthDetectionRange if set).
-			enableStealthMechanics = true
+			enableStealthMechanics = false
 			#How often (in ticks) the server checks ongoing stealth situations (e.g., for grace period). Lower is more responsive but higher performance cost.
 			#20 ticks = 1 second.
 			# Default: 40
