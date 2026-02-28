@@ -1583,7 +1583,7 @@
 	[client.improved_tooltips]
 		"Attribute Tooltips" = false
 		"Food Tooltips" = false
-		"Shulker Tooltips" = true
+		"Shulker Tooltips" = false
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
 		"Fuel Time Tooltips" = false
