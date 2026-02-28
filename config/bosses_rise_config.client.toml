@@ -16,6 +16,8 @@
 	"Roll GUI element Y offset (Bigger number goes down, negative goes up)" = 0
 
 ["Boss bars"]
+	#Allowed Values: DEFAULT, OFF, VANILLA, SIMPLE, FANCY
+	"What kind of healthbar should the Warden use?" = "OFF"
 	#Our mod has the ability to modify how the healthbars of certain bosses appear. Pick the one that suits you most.
 	#"OFF" : Disable the healthbar from rendering.
 	#"VANILLA" : All healthbars will appear vanilla.
@@ -24,8 +26,6 @@
 	#Select the "DEFAULT" option on a boss to have the setting follow the default one.
 	#Allowed Values: OFF, VANILLA, SIMPLE, FANCY
 	"What kind of healthbar should be used by default?" = "FANCY"
-	#Allowed Values: DEFAULT, OFF, VANILLA, SIMPLE, FANCY
-	"What kind of healthbar should the Warden use?" = "DEFAULT"
 	#Allowed Values: DEFAULT, OFF, VANILLA, SIMPLE, FANCY
 	"What kind of healthbar should the Ender Dragon use?" = "DEFAULT"
 	#Allowed Values: DEFAULT, OFF, VANILLA, SIMPLE, FANCY
