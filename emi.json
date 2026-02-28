@@ -1,6 +1,11 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:diamond",
+    "item:rogues:golden_sickle",
+    "item:rogues:diamond_sickle",
+    "item:piglinproliferation:piglin_traveler_head",
+    "item:minecraft:flint",
     "item:piglinproliferation:travelers_compass",
     "item:piglinproliferation:buckler",
     "item:piglinproliferation:stone_fire_ring",
@@ -74,7 +79,6 @@
     "item:wizards:fire_robe_legs",
     "item:wizards:arcane_robe_feet",
     "item:wizards:arcane_robe_legs",
-    "item:minecraft:diamond",
     "item:minecraft:raw_iron",
     "item:minecraft:raw_iron_block",
     "item:minecraft:iron_horse_armor",
@@ -107,7 +111,6 @@
     "item:rogues:rogue_armor_head",
     "item:rogues:rogue_armor_legs",
     "item:rogues:rogue_armor_feet",
-    "item:minecraft:flint",
     "item:minecraft:flint_and_steel",
     "item:archers:ranger_armor_chest",
     "item:archers:ranger_armor_legs",
