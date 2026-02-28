@@ -1,9 +1,9 @@
 [fog_modifiers]
 	#If the deep dark fog modifier is enabled
-	deepDarkFogModifier = true
-	#If any custom fog modifiers are enabled
-	fogModifiers = true
+	deepDarkFogModifier = false
 	#If the foggy biome fog modifier is enabled
-	foggyBiomeFogModifier = true
+	foggyBiomeFogModifier = false
 	#If the caves biome fog modifier is enabled
-	cavesBiomeFogModifier = true
+	cavesBiomeFogModifier = false
+	#If any custom fog modifiers are enabled
+	fogModifiers = false
