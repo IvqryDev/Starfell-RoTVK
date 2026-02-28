@@ -193,7 +193,7 @@
 		#How many slots should a sack have
 		# Default: 9
 		# Range: 1 ~ 27
-		slots = 181
+		slots = 27
 
 	[functional.bamboo_spikes]
 		enabled = false
@@ -648,10 +648,6 @@
 		#Adds dragon banner pattern made from dragon head
 		enabled = true
 
-	[tweaks.shulker_helmet]
-		#Allows wearing shulker shells
-		enabled = true
-
 	[tweaks.ai_tweaks]
 		#Allows pillagers to use cannon boats. Add more entities to the 'supplementaries:can_use_cannon_boat' tag to allow them to use cannon boats as well
 		pillagers_use_cannon_boats = false
@@ -702,14 +698,6 @@
 		#Shows a death marker on your map when you die. Requires a recovery compass in player inventory or similar
 		#Allowed Values: OFF, WITH_COMPASS, ALWAYS
 		death_marker = "WITH_COMPASS"
-		#If Quark is installed adventurer maps will be replaced by adventurer quills. These will not lag the server when generating
-		quill_adventurer_maps = true
-		#If Quark is installed replaces buried treasure and mansion maps with their equivalent quill form. This removes the lag spike they create when generating
-		quill_vanilla_maps = true
-		#Miminum search radius for quill. Used to incrase the radius of vanilla searches. For reference buried treasures are at 50 and locate is at 100 chunks
-		# Default: 75
-		# Range: 10 ~ 600
-		min_search_radius = 75
 		#Makes blocks tagged as 'tinted_on_map' use their tint color. This allows for accurate biome colors for water and grass as well as other custom block that use any tint
 		tinted_blocks_on_maps = true
 

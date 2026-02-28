@@ -12,7 +12,7 @@
 	[redstone.speaker_block]
 		enabled = false
 		#Enable/disable speaker block narrator mode
-		narrator_enabled = false
+		narrator_enabled = true
 		#Max text
 		# Default: 32
 		# Range: 0 ~ 10000
@@ -146,7 +146,7 @@
 		#Allow right click to instantly eat or drink food or potions inside a placed jar.
 		#Disable if you think this ability is op (honey for example). Cookies are excluded
 		drink_from_jar = false
-		#Allows the player to directly drink from jar items
+		#Allows the player.json to directly drink from jar items
 		drink_from_jar_item = false
 		#Dynamically allows all small mobs inside jars depending on their hitbox size
 		jar_auto_detect = false
@@ -176,7 +176,7 @@
 
 	[functional.safe]
 		enabled = true
-		#Makes safes only breakable by their owner or by a player in creative
+		#Makes safes only breakable by their owner or by a player.json in creative
 		prevent_breaking = false
 		#Make safes simpler so they do not require keys:
 		#they will be bound to the first person that opens one and only that person will be able to interact with them
@@ -184,21 +184,21 @@
 
 	[functional.sack]
 		enabled = true
-		#Penalize the player with slowness effect when carrying too many sacks
+		#Penalize the player.json with slowness effect when carrying too many sacks
 		sack_penalty = true
 		#Maximum number of sacks after which the overencumbered effect will be applied. Each multiple of this number will increase the effect strength by one
 		# Default: 2
 		# Range: 1 ~ 50
-		sack_increment = 4
+		sack_increment = 8
 		#How many slots should a sack have
 		# Default: 9
 		# Range: 1 ~ 27
-		slots = 181
+		slots = 12
 
 	[functional.bamboo_spikes]
 		enabled = false
 		tipped_spikes = false
-		#Allows entities killed by spikes to drop loot as if they were killed by a player
+		#Allows entities killed by spikes to drop loot as if they were killed by a player.json
 		player_loot = false
 		#Alternative mode for bamboo spikes. Allows only harmful effects to be applied on them and they obtain infinite durability
 		only_allow_harmful_effects = false
@@ -357,7 +357,7 @@
 		enabled = false
 
 	[building.blackboard]
-		enabled = false
+		enabled = true
 		#Enable to draw directly on a blackboard using any dye. Gui still only works in black and white
 		colored_blackboard = false
 		#Interaction mode for blackboards
@@ -391,14 +391,14 @@
 		#Allows notice boards to accept and display any item, not just maps and books
 		allow_any_item = false
 		#Enables a GUI for the block. Not needed as the block just holds one item which you can place by clicking on it
-		gui = false
+		gui = true
 
 	[building.pedestal]
 		enabled = true
 		#If enabled end crystals placed on a pedestals will provide an enchantment power bonus equivalent to 3 bookshelves
 		# Default: 3.0
 		# Range: 0.0 ~ 100.0
-		crystal_enchanting = 5.0
+		crystal_enchanting = 3.0
 
 	[building.ash]
 		enabled = true
@@ -454,8 +454,8 @@
 		simple_mode = true
 
 	[building.netherite_doors]
-		door = false
-		trapdoor = false
+		door = true
+		trapdoor = true
 		#Makes netherite doors and trapdoors unbreakable
 		unbreakable = false
 
@@ -466,7 +466,7 @@
 [tools]
 	candy = false
 	confetti_popper = false
-	stasis = false
+	stasis = true
 	altimeter = true
 
 	[tools.slice_map]
@@ -566,16 +566,16 @@
 
 	[tools.flute]
 		enabled = true
-		#Allows flute to be unbound. Unbound flutes will search for pets in a radius and teleport them to the player
+		#Allows flute to be unbound. Unbound flutes will search for pets in a radius and teleport them to the player.json
 		unbound = false
 		#Radius in which an unbound flute will search pets
 		# Default: 64
 		# Range: 0 ~ 500
-		unbound_radius = 384
+		unbound_radius = 64
 		#Max distance at which a bound flute will allow a pet to teleport
 		# Default: 64
 		# Range: 0 ~ 500
-		bound_distance = 384
+		bound_distance = 128
 
 	[tools.slingshot]
 		enabled = false
@@ -698,8 +698,8 @@
 
 	[tweaks.map_tweaks]
 		#Enables beacons, lodestones, respawn anchors, beds, conduits, portals to be displayed on maps by clicking one of them with a map
-		block_map_markers = false
-		#Shows a death marker on your map when you die. Requires a recovery compass in player inventory or similar
+		block_map_markers = true
+		#Shows a death marker on your map when you die. Requires a recovery compass in player.json inventory or similar
 		#Allowed Values: OFF, WITH_COMPASS, ALWAYS
 		death_marker = "WITH_COMPASS"
 		#If Quark is installed adventurer maps will be replaced by adventurer quills. These will not lag the server when generating
@@ -738,7 +738,7 @@
 		#Amount of rotten flesh needed
 		# Default: 64
 		# Range: 1 ~ 1000
-		rotten_flesh = 24
+		rotten_flesh = 64
 		#Allows zombie horses to be ridden underwater
 		rideable_underwater = true
 		#Convert a zombie horse back by feeding it a golden carrot
@@ -766,7 +766,7 @@
 		enabled = true
 		#Allow slimeballs to be thrown
 		throwable_slimeballs = true
-		#Thrown slimeballs will shortly nerf the player jump height. Disable if you don't want this effect as it can be quite powerful
+		#Thrown slimeballs will shortly nerf the player.json jump height. Disable if you don't want this effect as it can be quite powerful
 		#Allowed Values: NEVER, ALWAYS, NORMAL_DIFFICULTY, HARD_DIFFICULTY
 		hinders_jump = "NORMAL_DIFFICULTY"
 		#Duration of the slimed effect in ticks
@@ -780,6 +780,6 @@
 
 	[tweaks.clock_and_compass]
 		#Allow to right click with a clock to display current time in numerical form
-		clock_right_click = false
+		clock_right_click = true
 		#Allow to right click with a compass to display current coordinates in numerical form
 		compass_right_click = false
