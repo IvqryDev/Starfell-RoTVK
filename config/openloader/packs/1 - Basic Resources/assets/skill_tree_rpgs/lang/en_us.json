@@ -1,0 +1,18 @@
+{
+  "skill.skill_tree_rpgs.arcane_boost.title": "Arcane Attunement",
+  "skill.skill_tree_rpgs.arcane_root.title": "Path of The Arcane Stargazer",
+  "skill.skill_tree_rpgs.archer_boost.title": "Lancer Empowerment",
+  "skill.skill_tree_rpgs.archer_root.title": "Path of The Lancer",
+  "skill.skill_tree_rpgs.fire_boost.title": "Fire Attunement",
+  "skill.skill_tree_rpgs.fire_root.title": "Path of The Flame Stargazer",
+  "skill.skill_tree_rpgs.frost_boost.title": "Frost Attunement",
+  "skill.skill_tree_rpgs.frost_root.title": "Path of The Frost Stargazer",
+  "skill.skill_tree_rpgs.paladin_boost.title": "Divine Empowerment",
+  "skill.skill_tree_rpgs.paladin_root.title": "Path of The Justicar",
+  "skill.skill_tree_rpgs.priest_boost.title": "Holy Attunement",
+  "skill.skill_tree_rpgs.priest_root.title": "Path of The Avatar",
+  "skill.skill_tree_rpgs.rogue_boost.title": "Savager Empowerment",
+  "skill.skill_tree_rpgs.rogue_root.title": "Path of The Savager",
+  "skill.skill_tree_rpgs.warrior_boost.title": "Legionnaire Empowerment",
+  "skill.skill_tree_rpgs.warrior_root.title": "Path of the Legionnaire"
+}
