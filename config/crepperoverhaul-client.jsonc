@@ -7,5 +7,5 @@
      */
     "replaceDefaultCreeper": false,
     // Shows your cosmetic on your player for others.
-    "showCosmetic": true
+    "showCosmetic": false
 }
