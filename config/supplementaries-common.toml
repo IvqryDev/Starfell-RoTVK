@@ -193,7 +193,7 @@
 		#How many slots should a sack have
 		# Default: 9
 		# Range: 1 ~ 27
-		slots = 27
+		slots = 18
 
 	[functional.bamboo_spikes]
 		enabled = false
