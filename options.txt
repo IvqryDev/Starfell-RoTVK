@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:10
+renderDistance:15
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -128,6 +128,7 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.camera_mode:key.keyboard.unknown
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
@@ -150,7 +151,6 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.change_hotbar:key.keyboard.unknown
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
@@ -165,7 +165,8 @@ key_key.immersiveoverlays.settings:key.keyboard.unknown
 key_keybinds.combat_roll.roll:key.mouse.5
 key_key.inventoryessentials.single_transfer:key.keyboard.unknown
 key_key.inventoryessentials.screen_bulk_drop:key.keyboard.unknown
-key_key.inventoryessentials.sort_inventory:key.mouse.middle
+key_key.inventoryessentials.sort_inventory:key.keyboard.z
+key_key.openthirdperson.cam_button:key.keyboard.left.alt
 key_key.spyglass-improvements.use:key.keyboard.c
 key_key.antique_atlas.open:key.keyboard.m
 key_keybindings.spell_engine.bypass_spell_hotbar:key.keyboard.left.alt
@@ -185,8 +186,8 @@ key_artifacts.key.charm_of_sinking.toggle:key.keyboard.unknown
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.scarf_of_invisibility.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
-key_key.questlog.open:key.keyboard.unknown
 key_key.configured.open_mod_list:key.keyboard.unknown
+key_key.questlog.open:key.keyboard.unknown
 key_key.cpm.gestureMenu:key.keyboard.g
 key_key.cpm.renderToggle:key.keyboard.unknown
 key_key.cpm.qa_1:key.keyboard.unknown
@@ -208,7 +209,8 @@ key_key.cpm.qa_16:key.keyboard.unknown
 key_key.personality.crawl:key.keyboard.z
 key_key.personality.sit:key.keyboard.right.shift
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
-key_key.raised.options:key.keyboard.unknown
+key_key.raised.options:key.keyboard.grave.accent
+key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.5044150110375275
 soundCategory_music:0.0

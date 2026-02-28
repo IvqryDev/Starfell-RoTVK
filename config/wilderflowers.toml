@@ -9,4 +9,4 @@ highGarlandChance = 0.35
 garlandWearersNeutral = false
 # Mobs in garland_wearers wearing flower garlands are passive. If true, overrides garlandWearersNeutral
 # default: false
-garlandWearersPassive = false
+garlandWearersPassive = true

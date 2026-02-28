@@ -1,10 +1,16 @@
 {
   "allowMovement": {
     "dev.emi.emi.screen.RecipeScreen": true,
-    "com.tom.cpm.client.GuiImpl": true
+    "com.tom.cpm.client.GuiImpl": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.VariableSizeContainerScreen": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
+    "net.sweety.unusualend.client.gui.BolokNotesScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
-    "com.tom.cpm.client.GuiImpl": true
+    "com.tom.cpm.client.GuiImpl": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.VariableSizeContainerScreen": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
+    "net.sweety.unusualend.client.gui.BolokNotesScreen": true
   }
 }
