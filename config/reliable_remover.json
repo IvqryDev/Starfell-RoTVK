@@ -15,7 +15,5 @@
   "showEmiToast": false,
   "showEmiChatMessages": true,
   "reloadAfterRemoval": false,
-  "blacklistedItems": [
-    ""
-  ]
+  "blacklistedItems": []
 }

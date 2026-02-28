@@ -225,7 +225,6 @@
             "shieldexp:golden_shield",
             "shieldexp:wooden_shield",
             "minecraft:shield",
-            "minecraft:piglin_head",
             "oreganized:thermometer",
             "overweight_farming:straw_hat",
             "friendsandfoes:wildfire_crown_fragment",
@@ -565,7 +564,10 @@
             "minecraft:golden_leggings",
             "minecraft:diamond_leggings",
             "minecraft:netherite_leggings",
-            "minecraft:tipped_arrow"
+            "minecraft:tipped_arrow",
+            "piglinproliferation:buckler",
+            "piglinproliferation:travelers_compass",
+            "piglinproliferation:stone_fire_ring"
         ]
     }
 ]
