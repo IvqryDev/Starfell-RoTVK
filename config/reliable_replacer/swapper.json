@@ -13,11 +13,16 @@
 
     "minecraft:tall_dry_grass": "nomansland:tall_beachgrass",
     "minecraft:short_dry_grass": "nomansland:short_beachgrass",
+    "minecraft:bush": "minecraft:air",
+    "minecraft:leaf_litter": "minecraft:air",
+    "minecraft:firefly_bush": "minecraft:air",
+
     "nomansland:white_flowerbed": "minecraft:short_grass",
     "nomansland:violet_flowerbed": "minecraft:short_grass",
     "nomansland:blue_flowerbed": "minecraft:short_grass",
     "nomansland:yellow_flowerbed": "minecraft:short_grass",
     "nomansland:red_flowerbed": "minecraft:short_grass",
+
     "oreganized:purple_datura": "nomansland:thistle",
     "oreganized:datura": "nomansland:wild_mint"
   }

@@ -576,7 +576,10 @@
             "piglinproliferation:deepslate_soul_fire_ring",
             "piglinproliferation:end_stone_fire_ring",
             "piglinproliferation:end_stone_soul_fire_ring",
-            "piglinproliferation:stone_soul_fire_ring"
+            "piglinproliferation:stone_soul_fire_ring",
+            "minecraft:bush",
+            "minecraft:leaf_litter",
+            "minecraft:firefly_bush"
         ]
     }
 ]
