@@ -29,11 +29,21 @@
           "item": "jewelry:unique_crit_ring"
         }
       }
+    },
+    {
+      "type": "questlog:loot_table",
+      "loot_table": "valcon:crystals",
+      "display": {
+        "icon": {
+          "item": "armory_rpgs:conqueror_upgrade_crystal"
+        },
+        "name": "1x Valcon Crystal"
+      }
     }
   ],
   "display": {
     "title": "Shardbearer: Serokin",
-    "description": "\"They say time heals all wounds, but that's not necessarily true; for some, it worsens them. Let me tell you a tale, it is my job to be kind to our most respected guests. Imagine a brand new world where you were the only one who existed, but then your creators decided to give you a friend. This the the story of Serokin, The First One.\"\n\n\"One day Varael decided to create another vessel named Ravor. The two were perfect for eachother. Two beings in a world of their own. Until, under the moonlight, Serokin was stolen by famished beast, looking for flesh. Ravor was alone, he thought they abandoned him. And so he cursed them. Never to rest, and never to die, until they reunite. Years later, Ravor passed on; But the curse persisted. Serokin's body would deteriorate despite his countless efforts to preserve themself. And that's the story of Serokin, a terrible a misunderstanding. You know, he still lives to this day? May you finally bring peace to them if you two meet.\"\n\n- Verin, fifth of the six Valcons, to the Valcon Knight",
+    "description": "Serokin can be summoned by placing a formation soul sand and withereds' skulls.\n\n\"They say time heals all wounds, but that's not necessarily true; for some, it worsens them. Let me tell you a tale, it is my job to be kind to our most respected guests. Imagine a brand new world where you were the only one who existed, but then your creators decided to give you a friend. This the the story of Serokin, The First One.\"\n\n\"One day Varael decided to create another vessel named Ravor. The two were perfect for eachother. Two beings in a world of their own. Until, under the moonlight, Serokin was stolen by famished beast, looking for flesh. Ravor was alone, he thought they abandoned him. And so he cursed them. Never to rest, and never to die, until they reunite. Years later, Ravor passed on; But the curse persisted. Serokin's body would deteriorate despite his countless efforts to preserve themself. And that's the story of Serokin, a terrible a misunderstanding. You know, he still lives to this day? May you finally bring peace to them if you two meet.\"\n\n- Verin, fifth of the six Valcons, to the Valcon Knight",
     "icon": {
       "item": "minecraft:wither_skeleton_skull"
     }

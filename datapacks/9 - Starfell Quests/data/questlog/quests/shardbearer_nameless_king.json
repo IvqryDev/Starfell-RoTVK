@@ -29,11 +29,21 @@
           "item": "relics_rpgs:greater_perk_shield_reset"
         }
       }
+    },
+    {
+      "type": "questlog:item",
+      "item": "valcon:crystals",
+      "display": {
+        "name": "1x Valcon Crystal",
+        "icon": {
+          "item": "armory_rpgs:conqueror_upgrade_crystal"
+        }
+      }
     }
   ],
   "display": {
     "title": "Shardbearer: Nameless King",
-    "description": "[TRANSLATED BY THARNOK] \n???: \"- Year 3482, Foundation Era; The king's mining operations have been been met with success, and yet devastating failure. He has all the mythril in a 500 league radius around the main terminal, yet he demands more. He's even sending out task forces stripping civilians of their mythril, and providing miniscule amounts of ventar in return. If these gods were real, I reckon they wouldn't be too happy. Thankfully, we create our own futures. I don't have time for these preaching fools.\"\n\"- Year 3489, Foundation Era; The king is missing. We have not a clue where he went, the cameras show him entering the archives but he has not returned from them, and yet he does not reside inside. All we found was his crown, and an empty scroll with a single phrase that reads \"Valem The Judge\" The main terminal building is losing power, and the moons grow darker each night. We cannot continue. We cannot continue. We cannot continue. We canno______\"\n\nThe Nameless King, Phantasmal Night: \"My greed ran too deep, and now I have to pay the price. But the things I've done and the pain I've caused, there's no going back. My body contorts, and my muscles bend in a grotesque manner, even my mechanical arm is malformed. It hurts, it hurts so much. I suspect it's the shard of souls, but I care not, my new-found strength makes it much worth the sacrifice. From now on, I will serve my lord and my savior, Umbrocron, my god.\"",
+    "description": "The Nameless King is believed to be hiding atop his throne of skulls. in the Netherrealm. Sitting, waiting for a traveler to challenge him. But that is little more than a myth.\n\n[TRANSLATED BY THARNOK] \n???: \"- Year 3482, Foundation Era; The king's mining operations have been been met with success, and yet devastating failure. He has all the mythril in a 500 league radius around the main terminal, yet he demands more. He's even sending out task forces stripping civilians of their mythril, and providing miniscule amounts of ventar in return. If these gods were real, I reckon they wouldn't be too happy. Thankfully, we create our own futures. I don't have time for these preaching fools.\"\n\"- Year 3489, Foundation Era; The king is missing. We have not a clue where he went, the cameras show him entering the archives but he has not returned from them, and yet he does not reside inside. All we found was his crown, and an empty scroll with a single phrase that reads \"Valem The Judge\" The main terminal building is losing power, and the moons grow darker each night. We cannot continue. We cannot continue. We cannot continue. We canno______\"\n\n\"My greed ran too deep, and now I have to pay the price. But the things I've done and the pain I've caused, there's no going back. My body contorts, and my muscles bend in a grotesque manner, even my artificial arm is malformed, it's mythril plating cracks. It hurts, it hurts so much. I suspect it's the shard of souls, but I care not, my new-found strength makes it much worth the sacrifice. From now on, I will serve my lord and my savior, Umbrocron, my god.\"\n\n- Namless King, The Phantasmal Night",
     "icon": {
       "item": "block_factorys_bosses:knight_sword"
     }

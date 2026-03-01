@@ -30,9 +30,6 @@
     "description": "Verocon The Conqueror, first of the six Valcons, left behind this jewel for those he deems worthy. This crystal grants the ability to unlock the sacred power of the arcane and flame stargazer.\n\n- ??? to the Valcon Knight",
     "icon": {
       "item": "armory_rpgs:conqueror_upgrade_crystal"
-    },
-    "notification": {
-      "toastOnTrigger": false
     }
   }
 }

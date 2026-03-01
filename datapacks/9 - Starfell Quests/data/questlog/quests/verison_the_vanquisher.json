@@ -30,9 +30,6 @@
     "description": "Verison The Vanquisher, second of the six Valcons, left behind this jewel for those he deems worthy. This crystal grants the ability to unlock the raw power of the frost stargazer and lancers.\n\n- ??? to the Valcon Knight",
     "icon": {
       "item": "armory_rpgs:vanquisher_upgrade_crystal"
-    },
-    "notification": {
-      "toastOnTrigger": false
     }
   }
 }

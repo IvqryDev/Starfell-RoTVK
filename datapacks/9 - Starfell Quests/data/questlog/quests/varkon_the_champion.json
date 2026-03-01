@@ -30,9 +30,6 @@
     "description": "Verul The Redeemer, fourth of the six Valcons, left behind this jewel for those he deems worthy. This crystal grants the ability to unlock the devastating strength of the savager and legionnaire.\n\n- ??? to the Valcon Knight",
     "icon": {
       "item": "armory_rpgs:champion_upgrade_crystal"
-    },
-    "notification": {
-      "toastOnTrigger": false
     }
   }
 }
