@@ -41,14 +41,6 @@
 		{
 			"slotType": "spell_trinket",
 			"amount": 1
-		},
-		{
-			"slotType": "quiver",
-			"amount": -1
-		},
-		{
-			"slotType": "",
-			"amount": 0
 		}
 	]
 }

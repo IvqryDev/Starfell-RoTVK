@@ -4,7 +4,7 @@
 	"holdToCastCharged": true,
 	"autoSwapHands": true,
 	"spellHotbarHidesOffhand": true,
-	"spellHotbarUseKey": true,
+	"spellHotbarUseKey": false,
 	"spell_hotbar_1_defer": "HOTBAR_KEY_1",
 	"spell_hotbar_2_defer": "HOTBAR_KEY_2",
 	"spell_hotbar_3_defer": "HOTBAR_KEY_3",
@@ -23,5 +23,5 @@
 	"showSpellBindingTooltip": true,
 	"showSpellCastErrors": true,
 	"shoulderSurfingAdaptiveWhileUse": true,
-	"firstPersonAnimations": "NO"
+	"firstPersonAnimations": "YES"
 }
