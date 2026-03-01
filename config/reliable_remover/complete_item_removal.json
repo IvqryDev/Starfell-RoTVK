@@ -578,7 +578,9 @@
             "piglinproliferation:stone_soul_fire_ring",
             "minecraft:bush",
             "minecraft:leaf_litter",
-            "minecraft:firefly_bush"
+            "minecraft:firefly_bush",
+            "minecraft:totem_of_undying",
+            "artifacts:chorus_totem"
         ]
     }
 ]

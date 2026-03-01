@@ -74,13 +74,13 @@
 [chorus_totem]
 	#Whether the Chorus Totem is consumed after activating
 	#Allowed Values: true, false
-	consumeOnUse = true
+	consumeOnUse = false
 	#The duration in seconds the Chorus Totem goes on cooldown for after activating
 	#Range: 0 ~ 72000
 	cooldown = 0
 	#Whether this item can be found in structures or drop from entities
 	#Allowed Values: true, false
-	generateAsLoot = true
+	generateAsLoot = false
 	#The amount of health points that are restored after the Chorus Totem activates
 	#Range: > 0
 	healthRestored = 6
