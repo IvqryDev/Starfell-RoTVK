@@ -501,7 +501,7 @@
 		"Trowel Max Durability" = 512
 
 [tweaks]
-	"Armed Armor Stands" = false
+	"Armed Armor Stands" = true
 	"Automatic Recipe Unlock" = true
 	"Better Elytra Rocket" = false
 	"Campfires Boost Elytra" = false
