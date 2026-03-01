@@ -4,6 +4,11 @@
       "attribute": "minecraft:generic.attack_damage",
       "value": 7,
       "operation": "BASE"
+    },
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 40,
+      "operation": "BASE"
     }
   ]
 }
