@@ -119,7 +119,7 @@
 [cross_necklace]
 	#The amount of extra ticks the player.json stays invincible for after taking damage while wearing the Cross Necklace
 	#Range: -Infinity ~ Infinity
-	bonusInvincibilityTicks = 20.0
+	bonusInvincibilityTicks = 8.0
 	#The duration in seconds the Cross Necklace goes on cooldown for after activating
 	#Range: 0 ~ 72000
 	cooldown = 0
