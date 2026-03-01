@@ -3,6 +3,11 @@
     {
       "type": "questlog:quest_complete",
       "total": 1,
+      "quest": "questlog:quests/shardbearer_tharnok"
+    },
+    {
+      "type": "questlog:quest_complete",
+      "total": 1,
       "quest": "questlog:quests/shardbearer_nameless_king"
     }
   ],
@@ -12,7 +17,7 @@
       "total": 1,
       "item": "valcon:shard_of_wrath",
       "display": {
-        "name": "Slay Drakon and obtain the shard of wrath.",
+        "name": "Slay Drakon, Infernal Wrath.",
         "icon": {
           "item": "valcon:shard_of_wrath"
         }

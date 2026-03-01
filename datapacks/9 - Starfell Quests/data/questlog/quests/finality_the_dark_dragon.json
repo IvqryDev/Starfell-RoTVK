@@ -3,6 +3,21 @@
     {
       "type": "questlog:quest_complete",
       "total": 1,
+      "quest": "questlog:quests/shardbearer_tharnok"
+    },
+    {
+      "type": "questlog:quest_complete",
+      "total": 1,
+      "quest": "questlog:quests/shardbearer_nameless_king"
+    },
+    {
+      "type": "questlog:quest_complete",
+      "total": 1,
+      "quest": "questlog:quests/shardbearer_drakon"
+    },
+    {
+      "type": "questlog:quest_complete",
+      "total": 1,
       "quest": "questlog:quests/shardbearer_serokin"
     }
   ],
@@ -12,7 +27,7 @@
       "total": 1,
       "entity": "minecraft:ender_dragon",
       "display": {
-        "name": "Slay Umbrocron, the Eternal Tyrant of Shadow and fulfil your purpose.",
+        "name": "Kill Umbrocron and fulfill your purpose.",
         "icon": {
           "item": "minecraft:dragon_skull"
         }

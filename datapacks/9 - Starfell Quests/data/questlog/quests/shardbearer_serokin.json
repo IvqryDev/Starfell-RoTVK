@@ -3,6 +3,16 @@
     {
       "type": "questlog:quest_complete",
       "total": 1,
+      "quest": "questlog:quests/shardbearer_tharnok"
+    },
+    {
+      "type": "questlog:quest_complete",
+      "total": 1,
+      "quest": "questlog:quests/shardbearer_nameless_king"
+    },
+    {
+      "type": "questlog:quest_complete",
+      "total": 1,
       "quest": "questlog:quests/shardbearer_drakon"
     }
   ],
@@ -12,7 +22,7 @@
       "total": 1,
       "item": "valcon:shard_of_sorrow",
       "display": {
-        "name": "Bring peace to Serokin and obtain the shard of sorrow.",
+        "name": "Bring peace to Serokin, the First One.",
         "icon": {
           "item": "valcon:shard_of_sorrow"
         }
