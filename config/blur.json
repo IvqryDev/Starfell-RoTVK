@@ -13,7 +13,7 @@
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen"
   ],
   "forceDisabledScreens": [],
-  "useGradient": true,
+  "useGradient": false,
   "gradientStart": "#000000",
   "gradientStartAlpha": 75,
   "gradientEnd": "#000000",
