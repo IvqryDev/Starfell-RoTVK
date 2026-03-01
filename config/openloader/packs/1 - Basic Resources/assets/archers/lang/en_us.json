@@ -1,7 +1,7 @@
 {
   "item.archers.auto_fire_hook": "Beskelt Archer Tech",
 
-  "item.archers.archer_spell_book": "Lancer Manual",
-  "item.archers.archer_spell_book.spell_binding.description": "Spell Book of Lancers, using ranged weapons and archery skills to defeat enemies from afar\n- Strengths: Dealing high damage at range and maintaining mobility\n- Weaknesses: Heavily armored enemies\n- Equipment: Moderately armored",
-  "item.archers.archer.spell_scroll": "Lancer Scroll"
+  "item.archers.spell_book/archer": "Lancer Manual",
+  "item.archers.spell_book/archer.spell_binding.description": "Spell Book of Lancers, using ranged weapons, beasts, and archery skills to defeat enemies from afar\n- Strengths: Dealing high damage at range and maintaining mobility\n- Weaknesses: Heavily armored enemies\n- Equipment: Moderately armored",
+  "item.archers.spell_scroll/archer": "Lancer Scroll"
 }

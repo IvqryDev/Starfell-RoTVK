@@ -12,9 +12,11 @@
 	// Spells should damage items on use. Set `false` to disable.
 	"spell_cost_durability_allowed": true,
 	// The time in ticks of global cooldown to apply to all instant cast spells when casted.
-	"spell_instant_cast_gcd": 0,
+	"spell_instant_cast_global_cooldown": 0,
 	// Players cannot unequip a spell book, if one of the spells in it is on cooldown.
 	"spell_item_cooldown_lock": true,
+	// Additional cooldown in seconds applied to equipped spell book item, after casting a spell from them, to prevent quick swapping and casting.
+	"spell_book_additional_cooldown": 10.0,
 	// Players can use the Spell Binding Table to create spell books.
 	"spell_book_creation_enabled": true,
 	// Spell book creation level levelCost
@@ -25,6 +27,8 @@
 	"spell_binding_level_cost_multiplier": 1,
 	// Spell binding lapis lazuli levelCost multiplier
 	"spell_binding_lapis_cost_multiplier": 1,
+	// Spell binding allow unbinding spells
+	"spell_binding_allow_unbinding": true,
 	"spell_scroll_level_cost_per_tier": 0,
 	"spell_scroll_apply_cost_base": 1,
 	// Allow spell containers be cached for faster improved server performance. Might be buggy.
@@ -35,14 +39,6 @@
 	"projectiles_pass_thru_irrelevant_targets": true,
 	// Auto swap Bow & Spear cooldown ticks to apply for attack and itemUse
 	"auto_swap_cooldown": 5,
-	// Apply `Spell Casting from Spell Book` capability to Swords, Tridents, Maces
-	"add_spell_casting_to_melee_weapons": true,
-	// Apply `Spell Casting from Spell Book` capability to Bows, Crossbows
-	"add_spell_casting_to_ranged_weapons": true,
-	// Apply `Spell Casting from Spell Book` capability to any item matching this regex. (Not applied of empty)
-	"add_spell_casting_regex": "",
-	// Do not apply `Spell Casting from Spell Book` capability to any item matching this regex. (Not applied of empty)
-	"blacklist_spell_casting_regex": "",
 	/* Evasion to work within certain angle of attack
 	   Example values:
 	   - `0` - any attack can be evaded
@@ -53,6 +49,8 @@
 	"attribute_evasion_allowed_while_spell_casting": false,
 	// Allow evasion to work while the player is using an item (e.g. eating, drawing a bow)
 	"attribute_evasion_allowed_while_item_usage": false,
+	// Determines the focus mode (AREA vs DIRECT) for melee skills.
+	"melee_skills_area_focus_mode": true,
 	/* Relations determine which cases the effect of a player casted spell can effect a target.
 	   +----------------+-------+----------+----------+----------+--------+
 	   |                | ALLY  | FRIENDLY | NEUTRAL  | HOSTILE  | MIXED  |

@@ -1,10 +1,10 @@
 {
-  "item.rogues.rogue_spell_book": "Savager Handbook",
-  "item.rogues.warrior_spell_book": "Legionnaire's Codex",
-  "item.rogues.rogue.spell_scroll": "Savager Skill Scroll",
-  "item.rogues.warrior.spell_scroll": "Legionnaire Skill Scroll",
-  "item.rogues.rogue_spell_book.spell_binding.description": "Spell Book of Savagers, using quick weapons and skills to strike enemies from the shadows\n- Strengths: High mobility and melee attack damage\n- Weaknesses: Mediocre defense and limited ranged attacks\n- Equipment: Moderately armored",
-  "item.rogues.warrior_spell_book.spell_binding.description": "Spell Book of Legionnaires, using heavy weapons and skills to dominate close combat\n- Strengths: Strong melee attacks with good mobility\n- Weaknesses: Limited ranged attacks and supportive skills\n- Equipment: Heavily armored",
+  "item.rogues.spell_book/rogue": "Savager Handbook",
+  "item.rogues.spell_book/warrior": "Legionnaires' Codex",
+  "item.rogues.spell_scroll/rogue": "Savager Skill Scroll",
+  "item.rogues.spell_scroll/warrior": "Legionnaires Skill Scroll",
+  "item.rogues.spell_book/rogue.spell_binding.description": "Spell Book of Savagers, using quick weapons and skills to strike enemies from the shadows\n- Strengths: High mobility and melee attack damage\n- Weaknesses: Mediocre defense and limited ranged attacks\n- Equipment: Moderately armored",
+  "item.rogues.spell_book/warrior.spell_binding.description": "Spell Book of Legionnaires, using heavy weapons and skills to dominate close combat\n- Strengths: Strong melee attacks with good mobility\n- Weaknesses: Limited ranged attacks and supportive skills\n- Equipment: Heavily armored",
 
   "item.rogues.warrior_armor_head": "Warrior Helm",
   "item.rogues.warrior_armor_chest": "Warrior Platemail",

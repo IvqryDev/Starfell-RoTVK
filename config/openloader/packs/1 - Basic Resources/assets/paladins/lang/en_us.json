@@ -1,10 +1,10 @@
 {
-  "item.paladins.paladin_spell_book": "Justicar Libram",
-  "item.paladins.priest_spell_book": "Avatar Book",
-  "item.paladins.paladin.spell_scroll": "Justicar Spell Scroll",
-  "item.paladins.priest.spell_scroll": "Avatar Spell Scroll",
-  "item.paladins.paladin_spell_book.spell_binding.description": "Spell Book of Justicars, using weapons and spells to attack enemies and support allies\n- Strengths: Versatile in battle, able to heal, strike, and defend\n- Weaknesses: Limited ranged attacks and mobility\n- Equipment: Heavily armored",
-  "item.paladins.priest_spell_book.spell_binding.description": "Spell Book of Avatars, using holy magic to heal allies and damage enemies\n- Strengths: Supporting and healing allies, destroying undead\n- Weaknesses: Low damage and poor physical defense\n- Equipment: Lightly armored",
+  "item.paladins.spell_book/paladin": "Justicar Libram",
+  "item.paladins.spell_book/priest": "Avatar Book",
+  "item.paladins.spell_scroll/paladin": "Justicar Spell Scroll",
+  "item.paladins.spell_scroll/priest": "Avatar Spell Scroll",
+  "item.paladins.spell_book/paladin.spell_binding.description": "Spell Book of Justicars, using weapons and spells to attack enemies and support allies\n- Strengths: Versatile in battle, able to heal, strike, and defend\n- Weaknesses: Limited ranged attacks and mobility\n- Equipment: Heavily armored",
+  "item.paladins.spell_book/priest.spell_binding.description": "Spell Book of Avatars, using holy magic to heal allies and damage enemies\n- Strengths: Supporting and healing allies, destroying undead\n- Weaknesses: Low damage and poor physical defense\n- Equipment: Lightly armored",
 
   "item.paladins.paladin_armor_head": "Paladin Helm",
   "item.paladins.paladin_armor_chest": "Paladin Breastplate",
