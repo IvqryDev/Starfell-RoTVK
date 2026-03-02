@@ -18,4 +18,7 @@
 /screenshots/
 /.mixin.out/
 /options.txt
-/screenshots/
+/config/invmove/
+/config/multimine.cfg
+/config/iris.properties
+/config/fabric/indigo-renderer.properties
