@@ -6,7 +6,9 @@
     "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
     "net.sweety.unusualend.client.gui.BolokNotesScreen": true,
     "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
-    "dev.hardaway.mannequins.client.screen.MannequinEditorScreen": true
+    "dev.hardaway.mannequins.client.screen.MannequinEditorScreen": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "com.natamus.starterkit_common_neoforge.inventory.StarterKitInventoryScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -17,6 +19,8 @@
     "net.blay09.mods.waystones.client.gui.screen.WaystoneEditScreen": true,
     "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
     "gg.moonflower.etched.client.screen.RadioScreen": true,
-    "dev.hardaway.mannequins.client.screen.MannequinEditorScreen": true
+    "dev.hardaway.mannequins.client.screen.MannequinEditorScreen": true,
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
+    "com.natamus.starterkit_common_neoforge.inventory.StarterKitInventoryScreen": true
   }
 }

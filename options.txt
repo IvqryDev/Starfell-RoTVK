@@ -9,8 +9,8 @@ japaneseGlyphVariants:false
 fov:0.625
 fovEffectScale:0.0
 darknessEffectScale:1.0
-glintSpeed:0.3075117370892018
-glintStrength:0.8051643192488261
+glintSpeed:0.5023474178403756
+glintStrength:0.5093896713615023
 prioritizeChunkUpdates:0
 fullscreen:true
 gamma:0.0
@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:15
+renderDistance:20
 simulationDistance:5
 screenEffectScale:1.0
 soundDevice:""
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["vanilla","fabric","generated/fragmentum_layer","mod_resources","mod/wilderflowers:resourcepacks/wildflowers","moonlight:merged_pack","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\1 - Basic Resources","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\10 - Farcr\u0027s Better Dirt","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\11 - Fantasy Ores Stafell Compat","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\12 - Piglins Revamped","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\13 - Groovier Discs","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\14 - Farcr\u0027s Recrafted","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\15 - Laonstry\u0027s Foxes","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\16 - Corrupted Raven Phantoms","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\17 - Dungeon\u0027s Textures","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\18 - Probleye\u0027s Produce","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\2 - Reforged Boss Bars","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\20 - Visual Titles","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\21 - Bagel\u0027s Texture Tweaks","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\22 - Brush \u0026 Juice","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\23 - Lanostry\u0027s Journey","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\24 - Moberhaul","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\25 - Antique Atlas Compat","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\26 - Wisp Allays","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\27 - Excalibur Sounds","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\28 - Tutta\u0027s Runes","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\29 - Lanostry\u0027s Wolves","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\3 - Mandala\u0027s GUI","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\30 - Drodi\u0027s Illagers","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\31 - Drodi\u0027s Blazes","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\32 - Beyonder","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\33 - Sun and Moon Fusion","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\34 - Minecraft Kingdom","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\4 - Refined Armor","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\5 - Ender Dragon Reborn","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\6 - Fontolith","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\7 - Monumental","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\8 - Starfell Sounds","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\9 - Artisanal Nether Bricks"]
+resourcePacks:["vanilla","fabric","generated/fragmentum_layer","mod_resources","mod/wilderflowers:resourcepacks/wildflowers","moonlight:merged_pack","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\1 - Basic Resources","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\10 - Farcr\u0027s Better Dirt","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\11 - Fantasy Ores Stafell Compat","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\13 - Groovier Discs","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\14 - Farcr\u0027s Recrafted","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\15 - Laonstry\u0027s Foxes","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\16 - Corrupted Raven Phantoms","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\17 - Dungeon\u0027s Textures","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\18 - Probleye\u0027s Produce","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\20 - Visual Titles","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\21 - Bagel\u0027s Texture Tweaks","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\22 - Brush \u0026 Juice","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\23 - Lanostry\u0027s Journey","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\24 - Moberhaul","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\25 - Antique Atlas Compat","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\26 - Wisp Allays","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\27 - Excalibur Sounds","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\28 - Tutta\u0027s Runes","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\29 - Lanostry\u0027s Wolves","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\3 - Mandala\u0027s GUI","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\30 - Drodi\u0027s Illagers","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\31 - Drodi\u0027s Blazes","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\32 - Beyonder","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\4 - Refined Armor","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\5 - Ender Dragon Reborn","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\6 - Fontolith","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\7 - Monumental","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\8 - Starfell Sounds","openloader/C:\\Users\\user\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\config\\openloader\\packs\\9 - Artisanal Nether Bricks"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -77,7 +77,7 @@ rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:true
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -132,6 +132,7 @@ key_quark.keybind.camera_mode:key.keyboard.unknown
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.emote.no:key.keyboard.unknown
 key_quark.emote.yes:key.keyboard.unknown
 key_quark.emote.wave:key.keyboard.unknown
@@ -150,7 +151,6 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.change_hotbar:key.keyboard.unknown
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
@@ -160,6 +160,7 @@ key_quark.keybind.narrator_full_readout:key.keyboard.unknown
 key_quark.keybind.variant_selector:key.keyboard.unknown
 key_key.block_factorys_bosses.dodge_roll:key.keyboard.unknown
 key_accessories.key.open_accessories_screen:key.keyboard.unknown
+key_key.fieldguide.open:key.keyboard.b
 key_key.immersiveoverlays.toggle:key.keyboard.unknown
 key_key.immersiveoverlays.settings:key.keyboard.unknown
 key_keybinds.combat_roll.roll:key.mouse.5
