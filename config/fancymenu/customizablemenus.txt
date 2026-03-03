@@ -54,9 +54,9 @@ net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
 net.minecraft.client.gui.screens.options.LanguageSelectScreen {
 }
 
-net.blay09.mods.waystones.client.gui.screen.WaystoneEditScreen {
+io.wispforest.accessories.client.gui.AccessoriesScreen {
 }
 
-io.wispforest.accessories.client.gui.AccessoriesScreen {
+net.neoforged.neoforge.client.gui.ModListScreen {
 }
 
