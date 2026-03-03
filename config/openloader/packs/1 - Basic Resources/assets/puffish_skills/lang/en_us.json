@@ -1,0 +1,34 @@
+{
+	"text.puffish_skills.skills": "Prayers",
+	"text.puffish_skills.points_left": "Points left: ",
+
+	"tooltip.puffish_skills.current_level": "Current level: %s",
+	"tooltip.puffish_skills.experience_progress": "Experience: %s/%s (%s%%)",
+	"tooltip.puffish_skills.to_next_level": "To next level: %s",
+	"tooltip.puffish_skills.earned_points": "Earned points: %s",
+	"tooltip.puffish_skills.spent_points": "Spent points: %s",
+
+	"category.puffish_skills.skills": "Divine Prayer Attunement",
+	"key.puffish_skills.open": "Open Prayer Menu",
+
+	"chat.puffish_skills.new_point": "New attunement point! Press %s to open the Prayer Menu.",
+
+	"toast.puffish_skills.invalid_config.description": "ERROR 1 - Report this to the Starfell Discord server in the main menu!",
+	"toast.puffish_skills.missing_config.description": "ERROR 1 - Report this to the Starfell Discord server in the main menu!",
+
+	"gamerule.puffish_skills:announceNewPoints": "Announce new attunement points",
+
+	"command.puffish_skills.no_such_skill": "There is no prayer with ID %s",
+
+	"command.puffish_skills.skills.unlock.success.single": "Unlocked %s prayer in category %s for %s",
+	"command.puffish_skills.skills.unlock.success.multiple": "Unlocked %s prayer in category %s for %s players",
+
+	"command.puffish_skills.skills.lock.success.single": "Locked %s prayer in category %s for %s",
+	"command.puffish_skills.skills.lock.success.multiple": "Locked %s prayer in category %s for %s players",
+
+	"command.puffish_skills.skills.reset.success.single": "Reset all prayers in category %s for %s",
+	"command.puffish_skills.skills.reset.success.multiple": "Reset all prayers in category %s for %s players",
+
+	"command.puffish_skills.open.success.single": "Opened prayer menu screen for %s",
+	"command.puffish_skills.open.success.multiple": "Opened prayer menu screen for %s players"
+}
