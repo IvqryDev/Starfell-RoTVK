@@ -26,14 +26,14 @@
 	"irisSupport": true,
 	"cloudOverride": true,
 	"useIrisFBO": true,
-	"selectedPreset": 0,
+	"selectedPreset": 1,
 	"presets": [
 		{
 			"title": "Default",
 			"key": null,
 			"editable": true,
 			"upscale_resolution_factor": 1.0,
-			"gamma": 1.0,
+			"gamma": 5.0,
 			"sun_path_angle": 0.0,
 			"sunrise_start_time": -785,
 			"sunrise_end_time": 1163,
@@ -42,7 +42,7 @@
 			"day_brightness": 1.0,
 			"night_brightness": 1.0,
 			"saturation": 1.0,
-			"opacity": 0.35,
+			"opacity": 0.5,
 			"opacity_factor": 1.0,
 			"opacity_exponent": 1.5,
 			"tint_red": 1.0,
@@ -55,7 +55,7 @@
 			"key": "default",
 			"editable": false,
 			"upscale_resolution_factor": 1.0,
-			"gamma": 1.0,
+			"gamma": 5.0,
 			"sun_path_angle": 0.0,
 			"sunrise_start_time": -785,
 			"sunrise_end_time": 1163,
@@ -64,7 +64,7 @@
 			"day_brightness": 1.0,
 			"night_brightness": 1.0,
 			"saturation": 1.0,
-			"opacity": 0.2,
+			"opacity": 0.5,
 			"opacity_factor": 1.0,
 			"opacity_exponent": 1.5,
 			"tint_red": 1.0,
@@ -275,9 +275,7 @@
 	"gpuIncompatibleMessageEnabled": true,
 	"issueReportEnabled": true,
 	"enabledDimensions": [
-		"minecraft:overworld",
-		"bigglobe:overworld",
-		"me:middle_earth_type"
+		"minecraft:overworld"
 	],
 	"sereneSeasonsConfig": {
 		"transition_days": 2.0,
