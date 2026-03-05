@@ -1,10 +1,13 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:valcon:ashen_steel_handle",
+    "item:fishermens_trap:fishtrap",
+    "item:minecraft:shears",
+    "item:amendments:dragon_charge",
     "item:minecraft:end_crystal",
     "item:minecraft:dragon_breath",
     "item:supplementaries:dragon_banner_pattern",
-    "item:amendments:dragon_charge",
     "item:minecraft:glowstone_dust",
     "item:minecraft:anvil",
     "item:minecraft:chipped_anvil",
@@ -118,7 +121,6 @@
     "item:numismatic-overhaul:gold_coin",
     "item:numismatic-overhaul:silver_coin",
     "item:numismatic-overhaul:bronze_coin",
-    "item:minecraft:shears",
     "item:rogues:netherite_berserker_armor_legs",
     "item:rogues:netherite_berserker_armor_chest",
     "item:rogues:netherite_berserker_armor_head",

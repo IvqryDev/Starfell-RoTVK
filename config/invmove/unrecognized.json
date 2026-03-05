@@ -8,7 +8,9 @@
     "net.blay09.mods.waystones.client.gui.screen.WaystoneSelectionScreen": true,
     "dev.hardaway.mannequins.client.screen.MannequinEditorScreen": true,
     "net.minecraft.client.gui.screens.PauseScreen": true,
-    "com.natamus.starterkit_common_neoforge.inventory.StarterKitInventoryScreen": true
+    "com.natamus.starterkit_common_neoforge.inventory.StarterKitInventoryScreen": true,
+    "net.spell_engine.spellbinding.spellchoice.SpellChoiceScreen": true,
+    "dev.uraneptus.fishermens_trap.client.screen.FishtrapScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -21,6 +23,8 @@
     "gg.moonflower.etched.client.screen.RadioScreen": true,
     "dev.hardaway.mannequins.client.screen.MannequinEditorScreen": true,
     "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
-    "com.natamus.starterkit_common_neoforge.inventory.StarterKitInventoryScreen": true
+    "com.natamus.starterkit_common_neoforge.inventory.StarterKitInventoryScreen": true,
+    "net.spell_engine.spellbinding.spellchoice.SpellChoiceScreen": true,
+    "dev.uraneptus.fishermens_trap.client.screen.FishtrapScreen": true
   }
 }

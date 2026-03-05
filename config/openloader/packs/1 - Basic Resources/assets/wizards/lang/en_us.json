@@ -7,5 +7,27 @@
   "item.wizards.spell_scroll/frost": "Frost Stargazer Spell Scroll",
   "item.wizards.spell_book/arcane.spell_binding.description": "Spell Book of Arcane Stargazers, using pure energy to focus powerful attacks on single targets\n- Strengths: Focused magical damage against individual enemies\n- Weaknesses: Very low defense\n- Equipment: Lightly armored",
   "item.wizards.spell_book/fire.spell_binding.description": "Spell Book of Fire Stargazers, using fiery magic to defeat enemies both near and far\n- Strengths: Magical damage dealt at large areas\n- Weaknesses: Low defense and mobility\n- Equipment: Lightly armored",
-  "item.wizards.spell_book/frost.spell_binding.description": "Spell Book of Frost Stargazers, using cold magic to slow enemies and control the battlefield\n- Strengths: Magical damage that slows and freezes enemies\n- Weaknesses: Low defense and mobility\n- Equipment: Lightly armored"
+  "item.wizards.spell_book/frost.spell_binding.description": "Spell Book of Frost Stargazers, using cold magic to slow enemies and control the battlefield\n- Strengths: Magical damage that slows and freezes enemies\n- Weaknesses: Low defense and mobility\n- Equipment: Lightly armored",
+
+  "item.wizards.wand_netherite_arcane": "Ancient Metal Arcane Wand",
+  "item.wizards.wand_netherite_fire": "Ancient Metal Fire Wand",
+  "item.wizards.wand_netherite_frost": "Ancient Metal Frost Wand",
+  "item.wizards.staff_netherite_arcane": "Ancient Metal Arcane Staff",
+  "item.wizards.staff_netherite_fire": "Ancient Metal Fire Staff",
+  "item.wizards.staff_netherite_frost": "Ancient Metal Frost Staff",
+
+  "item.wizards.netherite_arcane_robe_head": "Ancient Metal Arcane Hat",
+  "item.wizards.netherite_arcane_robe_chest": "Ancient Metal Arcane Robe Top",
+  "item.wizards.netherite_arcane_robe_legs": "Ancient Metal Arcane Robe Bottom",
+  "item.wizards.netherite_arcane_robe_feet": "Ancient Metal Arcane Boots",
+
+  "item.wizards.netherite_fire_robe_head": "Ancient Metal Fire Hat",
+  "item.wizards.netherite_fire_robe_chest": "Ancient Metal Fire Robe Top",
+  "item.wizards.netherite_fire_robe_legs": "Ancient Metal Fire Robe Bottom",
+  "item.wizards.netherite_fire_robe_feet": "Ancient Metal Fire Boots",
+
+  "item.wizards.netherite_frost_robe_head": "Ancient Metal Frost Hat",
+  "item.wizards.netherite_frost_robe_chest": "Ancient Metal Frost Robe Top",
+  "item.wizards.netherite_frost_robe_legs": "Ancient Metal Frost Robe Bottom",
+  "item.wizards.netherite_frost_robe_feet": "Ancient Metal Frost Boots"
 }

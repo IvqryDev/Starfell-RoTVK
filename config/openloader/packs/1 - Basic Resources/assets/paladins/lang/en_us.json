@@ -16,19 +16,34 @@
   "item.paladins.crusader_armor_legs": "Ashen Crusader Legplates",
   "item.paladins.crusader_armor_feet": "Ashen Crusader Greaves",
 
-  "item.paladins.netherite_crusader_armor_head": "Netherite Crusader Helm",
-  "item.paladins.netherite_crusader_armor_chest": "Netherite Crusader Breastplate",
-  "item.paladins.netherite_crusader_armor_legs": "Netherite Crusader Legplates",
-  "item.paladins.netherite_crusader_armor_feet": "Netherite Crusader Greaves",
+  "item.paladins.netherite_crusader_armor_head": "Ancient Metal Crusader Helm",
+  "item.paladins.netherite_crusader_armor_chest": "Ancient Metal Crusader Breastplate",
+  "item.paladins.netherite_crusader_armor_legs": "Ancient Metal Crusader Legplates",
+  "item.paladins.netherite_crusader_armor_feet": "Ancient Metal Crusader Greaves",
+
+  "item.paladins.netherite_prior_robe_head": "Ancient Metal Prior Collar",
+  "item.paladins.netherite_prior_robe_chest": "Ancient Metal Prior Vestment",
+  "item.paladins.netherite_prior_robe_legs": "Ancient Metal Prior Trousers",
+  "item.paladins.netherite_prior_robe_feet": "Ancient Metal Prior Boots",
 
   "item.paladins.iron_claymore": "Iron Greatsword",
-  "item.paladins.golden_claymore": "Golden Greatsword",
-  "item.paladins.diamond_claymore": "Diamond Greatsword",
-  "item.paladins.netherite_claymore": "Netherite Greatsword",
+  "item.paladins.golden_claymore": "Gilded Greatsword",
+  "item.paladins.diamond_claymore": "First-Age Greatsword",
+  "item.paladins.netherite_claymore": "Ancient Metal Greatsword",
 
-  "item.paladins.stone_mace": "Stone Morningstar",
   "item.paladins.iron_mace": "Iron Morningstar",
-  "item.paladins.golden_mace": "Golden Morningstar",
-  "item.paladins.diamond_mace": "Diamond Morningstar",
-  "item.paladins.netherite_mace": "Netherite Morningstar"
+  "item.paladins.golden_mace": "Gilded Morningstar",
+  "item.paladins.diamond_mace": "First-Age Morningstar",
+  "item.paladins.netherite_mace": "Ancient Metal Morningstar",
+
+  "item.paladins.golden_great_hammer": "Gilded Great Hammer",
+  "item.paladins.diamond_great_hammer": "First-Age Great Hammer",
+  "item.paladins.netherite_great_hammer": "Ancient Metal Great Hammer",
+
+  "item.paladins.holy_wand": "Gilded Holy Wand",
+  "item.paladins.holy_staff": "Gilded Holy Staff",
+  "item.paladins.diamond_holy_wand": "First-Age Holy Wand",
+  "item.paladins.diamond_holy_staff": "First-Age Holy Staff",
+  "item.paladins.netherite_holy_wand": "Ancient Metal Holy Wand",
+  "item.paladins.netherite_holy_staff": "Ancient Metal Holy Staff"
 }
