@@ -1,20 +1,19 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "equipment",
+  "pattern": [
+    "#",
+    "/"
+  ],
   "key": {
-    "m": {
-      "item": "minecraft:diamond"
+    "#": {
+      "item": "oreganized:silver_ingot"
     },
-    "s": {
-      "item": "minecraft:stick"
+    "/": {
+      "item": "valcon:ashen_steel_handle"
     }
   },
-  "pattern": [
-    "m",
-    "s"
-  ],
   "result": {
-    "count": 1,
-    "id": "farmersdelight:diamond_knife"
+    "id": "farmersdelight:diamond_knife",
+    "count": 1
   }
 }

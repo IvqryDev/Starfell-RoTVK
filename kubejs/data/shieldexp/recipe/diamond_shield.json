@@ -7,10 +7,10 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:diamond"
+            "item": "oreganized:silver_ingot"
         },
         "/": {
-            "item": "minecraft:stick"
+            "item": "valcon:ashen_steel_handle"
         }
     },
     "result": {

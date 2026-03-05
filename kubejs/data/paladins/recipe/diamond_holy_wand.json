@@ -3,17 +3,17 @@
   "category": "equipment",
   "key": {
     "A": {
-      "item": "minecraft:diamond"
+      "item": "oreganized:silver_ingot"
     },
     "H": {
-      "item": "minecraft:iron_ingot"
+      "item": "valcon:ashen_steel_handle"
     },
-    "M": {
+    "C": {
       "item": "valcon:mythril_core"
     }
   },
   "pattern": [
-    "  M",
+    "  C",
     " A ",
     "H  "
   ],

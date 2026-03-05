@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "oreganized:silver_ingot"
+    },
+    "I": {
+      "item": "pigsteel:pigsteel_chunk"
+    },
+    "T": {
+      "item": "minecraft:iron_ingot"
+    },
+    "X": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    "IDI",
+    "XTX",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "archers:heavy_crossbow"
+  }
+}

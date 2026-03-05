@@ -33,7 +33,7 @@
   "item.minecraft.iron_sword": "Iron Broadsword",
   "item.minecraft.golden_sword": "Golden Broadsword",
   "item.minecraft.diamond_sword": "First-Age Broadsword",
-  "item.minecraft.netherite_sword": "Netherite Broadsword",
+  "item.minecraft.netherite_sword": "Ancient Metal Broadsword",
   "block.minecraft.lantern": "Iron Lantern",
   "block.minecraft.chiseled_bookshelf": "Chiseled Bookshelf",
   "item.minecraft.iron_boots": "Iron Greaves",
@@ -198,5 +198,17 @@
   "item.minecraft.diamond_hoe": "First-Age Hoe",
   "item.minecraft.diamond_horse_armor": "First-Age Horse Armor",
   "item.minecraft.smithing_template.netherite_upgrade.additions_slot_description": "Add Ancient Metal Ingot",
-  "item.minecraft.smithing_template.netherite_upgrade.applies_to": "First-Age Equipment"
+  "item.minecraft.smithing_template.netherite_upgrade.applies_to": "First-Age Equipment",
+  "subtitles.item.armor.equip_netherite": "Ancient Metal armor clanks",
+  "trim_material.minecraft.netherite": "Ancient Metal Material",
+  "upgrade.minecraft.netherite_upgrade": "Ancient Metal Upgrade",
+  "block.minecraft.netherite_block": "Block of Ancient Metal",
+  "item.minecraft.netherite_axe": "Ancient Metal Axe",
+  "item.minecraft.netherite_hoe": "Ancient Metal Hoe",
+  "item.minecraft.netherite_ingot": "Ancient Metal Ingot",
+  "item.minecraft.netherite_pickaxe": "Ancient Metal Pickaxe",
+  "item.minecraft.netherite_scrap": "Ancient Scrap",
+  "item.minecraft.netherite_shovel": "Ancient Metal Shovel",
+  "item.minecraft.smithing_template.netherite_upgrade.base_slot_description": "Add a First-Age or ashen armor, weapon, or tool.",
+  "item.minecraft.smithing_template.netherite_upgrade.ingredients": "Ancient Metal Ingot"
 }
