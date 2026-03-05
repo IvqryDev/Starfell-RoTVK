@@ -1,16 +1,21 @@
 {
-  "type": "minecraft:smithing_transform",
-  "addition": {
-    "item": "valcon:ashen_steel_ingot"
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "valcon:ashen_steel_handle"
+    },
+    "X": {
+      "item": "oreganized:silver_ingot"
+    }
   },
-  "base": {
-    "item": "minecraft:stick"
-  },
+  "pattern": [
+    "XXX",
+    "X# ",
+    " # "
+  ],
   "result": {
     "count": 1,
     "id": "newworld:ancient_mattock"
-  },
-  "template": {
-    "item": "newworld:mattock_crafting_template"
   }
 }
