@@ -6,11 +6,11 @@
 	"Dragon Health" = 250.0
 
 ["Boss Armor"]
-	"Knight Armor" = 0.0
+	"Dragon Armor" = 18.0
+	"Yeti Armor" = 12.0
 	#Max Armor : 30
-	"Sandworm Armor" = 20.0
-	"Yeti Armor" = 5.0
-	"Dragon Armor" = 25.0
+	"Sandworm Armor" = 14.0
+	"Knight Armor" = 10.0
 
 ["Base Boss Damages"]
 	#Not all damages sources depends on this variable !
