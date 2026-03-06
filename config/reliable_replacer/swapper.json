@@ -24,6 +24,8 @@
     "nomansland:red_flowerbed": "minecraft:short_grass",
 
     "oreganized:purple_datura": "nomansland:thistle",
-    "oreganized:datura": "nomansland:wild_mint"
+    "oreganized:datura": "nomansland:wild_mint",
+
+    "upgrade_aquatic:driftwood_log": "nomansland:pine_log"
   }
 }
