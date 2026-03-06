@@ -1,0 +1,11 @@
+{
+  "priority": 0,
+  "layer": "encounter",
+  "sound_event": "maestro_overture:music.this_house",
+  "condition": {
+    "type": "maestro:structure",
+    "values": [
+      "minecraft:mansion"
+    ]
+  }
+}

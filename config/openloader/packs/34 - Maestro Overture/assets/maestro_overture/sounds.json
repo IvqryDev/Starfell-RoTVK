@@ -1,0 +1,66 @@
+{
+  "music.black_vortex": {
+    "sounds": [
+      {
+        "name": "maestro_overture:black_vortex",
+        "stream": true
+      }
+    ]
+  },
+  "music.destiny_day": {
+    "sounds": [
+      {
+        "name": "maestro_overture:destiny_day",
+        "stream": true
+      }
+    ]
+  },
+  "music.desert_city": {
+    "sounds": [
+      {
+        "name": "maestro_overture:desert_city",
+        "stream": true
+      }
+    ]
+  },
+  "music.floating_cities": {
+    "sounds": [
+      {
+        "name": "maestro_overture:floating_cities",
+        "stream": true
+      }
+    ]
+  },
+  "music.corruption": {
+    "sounds": [
+      {
+        "name": "maestro_overture:corruption",
+        "stream": true
+      }
+    ]
+  },
+  "music.ghost_story": {
+    "sounds": [
+      {
+        "name": "maestro_overture:ghost_story",
+        "stream": true
+      }
+    ]
+  },
+  "music.this_house": {
+    "sounds": [
+      {
+        "name": "maestro_overture:this_house",
+        "stream": true
+      }
+    ]
+  },
+  "music.aquarium": {
+    "sounds": [
+      {
+        "name": "maestro_overture:aquarium",
+        "stream": true
+      }
+    ]
+  }
+}

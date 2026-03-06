@@ -1,0 +1,11 @@
+{
+  "priority": 0,
+  "layer": "encounter",
+  "sound_event": "maestro_overture:music.ghost_story",
+  "condition": {
+    "type": "maestro:structure",
+    "values": [
+      "minecraft:ancient_city"
+    ]
+  }
+}

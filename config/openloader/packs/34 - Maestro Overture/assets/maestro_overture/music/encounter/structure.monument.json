@@ -1,0 +1,11 @@
+{
+  "priority": 0,
+  "layer": "encounter",
+  "sound_event": "maestro_overture:music.aquarium",
+  "condition": {
+    "type": "maestro:structure",
+    "values": [
+      "minecraft:monument"
+    ]
+  }
+}
