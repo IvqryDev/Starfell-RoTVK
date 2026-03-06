@@ -3,16 +3,6 @@
   "pools": [
     {
       "bonus_rolls": 0,
-      "entries": [
-        {
-          "type": "minecraft:item",
-          "name": "skill_tree_rpgs:orb_of_oblivion"
-        }
-      ],
-      "rolls": 1
-    },
-    {
-      "bonus_rolls": 0,
       "conditions": [
         {
           "condition": "minecraft:killed_by_player"
@@ -47,5 +37,5 @@
       "rolls": 1
     }
   ],
-  "random_sequence": "minecraft:entities/evoker"
+  "random_sequence": "minecraft:entities/vindicator"
 }
