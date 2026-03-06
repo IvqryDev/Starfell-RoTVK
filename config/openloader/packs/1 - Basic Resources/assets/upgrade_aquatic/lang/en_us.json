@@ -1,9 +1,9 @@
 {
-  "entity.upgrade_aquatic.thrasher": "Soul Scourge",
-  "entity.upgrade_aquatic.great_thrasher": "Elden Soul Scourge",
+  "entity.upgrade_aquatic.thrasher": "Sea Scourge",
+  "entity.upgrade_aquatic.great_thrasher": "Elder Sea Scourge",
 
-  "item.upgrade_aquatic.thrasher_spawn_egg": "Soul Scourge Spawn Egg",
-  "item.upgrade_aquatic.great_thrasher_spawn_egg": "Elder Soul Scourge Spawn Egg",
+  "item.upgrade_aquatic.thrasher_spawn_egg": "Sea Scourge Spawn Egg",
+  "item.upgrade_aquatic.great_thrasher_spawn_egg": "Elder Sea Scourge Spawn Egg",
 
-  "item.upgrade_aquatic.thrasher_tooth": "Soul Scourge Tooth"
+  "item.upgrade_aquatic.thrasher_tooth": "Sea Scourge Tooth"
 }
