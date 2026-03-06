@@ -1,0 +1,10 @@
+#Cooldown for normal potions (in seconds)
+# Default: 10
+# Range: > 0
+normalPotionCD = 5
+#Cooldown for throwable potions (in seconds)
+# Default: 10
+# Range: > 0
+throwablePotionCD = 5
+#If normal and throwable potion go on cooldown at the same time, or if they have separate cooldowns
+syncPotionCooldowns = true
