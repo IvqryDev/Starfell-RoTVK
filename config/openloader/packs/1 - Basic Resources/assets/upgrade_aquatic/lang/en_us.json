@@ -1,0 +1,9 @@
+{
+  "entity.upgrade_aquatic.thrasher": "Scourge",
+  "entity.upgrade_aquatic.great_thrasher": "Elden Scourge",
+
+  "item.upgrade_aquatic.thrasher_spawn_egg": "Scourge Spawn Egg",
+  "item.upgrade_aquatic.great_thrasher_spawn_egg": "Elder Scourge Spawn Egg",
+
+  "item.upgrade_aquatic.thrasher_tooth": "Scourge Tooth"
+}
