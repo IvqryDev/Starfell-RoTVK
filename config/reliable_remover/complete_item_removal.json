@@ -586,7 +586,8 @@
             "minecraft:diamond_pickaxe",
             "minecraft:diamond_axe",
             "minecraft:diamond_hoe",
-            "newworld:mattock_crafting_template"
+            "newworld:mattock_crafting_template",
+            "valcon:ancient_fang"
         ]
     }
 ]
