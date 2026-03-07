@@ -40,7 +40,7 @@
 	#The amount of extra jump strength the Bunny Hoppers apply to players
 	#Range: -Infinity ~ Infinity
 	jumpStrengthBonus = 0.4
-	#Whether the Bunny Hoppers change the player.json's hurt sounds
+	#Whether the Bunny Hoppers change the player_roll.json.disabled's hurt sounds
 	#Allowed Values: true, false
 	modifyHurtSounds = true
 	#The amount of extra safe fall distance in blocks that is granted by the Bunny Hoppers
@@ -51,9 +51,9 @@
 	#Whether this item can be found in structures or drop from entities
 	#Allowed Values: true, false
 	generateAsLoot = true
-	#How much the Charm of Shrinking decreases or increases the player.json's Scale
-	#Values between -1 and 0 reduce the player.json's scale
-	#Values above 0 increase the player.json's scale
+	#How much the Charm of Shrinking decreases or increases the player_roll.json.disabled's Scale
+	#Values between -1 and 0 reduce the player_roll.json.disabled's scale
+	#Values above 0 increase the player_roll.json.disabled's scale
 	#Range: -Infinity ~ Infinity
 	scaleModifier = -0.5
 
@@ -84,7 +84,7 @@
 	#The amount of health points that are restored after the Chorus Totem activates
 	#Range: > 0
 	healthRestored = 6
-	#The probability that the Chorus Totem activates when a player.json dies
+	#The probability that the Chorus Totem activates when a player_roll.json.disabled dies
 	#Range: 0.0 ~ 1.0
 	teleportationChance = 1.0
 
@@ -117,7 +117,7 @@
 	mountSpeedBonus = 0.4
 
 [cross_necklace]
-	#The amount of extra ticks the player.json stays invincible for after taking damage while wearing the Cross Necklace
+	#The amount of extra ticks the player_roll.json.disabled stays invincible for after taking damage while wearing the Cross Necklace
 	#Range: -Infinity ~ Infinity
 	bonusInvincibilityTicks = 8.0
 	#The duration in seconds the Cross Necklace goes on cooldown for after activating
@@ -158,7 +158,7 @@
 	#The duration in seconds the Everlasting Beef goes on cooldown for after being eaten
 	#Range: 0 ~ 72000
 	cooldown = 15
-	#The probability that Everlasting Beef drops when a cow or mooshroom is killed by a player.json
+	#The probability that Everlasting Beef drops when a cow or mooshroom is killed by a player_roll.json.disabled
 	#Range: 0.0 ~ 1.0
 	dropRate = 0.002
 	#Whether the Everlasting Beef can be eaten
@@ -221,7 +221,7 @@
 	#The duration in seconds the Helium Flamingo goes on cooldown for when stopping flight
 	#Range: 0 ~ 72000
 	cooldown = 3
-	#The amount of time in seconds a player.json can fly with the Helium Flamingo before needing to recharge
+	#The amount of time in seconds a player_roll.json.disabled can fly with the Helium Flamingo before needing to recharge
 	#Range: 0 ~ 72000
 	flightDuration = 8
 	#Whether this item can be found in structures or drop from entities
@@ -235,7 +235,7 @@
 	#Whether this item can be found in structures or drop from entities
 	#Allowed Values: true, false
 	generateAsLoot = true
-	#Whether the Kitty Slippers change the player.json's hurt sounds
+	#Whether the Kitty Slippers change the player_roll.json.disabled's hurt sounds
 	#Allowed Values: true, false
 	modifyHurtSounds = true
 	#Whether the Kitty Slippers scare nearby creepers
@@ -466,7 +466,7 @@
 	#Whether this item can be found in structures or drop from entities
 	#Allowed Values: true, false
 	generateAsLoot = true
-	#Whether the Umbrella slows the player.json's falling speed when held
+	#Whether the Umbrella slows the player_roll.json.disabled's falling speed when held
 	#Allowed Values: true, false
 	isGlider = true
 	#Whether the Umbrella can be used as a shield

@@ -9,7 +9,7 @@
   // - By default the screens are EMPTY, you need FancyMenu to edit them and add the content you wish.
   // -------------------------------------------------------------------------------------------------------------
   // Whether or not to enable the welcome screen.
-  // This screen will appear the first time the player.json joins a world after installing the modpack,
+  // This screen will appear the first time the player_roll.json.disabled joins a world after installing the modpack,
   // you can edit it and add important info, links to discord or github issues, etc.
   "welcome_screen_enabled": true,
   // Whether or not to enable the update screen.

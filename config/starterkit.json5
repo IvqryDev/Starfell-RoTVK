@@ -3,12 +3,12 @@
 	"randomizeMultipleKitsToggle": false,
 	// Whether items that existed in the inventory, such as books added by other mods, should be added back to the inventory after the kit was set. If disabled, they'll be removed. You can still manually set them via the kit.
 	"addExistingItemsAfterKitSet": true,
-	// If potion/mob effect functionality should be enabled. This means that when creating a kit via /sk (add/set), it also saves the active effects the player.json has. And when handing out the starter kits, it adds the effects to new players.
+	// If potion/mob effect functionality should be enabled. This means that when creating a kit via /sk (add/set), it also saves the active effects the player_roll.json.disabled has. And when handing out the starter kits, it adds the effects to new players.
 	"usePotionEffectsInStarterKit": true,
 	// If kit names should be formatted. Each word will be capitalized.
 	"formatKitNames": true,
 	"chooseKitText": "Choose your kit.",
-	// Whether an announcement should be broadcasted to the server whenever a new player.json makes a kit choice. 'randomizeMultipleKitsToggle' must be disabled, and there must be at least 2 starter kits available.
+	// Whether an announcement should be broadcasted to the server whenever a new player_roll.json.disabled makes a kit choice. 'randomizeMultipleKitsToggle' must be disabled, and there must be at least 2 starter kits available.
 	"announcePlayerKitChoiceInDedicatedServer": false,
 	// Whether the starter kit should be re-set after the '/ftbteamislands create' command from FTB Team Islands. Does nothing when it's not installed.
 	"enableFTBIslandCreateCompatibility": false
