@@ -36,16 +36,7 @@
   "entityBlacklist": [
     "minecraft:armor_stand",
     "minecraft:giant",
-    "minecraft:illusioner",
-    "minecraft:armor_stand",
-    "minecraft:giant",
-    "minecraft:illusioner",
-    "quark:ancient_tree",
-    "quark:blue_blossom_tree",
-    "quark:lavender_blossom_tree",
-    "quark:orange_blossom_tree",
-    "quark:yellow_blossom_tree",
-    "quark:red_blossom_tree"
+    "minecraft:illusioner"
   ],
   "globalScanCommands": [],
   "categoryScanCommands": {},
