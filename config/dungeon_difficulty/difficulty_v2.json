@@ -196,7 +196,7 @@
         },
         {
           "zone_matches": {
-            "biome": "~desert|frozen|snowy|ice|jungle|mountains|peaks"
+            "biome": "~"
           },
           "difficulty": {
             "name": "adventure",
