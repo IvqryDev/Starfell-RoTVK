@@ -1,13 +1,21 @@
 {
-  "config_version": "2.0.17",
-  "config_datetime": "2026-02-10_17-18-31",
+  "config_version": "2.0.19",
+  "config_datetime": "2026-03-06_20-28-10",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": true,
     "enable_global_spacing_and_separation_modifier": true,
     "global_spacing_and_separation_modifier": 2.0
   },
-  "structure_namespaces": [],
+  "structure_namespaces": [
+    {
+      "name": "block_factorys_bosses",
+      "is_disabled": false,
+      "override_global_distance_from_world_center": false,
+      "min_distance_from_world_center": 256,
+      "max_distance_from_world_center": 0
+    }
+  ],
   "structures": [
     {
       "name": "minecraft:igloo",
@@ -42,12 +50,116 @@
       ]
     },
     {
-      "name": "minecraft:mansion",
-      "is_disabled": false,
+      "name": "archeological:deep_ruins_medium",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "archeological:deep_ruins_small",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "archeological:desert_ruins_medium",
+      "is_disabled": true,
       "whitelisted_biomes": [],
       "blacklisted_biomes": [],
       "step": "surface_structures",
-      "terrain_adaptation": "none"
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "archeological:desert_ruins_small",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "archeological:frozen_ruins_medium",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "archeological:frozen_ruins_small",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "archeological:rock_ruins_medium",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "archeological:rock_ruins_small",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "archeological:ruined_hut_medium",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "archeological:ruined_hut_small",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "archeological:underground_ruins_medium",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "archeological:underground_ruins_small",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "underground_structures",
+      "terrain_adaptation": "bury"
+    },
+    {
+      "name": "archeological:wasteland_ruins_medium",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "archeological:wasteland_ruins_small",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
     },
     {
       "name": "betterdungeons:small_nether_dungeon",
@@ -80,6 +192,46 @@
       "blacklisted_biomes": [],
       "step": "local_modifications",
       "terrain_adaptation": "none"
+    },
+    {
+      "name": "ivp:small_village_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ivp:small_village_plains",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ivp:small_village_savanna",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ivp:small_village_snowy",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
+    },
+    {
+      "name": "ivp:small_village_taiga",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_thin"
     },
     {
       "name": "nova_structures:bunker",
@@ -450,6 +602,94 @@
       ]
     },
     {
+      "name": "nova_structures:tavern_acacia",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:tavern_birch",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:tavern_cherry",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:tavern_dark_oak",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:tavern_desert",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:tavern_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:tavern_mangrove",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:tavern_oak",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:tavern_snowy",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:tavern_spruce",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:tavern_swamp",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
       "name": "nova_structures:toxic_lair",
       "is_disabled": true,
       "whitelisted_biomes": [],
@@ -490,6 +730,46 @@
       "terrain_adaptation": "beard_thin"
     },
     {
+      "name": "nova_structures:well_birch",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:well_dark_oak",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:well_jungle",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:well_oak",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
+      "name": "nova_structures:well_savana",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "beard_box"
+    },
+    {
       "name": "nova_structures:witch_villa",
       "is_disabled": true,
       "whitelisted_biomes": [],
@@ -504,6 +784,14 @@
         "#is_ocean",
         "#is_beach"
       ]
+    },
+    {
+      "name": "supplementaries:galleon",
+      "is_disabled": true,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": [],
+      "step": "surface_structures",
+      "terrain_adaptation": "none"
     }
   ],
   "structure_sets": [
@@ -511,6 +799,7 @@
       "spacing": 4,
       "separation": 2,
       "name": "abridged:bridges",
+      "is_disabled": false,
       "salt": 930457394,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -522,6 +811,7 @@
       "spacing": 46,
       "separation": 23,
       "name": "betterdungeons:skeleton_dungeons",
+      "is_disabled": false,
       "salt": 732581671,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -533,6 +823,7 @@
       "spacing": 10,
       "separation": 6,
       "name": "betterdungeons:small_dungeons",
+      "is_disabled": false,
       "salt": 34239823,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -544,6 +835,7 @@
       "spacing": 16,
       "separation": 10,
       "name": "betterdungeons:small_nether_dungeons",
+      "is_disabled": false,
       "salt": 998767517,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -555,6 +847,7 @@
       "spacing": 48,
       "separation": 24,
       "name": "betterdungeons:zombie_dungeons",
+      "is_disabled": false,
       "salt": 280667671,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -564,6 +857,7 @@
     },
     {
       "name": "minecraft:strongholds",
+      "is_disabled": false,
       "salt": 1,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": false,
@@ -575,6 +869,7 @@
       "spacing": 17,
       "separation": 4,
       "name": "minecraft:trail_ruins",
+      "is_disabled": false,
       "salt": 83469867,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -586,6 +881,7 @@
       "spacing": 50,
       "separation": 17,
       "name": "minecraft:villages",
+      "is_disabled": false,
       "salt": 213742069,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -601,6 +897,7 @@
       "spacing": 40,
       "separation": 10,
       "name": "minecraft:woodland_mansions",
+      "is_disabled": false,
       "salt": 10387319,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -613,6 +910,7 @@
       "spacing": 24,
       "separation": 4,
       "name": "newworld:buried_bunker",
+      "is_disabled": false,
       "salt": 1694767080,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -624,6 +922,7 @@
       "spacing": 16,
       "separation": 5,
       "name": "nomansland:desert_ruins",
+      "is_disabled": false,
       "salt": 4496,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -635,6 +934,7 @@
       "spacing": 10,
       "separation": 4,
       "name": "nomansland:small_dungeons",
+      "is_disabled": false,
       "salt": 9418,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
@@ -644,44 +944,12 @@
     },
     {
       "name": "nova_structures:end_castle",
+      "is_disabled": false,
       "salt": 1,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": false,
       "structure_weights": {
         "nova_structures:end_castle": 1
-      }
-    },
-    {
-      "spacing": 34,
-      "separation": 8,
-      "name": "nova_structures:villages_birch",
-      "salt": 10387312,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "nova_structures:village_birch": 1
-      }
-    },
-    {
-      "spacing": 34,
-      "separation": 8,
-      "name": "nova_structures:villages_jungle",
-      "salt": 10387312,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "nova_structures:village_jungle": 1
-      }
-    },
-    {
-      "spacing": 34,
-      "separation": 8,
-      "name": "nova_structures:villages_swamp",
-      "salt": 10387312,
-      "frequency": 1.0,
-      "override_global_spacing_and_separation_modifier": false,
-      "structure_weights": {
-        "nova_structures:village_swamp": 1
       }
     }
   ]
