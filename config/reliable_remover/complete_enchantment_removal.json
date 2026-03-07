@@ -12,10 +12,11 @@
     "minecraft:mending",
     "minecraft:flame",
     "minecraft:power",
+    "minecraft:sharpness",
+    "minecraft:protection",
     "minecraft:vanishing_curse",
     "minecraft:binding_curse",
-    "create:capacity",
-    "create:potato_recovery",
+    "soundattract:conceal",
     "supplementaries:stasis",
     "mynethersdelight:poaching",
     "combat_roll:multi_roll",
@@ -23,7 +24,6 @@
     "usefulspyglass:precision",
     "usefulspyglass:marking",
     "usefulspyglass:spotter",
-    "enchiridion:longshot",
     "spell_engine:spell_infinity",
     "allurement:obedience",
     "allurement:shockwave",
@@ -40,6 +40,9 @@
     "nova_structures:shulker_boss",
     "nova_structures:piercing",
     "nova_structures:outreach",
-    "nova_structures:photosynthesis"
+    "nova_structures:photosynthesis",
+    "nova_structures:power",
+    "piglinproliferation:bang",
+    "piglinproliferation:turning"
   ]
 }
