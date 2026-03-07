@@ -1,0 +1,9 @@
+{
+  "hominid:incendiary": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 9,
+      "operation": "BASE"
+    }
+  ]
+}

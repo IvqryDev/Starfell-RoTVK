@@ -1,0 +1,9 @@
+{
+  "hominid:bellman": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 13,
+      "operation": "BASE"
+    }
+  ]
+}
