@@ -12,8 +12,6 @@
     "minecraft:mending",
     "minecraft:flame",
     "minecraft:power",
-    "minecraft:sharpness",
-    "minecraft:protection",
     "minecraft:vanishing_curse",
     "minecraft:binding_curse",
     "soundattract:conceal",
@@ -41,7 +39,6 @@
     "nova_structures:piercing",
     "nova_structures:outreach",
     "nova_structures:photosynthesis",
-    "nova_structures:power",
     "piglinproliferation:bang",
     "piglinproliferation:turning"
   ]
