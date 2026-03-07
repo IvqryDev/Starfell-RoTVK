@@ -1,0 +1,114 @@
+{
+  "rogues:rogue_armor_feet": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.045,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:rogue_armor_legs": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.045,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:rogue_armor_chest": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.025,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:rogue_armor_head": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.025,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:assassin_armor_feet": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.05,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:assassin_armor_legs": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.05,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:assassin_armor_chest": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:assassin_armor_head": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:netherite_assassin_armor_feet": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.06,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:netherite_assassin_armor_legs": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.06,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:netherite_assassin_armor_chest": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:netherite_assassin_armor_head": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:deathmantle_armor_feet": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.07,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:deathmantle_armor_legs": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.07,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:deathmantle_armor_chest": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.05,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:deathmantle_armor_head": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.05,
+      "operation": "MULTIPLY_BASE"
+    }
+  ]
+}

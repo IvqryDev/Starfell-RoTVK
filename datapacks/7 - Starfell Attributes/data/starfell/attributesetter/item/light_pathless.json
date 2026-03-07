@@ -1,0 +1,30 @@
+{
+  "wizards:wizard_robe_feet": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.015,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:wizard_robe_legs": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.035,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:wizard_robe_chest": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.035,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:wizard_robe_head": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.015,
+      "operation": "MULTIPLY_BASE"
+    }
+  ]
+}

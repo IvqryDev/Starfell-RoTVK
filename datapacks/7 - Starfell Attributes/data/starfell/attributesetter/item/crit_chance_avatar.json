@@ -1,0 +1,114 @@
+{
+  "paladins:priest_armor_feet": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.015,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:priest_armor_legs": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.015,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:priest_armor_chest": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.015,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:priest_armor_head": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.015,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:prior_armor_feet": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:prior_armor_legs": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:prior_armor_chest": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:prior_armor_head": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:netherite_prior_armor_feet": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:netherite_prior_armor_legs": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:netherite_prior_armor_chest": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "paladins:netherite_prior_armor_head": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:avatar_armor_feet": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:avatar_armor_legs": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:avatar_armor_chest": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:avatar_armor_head": [
+    {
+      "attribute": "spell_power:critical_chance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "wizards:arcane_robe_feet": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:arcane_robe_legs": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:arcane_robe_chest": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:arcane_robe_head": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:fire_robe_feet": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:netherite_arcane_robe_feet": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.05,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:netherite_arcane_robe_legs": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.05,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:netherite_arcane_robe_chest": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "wizards:netherite_arcane_robe_head": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+
+
+
+
+
+  "armory_rpgs:astral_robe_feet": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.06,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:astral_robe_legs": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.06,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:astral_robe_chest": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:astral_robe_head": [
+    {
+      "attribute": "combat_roll:distance",
+      "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "rogues:warrior_armor_feet": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.015,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:warrior_armor_legs": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.035,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:warrior_armor_chest": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.035,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:warrior_armor_head": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.015,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:berserker_armor_feet": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.025,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:berserker_armor_legs": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.045,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:berserker_armor_chest": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.045,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:berserker_armor_head": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.025,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:netherite_berserker_armor_feet": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:netherite_berserker_armor_legs": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.05,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:netherite_berserker_armor_chest": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.05,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "rogues:netherite_berserker_armor_head": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:destroyer_armor_feet": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:destroyer_armor_legs": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.05,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:destroyer_armor_chest": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.05,
+      "operation": "MULTIPLY_BASE"
+    }
+  ],
+  "armory_rpgs:destroyer_armor_head": [
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.03,
+      "operation": "MULTIPLY_BASE"
+    }
+  ]
+}
