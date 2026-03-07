@@ -158,7 +158,6 @@
     "rpg_series:loot_tier/tier_0_weapons": [
       "archers:flint_spear",
       "paladins:acolyte_wand",
-      "rogues:flint_dagger",
       "wizards:wand_novice"
     ],
     "rpg_series:archetype/defense_weapon": [],
@@ -243,7 +242,6 @@
       "arsenal:unique_spear_1",
       "arsenal:unique_spear_2",
       "arsenal:unique_spear_sw",
-      "rogues:flint_dagger",
       "rogues:iron_dagger",
       "rogues:golden_dagger",
       "rogues:diamond_dagger",

@@ -587,7 +587,11 @@
             "minecraft:diamond_axe",
             "minecraft:diamond_hoe",
             "newworld:mattock_crafting_template",
-            "valcon:ancient_fang"
+            "valcon:ancient_fang",
+            "rogues:flint_dagger",
+            "farmersdelight:diamond_knife",
+            "farmersdelight:netherite_knife",
+            "farmersdelight:golden_knife"
         ]
     }
 ]
