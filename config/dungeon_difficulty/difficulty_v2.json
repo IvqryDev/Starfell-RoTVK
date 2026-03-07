@@ -53,21 +53,21 @@
               "attribute": "minecraft:generic.attack_damage",
               "operation": "MULTIPLY_BASE",
               "randomness": 0.0,
-              "value": 0.2,
+              "value": 0.3,
               "offset": 0.0
             },
             {
               "attribute": "minecraft:generic.armor",
               "operation": "ADDITION",
               "randomness": 0.0,
-              "value": 1.0,
+              "value": 1.5,
               "offset": 0.0
             },
             {
               "attribute": "minecraft:generic.max_health",
               "operation": "MULTIPLY_BASE",
               "randomness": 0.1,
-              "value": 0.25,
+              "value": 0.38,
               "offset": 0.0
             }
           ],
@@ -87,7 +87,7 @@
           },
           "spawners": {
             "spawn_range_multiplier": 0.0,
-            "spawn_count_multiplier": 0.5,
+            "spawn_count_multiplier": 0.75,
             "max_nearby_entities_multiplier": 0.25,
             "min_spawn_delay_multiplier": -0.1,
             "max_spawn_delay_multiplier": -0.1,
@@ -117,14 +117,14 @@
             "attribute": "minecraft:generic.armor",
             "operation": "MULTIPLY_BASE",
             "randomness": 0.0,
-            "value": 0.1,
+            "value": 0.2,
             "offset": 0.0
           },
           {
             "attribute": "minecraft:generic.max_health",
             "operation": "ADDITION",
             "randomness": 0.0,
-            "value": 1.0,
+            "value": 2.0,
             "offset": 0.0
           }
         ]
@@ -142,14 +142,14 @@
             "attribute": "damage",
             "operation": "MULTIPLY_BASE",
             "randomness": 0.05,
-            "value": 0.1,
+            "value": 0.15,
             "offset": 0.0
           },
           {
             "attribute": "power",
             "operation": "MULTIPLY_BASE",
             "randomness": 0.05,
-            "value": 0.1,
+            "value": 0.15,
             "offset": 0.0
           }
         ]
@@ -196,7 +196,7 @@
         },
         {
           "zone_matches": {
-            "biome": "~desert|frozen|snowy|ice|jungle"
+            "biome": "~desert|frozen|snowy|ice|jungle|mountains|peaks"
           },
           "difficulty": {
             "name": "adventure",
