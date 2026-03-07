@@ -31,5 +31,12 @@
       "value": 15,
       "operation": "BASE"
     }
+  ],
+  "minecraft:leather_horse_armor": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 10,
+      "operation": "BASE"
+    }
   ]
 }
