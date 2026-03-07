@@ -22,8 +22,8 @@
   "compass_x_items": [
     "minecraft:compass",
     "minecraft:recovery_compass",
-    "explorerscompass:explorers_compass",
-    "naturescompass:natures_compass"
+    "explorerscompass:explorerscompass",
+    "naturescompass:naturescompass"
   ],
   "compass_y_items": [
     "supplementaries:altimeter"
@@ -31,8 +31,8 @@
   "compass_z_items": [
     "minecraft:compass",
     "minecraft:recovery_compass",
-    "explorerscompass:explorers_compass",
-    "naturescompass:natures_compass"
+    "explorerscompass:explorerscompass",
+    "naturescompass:naturescompass"
   ],
   "clock_enable": true,
   "clock_current_time": true,
