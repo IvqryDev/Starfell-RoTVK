@@ -24,11 +24,11 @@
 		#The chance of a Thrasher spawning during the daytime
 		# Default: 0.75
 		# Range: 0.0 ~ 1.0
-		"Thrasher daytime spawn chance" = 0.0475
+		"Thrasher daytime spawn chance" = 0.0375
 		#The chance a Thrasher has of spawning as a Great Thrasher in Deep Frozen Oceans
 		# Default: 0.25
 		# Range: 0.0 ~ 1.0
-		"Great Thrasher spawn chance" = 0.1
+		"Great Thrasher spawn chance" = 0.55
 
 	[mobs.squid]
 		#If Squids give nearby entities Blindness when releasing ink
