@@ -3,8 +3,6 @@
   "mod": ["upgrade_aquatic"],
   "not": {
     "items": [
-      "upgrade_aquatic:cooked_pike",
-      "upgrade_aquatic:pike",
       "upgrade_aquatic:bedroll",
       "upgrade_aquatic:great_thrasher_spawn_egg",
       "upgrade_aquatic:thrasher_spawn_egg",
@@ -23,7 +21,6 @@
       "upgrade_aquatic:dead_rock_coral_fan",
       "upgrade_aquatic:dead_silk_coral_fan",
       "upgrade_aquatic:dead_chrome_coral_fan",
-      "upgrade_aquatic:pike_bucket",
       "upgrade_aquatic:luminous_prismarine_stairs",
       "upgrade_aquatic:elder_prismarine_coral_fan",
       "upgrade_aquatic:prismarine_coral_shower",
@@ -33,11 +30,6 @@
       "upgrade_aquatic:prismarine_rod",
       "upgrade_aquatic:thrasher_tooth",
       "upgrade_aquatic:kelp_block",
-      "upgrade_aquatic:perch_spawn_egg",
-      "upgrade_aquatic:cooked_perch",
-      "upgrade_aquatic:perch",
-      "upgrade_aquatic:perch_bucket",
-      "upgrade_aquatic:pike_spawn_egg",
       "upgrade_aquatic:branch_coral_fan",
       "upgrade_aquatic:rock_coral_fan",
       "upgrade_aquatic:prismarine_coral_fan",
@@ -88,8 +80,8 @@
       "upgrade_aquatic:moss_coral_block",
       "upgrade_aquatic:squid_bucket",
       "upgrade_aquatic:glow_squid_bucket",
-      "upgrade_aquatic:thrasher_bucket",
       "upgrade_aquatic:nautilus_spawn_egg",
+      "upgrade_aquatic:flare_spawn_egg",
       "upgrade_aquatic:embedded_ammonite"
     ]
   }
