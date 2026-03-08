@@ -23,3 +23,5 @@
 /config/iris.properties
 /config/fabric/indigo-renderer.properties
 /emi.json
+/fieldguide_cache/
+/cosmetics/
