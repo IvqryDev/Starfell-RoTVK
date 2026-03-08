@@ -1,41 +1,66 @@
 {
-  "mode": "strict",
+  "mode": "progressive",
   "stages": [
     {
-      "id": "nether_entry",
+      "id": "enlightened",
       "trigger": {
         "type": "dimension",
         "target": "minecraft:the_nether"
       },
-      "triggerMessage": "地核某处传来一阵悸动...",
-      "blacklist": [],
+      "triggerMessage": "The world trembles, gears turn in the deeps, and the darkness has been empowered...",
+      "blacklist": [
+        "quark:forgotten",
+        "friendsandfoes:illusioner",
+        "friendsandfoes:iceologer",
+        "takesapillager:skirmisher",
+        "upgrade_aquatic:great_thrasher"
+      ],
       "modifiers": {
-        "healthMultiplier": 1.5,
+        "healthMultiplier": 1.25,
         "healthAddition": 0.0,
-        "armorMultiplier": 2.0,
+        "armorMultiplier": 1.25,
         "armorAddition": 5.0,
-        "toughnessMultiplier": 2.0,
+        "toughnessMultiplier": 1.25,
         "toughnessAddition": 5.0,
-        "attackMultiplier": 2.0,
+        "attackMultiplier": 1.25,
         "attackAddition": 0.0
       }
     },
     {
-      "id": "dragon_kill",
+      "id": "fallen",
+      "trigger": {
+        "type": "kill",
+        "target": "minecraft:wither"
+      },
+      "triggerMessage": "The void beckons you, and The Tyrant has been enraged... The darkness has been empowered yet again...",
+      "blacklist": [],
+      "modifiers": {
+        "healthMultiplier": 1.25,
+        "healthAddition": 0.0,
+        "armorMultiplier": 1.2,
+        "armorAddition": 5.0,
+        "toughnessMultiplier": 1.25,
+        "toughnessAddition": 5.0,
+        "attackMultiplier": 1.25,
+        "attackAddition": 0.0
+      }
+    },
+    {
+      "id": "new_game_plus",
       "trigger": {
         "type": "kill",
         "target": "minecraft:ender_dragon"
       },
-      "triggerMessage": "似乎打破了某种未知的禁忌...",
+      "triggerMessage": "The Dark Tyrant has been slain, and with it your bloody journey has reached a close. - NG+ available! All enemies have been severely buffed!",
       "blacklist": [],
       "modifiers": {
-        "healthMultiplier": 2.0,
+        "healthMultiplier": 1.65,
         "healthAddition": 0.0,
-        "armorMultiplier": 2.0,
+        "armorMultiplier": 1.65,
         "armorAddition": 5.0,
-        "toughnessMultiplier": 2.0,
+        "toughnessMultiplier": 1.65,
         "toughnessAddition": 5.0,
-        "attackMultiplier": 2.0,
+        "attackMultiplier": 1.65,
         "attackAddition": 0.0
       }
     }
