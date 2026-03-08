@@ -36,7 +36,9 @@
   "entityBlacklist": [
     "minecraft:armor_stand",
     "minecraft:giant",
-    "minecraft:illusioner"
+    "minecraft:illusioner",
+    "shades:shade",
+    "supplementaries:red_merchant"
   ],
   "globalScanCommands": [],
   "categoryScanCommands": {},
