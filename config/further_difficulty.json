@@ -1,0 +1,43 @@
+{
+  "mode": "strict",
+  "stages": [
+    {
+      "id": "nether_entry",
+      "trigger": {
+        "type": "dimension",
+        "target": "minecraft:the_nether"
+      },
+      "triggerMessage": "地核某处传来一阵悸动...",
+      "blacklist": [],
+      "modifiers": {
+        "healthMultiplier": 1.5,
+        "healthAddition": 0.0,
+        "armorMultiplier": 2.0,
+        "armorAddition": 5.0,
+        "toughnessMultiplier": 2.0,
+        "toughnessAddition": 5.0,
+        "attackMultiplier": 2.0,
+        "attackAddition": 0.0
+      }
+    },
+    {
+      "id": "dragon_kill",
+      "trigger": {
+        "type": "kill",
+        "target": "minecraft:ender_dragon"
+      },
+      "triggerMessage": "似乎打破了某种未知的禁忌...",
+      "blacklist": [],
+      "modifiers": {
+        "healthMultiplier": 2.0,
+        "healthAddition": 0.0,
+        "armorMultiplier": 2.0,
+        "armorAddition": 5.0,
+        "toughnessMultiplier": 2.0,
+        "toughnessAddition": 5.0,
+        "attackMultiplier": 2.0,
+        "attackAddition": 0.0
+      }
+    }
+  ]
+}
