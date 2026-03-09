@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bedroll",
+  "key": {
+    "1": {
+      "item": "farmersdelight:canvas"
+    },
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "pattern": [
+    "322",
+    "111"
+  ],
+  "result": {
+    "count": 1,
+    "id": "upgrade_aquatic:bedroll"
+  }
+}
