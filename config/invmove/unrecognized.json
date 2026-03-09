@@ -10,7 +10,9 @@
     "net.minecraft.client.gui.screens.PauseScreen": true,
     "com.natamus.starterkit_common_neoforge.inventory.StarterKitInventoryScreen": true,
     "net.spell_engine.spellbinding.spellchoice.SpellChoiceScreen": true,
-    "dev.uraneptus.fishermens_trap.client.screen.FishtrapScreen": true
+    "dev.uraneptus.fishermens_trap.client.screen.FishtrapScreen": true,
+    "org.violetmoon.quark.addons.oddities.client.screen.CrateScreen": true,
+    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -25,6 +27,8 @@
     "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
     "com.natamus.starterkit_common_neoforge.inventory.StarterKitInventoryScreen": true,
     "net.spell_engine.spellbinding.spellchoice.SpellChoiceScreen": true,
-    "dev.uraneptus.fishermens_trap.client.screen.FishtrapScreen": true
+    "dev.uraneptus.fishermens_trap.client.screen.FishtrapScreen": true,
+    "org.violetmoon.quark.addons.oddities.client.screen.CrateScreen": true,
+    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true
   }
 }
