@@ -20,7 +20,7 @@
 		#The chance of a Thrasher spawning during the daytime
 		# Default: 0.75
 		# Range: 0.0 ~ 1.0
-		"Thrasher daytime spawn chance" = 0.03
+		"Thrasher daytime spawn chance" = 0.0425
 		#The max height that Thrashers can spawn at
 		# Default: 30
 		# Range: -64 ~ 320
