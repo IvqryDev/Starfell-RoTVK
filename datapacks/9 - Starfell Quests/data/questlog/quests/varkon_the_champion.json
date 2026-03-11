@@ -1,16 +1,11 @@
 {
-  "triggers": [],
+  "requirements": [],
   "objectives": [
     {
       "type": "questlog:item_obtain",
-      "total": 1,
       "item": "armory_rpgs:champion_upgrade_crystal",
-      "display": {
-        "name": "Obtain the Champions lost crystal.",
-        "icon": {
-          "item": "armory_rpgs:champion_upgrade_crystal"
-        }
-      }
+      "required_amount": 1,
+      "name": "Obtain the Champions lost crystal."
     }
   ],
   "rewards": [
@@ -25,11 +20,9 @@
       }
     }
   ],
-  "display": {
-    "title": "Varkon The Champion",
-    "description": "Verul The Redeemer, fourth of the six Valcons, left behind this jewel for those he deems worthy. This crystal grants the ability to unlock the devastating strength of the savager and legionnaire.\n\n- ??? to the Valcon Knight",
-    "icon": {
-      "item": "armory_rpgs:champion_upgrade_crystal"
-    }
+  "title": "Varkon The Champion",
+  "description": "Verul The Redeemer, fourth of the six Valcons, left behind this jewel for those he deems worthy. This crystal grants the ability to unlock the devastating strength of the savager and legionnaire.\n\n- ??? to the Valcon Knight",
+  "icon": {
+    "item": "armory_rpgs:champion_upgrade_crystal"
   }
 }

@@ -1,10 +1,19 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:valcon:lembas",
+    "item:nomansdelight:nut_bun",
+    "item:minersdelight:nutritional_bar",
+    "item:minersdelight:golden_nutritional_bar",
+    "item:farmersdelight:wheat_dough",
+    "item:mynethersdelight:ghasta",
+    "item:mynethersdelight:ghasmati",
+    "item:mynethersdelight:ghast_dough",
+    "item:mynethersdelight:ghast_sourdough",
+    "item:upgrade_aquatic:bedroll",
     "item:upgrade_aquatic:kelp_block",
     "item:nomansland:explosive",
     "item:farmersdelight:canvas_rug",
-    "item:upgrade_aquatic:bedroll",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"upgrade_aquatic:restfulness\"}}",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"upgrade_aquatic:insomnia\"}}",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:harming\"}}",
@@ -211,7 +220,10 @@
     "item:minecraft:stone_pickaxe",
     "item:minecraft:stone_shovel"
   ],
-  "craft_history": [],
+  "craft_history": [
+    "minecraft:leather",
+    "minecraft:hide_scraps"
+  ],
   "recipe_defaults": {
     "added": [],
     "tags": {},

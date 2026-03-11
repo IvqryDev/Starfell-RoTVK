@@ -1,16 +1,11 @@
 {
-  "triggers": [],
+  "requirements": [],
   "objectives": [
     {
       "type": "questlog:item_obtain",
-      "total": 1,
       "item": "armory_rpgs:redeemer_upgrade_crystal",
-      "display": {
-        "name": "Obtain the Redeemer's lost crystal.",
-        "icon": {
-          "item": "armory_rpgs:redeemer_upgrade_crystal"
-        }
-      }
+      "required_amount": 1,
+      "name": "Obtain the Redeemer's lost crystal."
     }
   ],
   "rewards": [
@@ -25,11 +20,9 @@
       }
     }
   ],
-  "display": {
-    "title": "Verul The Redeemer",
-    "description": "Verul The Redeemer, third of the six Valcons, left behind this jewel for those she deems worthy. This crystal grants the ability to unlock the holy energy of the justicars and avatars.\n\n- ??? to the Valcon Knight",
-    "icon": {
-      "item": "armory_rpgs:redeemer_upgrade_crystal"
-    }
+  "title": "Verul The Redeemer",
+  "description": "Verul The Redeemer, third of the six Valcons, left behind this jewel for those she deems worthy. This crystal grants the ability to unlock the holy energy of the justicars and avatars.\n\n- ??? to the Valcon Knight",
+  "icon": {
+    "item": "armory_rpgs:redeemer_upgrade_crystal"
   }
 }

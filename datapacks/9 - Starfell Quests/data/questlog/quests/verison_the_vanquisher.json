@@ -1,16 +1,11 @@
 {
-  "triggers": [],
+  "requirements": [],
   "objectives": [
     {
       "type": "questlog:item_obtain",
-      "total": 1,
       "item": "armory_rpgs:vanquisher_upgrade_crystal",
-      "display": {
-        "name": "Obtain the Vanquisher's lost crystal.",
-        "icon": {
-          "item": "armory_rpgs:vanquisher_upgrade_crystal"
-        }
-      }
+      "required_amount": 1,
+      "name": "Obtain the Vanquisher's lost crystal."
     }
   ],
   "rewards": [
@@ -25,11 +20,9 @@
       }
     }
   ],
-  "display": {
-    "title": "Verison The Vanquisher",
-    "description": "Verison The Vanquisher, second of the six Valcons, left behind this jewel for those he deems worthy. This crystal grants the ability to unlock the raw power of the frost stargazer and lancers.\n\n- ??? to the Valcon Knight",
-    "icon": {
-      "item": "armory_rpgs:vanquisher_upgrade_crystal"
-    }
+  "title": "Verison The Vanquisher",
+  "description": "Verison The Vanquisher, second of the six Valcons, left behind this jewel for those he deems worthy. This crystal grants the ability to unlock the raw power of the frost stargazer and lancers.\n\n- ??? to the Valcon Knight",
+  "icon": {
+    "item": "armory_rpgs:vanquisher_upgrade_crystal"
   }
 }

@@ -1,0 +1,8 @@
+{
+  "icon": {
+    "item": "valcon:enchanting_guide"
+  },
+  "order": 0,
+  "default_chapter": true,
+  "hidden": false
+}

@@ -1,16 +1,11 @@
 {
-  "triggers": [],
+  "requirements": [],
   "objectives": [
     {
       "type": "questlog:item_obtain",
-      "total": 1,
       "item": "armory_rpgs:conqueror_upgrade_crystal",
-      "display": {
-        "name": "Obtain the Conquerer's lost crystal.",
-        "icon": {
-          "item": "armory_rpgs:conqueror_upgrade_crystal"
-        }
-      }
+      "required_amount": 1,
+      "name": "Obtain the Conquerer's lost crystal."
     }
   ],
   "rewards": [
@@ -25,11 +20,9 @@
       }
     }
   ],
-  "display": {
-    "title": "Verocon The Conqueror",
-    "description": "Verocon The Conqueror, first of the six Valcons, left behind this jewel for those he deems worthy. This crystal grants the ability to unlock the sacred power of the arcane and flame stargazer.\n\n- ??? to the Valcon Knight",
-    "icon": {
-      "item": "armory_rpgs:conqueror_upgrade_crystal"
-    }
+  "title": "Verocon The Conqueror",
+  "description": "Verocon The Conqueror, first of the six Valcons, left behind this jewel for those he deems worthy. This crystal grants the ability to unlock the sacred power of the arcane and flame stargazer.\n\n- ??? to the Valcon Knight",
+  "icon": {
+    "item": "armory_rpgs:conqueror_upgrade_crystal"
   }
 }
