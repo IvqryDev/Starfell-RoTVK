@@ -279,7 +279,6 @@ ItemEvents.modification(event => {
     maxDura('armory_rpgs:strider_armor_chest', 6174)
     maxDura('armory_rpgs:strider_armor_legs', 6174)
     maxDura('armory_rpgs:strider_armor_feet', 6174)
-    maxDura('vc_gliders:paraglider_wood', 256)
 	maxDura('newworld:ancient_mattock', 5120)
 	maxDura('minecraft:mace', 2560)
 	maxDura('oreganized:scribe', 2560)
