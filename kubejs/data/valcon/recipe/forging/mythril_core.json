@@ -1,0 +1,22 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "oreganized:silver_ingot"
+    },
+    {
+      "item": "oreganized:silver_ingot"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    },
+    {
+      "item": "minecraft:ghast_tear"
+    }
+  ],
+  "result": {
+    "id": "valcon:mythril_core",
+    "count": 1
+  },
+  "cookingtime": 600
+}
