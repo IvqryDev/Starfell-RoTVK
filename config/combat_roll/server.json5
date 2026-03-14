@@ -10,13 +10,13 @@
 	// Allows combat roll while the player has its weapon on cooldown
 	"allow_rolling_while_weapon_cooldown": true,
 	// Allows combat roll while the player is in the air. WARNING! Setting this to `true` breaks roll distance attribute and enchantment
-	"allow_rolling_while_airborn": false,
+	"allow_rolling_while_airborn": true,
 	// The amount of exhaust (hunger) to be added to the player on every roll
-	"exhaust_on_roll": 2.0,
+	"exhaust_on_roll": 1.0,
 	// The amount of food level above which players can do a roll
-	"food_level_required": 8.0,
+	"food_level_required": 1.0,
 	// The cooldown duration of the combat roll ability expressed in seconds
-	"roll_cooldown": 1.100000023841858,
+	"roll_cooldown": 0.95,
 	// Default roll distance attribute is `3`. Settings this to `1` will make it `4`. Warning! Attribute based scaling does not effect this.
 	"additional_roll_distance": -1.25
 }
