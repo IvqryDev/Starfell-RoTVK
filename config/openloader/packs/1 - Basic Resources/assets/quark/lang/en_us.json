@@ -454,7 +454,7 @@
 	"quark.misc.variant_tooltip_hold_shift": "(SHIFT for Variants)",
 	"quark.misc.variant_tooltip_header": "Variants:",
 	"quark.misc.disable_slot": "Click to Disable Slot",
-	"quark.misc.totem_darksouls": "You feel a sense of dread as a previous Totem of Holding shatters",
+	"quark.misc.totem_darksouls": "You feel a sense of dread as your previous Soul of Remembrance shatters...",
 
 	"quark.misc.you_came_to_the_wrong_neighborhood.0": "Six letter word just to get me along",
 	"quark.misc.you_came_to_the_wrong_neighborhood.1": "It's a intricacy and I'm coding on my mod and I,",
@@ -1397,7 +1397,7 @@
 	"entity.quark.pickarang": "Pickarang",
 	"entity.quark.glass_frame": "Glass Item Frame",
 	"entity.quark.dyed_item_frame": "Dyed Item Frame",
-	"entity.quark.totem": "Totem of Holding",
+	"entity.quark.totem": "Soul of Remembrance",
 	"entity.quark.stoneling": "Dwarf",
 	"entity.quark.gravisand": "Floating Gravisand",
 	"entity.quark.crab": "Crab",
