@@ -1,15 +1,19 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "#DD",
-        "DD "
+        "#D ",
+        "DGD",
+        " D "
     ],
     "key": {
         "#": {
-            "item": "minecraft:apple"
+            "item": "minecraft:amethyst_shard"
         },
         "D": {
-            "item": "minecraft:diamond"
+            "item": "oreganized:silver_ingot"
+        },
+        "G": {
+            "item": "minecraft:golden_apple"
         }
     },
     "result": {
