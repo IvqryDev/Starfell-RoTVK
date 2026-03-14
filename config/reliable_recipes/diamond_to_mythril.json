@@ -1,0 +1,7 @@
+[
+  {
+    "action": "replace_input",
+    "target": "minecraft:diamond",
+    "replacement": "oreganized:silver_ingot"
+  }
+]
