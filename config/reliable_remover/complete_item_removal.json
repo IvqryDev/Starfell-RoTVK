@@ -591,7 +591,12 @@
             "rogues:flint_dagger",
             "farmersdelight:diamond_knife",
             "farmersdelight:netherite_knife",
-            "farmersdelight:golden_knife"
+            "farmersdelight:golden_knife",
+            "archeological:diamond_charm",
+            "minecraft:diamond",
+            "minecraft:diamond_ore",
+            "minecraft:deepslate_diamond_ore",
+            "minecraft:diamond_block"
         ]
     }
 ]

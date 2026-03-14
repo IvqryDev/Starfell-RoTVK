@@ -23,6 +23,10 @@
     "nomansland:yellow_flowerbed": "minecraft:short_grass",
     "nomansland:red_flowerbed": "minecraft:short_grass",
 
-    "upgrade_aquatic:driftwood_log": "nomansland:pine_log"
+    "upgrade_aquatic:driftwood_log": "nomansland:pine_log",
+
+    "minecraft:diamond_ore": "oreganized:silver_ore",
+    "minecraft:deepslate_diamond_ore": "oreganized:deepslate_silver_ore",
+    "minecraft:diamond_block": "oreganized:silver_block"
   }
 }
