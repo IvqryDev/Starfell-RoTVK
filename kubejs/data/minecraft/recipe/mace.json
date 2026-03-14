@@ -1,6 +1,5 @@
 {
-  "type": "create:mechanical_crafting",
-  "accept_mirrored": true,
+  "type": "minecraft:crafting_shaped",
   "key": {
     "H": {
       "item": "minecraft:heavy_core"
@@ -13,10 +12,9 @@
     }
   },
   "pattern": [
-    "SHS",
-    " S ",
+    "  H",
     " B ",
-    " S "
+    "S  "
   ],
   "result": {
     "count": 1,
