@@ -1,6 +1,6 @@
 {
   "icon": {
-    "item": "minecraft:knowledge_book"
+    "item": "valcon:enchanting_guide"
   },
   "default_chapter": true,
   "hidden": false
