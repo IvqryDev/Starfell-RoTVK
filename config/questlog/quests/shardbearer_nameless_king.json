@@ -1,0 +1,32 @@
+{
+  "objectives": [
+    {
+      "type": "questlog:item_obtain",
+      "item": "valcon:shard_of_souls",
+      "required_amount": 1,
+      "name": "Slay the Nameless King, Phantasmal Night."
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "relics_rpgs:greater_perk_shield_reset",
+      "display": {
+        "name": "1x Etienne's Enigma",
+        "icon": {
+          "item": "relics_rpgs:greater_perk_shield_reset"
+        }
+      }
+    },
+    {
+      "type": "questlog:item",
+      "item": "valcon:crystals",
+      "display": {
+        "name": "1x Valcon Crystal",
+        "icon": {
+          "item": "armory_rpgs:conqueror_upgrade_crystal"
+        }
+      }
+    }
+  ]
+}

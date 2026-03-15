@@ -1,0 +1,23 @@
+{
+  "objectives": [
+    {
+      "type": "questlog:entity_kill",
+      "entity": "minecraft:ender_dragon",
+      "required_amount": 1,
+      "name": "Kill Umbrocron and fulfill your purpose."
+    }
+  ],
+  "rewards": [
+    {
+      "type": "questlog:item",
+      "item": "minecraft:end_crystal",
+      "count": 4,
+      "display": {
+        "name": "4x Shadow Crystals - Try the fight again!",
+        "icon": {
+          "item": "minecraft:end_crystal"
+        }
+      }
+    }
+  ]
+}

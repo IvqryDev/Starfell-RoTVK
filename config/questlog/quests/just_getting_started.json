@@ -1,0 +1,11 @@
+{
+  "objectives": [
+    {
+      "type": "questlog:quest_complete",
+      "quest": "questlog:finality_the_dark_dragon",
+      "required_amount": 1,
+      "name": "Finish the main campaign."
+    }
+  ],
+  "rewards": []
+}
