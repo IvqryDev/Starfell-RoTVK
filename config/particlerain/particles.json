@@ -1,5 +1,7 @@
 {
-  "rain": {},
+  "rain": {
+    "size": 0.75
+  },
   "heavy_dust": {},
   "mist_after_rain": {
     "enabled": false
