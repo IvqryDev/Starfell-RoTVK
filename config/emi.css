@@ -212,7 +212,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 9, 8;
+	right-sidebar-size: 9, 7;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -448,7 +448,7 @@
 	 * Whether development functions should be enabled. Not recommended for general
 	 * play.
 	 */
-	dev-mode: true;
+	dev-mode: false;
 
 	/**
 	 * Whether editing the index is enabled
