@@ -23,7 +23,7 @@
 		"showEquippedStackSlotType": true,
 		"entityLooksAtMouseCursor": false,
 		"allowSideBarCraftingGrid": true,
-		"showGroupTabs": true,
+		"showGroupTabs": false,
 		"hoveredOptions": {
 			"brightenHovered": true,
 			"cycleBrightness": true,
