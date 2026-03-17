@@ -17,7 +17,12 @@
     "rogues:netherite_sickle",
     "arsenal:unique_sickle_1",
     "arsenal:unique_sickle_2",
-    "arsenal:unique_sickle_sw"
+    "arsenal:unique_sickle_sw",
+    "shieldexp:wooden_shield",
+    "oreganized:electrum_shield",
+    "minecraft:shield",
+    "shieldexp:golden_shield",
+    "artifacts:umbrella"
   ],
   "shieldBlacklist": [],
   "itemOnlyMode": false,
