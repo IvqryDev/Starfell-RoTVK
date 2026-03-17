@@ -3,7 +3,6 @@
   "mod": ["upgrade_aquatic"],
   "not": {
     "items": [
-      "upgrade_aquatic:bedroll",
       "upgrade_aquatic:great_thrasher_spawn_egg",
       "upgrade_aquatic:thrasher_spawn_egg",
       "upgrade_aquatic:lionfish_bucket",
