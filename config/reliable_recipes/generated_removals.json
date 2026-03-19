@@ -22,7 +22,9 @@
       "crafting:repairing/skill_tree_rpgs/orb_of_oblivion",
       "skill_trees_rpgs:orb_of_oblivion",
       "minecraft:dried_ghast",
-      "minecraft:painting"
+      "minecraft:painting",
+      "minersdelight:cutting/cutting/bat_wing",
+      "emi_loot:/mob_drops/upgrade_aquatic/entities/flare"
     ]
   }
 ]
