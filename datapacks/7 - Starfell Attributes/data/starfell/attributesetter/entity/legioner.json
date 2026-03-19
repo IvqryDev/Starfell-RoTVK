@@ -1,0 +1,9 @@
+{
+  "takesapillage:skirmisher": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 16,
+      "operation": "BASE"
+    }
+  ]
+}

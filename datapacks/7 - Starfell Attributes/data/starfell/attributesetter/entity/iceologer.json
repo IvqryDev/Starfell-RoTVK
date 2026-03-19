@@ -1,0 +1,9 @@
+{
+  "friendsandfoes:iceologer": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 11,
+      "operation": "BASE"
+    }
+  ]
+}

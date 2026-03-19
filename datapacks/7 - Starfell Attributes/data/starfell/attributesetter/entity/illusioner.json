@@ -1,0 +1,9 @@
+{
+  "friendsandfoes:illusioner": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 14,
+      "operation": "BASE"
+    }
+  ]
+}

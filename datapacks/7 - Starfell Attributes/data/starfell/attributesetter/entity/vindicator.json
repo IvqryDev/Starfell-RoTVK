@@ -1,0 +1,9 @@
+{
+  "minecraft:vindicator": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 19,
+      "operation": "BASE"
+    }
+  ]
+}
