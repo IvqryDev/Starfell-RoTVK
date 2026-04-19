@@ -1,0 +1,4 @@
+[05:00:28] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[05:00:28] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_INCOMPATIBLE_PRESELECTED zfastnoise 1.0.11+1.21 {depends fabricloader @ [>=0.18.4]}, ROOT_FORCELOAD_SINGLE zfastnoise 1.0.11+1.21]
+[05:00:28] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP zfastnoise 1.0.11+1.21 {depends fabricloader @ [>=0.18.4]}]
+[05:00:28] [INFO] [FabricLoader/Resolution]: Fix: add [], remove [], replace [[fabricloader 0.17.x] -> add:fabricloader 0.18.4 ([[0.18.4,∞)])]

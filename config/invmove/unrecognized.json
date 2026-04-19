@@ -15,7 +15,8 @@
     "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true,
     "dev.yurisuika.raised.client.gui.screens.RaisedScreen": true,
     "org.infernalstudios.questlog.client.gui.screen.QuestlogScreen": true,
-    "net.puffish.skillsmod.client.gui.SkillsScreen": true
+    "net.puffish.skillsmod.client.gui.SkillsScreen": true,
+    "de.keksuccino.fancymenu.customization.customgui.CustomGuiBaseScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
