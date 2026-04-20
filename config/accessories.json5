@@ -5,7 +5,12 @@
 		"forceNullRenderReplacement": false,
 		"disableEmptySlotScreenError": false,
 		"showCosmeticAccessories": false,
-		"disabledDefaultRenders": []
+		"disabledDefaultRenders": [
+			{
+				"slotType": "back",
+				"targetType": "ALL"
+			}
+		]
 	},
 	"screenOptions": {
 		"selectedScreenType": "ORIGINAL",
