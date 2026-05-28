@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-	"particle": "brewinandchewin:item/vegetable_omelet_particle",
-    "layer0": "brewinandchewin:item/vegetable_omelet"
-  }
-}

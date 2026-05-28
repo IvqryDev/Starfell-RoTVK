@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-	"particle": "brewinandchewin:item/cheesy_pasta_particle",
-    "layer0": "brewinandchewin:item/cheesy_pasta"
-  }
-}

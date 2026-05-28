@@ -2,7 +2,20 @@
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.mixin.out" />
+      <excludeFolder url="file://$MODULE_DIR$/.spyglass_astronomy" />
+      <excludeFolder url="file://$MODULE_DIR$/data" />
+      <excludeFolder url="file://$MODULE_DIR$/defaultconfigs" />
+      <excludeFolder url="file://$MODULE_DIR$/downloads" />
+      <excludeFolder url="file://$MODULE_DIR$/dynamic-data-pack-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/dynamic-resource-pack-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/local" />
+      <excludeFolder url="file://$MODULE_DIR$/moddata" />
+      <excludeFolder url="file://$MODULE_DIR$/moonlight-global-datapacks" />
+      <excludeFolder url="file://$MODULE_DIR$/saves" />
+      <excludeFolder url="file://$MODULE_DIR$/screenshots" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

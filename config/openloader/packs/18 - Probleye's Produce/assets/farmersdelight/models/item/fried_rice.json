@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-	"particle": "farmersdelight:item/fried_rice_particle",
-    "layer0": "farmersdelight:item/fried_rice"
-  }
-}

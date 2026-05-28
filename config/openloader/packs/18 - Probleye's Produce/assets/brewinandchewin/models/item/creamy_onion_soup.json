@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-	"particle": "brewinandchewin:item/creamy_onion_soup_particle",
-    "layer0": "brewinandchewin:item/creamy_onion_soup"
-  }
-}
