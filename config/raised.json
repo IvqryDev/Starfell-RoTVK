@@ -55,6 +55,28 @@
       },
       "sync": "brewinandchewin:tipsy"
     },
+    "caverns_and_chasms:monocle": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "caverns_and_chasms:monocle"
+    },
+    "caverns_and_chasms:monocle_head": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "caverns_and_chasms:monocle_head"
+    },
     "controlify:button_guide": {
       "displacement": {
         "x": 0,
@@ -450,6 +472,28 @@
         "y": "NONE"
       },
       "sync": "naturescompass:natures_compass"
+    },
+    "nomansland:dialogue": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "nomansland:dialogue"
+    },
+    "nomansland:dream_overlay": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "nomansland:dream_overlay"
     },
     "nostalgic_tweaks:air": {
       "displacement": {

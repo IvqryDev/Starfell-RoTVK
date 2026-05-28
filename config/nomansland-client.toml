@@ -7,3 +7,7 @@
 	cavesBiomeFogModifier = false
 	#If any custom fog modifiers are enabled
 	fogModifiers = false
+
+[inverted_bell_client]
+	#Whether to apply a blur effect while teleporting via Inverted Bell
+	invertedBellBlur = true
