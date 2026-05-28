@@ -1,0 +1,12 @@
+{
+  "inputs": [
+    "block_factorys_bosses:rusty_prison_door",
+    "block_factorys_bosses:prison_door",
+    "block_factorys_bosses:wall_torch",
+    "block_factorys_bosses:underwold_wall_torch",
+    "minecraft:bush",
+    "minecraft:leaf_litter",
+    "minecraft:firefly_bush"
+  ],
+  "output": "minecraft:air"
+}

@@ -1,0 +1,7 @@
+{
+  "action": "remove_potion",
+  "items": [
+    "critical_strike:critical_strike_chance",
+    "critical_strike:critical_strike_damage"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+"pack":{
+"pack_format":1,
+"description":"A blocky custom font with a slight hint of... §ofantasy?",
+        "supported_formats": {
+            "min_inclusive": 1,
+            "max_inclusive": 99
+      }
+   }
+}

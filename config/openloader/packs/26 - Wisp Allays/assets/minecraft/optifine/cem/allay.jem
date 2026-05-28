@@ -1,0 +1,110 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [32, 32],
+	"texture": "textures/entity/allay/allay.png",
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -6, 0]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -6, 0],
+			"submodels": [
+				{
+					"id": "body2",
+					"invertAxis": "xy",
+					"translate": [0, 8, 1],
+					"rotate": [-11.25, 0, 0],
+					"boxes": [
+						{"coordinates": [-3, -3, -3, 6, 6, 6], "textureOffset": [0, 0]}
+					],
+					"submodels": [
+						{
+							"id": "bone2",
+							"invertAxis": "xy",
+							"translate": [-0.5, 3, -4],
+							"rotate": [33.75, 0, 0],
+							"boxes": [
+								{"coordinates": [-4.5, 0, 0, 10, 5, 0], "textureOffset": [0, 12]}
+							]
+						}
+					]
+				},
+				{
+					"id": "left_wing2",
+					"invertAxis": "xy",
+					"translate": [-4, 8.5, 1],
+					"boxes": [
+						{"coordinates": [0, -6.5, 0, 0, 14, 9], "textureOffset": [0, 8]}
+					]
+				},
+				{
+					"id": "right_wing2",
+					"invertAxis": "xy",
+					"translate": [4, 8.5, 1],
+					"boxes": [
+						{"coordinates": [0, -6.5, 0, 0, 14, 9], "textureOffset": [0, 8]}
+					]
+				},
+				{
+					"id": "right_arm2",
+					"invertAxis": "xy",
+					"translate": [2, 2, -3],
+					"boxes": [
+						{"coordinates": [-1, -4, 0, 3, 4, 0], "textureOffset": [21, 2]}
+					]
+				},
+				{
+					"id": "left_arm2",
+					"invertAxis": "xy",
+					"translate": [-2, 2, -3],
+					"boxes": [
+						{"coordinates": [-2, -4, 0, 3, 4, 0], "textureOffset": [18, 2]}
+					]
+				}
+			],
+			"animations": [
+				{
+					"body.rx": "body.rx / 4",
+					"left_wing2.ry": "left_wing.ry",
+					"right_wing2.ry": "right_wing.ry",
+					"left_arm2.rx": "left_arm.rx",
+					"left_arm2.ry": "left_arm.ry",
+					"left_arm2.rz": "left_arm.rz",
+					"right_arm2.rx": "right_arm.rx",
+					"right_arm2.ry": "right_arm.ry",
+					"right_arm2.rz": "right_arm.rz"
+				}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-1.75, -5.5, 0]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [1.75, -5.5, 0]
+		},
+		{
+			"part": "left_wing",
+			"id": "left_wing",
+			"invertAxis": "xy",
+			"translate": [0.5, -6, -1]
+		},
+		{
+			"part": "right_wing",
+			"id": "right_wing",
+			"invertAxis": "xy",
+			"translate": [-0.5, -6, -1]
+		}
+	]
+}

@@ -1,0 +1,83 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [1024, 1024],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -11, -9],
+			"submodels": [
+				{
+					"id": "jaw_upper",
+					"invertAxis": "xy",
+					"translate": [0, 8, 6],
+					"boxes": [
+						{"coordinates": [-5, -2.75, -23, 10, 8, 16], "textureOffset": [502, 383]},
+						{"coordinates": [-5, -5.75, -23, 10, 4, 16], "textureOffset": [504, 475], "sizeAdd": 0.1},
+						{"coordinates": [0, 5.25, -23, 0, 6, 32], "textureOffset": [456, 437]},
+						{"coordinates": [-8, 0.25, -7, 16, 7, 16], "textureOffset": [108, 493]}
+					],
+					"submodels": [
+						{
+							"id": "eyebrow_left",
+							"invertAxis": "xy",
+							"translate": [-8, 8.25, 17.25],
+							"rotate": [-10, -15, 0],
+							"boxes": [
+								{"coordinates": [-7.41756, 1.18689, -25.07377, 5, 3, 13], "textureOffset": [258, 506]}
+							]
+						},
+						{
+							"id": "eyebrow_right",
+							"invertAxis": "xy",
+							"translate": [8, 8.25, 17.25],
+							"rotate": [-10, 15, 0],
+							"boxes": [
+								{"coordinates": [2.41756, 1.18689, -25.07377, 5, 3, 13], "textureOffset": [258, 506]}
+							]
+						},
+						{
+							"id": "horn_left",
+							"invertAxis": "xy",
+							"translate": [-8.5, 8.25, 28],
+							"rotate": [-15, -15, 0],
+							"boxes": [
+								{"coordinates": [-7.41756, 0.75, -24.72724, 6, 6, 10], "textureOffset": [0, 507]},
+								{"coordinates": [-7.41756, 3.75, -14.72724, 4, 3, 9], "textureOffset": [426, 496]}
+							]
+						},
+						{
+							"id": "horn_right",
+							"invertAxis": "xy",
+							"translate": [7.5, 8.25, 28],
+							"rotate": [-15, 15, 0],
+							"boxes": [
+								{"coordinates": [2.41756, 0.75, -24.72724, 6, 6, 10], "textureOffset": [0, 507]},
+								{"coordinates": [4.41756, 3.75, -14.72724, 4, 3, 9], "textureOffset": [426, 496]}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "jaw",
+			"id": "jaw",
+			"invertAxis": "xy",
+			"translate": [0, -7, -1],
+			"submodels": [
+				{
+					"id": "jaw_group",
+					"invertAxis": "xy",
+					"translate": [0, 7.25, 13],
+					"boxes": [
+						{"coordinates": [-5, -6, -30, 10, 4, 16], "textureOffset": [502, 407], "sizeAdd": -0.1},
+						{"coordinates": [-4, -2.1, -29, 8, 3, 15], "textureOffset": [504, 495], "sizeAdd": -0.1},
+						{"coordinates": [-8, -7, -14, 16, 8, 15], "textureOffset": [364, 496]}
+					]
+				}
+			]
+		}
+	]
+}

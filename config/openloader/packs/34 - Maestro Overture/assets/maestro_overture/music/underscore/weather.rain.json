@@ -1,0 +1,18 @@
+{
+  "priority": 0,
+  "layer": "underscore",
+  "sound_event": "maestro_overture:music.destiny_day",
+  "condition": {
+    "type": "maestro:all_of",
+    "terms": [
+      {
+        "type": "maestro:weather",
+        "is_raining": true
+      },
+      {
+        "type": "maestro:height",
+        "above": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "block.archeological.runestone_jumper": "Symbol Stone",
+  "block.archeological.runestone_miner": "Symbol Stone",
+  "block.archeological.runestone_runner": "Symbol Stone",
+  "block.archeological.runestone_fighter": "Symbol Stone",
+  "block.archeological.runestone_healer": "Symbol Stone",
+  "block.archeological.runestone_protection": "Symbol Stone",
+  "block.archeological.runestone_diver": "Symbol Stone",
+  "item.archeological.runner_rune": "Runner Symbol",
+  "item.archeological.diver_rune": "Diver Symbol",
+  "item.archeological.protection_rune": "Protection Symbol",
+  "block.archeological.runestone_heated": "Symbol Stone",
+  "item.archeological.miner_rune": "Miner Symbol",
+  "item.archeological.heated_rune": "Heated Symbol",
+  "item.archeological.fighter_rune": "Fighter Symbol",
+  "item.archeological.jumper_rune": "Jumper Symbol",
+  "item.archeological.healer_rune": "Healer Symbol"
+}

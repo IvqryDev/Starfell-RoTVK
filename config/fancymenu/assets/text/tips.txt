@@ -1,0 +1,81 @@
+^^^
+You can craft an antique atlas to open your world map to track where you've been.
+Broadswords, because of their crude form, are incapable of casting spells or skills.
+Backpacks allow for storing and transportation of lots of items at once.
+Enchantments are limited to a max of tier III.
+Lembas bread is the most filling food in the game. One small bite can fill the stomach of a grown man!
+Soul forges can be used to make your equipment unbreakable, but at a hefty cost.
+Sleeping now speeds up time, allowing for faster smelting and crop growing.
+Sawmills and stonecutters can be used to craft wood and stone blocks for efficiently.
+Ashen Steel can be used to craft higher tiers of armor, in place of iron.
+Death is only temporary. You will return.
+Ancient teeth can be found in buried treasure, and can be used to craft tridents.
+Enchantment guides are only found in the most ancient of cities.
+Mythril is the most precious metal in the world. As light as a feather, and as hard and dragon scales.
+Tamed creatures and beasts can fight for you in battle.
+Typically, the faster the weapon, the shorter the reach it provides.
+Compasses, altimeters, clocks, and atlases will provide all the information you need about where you are in the world.
+Heart crystals can be found in caverns, find enough fragments and you can get another permanent heart.
+You are the Valcon Knight. You will serve your gods well.
+Cupid arrows can be used to breed animals free of charge.
+There are rumours of precious materials being found below fairy rings in plains and forests.
+Forged out of lead, bolts can be use to enhance a crossbow's damage.
+Wolfs love zombie flesh!
+You can craft enchantments of all tiers at a great cost.
+The elytra has been returned to the void, where it belongs.
+The Shadow Islands and Netherrealm contain dangerous terrain to traverse, along with many hostile ancients...
+Quivers and rune pouches can be used to store ammo for archery and spells.
+Sometimes you can find bridges littered across the world. Who knows who built them?
+Drown your woes in beer! Or other drinks, if that's your thing.
+Your spawn point will always land in a plains biome.
+The Nameless King is a fast and powerful boss, take any window of opportunity you can with them.
+Spiders become dangerous the deeper you go, lest you dwell in the dark...
+Campfires and heart lanterns will heal you regardless of your hunger.
+Try out customising your avatar in the main menu!
+Join our support discord if you've got any questions, or suggestions!
+Copper horns are capable of being binded to a horse, and calling them to you.
+Ventar are this world's currency, collect enough and you'll be able to trade for various items and materials.
+Pet collars can be used on respawn anchors to resurrect your pets.
+Try using a mechanical press on ingots to get their sheet form.
+Press [Button 4] on your mouse to dodge roll.
+Architect's and Geographer's compass can located any structure or biome respectively.
+The piglins have united under one tribe known as The Order of The Axe.
+Schematicannons can build any schematic you have, as long as you provide their necessary resources.
+Also try Starfell: The Second Knight!
+Also try Raspberry Flavoured!
+Also try Melatonin!
+Also try Vanilla Tea!
+Looking at a mob or a block with a spyglass will give you details about said it.
+Mobs drop their souls upon their demise, these soul points can be used for things like enchanting or skills.
+Illagers of the Iron Covenant drop ventar upon death.
+Waystones can be used for fast travel in exchange for soul points.
+Mythril Cores can be used to craft waystones.
+Cutting grass with a knife with yield straw that can be crafted into canvas.
+Looking for a challenge? Try apocalypse+ mode!
+Struggling with a boss? Learn their attack patterns to stylishly dodge them.
+Cutting boards typically yield better results when crafting.
+if you don't sleep, corrupted ravens will swoop down and attack ou.
+Echo shards are needed in order to craft eyes of shadow.
+Press [K] to open up your skill tree.
+Relics and artifacts are magic items that give you unique abilities and buffs.
+Snuffles are cute snow puppies that can be found in tundra biomes.
+Idols can be found in archaeological ruins, and can change the current weather event.
+Flower crowns are a thing you can craft.
+All kinds of creatures now have new variants and looks.
+Press [SHIFT] to compare equipment to the piece you currently have equipped.
+Use a skillet or a cooking pot to make all new food items.
+Most items have had their durability buffed.
+New items will be highlighted in your inventory.
+Each player will have their own set of loot for each chest.
+Cave carrots are an easy way to get find food underground.
+Dried ghasts can be found in the nether. Drop them into water to hydrate them.
+Trial chamber vaults with automatically re-stock overtime.
+if you're struggling to craft an item, use the recipe viewer to check the recipe.
+Blaze royalty, known as wildfires, can be found scarcely in the netherrealm.
+The Nameless King resides in the netherrealm, travelers say that you can hear whispers if you get close enough to his resting place...
+The great watchtower of Dol'Naer has long since been abandoned, yet they say an infernal wrath stirs atop the ruins...",
+Beware of dragons!
+There are tales of wanderers being eaten by a giant snowy beast in the midst of blizzards.
+Careful when traversing the deserts, lest you awaken the great earth eaters.
+Thanks to NineRavens, GrayGravity, SociopathicFungusGirl, Noelle, Raspmary, CWdotpng, MysterWobble, and my community for their encouragement, inspiration, support, and help making this pack.
+^^^

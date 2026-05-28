@@ -1,0 +1,74 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/soul_rocker/projectile_main",
+		"particle": "item/soul_rocker/projectile_main"
+	},
+	"elements": [
+		{
+			"from": [0, 6, 0],
+			"to": [16, 6, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"up": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 6.001, 0],
+			"to": [0, 14.001, 16],
+			"rotation": {"angle": 0, "axis": "z", "origin": [0, 10.001, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 8], "rotation": 180, "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#0"},
+				"west": {"uv": [16, 8, 0, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.001, 14.002, 0],
+			"to": [15.999, 14.002, 16],
+			"rotation": {"angle": 0, "axis": "z", "origin": [7.999, 14.002, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [15.999, 6.001, 0],
+			"to": [15.999, 14.001, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [15.999, 10.001, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [16, 8, 0, 0], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -6, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "ring_1",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

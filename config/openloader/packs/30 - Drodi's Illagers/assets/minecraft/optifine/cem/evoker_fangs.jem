@@ -1,0 +1,60 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 45],
+	"texture": "textures/entity/illager/drodi_evoker_fangs.png",
+	"models": [
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [-5, -12, 5],
+			"boxes": [
+				{
+					"coordinates": [-5, 0, -5, 10, 12, 9],
+					"uvNorth": [0, 9, 10, 21],
+					"uvEast": [10, 9, 19, 21],
+					"uvSouth": [9, 9, 19, 21],
+					"uvWest": [10, 9, 19, 21],
+					"uvUp": [10, 9, 0, 0],
+					"uvDown": [20, 0, 10, 9]
+				}
+			],
+			"animations": [
+				{
+					"ring.ry": "time/2.5"
+				}
+			]
+		},
+		{
+			"part": "upper_jaw",
+			"id": "upper_jaw",
+			"invertAxis": "xy",
+			"translate": [-0.5, -12, 4],
+			"rotate": [-180, -180, 0],
+			"boxes": [
+				{"coordinates": [-5, -2, -4, 5, 14, 8], "textureOffset": [20, 0]}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"this.ry": 0
+				}
+			]
+		},
+		{
+			"part": "lower_jaw",
+			"id": "lower_jaw",
+			"invertAxis": "xy",
+			"translate": [-1.5, -12, -4],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{"coordinates": [-4, -2, 4, 5, 14, 8], "textureOffset": [20, 0]}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		}
+	]
+}

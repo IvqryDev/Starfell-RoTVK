@@ -1,0 +1,153 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/poisonous_potato"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/weapon/soul_rocker"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "item/weapon/soul_rocker_main_atk_proj/0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "item/weapon/soul_rocker_main_atk_proj/1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "item/weapon/soul_rocker_main_atk_proj/2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "item/weapon/soul_rocker_main_atk_proj/3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "item/weapon/soul_rocker_main_atk_proj/4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "item/weapon/soul_rocker_main_atk_proj/5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "item/weapon/soul_rocker_main_atk_proj/6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "item/weapon/soul_rocker_special_atk_proj/0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "item/weapon/soul_rocker_special_atk_proj/1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "item/weapon/soul_rocker_special_atk_proj/2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "item/weapon/soul_rocker_special_atk_proj/3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "item/weapon/soul_rocker_special_atk_proj/4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "item/weapon/soul_rocker_special_atk_proj/5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101
+			},
+			"model": "item/wither/attack/5/projectile"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 102
+			},
+			"model": "item/wither/attack/5/impact_effect/0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 103
+			},
+			"model": "item/wither/attack/5/impact_effect/1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 104
+			},
+			"model": "item/wither/attack/5/impact_effect/2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 105
+			},
+			"model": "item/wither/attack/5/impact_effect/3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 106
+			},
+			"model": "item/wither/attack/5/impact_effect/4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 201
+			},
+			"model": "item/wither/effect/shockwave/0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 202
+			},
+			"model": "item/wither/effect/shockwave/1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 203
+			},
+			"model": "item/wither/effect/shockwave/2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 204
+			},
+			"model": "item/wither/effect/shockwave/3"
+		}
+	]
+	}
+}

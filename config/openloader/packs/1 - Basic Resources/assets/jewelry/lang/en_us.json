@@ -1,0 +1,21 @@
+{
+  "itemGroup.jewelry.generic": "Jewelry",
+  "block.jewelry.gem_vein": "Gem Vein",
+  "block.jewelry.deepslate_gem_vein": "Grimstone Gem Vein",
+
+ "item.jewelry.netherite_ruby_ring": "Ancient Metal Ruby Ring",
+  "item.jewelry.netherite_topaz_ring": "Ancient Metal Topaz Ring",
+  "item.jewelry.netherite_citrine_ring": "Ancient Metal Citrine Ring",
+  "item.jewelry.netherite_jade_ring": "Ancient Metal Jade Ring",
+  "item.jewelry.netherite_sapphire_ring": "Ancient Metal Sapphire Ring",
+  "item.jewelry.netherite_tanzanite_ring": "Ancient Metal Tanzanite Ring",
+  "item.jewelry.netherite_ruby_necklace": "Ancient Metal Ruby Necklace",
+  "item.jewelry.netherite_topaz_necklace": "Ancient Metal Topaz Necklace",
+  "item.jewelry.netherite_citrine_necklace": "Ancient Metal Citrine Necklace",
+  "item.jewelry.netherite_jade_necklace": "Ancient Metal Jade Necklace",
+  "item.jewelry.netherite_sapphire_necklace": "Ancient Metal Sapphire Necklace",
+  "item.jewelry.netherite_tanzanite_necklace": "Ancient Metal Tanzanite Necklace",
+
+  "item.jewelry.diamond_necklace": "Mythril Jeweled Necklace",
+  "item.jewelry.diamond_ring": "Mythril Heirloom"
+}
