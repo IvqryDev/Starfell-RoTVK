@@ -619,7 +619,15 @@
             "minecraft:eye_armor_trim_smithing_template",
             "minecraft:spire_armor_trim_smithing_template",
             "minecraft:flow_armor_trim_smithing_template",
-            "minecraft:bolt_armor_trim_smithing_template"
+            "minecraft:bolt_armor_trim_smithing_template",
+            "spelunkery:nephrite",
+            "spelunkery:polished_nephrite",
+            "spelunkery:polished_nephrite_bricks",
+            "spelunkery:carved_nephrite",
+            "spelunkery:nephrite_siphon",
+            "spelunkery:nephrite_fountain",
+            "spelunkery:nephrite_diode",
+            "spelunkery:nephrite_chunk"
         ]
     }
 ]

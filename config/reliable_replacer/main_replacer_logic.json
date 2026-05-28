@@ -9,6 +9,8 @@
 
     "minecraft:diamond_ore": "oreganized:silver_ore",
     "minecraft:deepslate_diamond_ore": "oreganized:deepslate_silver_ore",
-    "minecraft:diamond_block": "oreganized:silver_block"
+    "minecraft:diamond_block": "oreganized:silver_block",
+
+    "spelunkery:nephrite": "minecraft:deepslate"
   }
 }

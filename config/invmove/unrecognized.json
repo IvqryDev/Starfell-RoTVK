@@ -16,7 +16,9 @@
     "dev.yurisuika.raised.client.gui.screens.RaisedScreen": true,
     "org.infernalstudios.questlog.client.gui.screen.QuestlogScreen": true,
     "net.puffish.skillsmod.client.gui.SkillsScreen": true,
-    "de.keksuccino.fancymenu.customization.customgui.CustomGuiBaseScreen": true
+    "de.keksuccino.fancymenu.customization.customgui.CustomGuiBaseScreen": true,
+    "com.evandev.advancement_enhancement.gui.screens.EnhancedAdvancementsScreen": true,
+    "com.evandev.advancement_enhancement.gui.screens.AdvancementEditorScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -33,6 +35,8 @@
     "net.spell_engine.spellbinding.spellchoice.SpellChoiceScreen": true,
     "dev.uraneptus.fishermens_trap.client.screen.FishtrapScreen": true,
     "org.violetmoon.quark.addons.oddities.client.screen.CrateScreen": true,
-    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true
+    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true,
+    "com.evandev.advancement_enhancement.gui.screens.EnhancedAdvancementsScreen": true,
+    "com.evandev.advancement_enhancement.gui.screens.AdvancementEditorScreen": true
   }
 }
