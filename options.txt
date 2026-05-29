@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["fabric"]
+resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -151,10 +151,10 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.change_hotbar:key.keyboard.z
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.lock_rotation:key.keyboard.k
 key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
@@ -167,7 +167,7 @@ key_key.reliable_gliders.deploy:key.keyboard.unknown
 key_key.reliable_remover.emi_delete:key.keyboard.delete
 key_key.immersiveoverlays.toggle:key.keyboard.unknown
 key_key.immersiveoverlays.settings:key.keyboard.unknown
-key_keybinds.combat_roll.roll:key.mouse.5
+key_keybinds.combat_roll.roll:key.keyboard.r
 key_key.inventoryessentials.single_transfer:key.mouse.left:CONTROL
 key_key.inventoryessentials.screen_bulk_drop:key.mouse.left:SHIFT
 key_key.inventoryessentials.sort_inventory:key.mouse.middle
@@ -220,8 +220,6 @@ key_treeliable.key.toggle_chopping:key.keyboard.unknown
 key_treeliable.key.cycle_sneak_behavior:key.keyboard.unknown
 key_key.raised.options:key.keyboard.grave.accent
 key_key.presencefootsteps.settings:key.keyboard.f10
-key_keybind.invmove.toggleMove:key.keyboard.unknown
-key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.0
 soundCategory_music:0.0
 soundCategory_record:1.0

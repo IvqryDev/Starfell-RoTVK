@@ -1,0 +1,7 @@
+{
+  "action": "remove",
+  "mod": "alloyed",
+  "not": {
+    "items": "alloyed:forge"
+  }
+}

@@ -1,4 +1,4 @@
 {
   "throwItemsOnPedestals": true,
-  "reducedEmiMotion": false
+  "reducedEmiMotion": true
 }
