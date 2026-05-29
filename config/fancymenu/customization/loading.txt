@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1779936000562
+  last_edited_time = 1780076640234
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:772e7eb3-3671-4c71-a1a2-ebd7b08a97e5-1779935988835] = [groups:][instances:]
+  [loading_requirement_container_meta:9d522323-3f61-44de-9782-a33ba8edb08a-1780076600489] = [groups:][instances:]
 }
 
 customization {
@@ -460,9 +460,9 @@ element {
   anchor_point = element
   anchor_point_element = progress_bar
   x = 0
-  y = -19
+  y = -21
   width = 475
-  height = 18
+  height = 20
   stay_on_screen = true
   element_loading_requirement_container_identifier = f0eedb93-cfa4-41f2-965b-5840b2b71d78-1748984689108
   [loading_requirement_container_meta:f0eedb93-cfa4-41f2-965b-5840b2b71d78-1748984689108] = [groups:][instances:]
@@ -546,9 +546,9 @@ element {
   anchor_point = element
   anchor_point_element = progress_bar
   x = 510
-  y = -18
+  y = -21
   width = 32
-  height = 17
+  height = 20
   stay_on_screen = true
   element_loading_requirement_container_identifier = 41c60052-0676-4ecf-bc7a-699f524e991e-1752988720083
   [loading_requirement_container_meta:41c60052-0676-4ecf-bc7a-699f524e991e-1752988720083] = [groups:][instances:]

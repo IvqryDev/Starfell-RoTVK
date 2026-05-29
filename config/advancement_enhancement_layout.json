@@ -33,60 +33,60 @@
       184
     ],
     "minecraft:story/form_obsidian": [
-      163,
-      171
+      162,
+      172
     ],
     "minecraft:story/iron_tools": [
       131,
       211
     ],
     "minecraft:story/enter_the_nether": [
-      197,
-      157
+      192,
+      172
     ],
     "alloyed:forge": [
-      163,
-      227
+      162,
+      226
     ],
     "spelunkery:spelunkery/rough_gem": [
       163,
       199
     ],
     "minecraft:story/cure_zombie_villager": [
-      230,
-      144
+      229,
+      156
     ],
     "spelunkery:spelunkery/grindstone": [
-      197,
-      184
+      162,
+      199
     ],
     "spelunkery:spelunkery/every_ore": [
       192,
       283
     ],
     "minecraft:story/follow_ender_eye": [
-      230,
-      172
+      229,
+      184
     ],
     "oreganized:story/obtain_silver": [
-      163,
-      254
+      162,
+      253
     ],
     "minecraft:story/enter_the_end": [
-      262,
-      157
+      264,
+      172
     ],
     "minecraft:story/mine_diamond": [
-      197,
-      211
-    ],
-    "minecraft:story/enchant_item": [
-      230,
+      194,
       199
     ],
+    "minecraft:story/enchant_item": [
+      229,
+      211
+    ],
     "quark:content/overlevel_enchant": [
-      262,
-      185
+      264,
+      226
     ],
     "spelunkery:spelunkery/magnetite": [
       230,
@@ -97,8 +97,8 @@
       243
     ],
     "supplementaries:story/unenchanter": [
-      262,
-      215
+      264,
+      199
     ],
     "minecraft:adventure/root": [
       0,
@@ -297,8 +297,8 @@
       1093
     ],
     "newworld:adventure/collect_ancient_mattock": [
-      195,
-      254
+      194,
+      253
     ],
     "artifacts:chest_slayer": [
       64,
@@ -661,28 +661,20 @@
       405
     ],
     "minecraft:nether/find_bastion": [
-      32,
-      324
+      34,
+      310
     ],
     "minecraft:nether/fast_travel": [
       32,
       97
     ],
     "friendsandfoes:nether/find_citadel": [
-      32,
-      378
-    ],
-    "piglinproliferation:nether/obtain_buckler": [
-      64,
-      297
-    ],
-    "nova_structures:nether/find_piglins": [
-      64,
+      70,
       324
     ],
     "friendsandfoes:nether/kill_wildfire": [
-      64,
-      378
+      102,
+      324
     ],
     "minecraft:nether/obtain_ancient_debris": [
       32,
@@ -692,57 +684,25 @@
       64,
       405
     ],
-    "minecraft:nether/netherite_armor": [
-      64,
-      459
-    ],
     "minecraft:nether/distract_piglin": [
       32,
       40
     ],
     "minecraft:nether/loot_bastion": [
-      64,
-      351
-    ],
-    "nova_structures:nether/find_piglin_outpost": [
-      96,
-      324
-    ],
-    "friendsandfoes:nether/obtain_wildfire_crown": [
-      96,
-      378
+      70,
+      297
     ],
     "minecraft:nether/find_fortress": [
-      32,
-      155
+      34,
+      283
     ],
     "minecraft:nether/obtain_crying_obsidian": [
       32,
       513
     ],
-    "nova_structures:nether/find_hamlet": [
-      96,
-      297
-    ],
-    "piglinproliferation:nether/obtain_travelers_compass": [
-      64,
-      40
-    ],
     "minecraft:nether/ride_strider": [
       32,
       553
-    ],
-    "nova_structures:nether/find_nether_skeleton": [
-      64,
-      243
-    ],
-    "nova_structures:nether/find_donjon": [
-      96,
-      351
-    ],
-    "nova_structures:nether/find_skeleton_tower": [
-      96,
-      216
     ],
     "minecraft:nether/get_wither_skull": [
       64,
@@ -768,18 +728,6 @@
       64,
       513
     ],
-    "nova_structures:nether/find_keep": [
-      96,
-      270
-    ],
-    "nova_structures:nether/powder_snow_keep": [
-      128,
-      270
-    ],
-    "nova_structures:nether/find_port": [
-      96,
-      243
-    ],
     "minecraft:nether/ride_strider_in_overworld_lava": [
       64,
       540
@@ -799,10 +747,6 @@
     "minecraft:nether/brew_potion": [
       96,
       67
-    ],
-    "piglinproliferation:nether/add_effect_to_fire_ring": [
-      128,
-      27
     ],
     "minecraft:nether/create_full_beacon": [
       160,
@@ -1107,10 +1051,6 @@
     "brewinandchewin:main/chef_of_the_ages": [
       128,
       27
-    ],
-    "betterdungeons:root": [
-      0,
-      67
     ],
     "betterdungeons:all_dungeons": [
       32,
@@ -1426,15 +1366,6 @@
       "index": 5
     },
     "brewinandchewin:main/root": {
-      "title": "",
-      "static_background": false,
-      "bg_width": 16,
-      "bg_height": 16,
-      "width": 0,
-      "height": 0,
-      "index": 5
-    },
-    "betterdungeons:root": {
       "title": "",
       "static_background": false,
       "bg_width": 16,

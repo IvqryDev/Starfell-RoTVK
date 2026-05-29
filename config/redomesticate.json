@@ -3,7 +3,7 @@
   "tameableHorse": true,
   "tameableFox": true,
   "swingThroughPets": true,
-  "rottenApple": true,
+  "rottenApple": false,
   "petBedRespawns": true,
   "rabbitsScareRavagers": true,
   "petStoreVillageWeight": 17,

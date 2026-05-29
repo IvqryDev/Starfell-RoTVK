@@ -18,7 +18,8 @@
     "net.puffish.skillsmod.client.gui.SkillsScreen": true,
     "de.keksuccino.fancymenu.customization.customgui.CustomGuiBaseScreen": true,
     "com.evandev.advancement_enhancement.gui.screens.EnhancedAdvancementsScreen": true,
-    "com.evandev.advancement_enhancement.gui.screens.AdvancementEditorScreen": true
+    "com.evandev.advancement_enhancement.gui.screens.AdvancementEditorScreen": true,
+    "com.evandev.reliable_backpacks.client.gui.BackpackScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -37,6 +38,7 @@
     "org.violetmoon.quark.addons.oddities.client.screen.CrateScreen": true,
     "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true,
     "com.evandev.advancement_enhancement.gui.screens.EnhancedAdvancementsScreen": true,
-    "com.evandev.advancement_enhancement.gui.screens.AdvancementEditorScreen": true
+    "com.evandev.advancement_enhancement.gui.screens.AdvancementEditorScreen": true,
+    "com.evandev.reliable_backpacks.client.gui.BackpackScreen": true
   }
 }

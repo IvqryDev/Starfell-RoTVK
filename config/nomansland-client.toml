@@ -1,12 +1,12 @@
 [fog_modifiers]
-	#If the deep dark fog modifier is enabled
-	deepDarkFogModifier = false
-	#If the foggy biome fog modifier is enabled
-	foggyBiomeFogModifier = false
-	#If the caves biome fog modifier is enabled
-	cavesBiomeFogModifier = false
 	#If any custom fog modifiers are enabled
-	fogModifiers = false
+	fogModifiers = true
+	#If the caves biome fog modifier is enabled
+	cavesBiomeFogModifier = true
+	#If the foggy biome fog modifier is enabled
+	foggyBiomeFogModifier = true
+	#If the deep dark fog modifier is enabled
+	deepDarkFogModifier = true
 
 [inverted_bell_client]
 	#Whether to apply a blur effect while teleporting via Inverted Bell

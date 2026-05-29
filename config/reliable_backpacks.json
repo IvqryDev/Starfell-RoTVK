@@ -1,5 +1,7 @@
 {
-  "enabled": true,
   "enable_accessories_integration": true,
-  "missing_id_map": {}
+  "enable_curios_integration": false,
+  "enable_trinkets_integration": false,
+  "enable_entity_stealing": false,
+  "backpack_rows": 3
 }
