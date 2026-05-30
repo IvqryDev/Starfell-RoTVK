@@ -6,7 +6,8 @@
     "block_factorys_bosses:underwold_wall_torch",
     "minecraft:bush",
     "minecraft:leaf_litter",
-    "minecraft:firefly_bush"
+    "minecraft:firefly_bush",
+    "block_factorys_bosses:rope_roll"
   ],
   "output": "minecraft:air"
 }
