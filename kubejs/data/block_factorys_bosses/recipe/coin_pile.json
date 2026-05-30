@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "numismatic-overhaul:gold_coin"
+    }
+  ],
+  "result": {
+    "id": "block_factorys_bosses:coin_pile",
+    "count": 9
+  }
+}
