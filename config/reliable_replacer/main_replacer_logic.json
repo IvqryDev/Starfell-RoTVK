@@ -11,6 +11,9 @@
     "minecraft:deepslate_diamond_ore": "oreganized:deepslate_silver_ore",
     "minecraft:diamond_block": "oreganized:silver_block",
 
-    "spelunkery:nephrite": "minecraft:deepslate"
+    "spelunkery:nephrite": "minecraft:deepslate",
+
+    "block_factorys_bosses:ship_lantern": "redomesticate:wayward_lantern",
+    "block_factorys_bosses:plank": "nomansland:crude_trapdoor"
   }
 }
