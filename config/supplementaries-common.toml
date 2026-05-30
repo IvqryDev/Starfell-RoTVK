@@ -97,7 +97,7 @@
 	[redstone.crystal_display]
 		enabled = false
 		#Allows chaining 2 crystal displays, letting one power the other to its left IF its own power exceeds 10. Given power will be its own divided by 10. Note that to work the decimal display must NOT have power directly behind it. Doing so will override the behavior to non chaining mode
-		chaining = true
+		chaining = false
 
 [functional]
 	fodder = false
@@ -396,7 +396,7 @@
 		gui = false
 
 	[building.pedestal]
-		enabled = true
+		enabled = false
 		#If enabled end crystals placed on a pedestals will provide an enchantment power bonus equivalent to 3 bookshelves
 		# Default: 3.0
 		# Range: 0.0 ~ 100.0
@@ -690,9 +690,9 @@
 		#bottling health cost
 		# Default: 2
 		# Range: 0 ~ 20
-		cost = 2
+		cost = 1
 		#Block that should be clicked on for bottling to work. Leave blank for enchanting table. You can put another block here from another mod if you find it more fitting
-		target_block = ""
+		target_block = "minecraft:lodestone"
 
 	[tweaks.map_tweaks]
 		#Enables beacons, lodestones, respawn anchors, beds, conduits, portals to be displayed on maps by clicking one of them with a map
@@ -728,7 +728,7 @@
 		#Amount of rotten flesh needed
 		# Default: 64
 		# Range: 1 ~ 1000
-		rotten_flesh = 24
+		rotten_flesh = 8
 		#Allows zombie horses to be ridden underwater
 		rideable_underwater = true
 		#Convert a zombie horse back by feeding it a golden carrot
@@ -762,11 +762,11 @@
 		#Duration of the slimed effect in ticks
 		# Default: 300
 		# Range: 0 ~ 1000
-		duration = 300
+		duration = 60
 		#Chance that a slime mob will apply slimed effect on successful attack. Multiplied by the slime size
 		# Default: 0.15
 		# Range: 0.0 ~ 1.0
-		chance_per_slime_size = 0.15
+		chance_per_slime_size = 0.35
 
 	[tweaks.clock_and_compass]
 		#Allow to right click with a clock to display current time in numerical form
