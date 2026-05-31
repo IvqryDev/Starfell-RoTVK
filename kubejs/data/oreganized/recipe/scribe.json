@@ -1,0 +1,19 @@
+{
+  "type": "alloyed:forging_shaped",
+  "pattern": [
+    "  A",
+    " M ",
+    "M  "
+  ],
+  "key": {
+    "M": {
+      "item": "oreganized:silver_ingot"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "oreganized:scribe"
+  }
+}

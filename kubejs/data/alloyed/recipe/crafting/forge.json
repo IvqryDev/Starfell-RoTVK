@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "ICI",
+    "DDD"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "D": {
+      "item": "nomansland:cobbled_deepslate_bricks"
+    }
+  },
+  "result": {
+    "id": "alloyed:forge"
+  }
+}

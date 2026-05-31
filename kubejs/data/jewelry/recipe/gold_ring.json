@@ -1,0 +1,16 @@
+{
+  "type": "alloyed:forging_shaped",
+  "pattern": [
+    " I ",
+    "I I",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "jewelry:gold_ring"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "alloyed:forging_shaped",
+  "pattern": [
+    " I ",
+    "IRI",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "minecraft:compass"
+  }
+}
