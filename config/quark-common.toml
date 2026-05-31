@@ -540,7 +540,7 @@
 	"Utility Recipes" = false
 	"Vexes Die With Their Masters" = true
 	"Villagers Follow Emeralds" = true
-	"Zombie Villagers On Normal" = false
+	"Zombie Villagers On Normal" = true
 
 	[tweaks.automatic_recipe_unlock]
 		#A list of recipe names that should NOT be added in by default
@@ -1342,7 +1342,7 @@
 	Crabs = false
 	Forgotten = true
 	Foxhound = true
-	Shiba = false
+	Shiba = true
 	Stonelings = true
 	Toretoise = true
 	Wraith = true
