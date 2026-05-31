@@ -1,13 +1,5 @@
 {
   "positions": {
-    "minecraft:story/root": [
-      0,
-      199
-    ],
-    "minecraft:story/mine_stone": [
-      32,
-      199
-    ],
     "spelunkery:spelunkery/wooden_rail": [
       64,
       227
@@ -16,45 +8,9 @@
       64,
       171
     ],
-    "minecraft:story/upgrade_tools": [
-      64,
-      199
-    ],
-    "minecraft:story/smelt_iron": [
-      94,
-      199
-    ],
-    "oreganized:story/disc_smith": [
-      128,
-      243
-    ],
-    "minecraft:story/lava_bucket": [
-      131,
-      184
-    ],
-    "minecraft:story/form_obsidian": [
-      162,
-      172
-    ],
-    "minecraft:story/iron_tools": [
-      131,
-      211
-    ],
-    "minecraft:story/enter_the_nether": [
-      192,
-      172
-    ],
-    "alloyed:forge": [
-      162,
-      226
-    ],
     "spelunkery:spelunkery/rough_gem": [
       163,
       199
-    ],
-    "minecraft:story/cure_zombie_villager": [
-      229,
-      156
     ],
     "spelunkery:spelunkery/grindstone": [
       162,
@@ -64,30 +20,6 @@
       192,
       283
     ],
-    "minecraft:story/follow_ender_eye": [
-      229,
-      184
-    ],
-    "oreganized:story/obtain_silver": [
-      162,
-      253
-    ],
-    "minecraft:story/enter_the_end": [
-      264,
-      172
-    ],
-    "minecraft:story/mine_diamond": [
-      194,
-      199
-    ],
-    "minecraft:story/enchant_item": [
-      229,
-      211
-    ],
-    "quark:content/overlevel_enchant": [
-      264,
-      226
-    ],
     "spelunkery:spelunkery/magnetite": [
       230,
       227
@@ -95,10 +27,6 @@
     "spelunkery:spelunkery/item_magnet": [
       262,
       243
-    ],
-    "supplementaries:story/unenchanter": [
-      264,
-      199
     ],
     "minecraft:adventure/root": [
       0,
@@ -836,186 +764,6 @@
       128,
       94
     ],
-    "rpg_series:root": [
-      0,
-      337
-    ],
-    "rpg_series:misc_items": [
-      32,
-      472
-    ],
-    "rpg_series:enchant_spell_infinity": [
-      64,
-      513
-    ],
-    "rpg_series:classes": [
-      32,
-      202
-    ],
-    "rpg_series:trade_wizard": [
-      64,
-      486
-    ],
-    "rpg_series:path_choose_priest": [
-      64,
-      378
-    ],
-    "rpg_series:spell_novice_priest": [
-      96,
-      391
-    ],
-    "rpg_series:path_choose_rogue": [
-      64,
-      121
-    ],
-    "rpg_series:spell_master_priest": [
-      128,
-      405
-    ],
-    "rpg_series:path_choose_paladin": [
-      64,
-      337
-    ],
-    "rpg_series:obtain_wizard_robes": [
-      64,
-      432
-    ],
-    "rpg_series:spell_cast_priest_wand": [
-      96,
-      364
-    ],
-    "rpg_series:trade_arms": [
-      64,
-      405
-    ],
-    "rpg_series:spell_novice_rogue": [
-      96,
-      121
-    ],
-    "rpg_series:spell_master_rogue": [
-      128,
-      108
-    ],
-    "rpg_series:spell_novice_paladin": [
-      96,
-      337
-    ],
-    "rpg_series:spell_cast_priest_book": [
-      128,
-      378
-    ],
-    "rpg_series:path_choose_warrior": [
-      64,
-      229
-    ],
-    "rpg_series:trade_monk": [
-      64,
-      459
-    ],
-    "rpg_series:path_choose_arcane": [
-      64,
-      162
-    ],
-    "rpg_series:trade_archery": [
-      64,
-      540
-    ],
-    "rpg_series:path_choose_fire": [
-      64,
-      27
-    ],
-    "rpg_series:spell_cast_paladin_book": [
-      128,
-      351
-    ],
-    "rpg_series:path_choose_archer": [
-      64,
-      67
-    ],
-    "rpg_series:spell_novice_warrior": [
-      96,
-      229
-    ],
-    "rpg_series:spell_master_paladin": [
-      128,
-      324
-    ],
-    "rpg_series:path_choose_frost": [
-      64,
-      297
-    ],
-    "rpg_series:spell_novice_archer": [
-      96,
-      67
-    ],
-    "rpg_series:spell_cast_fire_wand": [
-      96,
-      40
-    ],
-    "rpg_series:spell_cast_frost_wand": [
-      96,
-      310
-    ],
-    "rpg_series:spell_cast_rogue_book": [
-      128,
-      135
-    ],
-    "rpg_series:spell_novice_fire": [
-      96,
-      13
-    ],
-    "rpg_series:spell_novice_arcane": [
-      96,
-      175
-    ],
-    "rpg_series:spell_master_warrior": [
-      128,
-      216
-    ],
-    "rpg_series:spell_master_arcane": [
-      128,
-      162
-    ],
-    "rpg_series:spell_novice_frost": [
-      96,
-      283
-    ],
-    "rpg_series:spell_cast_frost_book": [
-      128,
-      270
-    ],
-    "rpg_series:spell_master_archer": [
-      128,
-      81
-    ],
-    "rpg_series:spell_master_fire": [
-      128,
-      27
-    ],
-    "rpg_series:spell_cast_arcane_wand": [
-      96,
-      148
-    ],
-    "rpg_series:spell_master_frost": [
-      128,
-      297
-    ],
-    "rpg_series:spell_cast_warrior_book": [
-      128,
-      243
-    ],
-    "rpg_series:spell_cast_archer_book": [
-      128,
-      54
-    ],
-    "rpg_series:spell_cast_fire_book": [
-      128,
-      0
-    ],
-    "rpg_series:spell_cast_arcane_book": [
-      128,
-      189
-    ],
     "archeological:profound_discoveries": [
       0,
       0
@@ -1299,18 +1047,469 @@
     "minecraft:story/copper_pickaxe": [
       64,
       199
+    ],
+    "nomansland:main/when_pigs_fly": [
+      32,
+      243
+    ],
+    "newworld:adventure/collect_template_fragment": [
+      64,
+      499
+    ],
+    "supplementaries:adventure/globe": [
+      64,
+      364
+    ],
+    "minecraft:adventure/who_needs_rockets": [
+      64,
+      108
+    ],
+    "minecraft:adventure/trade_at_world_height": [
+      64,
+      418
+    ],
+    "minecraft:adventure/trim_with_any_armor_pattern": [
+      32,
+      1255
+    ],
+    "nova_structures:adventure/find_tavern": [
+      32,
+      54
+    ],
+    "minecraft:adventure/walk_on_powder_snow_with_leather_boots": [
+      64,
+      661
+    ],
+    "hominid:adventure/gasoline": [
+      32,
+      378
+    ],
+    "minecraft:adventure/play_jukebox_in_meadows": [
+      64,
+      688
+    ],
+    "nova_structures:adventure/tavern_quest": [
+      64,
+      54
+    ],
+    "minecraft:adventure/trim_with_all_exclusive_armor_patterns": [
+      64,
+      1269
+    ],
+    "hominid:adventure/fossilised": [
+      64,
+      1242
+    ],
+    "upgrade_aquatic:adventure/sleep_underwater": [
+      64,
+      715
+    ],
+    "nova_structures:adventure/kill_all_minibosses": [
+      96,
+      54
+    ],
+    "upgrade_aquatic:adventure/unethical_dentistry": [
+      96,
+      796
+    ],
+    "nova_structures:adventure/find_trident_trial_monument": [
+      128,
+      837
+    ],
+    "nova_structures:adventure/kill_guardian_boss": [
+      160,
+      837
+    ],
+    "piglinproliferation:nether/obtain_buckler": [
+      64,
+      364
+    ],
+    "nova_structures:nether/find_piglins": [
+      64,
+      337
+    ],
+    "minecraft:nether/netherite_armor": [
+      64,
+      445
+    ],
+    "nova_structures:nether/find_piglin_outpost": [
+      96,
+      337
+    ],
+    "friendsandfoes:nether/obtain_wildfire_crown": [
+      96,
+      418
+    ],
+    "nova_structures:nether/find_hamlet": [
+      96,
+      364
+    ],
+    "piglinproliferation:nether/obtain_travelers_compass": [
+      64,
+      40
+    ],
+    "nova_structures:nether/find_nether_skeleton": [
+      64,
+      135
+    ],
+    "nova_structures:nether/find_donjon": [
+      96,
+      310
+    ],
+    "nova_structures:nether/find_skeleton_tower": [
+      96,
+      108
+    ],
+    "nova_structures:nether/find_keep": [
+      96,
+      162
+    ],
+    "nova_structures:nether/powder_snow_keep": [
+      128,
+      162
+    ],
+    "nova_structures:nether/find_port": [
+      96,
+      135
+    ],
+    "piglinproliferation:nether/add_effect_to_fire_ring": [
+      128,
+      27
+    ],
+    "betterdungeons:root": [
+      0,
+      67
+    ],
+    "starfell:mainland": [
+      0,
+      0
+    ],
+    "rpg_series:root": [
+      0,
+      354
+    ],
+    "rpg_series:misc_items": [
+      32,
+      499
+    ],
+    "rpg_series:enchant_spell_infinity": [
+      64,
+      432
+    ],
+    "rpg_series:classes": [
+      32,
+      209
+    ],
+    "rpg_series:trade_wizard": [
+      64,
+      459
+    ],
+    "rpg_series:path_choose_priest": [
+      64,
+      121
+    ],
+    "rpg_series:spell_novice_priest": [
+      96,
+      135
+    ],
+    "rpg_series:path_choose_rogue": [
+      64,
+      81
+    ],
+    "rpg_series:spell_master_priest": [
+      128,
+      148
+    ],
+    "rpg_series:path_choose_paladin": [
+      64,
+      297
+    ],
+    "rpg_series:obtain_wizard_robes": [
+      64,
+      567
+    ],
+    "rpg_series:spell_cast_priest_wand": [
+      96,
+      108
+    ],
+    "rpg_series:trade_arms": [
+      64,
+      540
+    ],
+    "rpg_series:spell_novice_rogue": [
+      96,
+      81
+    ],
+    "rpg_series:spell_master_rogue": [
+      128,
+      94
+    ],
+    "rpg_series:spell_novice_paladin": [
+      96,
+      297
+    ],
+    "rpg_series:spell_cast_priest_book": [
+      128,
+      121
+    ],
+    "rpg_series:path_choose_warrior": [
+      64,
+      405
+    ],
+    "rpg_series:trade_monk": [
+      64,
+      513
+    ],
+    "rpg_series:path_choose_arcane": [
+      64,
+      202
+    ],
+    "rpg_series:trade_archery": [
+      64,
+      486
+    ],
+    "rpg_series:path_choose_fire": [
+      64,
+      13
+    ],
+    "rpg_series:spell_cast_paladin_book": [
+      128,
+      283
+    ],
+    "rpg_series:path_choose_archer": [
+      64,
+      243
+    ],
+    "rpg_series:spell_novice_warrior": [
+      96,
+      405
+    ],
+    "rpg_series:spell_master_paladin": [
+      128,
+      310
+    ],
+    "rpg_series:path_choose_frost": [
+      64,
+      364
+    ],
+    "rpg_series:spell_novice_archer": [
+      96,
+      243
+    ],
+    "rpg_series:spell_cast_fire_wand": [
+      96,
+      0
+    ],
+    "rpg_series:spell_cast_frost_wand": [
+      96,
+      378
+    ],
+    "rpg_series:spell_cast_rogue_book": [
+      128,
+      67
+    ],
+    "rpg_series:spell_novice_fire": [
+      96,
+      27
+    ],
+    "rpg_series:spell_novice_arcane": [
+      96,
+      189
+    ],
+    "rpg_series:spell_master_warrior": [
+      128,
+      418
+    ],
+    "rpg_series:spell_master_arcane": [
+      128,
+      175
+    ],
+    "rpg_series:spell_novice_frost": [
+      96,
+      351
+    ],
+    "rpg_series:spell_cast_frost_book": [
+      128,
+      364
+    ],
+    "rpg_series:spell_master_archer": [
+      128,
+      229
+    ],
+    "rpg_series:spell_master_fire": [
+      128,
+      40
+    ],
+    "rpg_series:spell_cast_arcane_wand": [
+      96,
+      216
+    ],
+    "rpg_series:spell_master_frost": [
+      128,
+      337
+    ],
+    "rpg_series:spell_cast_warrior_book": [
+      128,
+      391
+    ],
+    "rpg_series:spell_cast_archer_book": [
+      128,
+      256
+    ],
+    "rpg_series:spell_cast_fire_book": [
+      128,
+      13
+    ],
+    "rpg_series:spell_cast_arcane_book": [
+      128,
+      202
+    ],
+    "minecraft:story/root": [
+      0,
+      155
+    ],
+    "minecraft:story/mine_stone": [
+      32,
+      141
+    ],
+    "oreganized:story/lead_to_dust": [
+      32,
+      168
+    ],
+    "minecraft:story/upgrade_tools": [
+      64,
+      141
+    ],
+    "oreganized:story/like_the_romans": [
+      96,
+      0
+    ],
+    "oreganized:story/melting_point": [
+      96,
+      283
+    ],
+    "oreganized:story/profound_brain_damage": [
+      128,
+      0
+    ],
+    "minecraft:story/smelt_iron": [
+      96,
+      141
+    ],
+    "oreganized:story/disc_smith": [
+      128,
+      283
+    ],
+    "minecraft:story/lava_bucket": [
+      128,
+      27
+    ],
+    "minecraft:story/form_obsidian": [
+      160,
+      27
+    ],
+    "minecraft:story/obtain_armor": [
+      128,
+      256
+    ],
+    "minecraft:story/iron_tools": [
+      128,
+      148
+    ],
+    "minecraft:story/enter_the_nether": [
+      192,
+      27
+    ],
+    "alloyed:forge": [
+      160,
+      162
+    ],
+    "minecraft:story/cure_zombie_villager": [
+      224,
+      13
+    ],
+    "minecraft:story/deflect_arrow": [
+      160,
+      256
+    ],
+    "alloyed:bronze_ingot": [
+      192,
+      148
+    ],
+    "minecraft:story/follow_ender_eye": [
+      224,
+      40
+    ],
+    "alloyed:bronze_instruments": [
+      224,
+      148
+    ],
+    "minecraft:story/mine_diamond": [
+      160,
+      81
+    ],
+    "oreganized:story/obtain_silver": [
+      160,
+      216
+    ],
+    "minecraft:story/enter_the_end": [
+      256,
+      40
+    ],
+    "shieldexp:get_diamond_shield": [
+      192,
+      256
+    ],
+    "minecraft:story/enchant_item": [
+      192,
+      94
+    ],
+    "quark:content/apply_color_rune": [
+      224,
+      121
+    ],
+    "alloyed:steel_ingot": [
+      192,
+      175
+    ],
+    "quark:content/overlevel_enchant": [
+      224,
+      67
+    ],
+    "oreganized:story/electrum_gear": [
+      192,
+      229
+    ],
+    "minecraft:story/shiny_gear": [
+      192,
+      67
+    ],
+    "quark:content/wear_full_rainbow": [
+      256,
+      121
+    ],
+    "shieldexp:get_netherite_shield": [
+      224,
+      256
+    ],
+    "oreganized:adventure/terminal_velocity": [
+      192,
+      202
+    ],
+    "supplementaries:story/unenchanter": [
+      224,
+      94
+    ],
+    "minecraft:adventure/kill_a_mob_copy": [
+      38,
+      0
+    ],
+    "starfell:drawing_blood": [
+      38,
+      0
     ]
   },
   "tab_properties": {
-    "minecraft:story/root": {
-      "title": "",
-      "static_background": false,
-      "bg_width": 16,
-      "bg_height": 16,
-      "width": 0,
-      "height": 0,
-      "index": 0
-    },
     "minecraft:adventure/root": {
       "title": "",
       "static_background": false,
@@ -1346,15 +1545,6 @@
       "width": 0,
       "height": 0,
       "index": 4
-    },
-    "rpg_series:root": {
-      "title": "",
-      "static_background": false,
-      "bg_width": 16,
-      "bg_height": 16,
-      "width": 0,
-      "height": 0,
-      "index": 5
     },
     "archeological:profound_discoveries": {
       "title": "",
@@ -1472,6 +1662,42 @@
       "width": 0,
       "height": 0,
       "index": 5
+    },
+    "betterdungeons:root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5
+    },
+    "starfell:mainland": {
+      "title": "Starfell",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5
+    },
+    "rpg_series:root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5
+    },
+    "minecraft:story/root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 0
     }
   }
 }
