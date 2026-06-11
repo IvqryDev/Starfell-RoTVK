@@ -19,7 +19,13 @@
     "de.keksuccino.fancymenu.customization.customgui.CustomGuiBaseScreen": true,
     "com.evandev.advancement_enhancement.gui.screens.EnhancedAdvancementsScreen": true,
     "com.evandev.advancement_enhancement.gui.screens.AdvancementEditorScreen": true,
-    "com.evandev.reliable_backpacks.client.gui.BackpackScreen": true
+    "com.evandev.reliable_backpacks.client.gui.BackpackScreen": true,
+    "com.teamabnormals.woodworks.client.gui.screens.inventory.SawmillScreen": true,
+    "com.evandev.advancement_enhancement.gui.screens.TabEditorScreen": true,
+    "com.molybdenum.alloyed.client.screen.ForgeScreen": true,
+    "folk.sisby.antique_atlas.gui.AtlasScreen": true,
+    "com.evandev.reliable_advancements.gui.screens.EnhancedAdvancementsScreen": true,
+    "com.evandev.reliable_advancements.gui.screens.AdvancementEditorScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -39,6 +45,10 @@
     "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true,
     "com.evandev.advancement_enhancement.gui.screens.EnhancedAdvancementsScreen": true,
     "com.evandev.advancement_enhancement.gui.screens.AdvancementEditorScreen": true,
-    "com.evandev.reliable_backpacks.client.gui.BackpackScreen": true
+    "com.evandev.reliable_backpacks.client.gui.BackpackScreen": true,
+    "com.teamabnormals.woodworks.client.gui.screens.inventory.SawmillScreen": true,
+    "com.molybdenum.alloyed.client.screen.ForgeScreen": true,
+    "com.evandev.reliable_advancements.gui.screens.EnhancedAdvancementsScreen": true,
+    "com.evandev.reliable_advancements.gui.screens.AdvancementEditorScreen": true
   }
 }

@@ -21,6 +21,10 @@
 	has_updated_bundles = false
 	#allow bundles to appear on chests at villages
 	bundle_loot = true
+	#toggle the modern rendering for bundles
+	has_modern_bundle_graphics = true
+	#toggle whether bundles should be dyeable
+	has_dyeable_bundle_recipe = true
 
 ["Spring to Life"]
 	#allow features from 'Spring to Life' to be obtainable through wandering traders
