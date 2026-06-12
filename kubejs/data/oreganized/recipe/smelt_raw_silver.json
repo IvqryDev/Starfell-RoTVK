@@ -1,0 +1,14 @@
+{
+  "type": "alloyed:forging",
+  "ingredients": [
+    {
+      "item": "oreganized:raw_silver"
+    },
+    {
+      "item": "oreganized:raw_silver"
+    }
+  ],
+  "result": {
+    "id": "oreganized:silver_ingot"
+  }
+}
