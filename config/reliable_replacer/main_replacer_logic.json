@@ -14,6 +14,9 @@
     "spelunkery:nephrite": "minecraft:deepslate",
 
     "block_factorys_bosses:ship_lantern": "redomesticate:wayward_lantern",
-    "block_factorys_bosses:plank": "nomansland:crude_trapdoor"
+    "block_factorys_bosses:plank": "nomansland:crude_trapdoor",
+
+    "minecraft:smoker": "minecraft:furnace",
+    "minecraft:blast_furnace": "minecraft:furnace"
   }
 }
