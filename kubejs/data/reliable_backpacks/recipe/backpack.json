@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#=#",
+    "RCR",
+    "#=#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:leather"
+    },
+    "=": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "id": "reliable_backpacks:backpack"
+  }
+}

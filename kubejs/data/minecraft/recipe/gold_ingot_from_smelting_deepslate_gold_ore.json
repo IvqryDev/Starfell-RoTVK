@@ -1,0 +1,14 @@
+{
+  "type": "alloyed:forging",
+  "ingredients": [
+    {
+      "item": "minecraft:deepslate_gold_ore"
+    },
+    {
+      "item": "minecraft:deepslate_gold_ore"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gold_ingot"
+  }
+}

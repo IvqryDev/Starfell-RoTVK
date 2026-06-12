@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "L": {
+    "S": {
       "item": "nomansland:sturdy_scute"
     },
     "R": {
       "item": "minecraft:leather"
     },
-    "S": {
+    "L": {
       "item": "minecraft:turtle_scute"
     }
   },

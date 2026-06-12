@@ -1,0 +1,14 @@
+{
+  "type": "alloyed:forging",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_gold"
+    },
+    {
+      "item": "minecraft:raw_gold"
+    },
+  ],
+  "result": {
+    "id": "minecraft:gold_ingot"
+  }
+}

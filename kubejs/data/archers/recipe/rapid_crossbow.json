@@ -2,26 +2,26 @@
   "type": "alloyed:forging_shaped",
   "category": "equipment",
   "key": {
-    "D": {
-      "item": "oreganized:silver_ingot"
-    },
     "I": {
-      "item": "pigsteel:pigsteel_chunk"
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
     },
     "T": {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:tripwire_hook"
     },
     "X": {
       "item": "minecraft:string"
     }
   },
   "pattern": [
-    "IDI",
+    "IRI",
     "XTX",
     " I "
   ],
   "result": {
     "count": 1,
-    "id": "archers:heavy_crossbow"
+    "id": "archers:rapid_crossbow"
   }
 }

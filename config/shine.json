@@ -57,7 +57,7 @@
     "minecraft:smoker": 0.0,
     "minecraft:blast_furnace": 0.0,
     "minecraft:furnace": 0.0,
-    "heart_crystals:heart_crystal": 200.0
+    "heart_crystals:heart_crystal": 100.0
   },
   "entityTextureStrengthOverrides": {
     "minecraft:textures/entity/enderman/enderman_eyes.png": 428.0,

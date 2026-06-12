@@ -2,23 +2,23 @@
   "type": "alloyed:forging_shaped",
   "category": "equipment",
   "key": {
-    "G": {
-      "item": "minecraft:gold_ingot"
-    },
-    "B": {
-      "item": "oreganized:lead_ingot"
+    "I": {
+      "item": "minecraft:iron_ingot"
     },
     "R": {
       "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "minecraft:string"
     }
   },
   "pattern": [
-    "G B",
-    "GRB",
-    " B "
+    " IX",
+    "R X",
+    " IX"
   ],
   "result": {
     "count": 1,
-    "id": "archers:auto_fire_hook"
+    "id": "archers:mechanic_shortbow"
   }
 }

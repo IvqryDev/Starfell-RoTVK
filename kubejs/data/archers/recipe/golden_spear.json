@@ -3,10 +3,10 @@
   "category": "equipment",
   "key": {
     "#": {
-      "item": "valcon:ashen_steel_handle"
+      "item": "minecraft:stick"
     },
     "P": {
-      "item": "oreganized:silver_ingot"
+      "item": "minecraft:gold_ingot"
     }
   },
   "pattern": [
@@ -16,6 +16,6 @@
   ],
   "result": {
     "count": 1,
-    "id": "archers:diamond_spear"
+    "id": "archers:golden_spear"
   }
 }
