@@ -1,0 +1,18 @@
+{
+  "type": "alloyed:forging",
+  "ingredients": [
+    {
+      "item": "pigsteel:pigsteel_chunk_block"
+    },
+    {
+      "item": "pigsteel:pigsteel_chunk_block"
+    },
+    {
+      "item": "pigsteel:pigsteel_chunk_block"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 4
+  }
+}
