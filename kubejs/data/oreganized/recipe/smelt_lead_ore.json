@@ -1,0 +1,14 @@
+{
+  "type": "alloyed:forging",
+  "ingredients": [
+    {
+      "item": "oreganized:lead_ore"
+    },
+    {
+      "item": "oreganized:lead_ore"
+    }
+  ],
+  "result": {
+    "id": "oreganized:lead_ingot"
+  }
+}

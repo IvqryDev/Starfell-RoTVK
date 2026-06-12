@@ -1,0 +1,14 @@
+{
+  "type": "alloyed:forging",
+  "ingredients": [
+    {
+      "item": "oreganized:raw_lead"
+    },
+    {
+      "item": "oreganized:raw_lead"
+    }
+  ],
+  "result": {
+    "id": "oreganized:lead_ingot"
+  }
+}
