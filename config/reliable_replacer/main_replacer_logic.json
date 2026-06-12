@@ -17,6 +17,9 @@
     "block_factorys_bosses:plank": "nomansland:crude_trapdoor",
 
     "minecraft:smoker": "minecraft:furnace",
-    "minecraft:blast_furnace": "minecraft:furnace"
+    "minecraft:blast_furnace": "minecraft:furnace",
+
+    "minecraft:lapis_ore": "minecraft:stone",
+    "minecraft:deepslate_lapis_ore": "minecraft:deepslate"
   }
 }

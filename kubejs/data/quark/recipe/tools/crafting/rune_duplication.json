@@ -1,16 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "LCL",
+    "LLL",
     "LRL",
     "LLL"
   ],
   "key": {
     "L": {
-      "item": "minecraft:lapis_lazuli"
-    },
-    "C": {
-      "tag": "c:cobblestones"
+      "item": "minecraft:amethyst_shard"
     },
     "R": {
       "item": "quark:smithing_template_rune"

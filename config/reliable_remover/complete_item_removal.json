@@ -658,7 +658,11 @@
             "block_factorys_bosses:big_oak_planks",
             "block_factorys_bosses:big_oak_planks_wet_broken",
             "minecraft:smoker",
-            "minecraft:blast_furnace"
+            "minecraft:blast_furnace",
+            "minecraft:lapis_block",
+            "minecraft:lapis_ore",
+            "minecraft:deepslate_lapis_ore",
+            "minecraft:lapis_lazuli"
         ]
     }
 ]
