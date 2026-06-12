@@ -25,7 +25,8 @@
       "minecraft:painting",
       "minersdelight:cutting/cutting/bat_wing",
       "emi_loot:/mob_drops/upgrade_aquatic/entities/flare",
-      "pigsteel:smelting/iron_ingot_from_smelting_porkslag"
+      "pigsteel:smelting/iron_ingot_from_smelting_porkslag",
+      "oreganized:bush_hammer"
     ]
   }
 ]
