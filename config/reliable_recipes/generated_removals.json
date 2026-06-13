@@ -196,7 +196,8 @@
       "wizards:netherite_scrap_from_smelting_staff_netherite_frost",
       "archers:redstone_from_smelting_rapid_crossbow",
       "wizards:netherite_scrap_from_smelting_netherite_frost_robe_feet",
-      "heart_crystals:recipes/decorations/heart_lantern_from_silver"
+      "heart_crystals:recipes/decorations/heart_lantern_from_silver",
+      "quark:tools/crafting/rune_duplication_no_corundum"
     ]
   }
 ]
