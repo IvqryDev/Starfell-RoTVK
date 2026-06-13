@@ -2,6 +2,27 @@
   "action": "remove_potion",
   "items": [
     "critical_strike:critical_strike_chance",
-    "critical_strike:critical_strike_damage"
+    "critical_strike:critical_strike_damage",
+    "oreganized:stunning",
+    "oreganized:long_stunning",
+    "friendsandfoes:reaching",
+    "friendsandfoes:long_reaching",
+    "friendsandfoes:strong_reaching",
+    "upgrade_aquatic:vibing",
+    "upgrade_aquatic:vibing_long",
+    "upgrade_aquatic:vibing_strong",
+    "upgrade_aquatic:repellence",
+    "upgrade_aquatic:repellence_strong",
+    "upgrade_aquatic:repellence_long",
+    "upgrade_aquatic:insomnia",
+    "upgrade_aquatic:insomnia_strong",
+    "upgrade_aquatic:restfulness",
+    "upgrade_aquatic:restfulness_strong",
+    "minersdelight:mining_fatigue",
+    "minersdelight:long_mining_fatigue",
+    "minersdelight:strong_mining_fatigue",
+    "minecraft:turtle_master",
+    "minecraft:strong_turtle_master",
+    "minecraft:long_turtle_master"
   ]
 }

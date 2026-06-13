@@ -1,0 +1,9 @@
+{
+  "action": "remove",
+  "tags": [
+    "supplementaries:presents",
+    "supplementaries:trapped_presents",
+    "minecraft:concrete_powder",
+    "minecraft:concrete"
+  ]
+}
