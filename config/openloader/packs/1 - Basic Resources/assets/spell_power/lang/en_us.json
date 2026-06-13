@@ -155,5 +155,6 @@
   "tag.spell_power.enchantable.haste": "Enchantable Staves & Wands",
   "tag.spell_power.enchantable.critical_chance": "Enchantable Staves & Wands",
   "tag.spell_power.enchantable.critical_damage": "Enchantable Staves & Wands",
-  "tag.spell_power.enchantable.spell_power_energize": "Enchantable Armor"
+  "tag.spell_power.enchantable.spell_power_energize": "Enchantable Armor",
+  "tag.spell_power.enchantable.spell_power_soulfrost": "Enchantable Armor"
 }

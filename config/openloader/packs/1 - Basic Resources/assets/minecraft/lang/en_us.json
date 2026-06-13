@@ -216,5 +216,8 @@
   "enchantment.minecraft.multishot": "Spiritcaller",
   "enchantment.minecraft.multishot.descripton": "Summons two additional spectral arrows that deal a fraction of the original damage for the same cost.",
   "enchantment.minecraft.power": "Spectral Shot",
-  "enchantment.minecraft.power.descripton": "Gives your arrows enhanced abilities to increase it's damage and pierce deeper into your enemy's soul."
+  "enchantment.minecraft.power.descripton": "Gives your arrows enhanced abilities to increase it's damage and pierce deeper into your enemy's soul.",
+  "enchantment.minecraft.looting": "Scavenger",
+  "enchantment.minecraft.channeling": "Storm Bolt",
+  "enchantment.minecraft.luck_of_the_sea": "Blessing of Verul"
 }

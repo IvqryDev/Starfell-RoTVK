@@ -7,7 +7,8 @@
     "minecraft:bush",
     "minecraft:leaf_litter",
     "minecraft:firefly_bush",
-    "block_factorys_bosses:rope_roll"
+    "block_factorys_bosses:rope_roll",
+    "block_factorys_bosses:ship_steering_wheel"
   ],
   "output": "minecraft:air"
 }
