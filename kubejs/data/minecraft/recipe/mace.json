@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "alloyed:forging_shaped",
   "key": {
     "H": {
       "item": "minecraft:heavy_core"

@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "alloyed:forging_shaped",
   "category": "misc",
   "key": {
     "#": {
@@ -12,7 +12,6 @@
     "###"
   ],
   "result": {
-    "count": 4,
     "id": "minecraft:cauldron"
   }
 }

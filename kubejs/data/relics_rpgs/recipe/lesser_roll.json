@@ -1,13 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        " ##",
+        " #I",
         "#F#",
-        "## "
+        "I# "
     ],
     "key": {
         "#": {
-            "item": "minecraft:lapis_lazuli"
+            "item": "minecraft:iron_ingot"
+        },
+        "I": {
+            "item": "minecraft:cyan_dye"
         },
         "F": {
             "item": "minecraft:feather"

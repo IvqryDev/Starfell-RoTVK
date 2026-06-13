@@ -1,0 +1,21 @@
+{
+  "type": "alloyed:forging_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "minecraft:lantern"
+    },
+    "#": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#1#",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "redomesticate:wayward_lantern"
+  }
+}

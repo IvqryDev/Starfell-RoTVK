@@ -1,0 +1,17 @@
+{
+  "type": "alloyed:forging_shaped",
+  "pattern": [
+    "cc",
+    "cc",
+    "cc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "blockbox:golden_door",
+    "count": 2
+  }
+}

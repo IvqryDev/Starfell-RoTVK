@@ -1,0 +1,16 @@
+{
+  "type": "alloyed:forging_shaped",
+  "pattern": [
+    "ccc",
+    "ccc"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "blockbox:golden_bars",
+    "count": 12
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "alloyed:forging_shaped",
+  "pattern": [
+    " c ",
+    "c c",
+    " c "
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "blockbox:chiseled_gold",
+    "count": 4
+  }
+}

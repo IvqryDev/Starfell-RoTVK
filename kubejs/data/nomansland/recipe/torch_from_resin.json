@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "r",
+    "/"
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "r": {
+      "item": "nomansland:resin"
+    }
+  },
+  "result": {
+    "id": "minecraft:torch",
+    "count": 12
+  }
+}

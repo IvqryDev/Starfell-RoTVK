@@ -25,7 +25,9 @@
     "com.molybdenum.alloyed.client.screen.ForgeScreen": true,
     "folk.sisby.antique_atlas.gui.AtlasScreen": true,
     "com.evandev.reliable_advancements.gui.screens.EnhancedAdvancementsScreen": true,
-    "com.evandev.reliable_advancements.gui.screens.AdvancementEditorScreen": true
+    "com.evandev.reliable_advancements.gui.screens.AdvancementEditorScreen": true,
+    "com.farmersrespite.client.gui.KettleScreen": true,
+    "umpaz.brewinandchewin.client.gui.KegScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -49,6 +51,8 @@
     "com.teamabnormals.woodworks.client.gui.screens.inventory.SawmillScreen": true,
     "com.molybdenum.alloyed.client.screen.ForgeScreen": true,
     "com.evandev.reliable_advancements.gui.screens.EnhancedAdvancementsScreen": true,
-    "com.evandev.reliable_advancements.gui.screens.AdvancementEditorScreen": true
+    "com.evandev.reliable_advancements.gui.screens.AdvancementEditorScreen": true,
+    "com.farmersrespite.client.gui.KettleScreen": true,
+    "umpaz.brewinandchewin.client.gui.KegScreen": true
   }
 }
