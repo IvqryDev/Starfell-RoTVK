@@ -103,7 +103,7 @@
 
 		[blocks.hat_stand.swing_physics]
 			frequency = 1.5
-			collision_considers_entity_hitbox = true
+			collision_considers_entity_hitbox = false
 			collision_inertia = 1.5
 			collision_force = 15.0
 			min_angle = 0.0
@@ -112,7 +112,7 @@
 
 	[blocks.turn_table]
 		#Display visual particles when a block is rotated
-		turn_particles = true
+		turn_particles = false
 
 	[blocks.speaker_block]
 		#Mute speaker block incoming narrator messages and displays them in chat instead
@@ -140,45 +140,45 @@
 
 #General settings
 [general]
+	#Enable Quark style config button on main menu. Needs Configured installed to work
+	config_button = false
+	#Enable Supplementaries to base textures off external Resource Packs rather than mod's default textures. 
+	use_external_resource_pack = false
+	#Allowed Values: ALWAYS, CACHED, CACHED_ZIPPED, NEVER
+	dynamic_assets_generation_mode = "CACHED"
 	#Disables Optifine warn screen
 	no_optifine_warn_screen = false
 	#Disable incompatible mods warning screen
 	no_incompatible_mods_screen = false
-	#Enable Quark style config button on main menu. Needs Configured installed to work
-	config_button = false
 	#Config button Y offset
 	# Default: 0
 	# Range: -10000 ~ 10000
 	config_button_y_offset = 0
 	#Show some tooltip hints to guide players through the mod
-	tooltip_hints = true
+	tooltip_hints = false
 	#Show tooltips items that have been made placeable
-	placeable_tooltips = true
+	placeable_tooltips = false
 	#Enables custom Configured config screen
 	custom_configured_screen = true
-	#Allowed Values: ALWAYS, CACHED, CACHED_ZIPPED, NEVER
-	dynamic_assets_generation_mode = "CACHED"
 	#unfunny
-	"I am very boring and I don't want any Easter Egg" = false
-	#Enable Supplementaries to base textures off external Resource Packs rather than mod's default textures. 
-	use_external_resource_pack = false
+	"I am very boring and I don't want any Easter Egg" = true
 
 #Game tweaks
 [tweaks]
+	#Enables sherds tooltip image preview
+	sherds_tooltip = false
+	#Enables banner pattern tooltip image preview
+	banner_pattern_tooltip = false
 	#Adds an overlay to projectile weapons in gui displaying currently selected ammo
 	projectile_weapon_overlay = true
 	#Renders an enchantment glint on placeable enchanted booksNote that turning this on will make book piles use tile renderer instead of baked models making them slower to render
 	placeable_books_glint = false
-	#Enables banner pattern tooltip image preview
-	banner_pattern_tooltip = true
 	#Enables paintings tooltip image preview
 	paintings_tooltip = true
-	#Enables sherds tooltip image preview
-	sherds_tooltip = true
 	#Size of the tooltip image used for Sherds, Blackboards, Banner patterns and Paintings
 	# Default: 80
 	# Range: 1 ~ 255
-	tooltip_image_size = 80
+	tooltip_image_size = 50
 	#Wearing mob heads will apply post processing
 	mob_head_shaders = true
 	#Sends your current chat when you die while typing
@@ -196,48 +196,17 @@
 		#Makes colored maps a bit more accurate. Might affect performance
 		accurate_colors = false
 
-	[items.altimeter]
-		#Click action for depth meter which displays current depth
-		click_action = false
-		#Allows depth meter to have unique textures per each dimension. Add more dimensions IDs and a matching texture in the correct path replacing ':' with '_'
-		#This is a list. Add more entries with syntax [[...]]
-		extra_dimension_textures = ["minecraft:the_nether", "minecraft:the_end"]
-		#Increasing this to be more than 1 will result in delth meter display image to be shown in float amounts instead of pixel perfect ones
-		# Default: 1
-		# Range: 1 ~ 10
-		texture_precision_multiplier = 1
-
-	[items.slingshot]
-		#Adds an overlay to slingshots in gui displaying currently selected ammo
-		overlay = true
-		#Render the block outline for distant blocks that are reachable with a slingshot enchanted with Stasis
-		stasis_block_outline = true
-		#An RGBA color for the block outline in hex format, for example 0x00000066 for vanilla outline colors
-		block_outline_color = "#FFFFFFFF"
-		#How big should a slingshot projectile look
-		# Default: 0.5
-		# Range: 0.0 ~ 1.0
-		projectile_scale = 0.5
-
-	[items.lunch_basket]
-		#Adds an overlay to lunch boxes in gui displaying currently selected food
-		overlay = true
-
-	[items.cannonball]
-		#Render cannonballs as 3D models
-		3d_model = true
-
 	[items.quiver]
+		#How skeleton with quivers should render it
+		#Allowed Values: HIDDEN, BACK, HIP, THIGH
+		skeleton_render_mode = "BACK"
+		#How quivers should render onto players
+		#Allowed Values: HIDDEN, BACK, HIP, THIGH
+		render_mode = "BACK"
 		#Z offset for quiver render when wearing armor. Useful for when you have custom armor bigger than vanilla to void clipping. Leave at -1 for automatic offset
 		# Default: -1.0
 		# Range: -1.0 ~ 1.0
 		armor_render_offset = -1.0
-		#How quivers should render onto players
-		#Allowed Values: HIDDEN, BACK, HIP, THIGH
-		render_mode = "THIGH"
-		#How skeleton with quivers should render it
-		#Allowed Values: HIDDEN, BACK, HIP, THIGH
-		skeleton_render_mode = "THIGH"
 		#Adds an overlay to quivers in gui displaying currently selected arrow
 		overlay = true
 		#Allows using your mouse to select an arrow in the quiver GUI
@@ -250,6 +219,37 @@
 		# Default: 0
 		# Range: -1000 ~ 1000
 		gui_y_offset = 0
+
+	[items.slingshot]
+		#Adds an overlay to slingshots in gui displaying currently selected ammo
+		overlay = false
+		#Render the block outline for distant blocks that are reachable with a slingshot enchanted with Stasis
+		stasis_block_outline = false
+		#An RGBA color for the block outline in hex format, for example 0x00000066 for vanilla outline colors
+		block_outline_color = "#FFFFFFFF"
+		#How big should a slingshot projectile look
+		# Default: 0.5
+		# Range: 0.0 ~ 1.0
+		projectile_scale = 0.5
+
+	[items.lunch_basket]
+		#Adds an overlay to lunch boxes in gui displaying currently selected food
+		overlay = false
+
+	[items.altimeter]
+		#Click action for depth meter which displays current depth
+		click_action = false
+		#Allows depth meter to have unique textures per each dimension. Add more dimensions IDs and a matching texture in the correct path replacing ':' with '_'
+		#This is a list. Add more entries with syntax [[...]]
+		extra_dimension_textures = ["minecraft:the_nether", "minecraft:the_end"]
+		#Increasing this to be more than 1 will result in delth meter display image to be shown in float amounts instead of pixel perfect ones
+		# Default: 1
+		# Range: 1 ~ 10
+		texture_precision_multiplier = 1
+
+	[items.cannonball]
+		#Render cannonballs as 3D models
+		3d_model = false
 
 	[items.wrench]
 		#Display visual particles when a block is rotated

@@ -9,6 +9,22 @@
 	lock_block = false
 	relayer = false
 
+	[redstone.spring_launcher]
+		enabled = false
+		#spring launcher launch speed
+		# Default: 1.5
+		# Range: 0.0 ~ 16.0
+		velocity = 1.5
+		#fall distance needed to trigger the automatic spring launch
+		# Default: 5
+		# Range: 0 ~ 512
+		fall_height_required = 5
+
+	[redstone.dispenser_minecart]
+		enabled = false
+		#Makes projectiles shot from dispenser minecart retain the minecart velocity and be shot at an angle when the minecart is on a rail slope
+		adjust_projectile_angle = false
+
 	[redstone.speaker_block]
 		enabled = false
 		#Enable/disable speaker block narrator mode
@@ -46,17 +62,6 @@
 		# Range: 0 ~ 16
 		range = 5
 
-	[redstone.spring_launcher]
-		enabled = true
-		#spring launcher launch speed
-		# Default: 1.5
-		# Range: 0.0 ~ 16.0
-		velocity = 1.5
-		#fall distance needed to trigger the automatic spring launch
-		# Default: 5
-		# Range: 0 ~ 512
-		fall_height_required = 5
-
 	[redstone.enderman_head]
 		enabled = false
 		drop_head = false
@@ -70,9 +75,9 @@
 	[redstone.turn_table]
 		enabled = false
 		#can rotate entities standing on it?
-		rotate_entities = true
+		rotate_entities = false
 		#Allows turn table to shuffle containers content when rotated over horizontal axis
-		shuffle_containers = true
+		shuffle_containers = false
 
 	[redstone.pulley_block]
 		#Pulleys are automatically disabled if 'rope' feature is disabled
@@ -82,15 +87,10 @@
 		# Range: 0.0 ~ 1.0
 		mineshaft_elevator = 0.035
 
-	[redstone.dispenser_minecart]
-		enabled = true
-		#Makes projectiles shot from dispenser minecart retain the minecart velocity and be shot at an angle when the minecart is on a rail slope
-		adjust_projectile_angle = true
-
 	[redstone.faucet]
 		enabled = false
 		#Turn off to prevent faucets from dropping items
-		spill_items = true
+		spill_items = false
 		#Allows faucets to fill entities inventories
 		fill_entities_below = false
 
@@ -103,24 +103,13 @@
 	fodder = false
 	hourglass = true
 
-	[functional.lumisene]
+	[functional.safe]
 		enabled = false
-		#Gives the flammable effext also when merely stepping on lumisene. Turning this off if you think effects are not something that should be applied like that and just by drinking it.
-		# Default: 50
-		# Range: 0 ~ 10000
-		flammable_from_lumisene_block_duration = 50
-
-		[functional.lumisene.lumisene_bottle]
-			#Enables lumisene bottles and the flammable effect and lumisene bottles. Turn off if you think its over the top and doesnt match with existing effects
-			enabled = false
-			#Duration of the flammable effect when you drink a lumisene bottle
-			# Default: 300
-			# Range: 0 ~ 10000
-			flammable_duration = 300
-			#Duration of the glowing effect when you drink a lumisene bottle
-			# Default: 200
-			# Range: 0 ~ 10000
-			glowing_duration = 200
+		#Makes safes only breakable by their owner or by a player in creative
+		prevent_breaking = false
+		#Make safes simpler so they do not require keys:
+		#they will be bound to the first person that opens one and only that person will be able to interact with them
+		simple_safes = false
 
 	[functional.rope]
 		#Also internally disables Galleons, Pulleys, Buntings, Rope arrows and rope mineshaft.
@@ -128,11 +117,11 @@
 		#Also reminder that you can disable any item from any mod with a recipe (datapack) + JEI hide
 		enabled = true
 		#Allows ropes to be supported & attached to solid block sides
-		block_side_attachment = false
+		block_side_attachment = true
 		#Makes sliding down ropes as fast as free falling, still negating fall damage
 		slide_on_fall = false
 		#Enables horizontal placement of ropes. Disabling will make ropes always non solid
-		horizontal_ropes = false
+		horizontal_ropes = true
 		#Use this config to turn allow supplementaries to replace all items tagged as #supplementaries:ropes with supplementaries own rope or turn them to air instead. This is applied to all loot tables (chests and drops)
 		#Allowed Values: REPLACE, NONE, REMOVE
 		replace_in_loot_tables = "NONE"
@@ -162,7 +151,7 @@
 		#Allows all entities to be captured by cages and jars. Not meant for survival
 		allow_all_mobs = false
 		#Allows all baby mobs to be captured by cages
-		cage_allow_all_babies = true
+		cage_allow_all_babies = false
 		#Dynamically allows all small mobs inside cages depending on their hitbox size
 		cage_auto_detect = false
 		#Makes it so all (hostile) mobs captured by cages and jars will be set to persistent so they won't despawn when released
@@ -173,14 +162,6 @@
 		health_threshold = 100
 		#When on, if a mob is tameable, it will only be capturable when tamed.
 		require_taming = true
-
-	[functional.safe]
-		enabled = true
-		#Makes safes only breakable by their owner or by a player in creative
-		prevent_breaking = false
-		#Make safes simpler so they do not require keys:
-		#they will be bound to the first person that opens one and only that person will be able to interact with them
-		simple_safes = false
 
 	[functional.sack]
 		enabled = true
@@ -193,7 +174,7 @@
 		#How many slots should a sack have
 		# Default: 9
 		# Range: 1 ~ 27
-		slots = 18
+		slots = 12
 
 	[functional.bamboo_spikes]
 		enabled = false
@@ -206,25 +187,25 @@
 		populate_creative_tab = false
 
 	[functional.urn]
-		enabled = true
+		enabled = false
 		#Chance for an urn to spawn a critter from the urn_spawn tag
 		# Default: 0.01
 		# Range: 0.0 ~ 1.0
 		critter_spawn_chance = 0.01
-		cave_urns = true
+		cave_urns = false
 
 	[functional.soap]
 		enabled = false
+		#Allows soap to clean blocks in-world. Disable to prevent in-world block cleaning while keeping soap item and recipes functional
+		block_cleaning_enabled = false
 		#Dyed Bock/Item types that cannot be cleaned with soap
 		clean_blacklist = ["minecraft:glazed_terracotta", "botania:mystical_flower", "mna:chimerite_crystal", "botania:floating_flower", ",minecraft:mushroom", "botania:mushroom", "botania:tall_mystical_flower", "botania:petal_block", "morered:network_cable", "xycraft_world:glowing_shiny_aurey_block", "xycraft_world:shiny_aurey_block", "xycraft_world:rgb_lamp", "xycraft_world:glowing_rgb_viewer", "xycraft_world:glowing_matte_rgb_block", "xycraft_world:rgb_lamp_pole"]
-		#Allows soap to clean blocks in-world. Disable to prevent in-world block cleaning while keeping soap item and recipes functional
-		block_cleaning_enabled = true
 
 		#This is a map of special blocks that can be cleaned with soap. For items you will also need to add a recipe
 		[functional.soap.special_blocks]
+			"quark:dirty_glass_pane" = "minecraft:glass_pane"
 			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
 			"quark:dirty_glass" = "minecraft:glass"
-			"quark:dirty_glass_pane" = "minecraft:glass_pane"
 
 	[functional.cannon]
 		enabled = false
@@ -275,85 +256,54 @@
 		enabled = false
 		wild_flax = false
 
+	[functional.lumisene]
+		enabled = false
+		#Gives the flammable effext also when merely stepping on lumisene. Turning this off if you think effects are not something that should be applied like that and just by drinking it.
+		# Default: 50
+		# Range: 0 ~ 10000
+		flammable_from_lumisene_block_duration = 50
+
+		[functional.lumisene.lumisene_bottle]
+			#Enables lumisene bottles and the flammable effect and lumisene bottles. Turn off if you think its over the top and doesnt match with existing effects
+			enabled = false
+			#Duration of the flammable effect when you drink a lumisene bottle
+			# Default: 300
+			# Range: 0 ~ 10000
+			flammable_duration = 300
+			#Duration of the glowing effect when you drink a lumisene bottle
+			# Default: 200
+			# Range: 0 ~ 10000
+			glowing_duration = 200
+
 [building]
-	checker_block = false
-	fire_pit = false
-	flint_block = false
-	wicker_fence = false
-	feather_block = false
 	lapis_bricks = false
-	pancake = false
-	stone_tile = false
-	statue = false
-	fine_wood = false
-	end_stone_lamp = false
-	raked_gravel = false
-	#Buntings are automatically disabled if 'rope' feature is disabled
-	bunting = false
 	deepslate_lamp = true
+	end_stone_lamp = false
 	blackstone_lamp = true
 	stone_lamp = true
+	stone_tile = true
 	blackstone_tile = true
+	#Buntings are automatically disabled if 'rope' feature is disabled
+	bunting = false
+	pancake = false
+	checker_block = false
+	raked_gravel = false
+	feather_block = false
+	statue = true
 	doormat = true
+	flint_block = false
+	fine_wood = false
 	candle_holder = true
+	fire_pit = false
+	wicker_fence = false
 
-	[building.sugar_cube]
+	[building.hat_stand]
 		enabled = false
-		#Duration in seconts of speed effect garanted to horses that eat a sugar cube
-		# Default: 10
-		# Range: 0 ~ 1000
-		horse_speed_duration = 10
-
-	[building.gravel_bricks]
-		#Allows gravel bricks to break when fallen upon or when an entity walks on them with enough falling speed
-		allow_breaking = false
-		enabled = false
-
-	[building.awning]
-		enabled = false
-		#Allows having slanted awnings. Disabled if you feel its cursed.
-		slant = false
-		#Allows entities to fall through awnings, when shifting.
-		shift_through = false
-		#Bouncing angle of slanted awnings
-		# Default: 69.44395478041653
-		# Range: 0.0 ~ 90.0
-		angle = 69.44395478041653
-
-	[building.timber_frame]
-		#Allows axes to remove a framed block leaving the contained block intact
-		axes_strip = false
-		#Replace a timber frame with wattle and daub block when daub is placed in it
-		replace_daub = false
-		enabled = false
-		#Allow placing a timber frame directly on a block by holding shift
-		swap_on_shift = false
-
-	[building.daub]
-		enabled = false
-		wattle_and_daub = false
-
-	[building.ash_bricks]
-		enabled = false
-
-	[building.slidy_block]
-		enabled = false
-		#Slidy block speed
-		# Default: 0.125
-		# Range: 0.0 ~ 1.0
-		speed = 0.125
-
-	[building.flag]
-		#Allows right/left clicking on a stick to lower/raise a flag attached to it
-		stick_pole = false
-		enabled = false
-		#Maximum allowed pole length
-		# Default: 16
-		# Range: 0 ~ 256
-		pole_length = 16
+		#Allow all items to go on hat stand
+		unrestricted = false
 
 	[building.spider_head]
-		enabled = true
+		enabled = false
 
 	[building.barnacles]
 		enabled = false
@@ -366,6 +316,27 @@
 		#Allowed Values: BOTH, GUI, MANUAL
 		interaction_mode = "BOTH"
 
+	[building.gravel_bricks]
+		enabled = false
+		#Allows gravel bricks to break when fallen upon or when an entity walks on them with enough falling speed
+		allow_breaking = false
+
+	[building.slidy_block]
+		enabled = false
+		#Slidy block speed
+		# Default: 0.125
+		# Range: 0.0 ~ 1.0
+		speed = 0.125
+
+	[building.timber_frame]
+		enabled = false
+		#Allow placing a timber frame directly on a block by holding shift
+		swap_on_shift = false
+		#Allows axes to remove a framed block leaving the contained block intact
+		axes_strip = false
+		#Replace a timber frame with wattle and daub block when daub is placed in it
+		replace_daub = false
+
 	[building.iron_gate]
 		enabled = false
 		#Allows two iron gates to be opened simultaneously when on top of the other
@@ -377,9 +348,16 @@
 		enabled = false
 
 	[building.item_shelf]
-		enabled = false
+		enabled = true
 		#Makes item shelves climbable
 		climbable_shelves = false
+
+	[building.sugar_cube]
+		enabled = false
+		#Duration in seconts of speed effect garanted to horses that eat a sugar cube
+		# Default: 10
+		# Range: 0 ~ 1000
+		horse_speed_duration = 10
 
 	[building.planter]
 		enabled = false
@@ -391,16 +369,16 @@
 	[building.notice_board]
 		enabled = true
 		#Allows notice boards to accept and display any item, not just maps and books
-		allow_any_item = false
+		allow_any_item = true
 		#Enables a GUI for the block. Not needed as the block just holds one item which you can place by clicking on it
 		gui = false
 
 	[building.pedestal]
-		enabled = false
+		enabled = true
 		#If enabled end crystals placed on a pedestals will provide an enchantment power bonus equivalent to 3 bookshelves
 		# Default: 3.0
 		# Range: 0.0 ~ 100.0
-		crystal_enchanting = 5.0
+		crystal_enchanting = 3.0
 
 	[building.ash]
 		enabled = true
@@ -414,6 +392,15 @@
 		rain_wash_ash = true
 		#Use a datapack to tweak rarity
 		basalt_ash = true
+
+	[building.flag]
+		enabled = true
+		#Allows right/left clicking on a stick to lower/raise a flag attached to it
+		stick_pole = true
+		#Maximum allowed pole length
+		# Default: 16
+		# Range: 0 ~ 256
+		pole_length = 16
 
 	[building.goblet]
 		enabled = true
@@ -445,10 +432,23 @@
 			# Range: 1 ~ 100
 			max_structures_searches = 12
 
-	[building.hat_stand]
-		enabled = true
-		#Allow all items to go on hat stand
-		unrestricted = false
+	[building.daub]
+		enabled = false
+		wattle_and_daub = false
+
+	[building.ash_bricks]
+		enabled = false
+
+	[building.awning]
+		enabled = false
+		#Allows having slanted awnings. Disabled if you feel its cursed.
+		slant = false
+		#Allows entities to fall through awnings, when shifting.
+		shift_through = false
+		#Bouncing angle of slanted awnings
+		# Default: 69.44395478041653
+		# Range: 0.0 ~ 90.0
+		angle = 69.44395478041653
 
 	[building.flower_box]
 		enabled = true
@@ -569,7 +569,7 @@
 	[tools.flute]
 		enabled = true
 		#Allows flute to be unbound. Unbound flutes will search for pets in a radius and teleport them to the player
-		unbound = false
+		unbound = true
 		#Radius in which an unbound flute will search pets
 		# Default: 64
 		# Range: 0 ~ 500
@@ -617,44 +617,34 @@
 
 #General settings
 [general]
+	#slightly increase this or decrease this number to tweak the red merchant spawn chance. Won't spawn at 0 and will spawn twice as often on 2
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	red_merchant_spawn_multiplier = 0.0
+	#Allowed Values: ALWAYS, CACHED, CACHED_ZIPPED, NEVER
+	dynamic_assets_generation_mode = "CACHED"
 	#Enable Creative Tab
 	creative_tab = false
 	#Set to false to disable custom dispenser behaviors (i.e: filling jars) if for some reason they are causing trouble
 	dispensers = true
 	#Disable startup messages and sanity check that the mod performs to inform of possible detected crashes that might occur due to issues
 	sanity_checks_messages = true
-	#slightly increase this or decrease this number to tweak the red merchant spawn chance. Won't spawn at 0 and will spawn twice as often on 2
-	# Default: 1.0
-	# Range: 0.0 ~ 10.0
-	red_merchant_spawn_multiplier = 1.0
-	#Allowed Values: ALWAYS, CACHED, CACHED_ZIPPED, NEVER
-	dynamic_assets_generation_mode = "CACHED"
 
 #Vanilla tweaks
 [tweaks]
 
-	[tweaks.placeable_sticks]
-		#Allow placeable sticks
-		sticks = false
-		#Allow placeable blaze rods
-		blaze_rods = false
-
-	[tweaks.golden_apple_disenchant]
-		enabled = false
-
-	[tweaks.raked_gravel]
-		#allow gravel to be raked with a hoe
-		enabled = false
+	[tweaks.ai_tweaks]
+		#Allows mobs to dismount from boats when on land. Add more entities to the 'supplementaries:can_dismount_boats' tag to allow them to dismount as well
+		raiders_dismount_boats = false
+		#Allows pillagers to use cannon boats. Add more entities to the 'supplementaries:can_use_cannon_boat' tag to allow them to use cannon boats as well
+		pillagers_use_cannon_boats = false
 
 	[tweaks.dragon_banner_pattern]
 		#Adds dragon banner pattern made from dragon head
 		enabled = true
 
-	[tweaks.ai_tweaks]
-		#Allows pillagers to use cannon boats. Add more entities to the 'supplementaries:can_use_cannon_boat' tag to allow them to use cannon boats as well
-		pillagers_use_cannon_boats = false
-		#Allows mobs to dismount from boats when on land. Add more entities to the 'supplementaries:can_dismount_boats' tag to allow them to dismount as well
-		raiders_dismount_boats = true
+	[tweaks.golden_apple_disenchant]
+		enabled = false
 
 	[tweaks.traders_open_doors]
 		#Allows traders to open doors (because they couldn't apparently)
@@ -672,6 +662,12 @@
 		#Throw bricks at your foes! Might break glass blocks
 		enabled = false
 
+	[tweaks.placeable_sticks]
+		#Allow placeable sticks
+		sticks = false
+		#Allow placeable blaze rods
+		blaze_rods = false
+
 	[tweaks.placeable_gunpowder]
 		#Allow placeable gunpowder
 		enabled = false
@@ -684,19 +680,23 @@
 		# Range: 0 ~ 8
 		spread_age = 2
 
+	[tweaks.raked_gravel]
+		#allow gravel to be raked with a hoe
+		enabled = false
+
 	[tweaks.bottle_xp]
 		#Allow bottling up xp by using a bottle on an enchanting table
-		enabled = true
+		enabled = false
 		#bottling health cost
 		# Default: 2
 		# Range: 0 ~ 20
-		cost = 1
+		cost = 2
 		#Block that should be clicked on for bottling to work. Leave blank for enchanting table. You can put another block here from another mod if you find it more fitting
-		target_block = "minecraft:lodestone"
+		target_block = "minecraft:lodestode"
 
 	[tweaks.map_tweaks]
 		#Enables beacons, lodestones, respawn anchors, beds, conduits, portals to be displayed on maps by clicking one of them with a map
-		block_map_markers = false
+		block_map_markers = true
 		#Shows a death marker on your map when you die. Requires a recovery compass in player inventory or similar
 		#Allowed Values: OFF, WITH_COMPASS, ALWAYS
 		death_marker = "WITH_COMPASS"
@@ -728,7 +728,7 @@
 		#Amount of rotten flesh needed
 		# Default: 64
 		# Range: 1 ~ 1000
-		rotten_flesh = 8
+		rotten_flesh = 16
 		#Allows zombie horses to be ridden underwater
 		rideable_underwater = true
 		#Convert a zombie horse back by feeding it a golden carrot
@@ -746,11 +746,11 @@
 
 	[tweaks.item_lore]
 		#Adds a recipe to add 'lore' strings to an item by combining it with a named nametag
-		enabled = true
+		enabled = false
 
 	[tweaks.sus_recipes]
 		#Adds recipes to craft suspicious gravel and suspicious sand
-		enabled = true
+		enabled = false
 
 	[tweaks.slimed_effect]
 		enabled = true
@@ -762,11 +762,11 @@
 		#Duration of the slimed effect in ticks
 		# Default: 300
 		# Range: 0 ~ 1000
-		duration = 60
+		duration = 80
 		#Chance that a slime mob will apply slimed effect on successful attack. Multiplied by the slime size
 		# Default: 0.15
 		# Range: 0.0 ~ 1.0
-		chance_per_slime_size = 0.35
+		chance_per_slime_size = 0.15
 
 	[tweaks.clock_and_compass]
 		#Allow to right click with a clock to display current time in numerical form
