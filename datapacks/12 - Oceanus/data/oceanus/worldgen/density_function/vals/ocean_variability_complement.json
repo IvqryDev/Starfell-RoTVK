@@ -1,9 +1,0 @@
-{
-    "type": "add",
-    "argument1": 1.0,
-    "argument2": {
-        "type": "mul",
-        "argument1": -1.0,
-        "argument2": "oceanus:configurable/ocean_variability"
-    }
-}
