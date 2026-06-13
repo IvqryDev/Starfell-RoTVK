@@ -12,13 +12,13 @@
       "item": "farmersdelight:tomato_sauce"
     },
     "w": {
-      "item": "minecraft:wheat"
+      "item": "farmersdelight:wheat_dough"
     }
   },
   "pattern": [
     " f ",
     "ptp",
-    "www"
+    " w "
   ],
   "result": {
     "count": 1,

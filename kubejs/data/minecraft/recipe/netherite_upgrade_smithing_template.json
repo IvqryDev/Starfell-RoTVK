@@ -3,19 +3,16 @@
   "category": "misc",
   "key": {
     "#": {
-      "item": "minecraft:diamond"
-    },
-    "C": {
-      "item": "minecraft:blackstone"
+      "item": "oreganized:silver_ingot"
     },
     "S": {
       "item": "minecraft:netherite_upgrade_smithing_template"
     }
   },
   "pattern": [
-    "#S#",
+    " # ",
     "#C#",
-    "###"
+    " # "
   ],
   "result": {
     "count": 2,
