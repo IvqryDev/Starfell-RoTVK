@@ -210,5 +210,11 @@
   "item.minecraft.netherite_scrap": "Ancient Scrap",
   "item.minecraft.netherite_shovel": "Ancient Metal Shovel",
   "item.minecraft.smithing_template.netherite_upgrade.base_slot_description": "Add a First-Age or ashen armor, weapon, or tool.",
-  "item.minecraft.smithing_template.netherite_upgrade.ingredients": "Ancient Metal Ingot"
+  "item.minecraft.smithing_template.netherite_upgrade.ingredients": "Ancient Metal Alloy",
+  "enchantment.minecraft.sharpness": "Soul Slash",
+  "enchantment.minecraft.sharpness.descripton": "Gives your weapon enhanced abilities to increase its damage and cut deeper into your enemy's soul.",
+  "enchantment.minecraft.multishot": "Spiritcaller",
+  "enchantment.minecraft.multishot.descripton": "Summons two additional spectral arrows that deal a fraction of the original damage for the same cost.",
+  "enchantment.minecraft.power": "Spectral Shot",
+  "enchantment.minecraft.power.descripton": "Gives your arrows enhanced abilities to increase it's damage and pierce deeper into your enemy's soul."
 }

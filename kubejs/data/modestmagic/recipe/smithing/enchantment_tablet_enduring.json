@@ -1,0 +1,14 @@
+{
+  "type": "modestmagic:tablet_smithing",
+  "template": {
+    "item": "modestmagic:enchantment_tablet_enduring"
+  },
+  "base": {
+    "tag": "minecraft:enchantable/durability"
+  },
+  "enchantments": [
+    "allurement:spread_of_ailments",
+    "spell_power:energize",
+    "minecraft:thorns"
+  ]
+}

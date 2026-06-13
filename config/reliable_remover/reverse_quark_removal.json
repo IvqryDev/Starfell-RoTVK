@@ -54,7 +54,8 @@
       "quark:stoneling_spawn_egg",
       "quark:ancient_tome",
       "quark:smithing_template_rune",
-      "quark:monster_box"
+      "quark:monster_box",
+      "quark:shiba_spawn_egg"
     ]
   }
 }

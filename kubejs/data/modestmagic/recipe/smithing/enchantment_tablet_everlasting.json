@@ -1,0 +1,14 @@
+{
+  "type": "modestmagic:tablet_smithing",
+  "template": {
+    "item": "modestmagic:enchantment_tablet_everlasting"
+  },
+  "base": {
+    "tag": "minecraft:enchantable/durability"
+  },
+  "enchantments": [
+    "spell_power:spell_power",
+    "spell_power:magic_protection",
+    "minecraft:channeling"
+  ]
+}

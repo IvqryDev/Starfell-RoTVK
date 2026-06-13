@@ -1,0 +1,14 @@
+{
+  "type": "modestmagic:tablet_smithing",
+  "template": {
+    "item": "modestmagic:enchantment_tablet_haunted"
+  },
+  "base": {
+    "tag": "minecraft:enchantable/durability"
+  },
+  "enchantments": [
+    "allurement:alleviating",
+    "minecraft:sharpness",
+    "minecraft:multishot"
+  ]
+}

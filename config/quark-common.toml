@@ -298,7 +298,7 @@
 		"Ignore Anti Overlap" = false
 
 	[management.easy_transferring]
-		"Enable Shift Lock" = true
+		"Enable Shift Lock" = false
 
 	[management.expanded_item_interactions]
 		"Enable Armor Interaction" = false
@@ -1603,7 +1603,7 @@
 		#If set to false, item attributes will show in white or red if they're negative values.
 		"Show Upgrade Status" = false
 		"Animate Up Down Arrows" = false
-		"Enchanting Stacks" = ["minecraft:iron_sword", "minecraft:iron_pickaxe", "minecraft:iron_shovel", "minecraft:iron_axe", "minecraft:iron_hoe", "minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "minecraft:mace", "minecraft:shears", "minecraft:bow", "minecraft:fishing_rod", "minecraft:crossbow", "minecraft:trident", "shieldexp:iron_shield", "farmersdelight:iron_knife", "rogues:iron_dagger", "rogues:iron_sickle", "paladins:holy_wand", "paladins:iron_claymore", "paladins:iron_great_hammer", "paladins:iron_mace", "", ""]
+		"Enchanting Stacks" = ["minecraft:iron_sword", "minecraft:iron_pickaxe", "minecraft:iron_shovel", "minecraft:iron_axe", "minecraft:iron_hoe", "minecraft:iron_helmet", "minecraft:iron_chestplate", "minecraft:iron_leggings", "minecraft:iron_boots", "minecraft:mace", "minecraft:shears", "minecraft:bow", "minecraft:fishing_rod", "minecraft:crossbow", "minecraft:trident", "shieldexp:iron_shield", "farmersdelight:iron_knife", "rogues:iron_dagger", "rogues:iron_sickle", "paladins:holy_wand", "paladins:iron_claymore", "paladins:iron_great_hammer", "paladins:iron_mace", "rogues:iron_glaive", "rogues:iron_double_axe"]
 		#A list of additional stacks to display on each enchantment
 		#The format is as follows:
 		#enchant_id=item1,item2,item3...

@@ -1,0 +1,15 @@
+{
+  "type": "modestmagic:tablet_smithing",
+  "template": {
+    "item": "modestmagic:enchantment_tablet_recollection"
+  },
+  "base": {
+    "tag": "minecraft:enchantable/durability"
+  },
+  "enchantments": [
+    "minecraft:loyalty",
+    "minecraft:swift_sneak",
+    "farmersdelight:backstabbing",
+    "allurement:reeling"
+  ]
+}
