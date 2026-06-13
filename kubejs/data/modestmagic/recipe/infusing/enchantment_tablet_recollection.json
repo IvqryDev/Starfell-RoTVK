@@ -1,31 +1,24 @@
 {
-  "type": "modestmagic:infusing",
-  "base": { 
-    "item": "modestmagic:enchantment_tablet" 
-  },
-  "ingredients": [
-    {
-	  "item": "minecraft:ghast_tear"
-	},
-    {
-	  "item": "minecraft:ghast_tear"
-	},
-    {
-	  "item": "minecraft:amethyst_shard"
-	},
-    {
-	  "item": "minecraft:amethyst_shard"
-	},
-    {
-      "item": "minecraft:amethyst_shard"
+  "type": "alloyed:forging_shaped",
+  "category": "misc",
+  "key": {
+    "2": {
+      "item": "oreganized:lead_ingot"
     },
-    {
-      "item": "minecraft:amethyst_shard"
+    "1": {
+      "item": "upgrade_aquatic:thrasher_tooth"
+    },
+    "#": {
+      "item": "modestmagic:enchantment_tablet"
     }
+  },
+  "pattern": [
+    " 22",
+    "1#2",
+    "11 "
   ],
-  "results": [
-  {
-    "id": "modestmagic:enchantment_tablet_recollection"
+  "result": {
+    "id": "modestmagic:enchantment_tablet_recollection",
+    "count": 1
   }
-]
 }

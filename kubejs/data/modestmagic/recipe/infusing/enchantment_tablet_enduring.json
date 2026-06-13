@@ -1,31 +1,24 @@
 {
-  "type": "modestmagic:infusing",
-  "base": { 
-    "item": "modestmagic:enchantment_tablet" 
-  },
-  "ingredients": [
-    {
-	  "item": "modestmagic:stardust"
-	},
-    {
-	  "item": "modestmagic:stardust"
-	},
-    {
-	  "item": "minecraft:diamond"
-	},
-    {
-	  "item": "minecraft:diamond"
-	},
-    {
-      "item": "minecraft:diamond"
+  "type": "alloyed:forging_shaped",
+  "category": "misc",
+  "key": {
+    "2": {
+      "item": "minecraft:gold_ingot"
     },
-    {
-      "item": "minecraft:diamond"
+    "1": {
+      "item": "jewelry:jade"
+    },
+    "#": {
+      "item": "modestmagic:enchantment_tablet"
     }
+  },
+  "pattern": [
+    " 22",
+    "1#2",
+    "11 "
   ],
-  "results": [
-  {
-    "id": "modestmagic:enchantment_tablet_enduring"
+  "result": {
+    "id": "modestmagic:enchantment_tablet_enduring",
+    "count": 1
   }
-]
 }

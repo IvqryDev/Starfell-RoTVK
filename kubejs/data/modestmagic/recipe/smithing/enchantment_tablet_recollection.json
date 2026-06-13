@@ -7,7 +7,7 @@
     "tag": "minecraft:enchantable/durability"
   },
   "enchantments": [
-    "minecraft:loyalty",
+    "minecraft:thorns",
     "minecraft:swift_sneak",
     "farmersdelight:backstabbing",
     "allurement:reeling"

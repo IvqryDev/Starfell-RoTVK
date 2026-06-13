@@ -1,31 +1,24 @@
 {
-  "type": "modestmagic:infusing",
-  "base": { 
-    "item": "modestmagic:enchantment_tablet" 
-  },
-  "ingredients": [
-    {
-	  "item": "minecraft:quartz"
-	},
-    {
-	  "item": "minecraft:quartz"
-	},
-    {
-	  "item": "minecraft:quartz"
-	},
-    {
-	  "item": "minecraft:prismarine_shard"
-	},
-    {
-      "item": "minecraft:prismarine_shard"
+  "type": "alloyed:forging_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:quartz"
     },
-    {
-      "item": "minecraft:prismarine_shard"
+    "S": {
+      "item": "minecraft:iron_ingot"
+    },
+    "#": {
+      "item": "modestmagic:enchantment_tablet"
     }
+  },
+  "pattern": [
+    " CC",
+    "S#C",
+    "SS "
   ],
-  "results": [
-  {
-    "id": "modestmagic:enchantment_tablet_cyclic"
+  "result": {
+    "id": "modestmagic:enchantment_tablet_cyclic",
+    "count": 1
   }
-]
 }

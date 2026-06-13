@@ -16,5 +16,6 @@
   "item.minecraft.splash_potion.effect.critical_strike_chance": "Splash Potion of Critical Hit",
   "item.minecraft.splash_potion.effect.critical_strike_damage": "Splash Potion of Critical Impact",
   "item.minecraft.tipped_arrow.effect.critical_strike_chance": "Arrow of Critical Hit",
-  "item.minecraft.tipped_arrow.effect.critical_strike_damage": "Arrow of Critical Impact"
+  "item.minecraft.tipped_arrow.effect.critical_strike_damage": "Arrow of Critical Impact",
+  "tag.critical_strike.enchantable.weapon": "Enchantable Melee & Ranged Weapons"
 }

@@ -1,31 +1,24 @@
 {
-  "type": "modestmagic:infusing",
-  "base": { 
-    "item": "modestmagic:enchantment_tablet" 
-  },
-  "ingredients": [
-    {
-	  "item": "minecraft:diamond"
-	},
-    {
-	  "item": "minecraft:diamond"
-	},
-    {
-	  "item": "minecraft:redstone"
-	},
-    {
-	  "item": "minecraft:redstone"
-	},
-    {
-      "item": "minecraft:sugar"
+  "type": "alloyed:forging_shaped",
+  "category": "misc",
+  "key": {
+    "2": {
+      "item": "minecraft:breeze_rod"
     },
-    {
-      "item": "minecraft:sugar"
+    "1": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "#": {
+      "item": "modestmagic:enchantment_tablet"
     }
+  },
+  "pattern": [
+    " 22",
+    "1#2",
+    "11 "
   ],
-  "results": [
-  {
-    "id": "modestmagic:enchantment_tablet_swift"
+  "result": {
+    "id": "modestmagic:enchantment_tablet_swift",
+    "count": 1
   }
-]
 }

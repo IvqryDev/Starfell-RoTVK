@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "alloyed:forging_shaped",
   "category": "misc",
   "key": {
     "O": {
       "item": "minecraft:amethyst_shard"
     },
     "#": {
-      "item": "minecraft:lapis_block"
+      "item": "minecraft:stone"
     }
   },
   "pattern": [
@@ -16,6 +16,6 @@
   ],
   "result": {
     "id": "modestmagic:enchantment_tablet",
-    "count": 1
+    "count": 2
   }
 }
