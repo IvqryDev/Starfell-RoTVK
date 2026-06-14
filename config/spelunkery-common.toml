@@ -1,15 +1,15 @@
 [misc]
-	enable_rough_gems = false
-	spelunkery_creative_tab = false
 	# Default: 64
 	# Range: 0 ~ 128
-	diamond_grindstone_deplete_chance = 64
-	grindstone_disenchants_tools = true
+	diamond_grindstone_deplete_chance = 0
+	enable_raw_nuggets = false
+	enable_mores = false
+	spelunkery_creative_tab = true
 	# Default: 10
 	# Range: 0 ~ 128
-	parachute_opening_delay = 10
-	enable_mores = true
-	enable_raw_nuggets = true
+	parachute_opening_delay = 0
+	grindstone_disenchants_tools = true
+	enable_rough_gems = true
 
 [utilities]
 	# Default: 64
@@ -36,10 +36,10 @@
 	magnet_range = 8
 
 [slimes]
-	slimes_spawn_in_all_caves = false
-	slimes_always_friendly = true
+	slimes_friendly_to_players_with_regeneration = false
+	slimes_always_friendly = false
+	slimes_spawn_in_all_caves = true
 	create_slimes_in_cauldrons = true
-	slimes_friendly_to_players_with_regeneration = true
 	# Default: 150
 	# Range: 1 ~ 2400
 	slime_eating_cooldown = 150
