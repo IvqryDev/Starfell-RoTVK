@@ -10,9 +10,9 @@
     }
   },
   "pattern": [
-    "OOO",
+    " OO",
     "O#O",
-    "OOO"
+    "OO "
   ],
   "result": {
     "id": "modestmagic:enchantment_tablet",
