@@ -1,5 +1,5 @@
 [features]
-	#Enable plaques
-	plaques = false
 	#Enable lanterns
-	lanterns = true
+	lanterns = false
+	#Enable plaques
+	plaques = true

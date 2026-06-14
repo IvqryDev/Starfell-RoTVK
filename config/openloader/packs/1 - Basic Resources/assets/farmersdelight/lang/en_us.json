@@ -1,4 +1,5 @@
 {
   "item.farmersdelight.iron_knife": "Cooking Knife",
-  "enchantment.farmersdelight.backstabbing": "Betrayal"
+  "enchantment.farmersdelight.backstabbing": "Betrayal",
+  "farmersdelight.tooltip.cooking_pot.empty": "Empty"
 }
