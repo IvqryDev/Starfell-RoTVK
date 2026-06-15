@@ -1,6 +1,28 @@
+	[mobs.rat]
+		# Default: 6
+		# Range: > 0
+		"Minimum rat pack size" = 1
+		# Default: 10
+		# Range: > 0
+		"Maximum rat pack size" = 1
+		#The chance a pack of Rats has to spawn with a regular Rat spawn
+		# Default: 0.2
+		# Range: 0.0 ~ 1.7976931348623157E308
+		"Rat pack spawn chance" = 0.0
+
+	[mobs.evendeeper]
+		# Default: -4
+		# Range: -64 ~ 320
+		"Evendeeper max spawn height" = -60
+
+	[mobs.grazer]
+		# Default: -4
+		# Range: -64 ~ 320
+		"Grazer max spawn height" = -60
+
 	[mobs.creeper]
 		#Creeper explosions have a weaker power
-		"Creeper explosion nerf" = true
+		"Creeper explosion nerf" = false
 		#How much weaker Creeper explosions are
 		# Default: 0.5
 		# Range: 0.0 ~ 1.7976931348623157E308
@@ -9,34 +31,12 @@
 	[mobs.deeper]
 		# Default: 60
 		# Range: -64 ~ 320
-		"Deeper max spawn height" = 60
-
-	[mobs.evendeeper]
-		# Default: -4
-		# Range: -64 ~ 320
-		"Evendeeper max spawn height" = -4
-
-	[mobs.grazer]
-		# Default: -4
-		# Range: -64 ~ 320
-		"Grazer max spawn height" = -4
+		"Deeper max spawn height" = -60
 
 	[mobs.peeper]
 		# Default: -4
 		# Range: -64 ~ 320
 		"Peeper max spawn height" = -4
-
-	[mobs.rat]
-		#The chance a pack of Rats has to spawn with a regular Rat spawn
-		# Default: 0.2
-		# Range: 0.0 ~ 1.7976931348623157E308
-		"Rat pack spawn chance" = 0.2
-		# Default: 6
-		# Range: > 0
-		"Minimum rat pack size" = 6
-		# Default: 10
-		# Range: > 0
-		"Maximum rat pack size" = 10
 
 	[blocks.fragile_stone]
 		#If ores next to or within Fragile Stone and Deepslate fall when the neighbor blocks crumble
@@ -53,9 +53,16 @@
 
 [tweaks]
 	#Chainmail armor increases the user's attack damage
-	"Chainmail armor increases damage" = false
+	"Chainmail armor increases damage" = true
 	#Golden armor increases the user's movement speed
-	"Golden armor increases speed" = false
+	"Golden armor increases speed" = true
+
+	[tweaks.trial_chambers]
+		#If Trial Tokens should be given instead of miscellaneous loot from Trial Spawners
+		"Trial Tokens" = false
+		#If Copper Blocks are replaced with Schist Pillars in Trial Chambers
+		#This prevents Trial Chambers from giving access to insane amounts of Copper Ingots and gives them a more gloomy vibe
+		"Trial Chambers repalette" = false
 
 	[tweaks.rails]
 		#Rails can be placed in the direction you're looking at by clicking on another rail, similar to scaffolding
@@ -69,10 +76,3 @@
 		#Prevents replacing/applying a Trim Template & Material over a previously trimmed item
 		#This is to prevent the player from wasting materials that could be returned at a Dismantling Table
 		"Prevent replacing trims" = false
-
-	[tweaks.trial_chambers]
-		#If Copper Blocks are replaced with Schist Pillars in Trial Chambers
-		#This prevents Trial Chambers from giving access to insane amounts of Copper Ingots and gives them a more gloomy vibe
-		"Trial Chambers repalette" = true
-		#If Trial Tokens should be given instead of miscellaneous loot from Trial Spawners
-		"Trial Tokens" = true
