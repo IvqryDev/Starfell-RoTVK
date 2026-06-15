@@ -668,7 +668,6 @@
             "modestmagic:enchantment_tablet_infested",
             "modestmagic:enchantment_tablet_flinging",
             "modestmagic:enchantment_tablet_hallowed",
-            "modestmagic:enchantment_tablet_heavy",
             "minecraft:enchanted_book",
             "minecraft:enchanting_table",
             "supplementaries:urn",
@@ -773,7 +772,8 @@
             "minecraft:sulfur_spike",
             "minecraft:light_blue_bundle",
             "minecraft:orange_bundle",
-            "brewinandchewin:kombucha"
+            "brewinandchewin:kombucha",
+            "friendsandfoes:crab_claw"
         ]
     }
 ]

@@ -7,13 +7,13 @@
   ],
   "key": {
     "I": {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:copper_ingot"
     },
     "R": {
       "item": "spelunkery:rough_cinnabar"
     }
   },
   "result": {
-    "id": "minecraft:compass"
+    "id": "supplementaries:altimeter"
   }
 }

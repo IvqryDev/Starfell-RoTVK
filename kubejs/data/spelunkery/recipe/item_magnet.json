@@ -1,0 +1,23 @@
+{
+  "type": "alloyed:forging_shaped",
+  "pattern": [
+    "X Z",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "spelunkery:raw_magnetite"
+    },
+    "X": {
+      "item": "spelunkery:rough_cinnabar"
+    },
+    "Z": {
+      "item": "oreganized:lead_ingot"
+    }
+  },
+  "result": {
+    "id": "spelunkery:item_magnet",
+    "count": 1
+  }
+}
