@@ -1,0 +1,8 @@
+{
+  "remove": [
+    "minecraft:deep_dark"
+  ],
+  "values": [
+    "#minecraft:is_overworld"
+  ]
+}
