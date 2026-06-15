@@ -1,0 +1,20 @@
+{
+  "type": "alloyed:forging_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "oreganized:lead_ingot"
+    },
+    "S": {
+      "item": "nomansland:sturdy_scute"
+    }
+  },
+  "pattern": [
+    "BSB",
+    "BSB",
+    " S "
+  ],
+  "result": {
+    "id": "caverns_and_chasms:aegis"
+  }
+}
