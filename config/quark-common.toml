@@ -329,7 +329,7 @@
 [tools]
 	Abacus = false
 	"Ambient Discs" = false
-	"Ancient Tomes" = true
+	"Ancient Tomes" = false
 	"Beacon Redirection" = true
 	"Bottled Cloud" = false
 	"Color Runes" = true

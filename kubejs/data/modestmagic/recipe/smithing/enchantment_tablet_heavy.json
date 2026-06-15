@@ -7,7 +7,6 @@
     "tag": "minecraft:enchantable/durability"
   },
   "enchantments": [
-    "minecraft:blast_protection",
-    "minecraft:density"
+    "minecraft:umbreaking"
   ]
 }
