@@ -87,7 +87,7 @@ ItemEvents.modification(event => {
                     probability: 1,
                     effectSupplier: () =>
                         new $MobEffectInstance(
-                            'minecraft:night_vision',
+                            'critical_strike:chance',
                             6000, /* 5 Minutes */
                             0, /* Level 1 */
                             true, /* Ambience */
@@ -231,7 +231,7 @@ ItemEvents.modification(event => {
                     probability: 1,
                     effectSupplier: () =>
                         new $MobEffectInstance(
-                            'minecraft:jump_boost',
+                            'friendsandfoes:reach',
                             6000, /* 5 Minutes */
                             0, /* Level 1 */
                             true, /* Ambience */
@@ -255,7 +255,7 @@ ItemEvents.modification(event => {
                     probability: 1,
                     effectSupplier: () =>
                         new $MobEffectInstance(
-                            'friendsandfoes:reach',
+                            'critical_strike:damage',
                             6000, /* 5 Minutes */
                             0, /* Level 1 */
                             true, /* Ambience */
