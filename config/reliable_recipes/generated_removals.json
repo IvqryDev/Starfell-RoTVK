@@ -197,7 +197,8 @@
       "archers:redstone_from_smelting_rapid_crossbow",
       "wizards:netherite_scrap_from_smelting_netherite_frost_robe_feet",
       "heart_crystals:recipes/decorations/heart_lantern_from_silver",
-      "quark:tools/crafting/rune_duplication_no_corundum"
+      "quark:tools/crafting/rune_duplication_no_corundum",
+      "farmersdelight:book_from_canvas"
     ]
   }
 ]
