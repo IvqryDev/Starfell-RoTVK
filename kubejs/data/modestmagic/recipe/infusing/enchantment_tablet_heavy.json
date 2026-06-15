@@ -1,0 +1,21 @@
+{
+  "type": "alloyed:forging_shaped",
+  "category": "misc",
+  "key": {
+    "1": {
+      "item": "oreganized:silver_ingot"
+    },
+    "2": {
+      "item": "oreganized:silver_nugget"
+    }
+  },
+  "pattern": [
+    " 12",
+    "111",
+    "21 "
+  ],
+  "result": {
+    "id": "modestmagic:enchantment_tablet_heavy",
+    "count": 1
+  }
+}
