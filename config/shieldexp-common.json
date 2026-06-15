@@ -18,11 +18,7 @@
     "arsenal:unique_sickle_1",
     "arsenal:unique_sickle_2",
     "arsenal:unique_sickle_sw",
-    "shieldexp:wooden_shield",
-    "oreganized:electrum_shield",
-    "minecraft:shield",
-    "shieldexp:golden_shield",
-    "artifacts:umbrella"
+    "caverns_and_chasms:aegis"
   ],
   "shieldBlacklist": [],
   "itemOnlyMode": false,
@@ -34,9 +30,12 @@
   "lenientStamina": false,
   "tooltips": true,
   "tooltipCooldown": true,
-  "tooltipStamina": false,
+  "tooltipStamina": true,
   "tooltipSpeed": false,
-  "tooltipParryDamage": false,
+  "tooltipParryDamage": true,
   "tooltipParryWindow": true,
-  "tooltipBlastResistance": false
+  "tooltipBlastResistance": false,
+  "hudIndicator": true,
+  "hudXOffset": 0,
+  "hudYOffset": 0
 }
