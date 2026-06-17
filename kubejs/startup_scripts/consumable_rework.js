@@ -383,4 +383,48 @@ ItemEvents.modification(event => {
             ]
         })
     })
+    event.modify('hominid:famished_stomach', item => {
+        const foodComponent = item.get('food')
+        item.setFood({
+            nutrition: 6,
+            saturation: 0.1,
+            canAlwaysEat: true,
+            eatSeconds: 1.6,
+            effects: [
+                {
+                    probability: 1,
+                    effectSupplier: () =>
+                        new $MobEffectInstance(
+                            'minecraft:strength',
+                            900, /* 45 Seconds */
+                            1, /* Level 2 */
+                            true, /* Ambience */
+                            false /* Particles */
+                        ),
+                },
+                {
+                    probability: 1,
+                    effectSupplier: () =>
+                        new $MobEffectInstance(
+                            'valcon:rotten',
+                            900, /* 45 Seconds */
+                            0, /* Level 1 */
+                            true, /* Ambience */
+                            false /* Particles */
+                        ),
+                },
+                {
+                    probability: 1,
+                    effectSupplier: () =>
+                        new $MobEffectInstance(
+                            'hominid:paranoia',
+                            900, /* 45 Seconds */
+                            0, /* Level 1 */
+                            true, /* Ambience */
+                            false /* Particles */
+                        ),
+                },
+            ]
+        })
+    })
 })
