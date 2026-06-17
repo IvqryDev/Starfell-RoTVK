@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "143",
+    "223"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "2": {
+      "item": "minecraft:spider_eye"
+    },
+    "3": {
+      "item": "minersdelight:spider_leg"
+    },
+    "4": {
+      "item": "heart_crystals:heart_crystal_shard"
+    }
+  },
+  "result": {
+    "id": "hominid:famished_stomach",
+    "count": 1
+  }
+}
