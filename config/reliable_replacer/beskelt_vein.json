@@ -1,4 +1,5 @@
 {
+  "retrogen": true,
   "inputs": ["minecraft:iron_ore"],
   "output": "oreganized:lead_ore",
   "probability": 0.1
