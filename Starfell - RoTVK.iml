@@ -18,6 +18,7 @@
       <excludeFolder url="file://$MODULE_DIR$/moonlight-global-datapacks" />
       <excludeFolder url="file://$MODULE_DIR$/saves" />
       <excludeFolder url="file://$MODULE_DIR$/screenshots" />
+      <excludeFolder url="file://$MODULE_DIR$/player_models" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
