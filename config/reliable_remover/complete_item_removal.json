@@ -777,7 +777,15 @@
             "tolerable_creepers:mischief_arrow",
             "tolerable_creepers:spore_barrel",
             "tolerable_creepers:spore_bomb",
-            "tolerable_creepers:creeper_spores"
+            "tolerable_creepers:creeper_spores",
+            "supplementaries:caverns_and_chasms/way_sign_azalea",
+            "suppsquared:caverns_and_chasms/item_shelf_azalea",
+            "minecraft:brewing_stand",
+            "caverns_and_chasms:living_flesh",
+            "suppsquared:iron_plaque",
+            "suppsquared:copper_plaque",
+            "suppsquared:gold_plaque",
+            "minecraft:lodestone"
         ]
     }
 ]
