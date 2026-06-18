@@ -1,3 +1,27 @@
 {
-	"item.another_furniture.furniture_hammer": "Copper Hammer"
+	"item.another_furniture.furniture_hammer": "Copper Hammer",
+
+	"block.another_furniture.cherry_chair": "Sakura Chair",
+	"block.another_furniture.cherry_shelf": "Sakura Shelf",
+	"block.another_furniture.cherry_table": "Sakura Table",
+	"block.another_furniture.cherry_shutter": "Sakura Shutter",
+	"block.another_furniture.cherry_bench": "Sakura Bench",
+	"block.another_furniture.cherry_lattice": "Sakura Lattice",
+	"block.another_furniture.cherry_drawer": "Sakura Drawer",
+
+	"block.another_furniture.dark_oak_chair": "Ebony Chair",
+	"block.another_furniture.dark_oak_shelf": "Ebony Shelf",
+	"block.another_furniture.dark_oak_table": "Ebony Table",
+	"block.another_furniture.dark_oak_shutter": "Ebony Shutter",
+	"block.another_furniture.dark_oak_bench": "Ebony Bench",
+	"block.another_furniture.dark_oak_lattice": "Ebony Lattice",
+	"block.another_furniture.dark_oak_drawer": "Ebony Drawer",
+	
+	"block.another_furniture.jungle_chair": "Mahogany Chair",
+	"block.another_furniture.jungle_shelf": "Mahogany Shelf",
+	"block.another_furniture.jungle_table": "Mahogany Table",
+	"block.another_furniture.jungle_shutter": "Mahogany Shutter",
+	"block.another_furniture.jungle_bench": "Mahogany Bench",
+	"block.another_furniture.jungle_lattice": "Mahogany Lattice",
+	"block.another_furniture.jungle_drawer": "Mahogany Drawer"
 }

@@ -1,0 +1,19 @@
+{
+  "block.blockbox.dark_oak_seat": "Ebony Seat",
+  "block.blockbox.dark_oak_palisade": "Ebony Palisade",
+  "block.blockbox.spiked_dark_oak_palisade": "Spiked Ebony Palisade",
+  "block.blockbox.stripped_dark_oak_palisade": "Stripped Ebony Palisade",
+  "block.blockbox.stripped_spiked_dark_oak_palisade": "Stripped Spiked Ebony Palisade",
+
+  "block.blockbox.cherry_seat": "Sakura Seat",
+  "block.blockbox.cherry_palisade": "Sakura Palisade",
+  "block.blockbox.spiked_cherry_palisade": "Spiked Sakura Palisade",
+  "block.blockbox.stripped_cherry_palisade": "Stripped Sakura Palisade",
+  "block.blockbox.stripped_spiked_cherry_palisade": "Stripped Spiked Sakura Palisade",
+
+  "block.blockbox.jungle_seat": "Mahogany Seat",
+  "block.blockbox.jungle_palisade": "Mahogany Palisade",
+  "block.blockbox.spiked_jungle_palisade": "Spiked Mahogany Palisade",
+  "block.blockbox.stripped_jungle_palisade": "Stripped Mahogany Palisade",
+  "block.blockbox.stripped_spiked_jungle_palisade": "Stripped Spiked Mahogany Palisade"
+}
