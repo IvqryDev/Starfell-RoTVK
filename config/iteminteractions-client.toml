@@ -18,7 +18,7 @@ precision_mode = "CONTROL"
 #Select a modifier key required to be held, otherwise selecting "KEY" serves as a toggle. The key is defined in vanilla's controls menu.
 #Default Value: ALWAYS
 #Allowed Values: KEY, ALWAYS, SHIFT, CONTROL, ALT
-reveal_contents = "SHIFT"
+reveal_contents = "ALWAYS"
 #Show an indicator on container items when the stack carried by the cursor can be added in your inventory.
 #Default Value: true
 container_item_indicator = true
