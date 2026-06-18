@@ -38,7 +38,7 @@
 [slimes]
 	slimes_friendly_to_players_with_regeneration = false
 	slimes_always_friendly = false
-	slimes_spawn_in_all_caves = true
+	slimes_spawn_in_all_caves = false
 	create_slimes_in_cauldrons = true
 	# Default: 150
 	# Range: 1 ~ 2400
