@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:16
+renderDistance:20
 simulationDistance:10
 screenEffectScale:1.0
 soundDevice:""
@@ -35,7 +35,7 @@ chatLinksPrompt:true
 discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
-showSubtitles:false
+showSubtitles:true
 directionalAudio:false
 touchscreen:false
 bobView:true
@@ -225,14 +225,14 @@ key_key.shine.editor:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.entityculling.toggle:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.unknown
-soundCategory_master:0.0
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
-soundCategory_block:1.0
+soundCategory_block:0.0
 soundCategory_hostile:1.0
-soundCategory_neutral:1.0
-soundCategory_player:1.0
+soundCategory_neutral:0.0
+soundCategory_player:0.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
 modelPart_cape:true
