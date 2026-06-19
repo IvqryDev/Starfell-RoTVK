@@ -1,6 +1,18 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:nomansland:incendiary_arrow",
+    {
+      "type": "item",
+      "id": "nomansland:resin_oil_bottle",
+      "remainder": "item:minecraft:glass_bottle"
+    },
+    "item:nomansland:fruit_cake",
+    "item:mynethersdelight:powdery_block",
+    "item:mynethersdelight:stripped_powdery_block",
+    "item:mynethersdelight:powder_cannon",
+    "item:reliable_backpacks:backpack",
+    "item:hominid:famished_stomach",
     "item:caverns_and_chasms:aegis",
     "item:minecraft:fermented_spider_eye",
     "item:minecraft:spider_eye",
@@ -216,7 +228,6 @@
     "item:brewinandchewin:saccharine_rum",
     "item:nomansdelight:fruit_tart",
     "item:farmersdelight:fruit_salad",
-    "item:nomansland:fruit_cake",
     "item:brewinandchewin:beer",
     "item:brewinandchewin:vodka",
     "item:minecraft:potion{\"minecraft:potion_contents\":{potion:\"minecraft:awkward\"}}",
@@ -422,7 +433,6 @@
     "item:relics_rpgs:medium_proc_ranged_damage",
     "item:minersdelight:golden_nutritional_bar",
     "item:mynethersdelight:golden_trophy",
-    "item:reliable_backpacks:backpack",
     "item:paladins:monk_workbench",
     "item:paladins:paladin_armor_feet",
     "item:paladins:paladin_armor_legs",
@@ -601,7 +611,6 @@
     "item:farmersdelight:tree_bark",
     "item:quark:crate",
     "item:nomansland:resin",
-    "item:nomansland:resin_oil_bottle",
     "item:minecraft:prismarine_shard",
     "item:minecraft:trident",
     "item:upgrade_aquatic:prismarine_rod",
@@ -721,11 +730,11 @@
     "tags": {},
     "resolutions": {},
     "disabled": [
-      "minecraft:amethyst_block",
       "minecraft:emerald_block",
       "minecraft:arrow",
       "farmersdelight:skillet",
-      "minecraft:tinted_glass"
+      "minecraft:tinted_glass",
+      "minecraft:amethyst_block"
     ]
   },
   "hidden_stacks": []

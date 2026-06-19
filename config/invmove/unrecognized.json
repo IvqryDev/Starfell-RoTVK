@@ -30,7 +30,9 @@
     "umpaz.brewinandchewin.client.gui.KegScreen": true,
     "com.teamabnormals.caverns_and_chasms.client.gui.screens.inventory.ToolboxScreen": true,
     "com.teamabnormals.caverns_and_chasms.client.gui.screens.inventory.DismantlingScreen": true,
-    "com.teamabnormals.caverns_and_chasms.client.gui.screens.inventory.BejeweledAnvilScreen": true
+    "com.teamabnormals.caverns_and_chasms.client.gui.screens.inventory.BejeweledAnvilScreen": true,
+    "com.evandev.reliable_advancements.gui.screens.TabEditorScreen": true,
+    "net.runes.client.RuneCraftingScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
@@ -59,6 +61,7 @@
     "umpaz.brewinandchewin.client.gui.KegScreen": true,
     "com.teamabnormals.caverns_and_chasms.client.gui.screens.inventory.ToolboxScreen": true,
     "com.teamabnormals.caverns_and_chasms.client.gui.screens.inventory.DismantlingScreen": true,
-    "com.teamabnormals.caverns_and_chasms.client.gui.screens.inventory.BejeweledAnvilScreen": true
+    "com.teamabnormals.caverns_and_chasms.client.gui.screens.inventory.BejeweledAnvilScreen": true,
+    "net.runes.client.RuneCraftingScreen": true
   }
 }

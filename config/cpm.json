@@ -1,5 +1,20 @@
 {
   "editorLastVersion": "0.6.26a",
-  "editorRecentProjects": [],
-  "titleScreenButton": true
+  "playerSettings": {},
+  "globalSettings": {},
+  "blockedList": {},
+  "serverSettings": {},
+  "editorUVAreaAlpha": 0.8,
+  "editorSelectMouseButton": 0.0,
+  "titleScreenButton": true,
+  "friendSettings": {},
+  "keybinds": {},
+  "editorDragMouseButton": -1.0,
+  "editorMenuMouseButton": -1.0,
+  "editorRotateMouseButton": 1.0,
+  "safetyProfiles": {},
+  "editorRecentProjects": [
+    "C:\\Users\\Noah7\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\avatars\\PROTO-MK-IV.cpmproject",
+    "C:\\Users\\Noah7\\AppData\\Roaming\\ModrinthApp\\profiles\\Starfell - RoTVK\\avatars\\PROTO-MK-V.cpmproject"
+  ]
 }
