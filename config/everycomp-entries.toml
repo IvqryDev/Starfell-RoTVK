@@ -25,6 +25,9 @@
 			walnut = true
 			willow = true
 
+		[types.wood_type.minecraft]
+			pale_oak = true
+
 		[types.leaves_type.quark]
 			orange_blossom = false
 			lavender_blossom = false
@@ -51,6 +54,9 @@
 			willow = true
 			apple_fruit = true
 			pear_fruit = true
+
+		[types.leaves_type.minecraft]
+			pale_oak = true
 
 		[types.cake.nomansland]
 			fruit_cake = true
