@@ -199,7 +199,9 @@
       "heart_crystals:recipes/decorations/heart_lantern_from_silver",
       "quark:tools/crafting/rune_duplication_no_corundum",
       "farmersdelight:book_from_canvas",
-      "crafting:dying/caverns_and_chasms/aegis"
+      "crafting:dying/caverns_and_chasms/aegis",
+      "emi_loot:/chest_loot/artifacts/inject/chests/village/village_butcher",
+      "artifacts:eternal_steak_campfire"
     ]
   }
 ]

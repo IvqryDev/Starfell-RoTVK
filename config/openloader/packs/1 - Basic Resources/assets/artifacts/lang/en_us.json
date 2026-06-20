@@ -1,4 +1,5 @@
 {
   "item.artifacts.everlasting_beef": "Unlimited Bacon",
-  "item.artifacts.eternal_steak": "Chuckle Sandwich"
+  "item.artifacts.eternal_steak": "Chuckle Sandwich",
+  "artifacts.tooltip.item.everlasting_food": "Not consumable..."
 }

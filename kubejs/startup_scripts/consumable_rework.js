@@ -384,7 +384,6 @@ ItemEvents.modification(event => {
         })
     })
     event.modify('hominid:famished_stomach', item => {
-        const foodComponent = item.get('food')
         item.setFood({
             nutrition: 6,
             saturation: 0.1,
@@ -425,6 +424,22 @@ ItemEvents.modification(event => {
                         ),
                 },
             ]
+        })
+    })
+    event.modify('artifacts:everlasting_beef', item => {
+        item.setFood({
+            nutrition: 2,
+            saturation: 1,
+            canAlwaysEat: true,
+            eatSeconds: 1.6
+        })
+    })
+    event.modify('artifacts:eternal_steak', item => {
+        item.setFood({
+            nutrition: 4,
+            saturation: 5,
+            canAlwaysEat: true,
+            eatSeconds: 1.6
         })
     })
 })

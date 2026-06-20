@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "valcon:lembas"
+    },
+    {
+      "item": "artifacts:everlasting_beef"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    }
+  ],
+  "result": {
+    "id": "artifacts:eternal_steak"
+  }
+}
