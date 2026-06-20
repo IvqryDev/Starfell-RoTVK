@@ -1,6 +1,14 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:oreganized:lead_ingot",
+    "item:oreganized:lead_bolt",
+    "item:oreganized:waxed_white_concrete_powder",
+    "item:minecraft:white_concrete_powder",
+    "item:minecraft:white_concrete",
+    "item:caverns_and_chasms:kunai",
+    "item:minecraft:wheat_seeds",
+    "item:nomansland:wooden_platform",
     "item:nomansland:incendiary_arrow",
     {
       "type": "item",
@@ -392,7 +400,6 @@
     "item:minecraft:netherite_scrap",
     "item:oreganized:silver_ingot",
     "item:minecraft:gold_ingot",
-    "item:oreganized:lead_ingot",
     "item:minecraft:copper_ingot",
     "item:minecraft:iron_ingot",
     "item:valcon:ashen_steel_ingot",
@@ -466,7 +473,6 @@
     "item:archers:ranger_armor_feet",
     "item:archers:archer_armor_chest",
     "item:oreganized:raw_lead_block",
-    "item:oreganized:lead_bolt",
     "item:oreganized:lead_bolt_crate",
     "item:pigsteel:pigsteel_chunk_block",
     "item:pigsteel:porkslag",
@@ -730,10 +736,10 @@
     "tags": {},
     "resolutions": {},
     "disabled": [
-      "minecraft:emerald_block",
-      "minecraft:arrow",
-      "farmersdelight:skillet",
       "minecraft:tinted_glass",
+      "minecraft:emerald_block",
+      "farmersdelight:skillet",
+      "minecraft:arrow",
       "minecraft:amethyst_block"
     ]
   },

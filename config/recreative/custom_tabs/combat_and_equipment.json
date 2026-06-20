@@ -1,0 +1,11 @@
+{
+  "action": "custom_tab",
+  "tabs": ["starfell:combat_and_equipment"],
+  "name": "Combat & Equipment",
+  "icon": "simplest_paxels:diamond_paxel",
+  "add_items": [
+    "minecraft:stone",
+    "minecraft:cobblestone",
+    "minecraft:dirt"
+  ]
+}

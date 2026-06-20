@@ -16,10 +16,6 @@
       64,
       270
     ],
-    "global:root": [
-      0,
-      0
-    ],
     "sozoka:me": [
       32,
       0
@@ -104,32 +100,16 @@
       44,
       91
     ],
-    "oreganized:story/melting_point": [
-      210,
-      12
-    ],
-    "oreganized:story/disc_smith": [
-      299,
-      -38
-    ],
-    "oreganized:story/profound_brain_damage": [
-      118,
-      171
-    ],
     "minecraft:story/smelt_iron": [
       114,
-      78
+      76
     ],
     "minecraft:story/lava_bucket": [
       192,
-      53
-    ],
-    "minecraft:story/iron_tools": [
-      114,
-      106
+      51
     ],
     "alloyed:forge": [
-      79,
+      80,
       91
     ],
     "spelunkery:spelunkery/rough_diamond": [
@@ -143,14 +123,6 @@
     "spelunkery:spelunkery/every_ore": [
       275,
       331
-    ],
-    "oreganized:story/obtain_silver": [
-      171,
-      146
-    ],
-    "oreganized:story/electrum_gear": [
-      292,
-      199
     ],
     "minecraft:story/deflect_arrow": [
       300,
@@ -171,10 +143,6 @@
     "spelunkery:spelunkery/grindstone": [
       275,
       304
-    ],
-    "oreganized:adventure/terminal_velocity": [
-      288,
-      142
     ],
     "alloyed:bronze_instruments": [
       364,
@@ -231,10 +199,6 @@
     "quark:content/wear_full_rainbow": [
       460,
       156
-    ],
-    "spelunkery:spelunkery/item_magnet": [
-      428,
-      102
     ],
     "starfell:journey": [
       -7,
@@ -1140,10 +1104,6 @@
       128,
       0
     ],
-    "betterdungeons:root": [
-      0,
-      67
-    ],
     "betterdungeons:all_dungeons": [
       32,
       108
@@ -1167,10 +1127,6 @@
     "betterdungeons:skeleton_dungeon": [
       32,
       0
-    ],
-    "rpg_series:root": [
-      0,
-      378
     ],
     "rpg_series:misc_items": [
       32,
@@ -1407,19 +1363,77 @@
     "starfell:hard_work": [
       36,
       36
+    ],
+    "oreganized:story/lead_to_dust": [
+      32,
+      232
+    ],
+    "minecraft:story/mine_stone": [
+      81,
+      136
+    ],
+    "spelunkery:spelunkery/wooden_rail": [
+      64,
+      192
+    ],
+    "spelunkery:spelunkery/coal_lump": [
+      59,
+      292
+    ],
+    "spelunkery:spelunkery/rock_salt": [
+      64,
+      165
+    ],
+    "oreganized:story/like_the_romans": [
+      116,
+      252
+    ],
+    "minecraft:story/obtain_armor": [
+      161,
+      -21
+    ],
+    "spelunkery:spelunkery/nephrite_chunk": [
+      160,
+      27
+    ],
+    "spelunkery:spelunkery/rough_gem": [
+      150,
+      76
+    ],
+    "starfell:the_great_ones": [
+      276,
+      -16
+    ],
+    "starfell:as_light_as_a_feather": [
+      165,
+      -16
+    ],
+    "starfell:bludgeoned_on_those_rocks": [
+      132,
+      0
+    ],
+    "starfell:your_bloody_journey": [
+      0,
+      0
+    ],
+    "starfell:copy_that": [
+      66,
+      0
+    ],
+    "starfell:forge_and_reforged": [
+      99,
+      0
+    ],
+    "starfell:working_on_it": [
+      33,
+      0
+    ],
+    "starfell:a_little_tight_across_the_chest": [
+      132,
+      33
     ]
   },
   "tab_properties": {
-    "global:root": {
-      "title": "",
-      "static_background": false,
-      "bg_width": 16,
-      "bg_height": 16,
-      "width": 0,
-      "height": 0,
-      "index": 5,
-      "background_rules": "[]"
-    },
     "farmersdelight:main/root": {
       "title": "",
       "static_background": false,
@@ -1500,27 +1514,27 @@
       "index": 5,
       "background_rules": "[]"
     },
-    "betterdungeons:root": {
-      "title": "",
-      "static_background": false,
-      "bg_width": 16,
-      "bg_height": 16,
-      "width": 0,
-      "height": 0,
-      "index": 5,
-      "background_rules": "[]"
-    },
-    "rpg_series:root": {
-      "title": "",
-      "static_background": false,
-      "bg_width": 16,
-      "bg_height": 16,
-      "width": 0,
-      "height": 0,
-      "index": 5,
-      "background_rules": "[]"
-    },
     "block_factorys_bosses:die_boss": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "starfell:the_great_ones": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "starfell:your_bloody_journey": {
       "title": "",
       "static_background": false,
       "bg_width": 16,

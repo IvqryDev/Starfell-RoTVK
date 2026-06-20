@@ -1,0 +1,21 @@
+{
+  "type": "alloyed:forging_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "oreganized:silver_ingot"
+    },
+    "S": {
+      "item": "oreganized:silver_nugget"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SBS",
+    " S "
+  ],
+  "result": {
+    "id": "caverns_and_chasms:kunai",
+    "count": 12
+  }
+}

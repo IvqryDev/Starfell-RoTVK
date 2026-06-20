@@ -1,4 +1,24 @@
 {
   "item.caverns_and_chasms.aegis": "Guardian's Shield",
-  "item.caverns_and_chasms.kunai": "Shuriken"
+  "item.caverns_and_chasms.kunai": "Shuriken",
+
+  "block.caverns_and_chasms.polished_schist": "Polished Tuff",
+  "block.caverns_and_chasms.polished_schist_slab": "Polished Tuff Slab",
+  "block.caverns_and_chasms.polished_schist_stairs": "Polished Tuff Stairs",
+  "block.caverns_and_chasms.polished_schist_wall": "Polished Tuff Wall",
+  "block.caverns_and_chasms.schist": "Tuff",
+  "block.caverns_and_chasms.schist_brick_slab": "Tuff Brick Slab",
+  "block.caverns_and_chasms.schist_brick_stairs": "Tuff Brick Stairs",
+  "block.caverns_and_chasms.schist_brick_wall": "Tuff Brick Wall",
+  "block.caverns_and_chasms.schist_bricks": "Tuff Bricks",
+  "block.caverns_and_chasms.schist_pillar": "Tuff Pillar",
+  "block.caverns_and_chasms.schist_slab": "Tuff Slab",
+  "block.caverns_and_chasms.schist_stairs": "Tuff Stairs",
+  "block.caverns_and_chasms.schist_wall": "Tuff Wall",
+  "block.caverns_and_chasms.smooth_schist": "Smooth Tuff",
+  "block.caverns_and_chasms.smooth_schist_slab": "Smooth Tuff Slab",
+  "block.caverns_and_chasms.smooth_schist_stairs": "Smooth Tuff Stairs",
+  "block.caverns_and_chasms.smooth_schist_wall": "Smooth Tuff Wall",
+  "block.caverns_and_chasms.chiseled_polished_schist": "Chiseled Polished Tuff",
+  "block.caverns_and_chasms.chiseled_schist_bricks": "Chiseled Tuff Bricks"
 }
