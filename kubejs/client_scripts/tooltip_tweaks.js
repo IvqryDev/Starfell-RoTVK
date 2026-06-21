@@ -118,7 +118,7 @@ ItemEvents.modifyTooltips(tooltip => {
         'paladins:netherite_crusader_armor_chest',
         'paladins:netherite_crusader_armor_legs',
         'paladins:netherite_crusader_armor_feet'
-    ], "§7Class: §8Lancer")
+    ], "§7Class: §8Justicar")
 
 //Class: Avatar
     tooltip.add([
