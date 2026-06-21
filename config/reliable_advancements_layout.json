@@ -1400,13 +1400,9 @@
       150,
       76
     ],
-    "starfell:the_great_ones": [
-      276,
-      -16
-    ],
     "starfell:as_light_as_a_feather": [
       165,
-      -16
+      16
     ],
     "starfell:bludgeoned_on_those_rocks": [
       132,
@@ -1430,7 +1426,15 @@
     ],
     "starfell:a_little_tight_across_the_chest": [
       132,
-      33
+      32
+    ],
+    "starfell:the_mission_yakumo": [
+      165,
+      -16
+    ],
+    "starfell:those_before_you": [
+      266,
+      16
     ]
   },
   "tab_properties": {
