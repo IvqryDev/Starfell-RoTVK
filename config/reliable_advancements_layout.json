@@ -101,8 +101,8 @@
       91
     ],
     "minecraft:story/smelt_iron": [
-      114,
-      76
+      132,
+      6
     ],
     "minecraft:story/lava_bucket": [
       192,
@@ -118,7 +118,7 @@
     ],
     "minecraft:story/form_obsidian": [
       260,
-      48
+      51
     ],
     "spelunkery:spelunkery/every_ore": [
       275,
@@ -134,7 +134,7 @@
     ],
     "minecraft:story/enter_the_nether": [
       332,
-      48
+      51
     ],
     "spelunkery:spelunkery/diamond_grindstone": [
       357,
@@ -1410,7 +1410,7 @@
     ],
     "starfell:your_bloody_journey": [
       0,
-      0
+      -16
     ],
     "starfell:copy_that": [
       66,
@@ -1422,7 +1422,7 @@
     ],
     "starfell:working_on_it": [
       33,
-      0
+      -16
     ],
     "starfell:a_little_tight_across_the_chest": [
       132,
@@ -1433,8 +1433,28 @@
       -16
     ],
     "starfell:those_before_you": [
-      266,
-      16
+      231,
+      0
+    ],
+    "starfell:forego_your_ancestors_sins": [
+      198,
+      0
+    ],
+    "starfell:do_aliens_have_a_visual_meter": [
+      132,
+      -32
+    ],
+    "block_factorys_bosses:kill_yeti_copy": [
+      165,
+      48
+    ],
+    "starfell:and_my_life_is_yours": [
+      165,
+      48
+    ],
+    "starfell:battle_brews": [
+      66,
+      -32
     ]
   },
   "tab_properties": {
