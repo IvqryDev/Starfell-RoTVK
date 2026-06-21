@@ -1,0 +1,17 @@
+#Crumbling Kunai Configuration
+#Which entities inflict crumbling when they hit the player or another entity? (This also accepts projectile entities.)
+crumblingEntities = ["caverns_and_chasms:kunai"]
+#What is the percentage of armor points crumbling should decrease? (Will always round up.)
+# Default: 0.5
+# Range: 0.0 ~ 1.0
+armorReduction = 0.5
+#How long should crumbling be applied for? (Measured in seconds.)
+# Default: 10
+# Range: 1 ~ 100
+crumblingDuration = 10
+#Should crumbling show particles?
+showParticles = true
+#Should crumbling show a status icon?
+showIcon = true
+#Should a sound play when the crumbling effect wears off?
+refreshSound = true
