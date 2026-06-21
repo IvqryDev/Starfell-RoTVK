@@ -21,7 +21,7 @@
 	"scaleFalloffMin": 0.25,
 	"fogRangeFactor": 1.0,
 	"fogEndFactor": 1.0,
-	"usePersistentBuffers": true,
+	"usePersistentBuffers": false,
 	"useFrustumCulling": true,
 	"irisSupport": true,
 	"cloudOverride": true,

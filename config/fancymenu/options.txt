@@ -9,7 +9,7 @@ B:play_vanilla_menu_music = 'true';
 
 B:modpack_mode = 'false';
 B:show_customization_overlay = 'false';
-B:advanced_customization_mode = 'false';
+B:advanced_customization_mode = 'true';
 
 
 ##[loading]
@@ -71,7 +71,7 @@ S:ui_theme = 'oled_purple';
 B:pip_window_docking = 'true';
 B:enable_ui_blur = 'false';
 F:ui_blur_intensity = '3.0';
-B:use_minecraft_font = 'false';
+B:use_minecraft_font = 'true';
 B:play_ui_click_sounds = 'true';
 B:smooth_font_multiline_rendering = 'false';
 
