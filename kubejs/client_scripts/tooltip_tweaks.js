@@ -9,7 +9,7 @@ ItemEvents.modifyTooltips(tooltip => {
 
 //Audio Listeners, Love Ya' To Death
     tooltip.add(['artifacts:everlasting_beef'], '§7"Would you rather have..."')
-    tooltip.add(['artifacts:eternal_steak'], '§7"The final ingredient, was all of you.')
+    tooltip.add(['artifacts:eternal_steak'], '§7"The final ingredient, was all of you."')
 
 //Utilities & Tools
     tooltip.add(['minecraft:experience_bottle'], "§7Shatters into souls.")
