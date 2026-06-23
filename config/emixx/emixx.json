@@ -7,7 +7,19 @@
   ],
   "enableStackGroups": true,
   "enableCreateStackGroupButton": true,
-  "disabledStackGroups": [],
+  "disabledStackGroups": [
+    "minecraft:stairs",
+    "minecraft:slabs",
+    "c:concretes",
+    "minecraft:walls",
+    "minecraft:trim_templates",
+    "minecraft:splash_potions",
+    "minecraft:suspicious_stews",
+    "minecraft:tipped_arrows",
+    "c:concrete_powders",
+    "minecraft:enchanted_books",
+    "minecraft:lingering_potions"
+  ],
   "stackGroupItemOrder": {},
   "emiOnlyInRecipeBook": false
 }
