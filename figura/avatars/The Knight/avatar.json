@@ -1,6 +1,6 @@
 {
   "name": "The Knight",
-  "description": "The default model for the player knight in Starfell.",
+  "description": "The default player model for the Knight in Starfell.",
   "authors": [
     "IvqryDev"
   ],
