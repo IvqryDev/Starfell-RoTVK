@@ -201,7 +201,11 @@
       "farmersdelight:book_from_canvas",
       "crafting:dying/caverns_and_chasms/aegis",
       "emi_loot:/chest_loot/artifacts/inject/chests/village/village_butcher",
-      "artifacts:eternal_steak_campfire"
+      "artifacts:eternal_steak_campfire",
+      "spelunkery:iron_ore_smelting",
+      "spelunkery:lead_ore_smelting",
+      "spelunkery:gold_ore_smelting",
+      "spelunkery:silver_ore_smelting"
     ]
   }
 ]
