@@ -1,4 +1,0 @@
-[13:35:23] [WARN] [FabricLoader/Resolution]: Mod resolution failed
-[13:35:23] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_INCOMPATIBLE_PRESELECTED bettersmoke 0.1.2 {depends fabricloader @ [>=0.18.4]}, ROOT_FORCELOAD_SINGLE bettersmoke 0.1.2]
-[13:35:23] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP bettersmoke 0.1.2 {depends fabricloader @ [>=0.18.4]}]
-[13:35:23] [INFO] [FabricLoader/Resolution]: Fix: add [], remove [], replace [[fabricloader 0.17.x] -> add:fabricloader 0.18.4 ([[0.18.4,∞)])]
