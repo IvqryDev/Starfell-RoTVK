@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "supplementaries:rope"
+    }
+  },
+  "pattern": [
+    "##",
+    "SS",
+    "##"
+  ],
+  "result": {
+    "id": "nomansland:crude_door",
+    "count": 4
+  },
+  "show_notification": true
+}
