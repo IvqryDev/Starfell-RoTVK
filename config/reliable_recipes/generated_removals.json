@@ -206,7 +206,9 @@
       "spelunkery:lead_ore_smelting",
       "spelunkery:gold_ore_smelting",
       "spelunkery:silver_ore_smelting",
-      "minersdelight:cutting/bat_wing"
+      "minersdelight:cutting/bat_wing",
+      "oreganized:lead_trapdoor",
+      "oreganized:lead_door"
     ]
   }
 ]
