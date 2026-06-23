@@ -1,21 +1,23 @@
-{
-  "action": "set_repair_material",
-  "target": [
-    "simplest_paxels:diamond_paxel",
-    "minecraft:diamond_sword",
-    "minecraft:diamond_horse_armor",
-    "shieldexp:diamond_shield",
-    "archers:diamond_spear",
-    "archers:heavy_crossbow",
-    "paladins:diamond_claymore",
-    "paladins:diamond_great_hammer",
-    "paladins:diamond_mace",
-    "paladins:diamond_holy_wand",
-    "paladins:diamond_holy_staff",
-    "rogues:diamond_dagger",
-    "rogues:diamond_sickle",
-    "rogues:diamond_double_axe",
-    "rogues:diamond_glaive"
-  ],
-  "material": "oreganized:silver_ingot"
-}
+[
+  {
+    "action": "set_repair_material",
+    "target": [
+      "simplest_paxels:diamond_paxel",
+      "minecraft:diamond_sword",
+      "minecraft:diamond_horse_armor",
+      "shieldexp:diamond_shield",
+      "archers:diamond_spear",
+      "archers:heavy_crossbow",
+      "paladins:diamond_claymore",
+      "paladins:diamond_great_hammer",
+      "paladins:diamond_mace",
+      "paladins:diamond_holy_wand",
+      "paladins:diamond_holy_staff",
+      "rogues:diamond_dagger",
+      "rogues:diamond_sickle",
+      "rogues:diamond_double_axe",
+      "rogues:diamond_glaive"
+    ],
+    "material": "oreganized:silver_ingot"
+  }
+]
