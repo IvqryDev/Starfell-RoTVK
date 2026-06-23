@@ -141,7 +141,7 @@
 	/**
 	 * Whether recipes should have a button to set as default.
 	 */
-	recipe-default-button: true;
+	recipe-default-button: false;
 
 	/**
 	 * Whether recipes should have a button to show the recipe tree.
@@ -151,7 +151,7 @@
 	/**
 	 * Whether recipes should have a button to fill the ingredients in a handler.
 	 */
-	recipe-fill-button: true;
+	recipe-fill-button: false;
 
 	/**
 	 * Whether recipes should have a button to take a screenshot of the recipe.

@@ -782,7 +782,8 @@
             "suppsquared:iron_plaque",
             "suppsquared:copper_plaque",
             "suppsquared:gold_plaque",
-            "minecraft:lodestone"
+            "minecraft:lodestone",
+            "supplementaries:urn"
         ]
     }
 ]
