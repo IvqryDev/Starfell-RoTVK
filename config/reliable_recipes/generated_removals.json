@@ -208,7 +208,9 @@
       "spelunkery:silver_ore_smelting",
       "minersdelight:cutting/bat_wing",
       "oreganized:lead_trapdoor",
-      "oreganized:lead_door"
+      "oreganized:lead_door",
+      "mynethersdelight:toast_from_campfire_cooking",
+      "mynethersdelight:cutting/slices_of_bread"
     ]
   }
 ]
