@@ -22,13 +22,13 @@
 	#This setting defines the length of the day in real-world minutes.
 	#Vanilla length: 10.0 minutes
 	#Range: 0.1 ~ 10000.0
-	daySpeedMinutes = 15.0
+	daySpeedMinutes = 30.0
 	#An alternative way to set night speed. This setting is mutually exclusive with nightSpeed.
 	#If both are set, speedMethod (see above) determines which setting is used.
 	#This setting defines the length of the night in real-world minutes.
 	#Vanilla length: 10.0 minutes
 	#Range: 0.1 ~ 10000.0
-	nightSpeedMinutes = 15.0
+	nightSpeedMinutes = 30.0
 	#The time to start day. This is configurable within the time the sun appears and day starts.
 	#Default: 23500
 	#Range: 22300.0 ~ 24000.0
@@ -80,14 +80,14 @@
 		#When set to SLEEPING, this effect only applies to players who are sleeping.
 		#Note: On NeoForge 1.21.1+ this is already handled by the platform. SLEEPING will still work as intended.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		potionEffect = "NEVER"
+		potionEffect = "SLEEPING"
 		#When applied, this effect progresses player hunger effects to match the rate of the current time-speed.
 		#This results in faster healing when food level is full, and faster harm when food level is too low.
 		#This effect does not apply if time speed is 1.0 or less.
 		#When set to ALWAYS, this effect applies to all players in the dimension, day or night. Not recommended on higher difficulty settings
 		#When set to SLEEPING, this effect only applies to players who are sleeping.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		hungerEffect = "NEVER"
+		hungerEffect = "SLEEPING"
 		#When applied, this effect progresses block entities like furnaces, hoppers, and spawners to match the rate of the current time-speed.
 		#WARNING: This time-effect has a significant impact on performance.
 		#This effect does not apply if time speed is 1.0 or less.
@@ -99,15 +99,15 @@
 [sleep]
 	#Enables or disables the sleep feature of this mod. Enabling this setting will modify the vanilla sleep functionality
 	#and may conflict with other sleep mods. If disabled, all settings in the sleep section will not apply.
-	enableSleepFeature = false
+	enableSleepFeature = true
 	### THIS SETTING DEFINES THE SLEEP TIME-SPEED IN SINGLE-PLAYER GAMES ###
 	#The maximum speed at which time passes when all players are sleeping.
 	#A value of 110 is nearly equal to the time it takes to sleep in vanilla.
 	#Range: 0.0 ~ 24000.0
-	sleepSpeedMax = 25.0
+	sleepSpeedMax = 3.0
 	#The minimum speed at which time passes when only 1 player is sleeping in a full server.
 	#Range: 0.0 ~ 24000.0
-	sleepSpeedMin = 25.0
+	sleepSpeedMin = 3.0
 	#The speed at which time passes when all players are sleeping.
 	#Set to -1 to disable this feature (sleepSpeedMax will be used when all players are sleeping).
 	#Range: -1.0 ~ 24000.0
@@ -156,7 +156,7 @@
 			#sleepingPlayers -> the number of players in the current dimension who were sleeping.
 			#totalPlayers -> the number of players in the current dimension (spectators are not counted).
 			#sleepingPercentage -> the percentage of players in the current dimension who are sleeping (does not include % symbol).
-			message = "The sun rises..."
+			message = "The sun rises upon another day..."
 			#Sets where this message appears.
 			#Allowed Values: SYSTEM, GAME_INFO
 			type = "GAME_INFO"
@@ -172,7 +172,7 @@
 			#sleepingPlayers -> the number of players in the current dimension who are sleeping.
 			#totalPlayers -> the number of players in the current dimension (spectators are not counted).
 			#sleepingPercentage -> the percentage of players in the current dimension who are sleeping (does not include % symbol).
-			message = "${player} is now sleeping. [${sleepingPlayers}/${totalPlayers}]"
+			message = "${player} "
 			#Sets where this message appears.
 			#Allowed Values: SYSTEM, GAME_INFO
 			type = "GAME_INFO"
