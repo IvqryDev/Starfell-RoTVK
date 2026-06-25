@@ -210,7 +210,9 @@
       "oreganized:lead_trapdoor",
       "oreganized:lead_door",
       "mynethersdelight:toast_from_campfire_cooking",
-      "mynethersdelight:cutting/slices_of_bread"
+      "mynethersdelight:cutting/slices_of_bread",
+      "spelunkery:lapis_ore_smelting",
+      "emi_loot:/block_drops/supplementaries/loot/urn_loot/urn_loot"
     ]
   }
 ]
