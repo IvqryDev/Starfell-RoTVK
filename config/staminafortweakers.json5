@@ -1,0 +1,118 @@
+{
+	// Percentage of total stamina triggering exhaustion
+	"exhaustedPercentage": 0,
+	// Percentage of total stamina making the player winded
+	"windedPercentage": 0,
+	// Percentage of total stamina making the player fatigued
+	"fatiguedPercentage": 0,
+	// Stamina points depleted per tick while sprinting.
+	"depletionPerTickSprinting": 0.5,
+	// Stamina points depleted per tick while swimming.
+	"depletionPerTickSwimming": 0.5,
+	// Stamina points depleted per tick while moving in water.
+	"depletionPerTickWading": 0.10000000149011612,
+	// Stamina points depleted per tick while climbing.
+	"depletionPerTickClimbing": 0.0,
+	// Stamina points depleted per jump
+	"depletionPerJump": 2.0,
+	// Stamina points depleted per attack
+	"depletionPerAttack": 0.0,
+	// Stamina points depleted per weapon swing
+	"depletionPerWeaponSwing": 1.5,
+	// Stamina points depleted per tick while mining
+	"depletionPerMiningTick": 1.0,
+	// Stamina points depleted per block broken
+	"depletionPerBlockBroken": 1.5,
+	// Stamina points depleted per tick while using a shield
+	"depletionPerShieldTick": 0.0,
+	// Stamina points depleted per successful shield block
+	"depletionPerShieldBlock": 2.5,
+	// Stamina points depleted per tick while using a glider
+	"depletionPerGliderTick": 0.0,
+	// Can jump while exhausted
+	"canJumpWhileExhausted": false,
+	// Exhaustion sounds
+	"exhaustionSounds": false,
+	// Efficiency increases exhaustion
+	"efficiencyExhausts": false,
+	// % of max stamina recovered per tick.
+	"recoveryPerTick": 0.75,
+	// Bonus recovery multiplier for not moving.
+	"recoveryRestBonusMultiplier": 2.0,
+	// Do players recover stamina while walking?
+	"recoverWhileWalking": true,
+	// Do players recover stamina while sneaking?
+	"recoverWhileSneaking": true,
+	// Do players recover stamina when too hungry to sprint?
+	"recoverWhenHungry": true,
+	// Do players recover stamina when not on the ground?
+	"recoverWhileAirborne": false,
+	// Do players recover stamina when submerged?
+	"recoverUnderwater": true,
+	// Do players recover stamina when suffocating?
+	"recoverWhileBreathless": false,
+	// Delay in ticks before starting recovery from exhaustion
+	"recoveryExhaustDelayTicks": 0,
+	// Delay in ticks before starting recovery after depletion
+	"recoveryDelayTicks": 19,
+	// Delay in ticks before regaining shield use
+	"shieldRecoveryDelayTicks": 0,
+	// Do players fully recover stamina on respawn?
+	"fullRecoveryOnRespawn": true,
+	// Which formula to use for recovery
+	"formula": "LOGARITHMIC",
+	// HUD vertical alignment
+	"alignV": "BOTTOM",
+	// HUD horizontal alignment
+	"alignH": "CENTER",
+	// HUD Display Mode
+	"hudMode": "BAR",
+	// Icon Settings
+	"icon": {
+		// Hud Icon Height
+		"height": 22,
+		// Horizontal offset
+		"offsetY": 1,
+		// Vertical offset
+		"offsetX": 105
+	},
+	// Stamina Bar Settings
+	"bar": {
+		// Stamina bar orientation
+		"orientation": "HORIZONTAL",
+		// Short side (pixels)
+		"shortSide": 3,
+		// Long side (pixels)
+		"longSide": 180,
+		// Horizontal offset
+		"offsetY": 7,
+		// Vertical offset
+		"offsetX": 0
+	},
+	// Stamina bar background color
+	"staminaBarBackgroundColor": 6440111,
+	// Stamina bar outline color
+	"staminaBarOutlineColor": 3939977,
+	// Stamina bar main color
+	"staminaBarColor": 12756223,
+	// Stamina bar fatigued color
+	"staminaBarFatiguedColor": 16776960,
+	// Stamina bar winded color
+	"staminaBarWindedColor": 16744448,
+	// Stamina bar nearly exhausted color
+	"staminaBarNearlyExhaustedColor": 8479694,
+	// Stamina bar Tireless effect color
+	"staminaBarTirelessColor": 16691766,
+	// Exhaustion effects
+	"exhaustedEffects": [],
+	// Winded effects
+	"windedEffects": [],
+	// Fatigued effects
+	"fatiguedEffects": [],
+	// Effects that prevent stamina depletion
+	"untiringEquivalentEffects": [],
+	// Chance Traveling will damage armor each active tick
+	"travelingDamageChance": 0,
+	// Traveling minimum durability
+	"travelingMinimumDurability": 0
+}
