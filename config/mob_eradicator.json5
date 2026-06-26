@@ -1,0 +1,20 @@
+// -----------------------------------------------------------
+//        Mob Eradicator by noelledotjpg
+// -----------------------------------------------------------
+//  
+// How to remove mobs?
+//   - They are json strings, so you need to separate each
+//     entry with a comma, except the last
+//   - If you start an entry with !, it will be treated as a regular expression
+//     Example: "!minecraft:.*_horse" to disable horse variants
+// If you used Item Obliterator you know how this works, lol  
+// -----------------------------------------------------------
+{
+  blocked_mobs: [
+    "minecraft:villager",
+    "minecraft:zombie_villager",
+    "minecraft:wandering_trader",
+    "minecraft:trader_llama",
+    "supplementaries:red_merchant"
+  ]
+}

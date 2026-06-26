@@ -784,7 +784,25 @@
             "minecraft:lodestone",
             "supplementaries:urn",
             "netherexp:spirit_armor_trim_smithing_template",
-            "netherexp:valor_armor_trim_smithing_template"
+            "netherexp:valor_armor_trim_smithing_template",
+            "minecraft:villager_spawn_egg",
+            "minecraft:zombie_villager_spawn_egg",
+            "archers:archers_workbench",
+            "paladins:monk_workbench",
+            "rogues:arms_workbench",
+            "jewelry:jewelers_kit",
+            "artifacts:villager_hat",
+            "minecraft:emerald_ore",
+            "minecraft:deepslate_emerald_ore",
+            "spelunkery:andesite_emerald_ore",
+            "spelunkery:diorite_emerald_ore",
+            "spelunkery:granite_emerald_ore",
+            "spelunkery:tuff_emerald_ore",
+            "minecraft:emerald",
+            "jewelry:emerald_necklace",
+            "minecraft:emerald_block",
+            "minecraft:wandering_trader_spawn_egg",
+            "minecraft:trader_llama_spawn_egg"
         ]
     }
 ]

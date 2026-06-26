@@ -37,6 +37,13 @@
     "spelunkery:granite_lapis_ore": "minecraft:granite",
     "spelunkery:diorite_lapis_ore": "minecraft:diorite",
     "spelunkery:tuff_lapis_ore": "minecraft:tuff",
-    "spelunkery:sandstone_lapis_ore": "minecraft:sandstone"
+    "spelunkery:sandstone_lapis_ore": "minecraft:sandstone",
+
+    "minecraft:emerald_ore": "minecraft:stone",
+    "minecraft:deepslate_emerald_ore": "minecraft:deepslate",
+    "spelunkery:andesite_emerald_ore": "minecraft:andesite",
+    "spelunkery:granite_emerald_ore": "minecraft:granite",
+    "spelunkery:diorite_emerald_ore": "minecraft:diorite",
+    "spelunkery:tuff_emerald_ore": "minecraft:tuff"
   }
 }
