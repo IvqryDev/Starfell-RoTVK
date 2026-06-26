@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.28",
-  "config_datetime": "2026-06-26_07-51-00",
+  "config_datetime": "2026-06-26_10-11-55",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": true,
@@ -19,6 +19,7 @@
   "structures": [
     {
       "name": "minecraft:igloo",
+      "is_disabled": true,
       "override_global_biome_check": false,
       "enable_biome_check": false,
       "biome_check_mode": "BLACKLIST",
@@ -58,6 +59,26 @@
     },
     {
       "name": "minecraft:shipwreck_stone_ocean",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_plains",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_savanna",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_snowy",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:village_taiga",
       "is_disabled": true
     },
     {
@@ -193,7 +214,11 @@
       "is_disabled": true
     },
     {
-      "name": "structory:ruin_grassy",
+      "name": "structory:outcast_villager_desert",
+      "is_disabled": true
+    },
+    {
+      "name": "structory:outcast_villager_grassy",
       "is_disabled": true
     },
     {
