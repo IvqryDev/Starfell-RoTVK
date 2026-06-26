@@ -220,14 +220,6 @@
   "enchantment.minecraft.looting": "Scavenger",
   "enchantment.minecraft.channeling": "Storm Bolt",
   "enchantment.minecraft.luck_of_the_sea": "Blessing of Verul",
-  "block.minecraft.polished_tuff": "Polished Tuff",
-  "block.minecraft.polished_tuff_stairs": "Polished Tuff Stairs",
-  "block.minecraft.polished_tuff_slab": "Polished Tuff Slab",
-  "block.minecraft.polished_tuff_wall": "Polished Tuff Wall",
-  "block.minecraft.tuff_bricks": "Tuff Bricks",
-  "block.minecraft.tuff_brick_stairs": "Tuff Brick Stairs",
-  "block.minecraft.tuff_brick_slab": "Tuff Brick Slab",
-  "block.minecraft.tuff_brick_wall": "Tuff Brick Wall",
   "block.minecraft.dark_oak_button": "Ebony Button",
   "block.minecraft.dark_oak_door": "Ebony Door",
   "block.minecraft.dark_oak_fence": "Ebony Fence",
@@ -313,5 +305,6 @@
   "block.minecraft.tuff_bricks": "Tuff Bricks",
   "block.minecraft.tuff_slab": "Tuff Slab",
   "block.minecraft.tuff_stairs": "Tuff Stairs",
-  "block.minecraft.tuff_wall": "Tuff Wall"
+  "block.minecraft.tuff_wall": "Tuff Wall",
+  "block.minecraft.chiseled_deepslate_bricks": "Chiseled Grimstone"
 }

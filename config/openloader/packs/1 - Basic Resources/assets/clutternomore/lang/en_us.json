@@ -1,4 +1,52 @@
 {
-  "block.clutternomore.minecraft.dark_oak_step": "Ebony Step",
-  "block.clutternomore.minecraft.vertical_dark_oak_slab": "Vertical Ebony Slab"
+  "block.clutternomore.dark_oak_step": "Ebony Step",
+  "block.clutternomore.vertical_dark_oak_slab": "Vertical Ebony Slab",
+
+  "block.clutternomore.pale_oak_step": "Ashen Step",
+  "block.clutternomore.vertical_pale_oak_slab": "Vertical Ashen Slab",
+
+  "block.clutternomore.cherry_step": "Sakura Step",
+  "block.clutternomore.vertical_cherry_slab": "Vertical Sakura Slab",
+
+  "block.clutternomore.jungle_step": "Mahogany Step",
+  "block.clutternomore.vertical_jungle_slab": "Vertical Mahogany Slab",
+
+  "block.clutternomore.cobbled_deepslate_step": "Cobbled Grimstone Step",
+  "block.clutternomore.vertical_cobbled_deepslate_slab": "Vertical Cobbled Grimstone Slab",
+
+  "block.clutternomore.polished_deepslate_step": "Polished Grimstone Step",
+  "block.clutternomore.vertical_polished_deepslate_slab": "Vertical Polished Grimstone Slab",
+
+  "block.clutternomore.deepslate_brick_step": "Grimstone Brick Step",
+  "block.clutternomore.vertical_deepslate_brick_slab": "Vertical Grimstone Brick Slab",
+
+  "block.clutternomore.deepslate_tile_step": "Grimstone Tile Step",
+  "block.clutternomore.vertical_deepslate_tile_slab": "Vertical Grimstone Tile Slab",
+
+  "block.clutternomore.nomansland.cobbled_deepslate_brick_step": "Cobbled Grimstone Brick Step",
+  "block.clutternomore.nomansland.vertical_cobbled_deepslate_brick_slab": "Vertical Cobbled Grimstone Brick Slab",
+
+  "block.clutternomore.pigsteel.cut_pigsteel_step": "Cut Adamantite Step",
+  "block.clutternomore.pigsteel.vertical_cut_pigsteel_slab": "Vertical Cut Adamantite Slab",
+
+  "block.clutternomore.pigsteel.infected_cut_pigsteel_step": "Exposed Cut Adamantite Step",
+  "block.clutternomore.pigsteel.vertical_infected_cut_pigsteel_slab": "Exposed Vertical Cut Adamantite Slab",
+
+  "block.clutternomore.pigsteel.corrupted_cut_pigsteel_step": "Weathered Cut Adamantite Step",
+  "block.clutternomore.pigsteel.vertical_corrupted_cut_pigsteel_slab": "Weathered Vertical Cut Adamantite Slab",
+
+  "block.clutternomore.pigsteel.zombified_cut_pigsteel_step": "Oxidized Cut Adamantite Step",
+  "block.clutternomore.pigsteel.vertical_zombified_cut_pigsteel_slab": "Oxidized Vertical Cut Adamantite Slab",
+
+  "block.clutternomore.pigsteel.waxed_cut_pigsteel_step": "Cut Adamantite Step",
+  "block.clutternomore.pigsteel.vertical_waxed_cut_pigsteel_slab": "Vertical Cut Adamantite Slab",
+
+  "block.clutternomore.pigsteel.waxed_infected_cut_pigsteel_step": "Exposed Cut Adamantite Step",
+  "block.clutternomore.pigsteel.vertical_waxed_infected_cut_pigsteel_slab": "Exposed Vertical Cut Adamantite Slab",
+
+  "block.clutternomore.pigsteel.waxed_corrupted_cut_pigsteel_step": "Weathered Cut Adamantite Step",
+  "block.clutternomore.pigsteel.vertical_waxed_corrupted_cut_pigsteel_slab": "Weathered Vertical Cut Adamantite Slab",
+
+  "block.clutternomore.pigsteel.waxed_zombified_cut_pigsteel_step": "Oxidized Cut Adamantite Step",
+  "block.clutternomore.pigsteel.vertical_waxed_zombified_cut_pigsteel_slab": "Oxidized Vertical Cut Adamantite Slab"
 }
