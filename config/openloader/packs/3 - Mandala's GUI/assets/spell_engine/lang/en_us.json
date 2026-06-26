@@ -3,7 +3,7 @@
 
   "gui.spell_engine.spell_binding" : "Ash Binding",
   "gui.spell_engine.spell_binding.title" : "Bind Ashes of War",
-  "block.spell_engine.spell_binding": "Ashl Binding Table",
+  "block.spell_engine.spell_binding": "Talentry Table",
   "block.spell_engine.spell_binding.description": "Use it to create and fill Ash of War Compendiums.",
   "gui.spell_engine.spell_binding.already_bound" : "Ash of War already bound",
   "gui.spell_engine.spell_binding.no_more_slots" : "No more Ash of War slots",
