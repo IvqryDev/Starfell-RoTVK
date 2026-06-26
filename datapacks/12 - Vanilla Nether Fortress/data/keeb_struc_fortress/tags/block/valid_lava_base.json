@@ -1,0 +1,11 @@
+{
+  "values": [
+    "minecraft:nether_bricks",
+    "minecraft:cracked_nether_bricks",
+    "minecraft:magma_block",
+    "minecraft:bone_block",
+    "minecraft:soul_fire",
+    "minecraft:fire",
+    "minecraft:polished_basalt"
+  ]
+}

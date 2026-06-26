@@ -1,0 +1,185 @@
+{
+  "name": "rooms/double/branch",
+  "fallback": "keeb_struc_fortress:rooms/double/end",
+  "elements": [
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/double/end_01",
+        "processors": "keeb_struc_fortress:nether_fortress",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/double/end_02",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/double/end_03",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/end_01",
+        "processors": "keeb_struc_fortress:nether_fortress",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/end_02",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/double/walk_line",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 25,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/double/branch_line",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/double/branch_turn",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/double/bridge",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 25,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/complex_separate",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/complex_stair",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/wart_stair",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/stairs/staircase_down",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/stairs/staircase_up",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/stairs/cap",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "keeb_struc_fortress:nether_fortress/rooms/stairs/balcony_a",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "keeb_struc_fortress:nether_fortress/rooms/balcony",
+            "processors": "keeb_struc_fortress:nether_fortress"
+          }
+        ]
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "keeb_struc_fortress:nether_fortress/rooms/stairs/balcony_b",
+            "processors": "minecraft:empty"
+          },
+          {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "keeb_struc_fortress:nether_fortress/rooms/balcony",
+            "processors": "keeb_struc_fortress:nether_fortress"
+          }
+        ]
+      }
+    }
+  ]
+}

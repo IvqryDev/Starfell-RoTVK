@@ -1,0 +1,70 @@
+{
+  "name": "rooms/stairs",
+  "fallback": "keeb_struc_fortress:rooms/double/end",
+  "elements": [
+    {
+      "weight": 50,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/end_02",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/end_03",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 25,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/end_04",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/end/gate",
+        "processors": "keeb_struc_fortress:nether_fortress",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 35,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/stair_01",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/stair_02",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 35,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/stair_03",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    }
+  ]
+}

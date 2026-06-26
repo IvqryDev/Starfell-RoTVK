@@ -1,0 +1,55 @@
+{
+  "feature": "keeb_struc_fortress:columns/base_lava",
+  "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "absolute": 31
+      }
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:all_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_block_tag",
+            "tag": "keeb_struc_fortress:foundation"
+          },
+          {
+            "type": "minecraft:any_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_block_tag",
+                "offset": [
+                  0,
+                  1,
+                  0
+                ],
+                "tag": "keeb_struc_fortress:valid_lava_base"
+              },
+              {
+                "type": "minecraft:matching_block_tag",
+                "offset": [
+                  0,
+                  2,
+                  0
+                ],
+                "tag": "keeb_struc_fortress:valid_lava_base"
+              },
+              {
+                "type": "minecraft:matching_block_tag",
+                "offset": [
+                  0,
+                  3,
+                  0
+                ],
+                "tag": "keeb_struc_fortress:valid_lava_base"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

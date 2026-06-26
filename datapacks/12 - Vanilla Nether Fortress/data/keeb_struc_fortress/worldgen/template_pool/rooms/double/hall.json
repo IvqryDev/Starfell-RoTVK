@@ -1,0 +1,82 @@
+{
+  "name": "rooms/double/hall",
+  "fallback": "keeb_struc_fortress:rooms/double/end",
+  "elements": [
+    {
+      "weight": 45,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/double/line",
+        "processors": "keeb_struc_fortress:nether_fortress",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 55,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/double/stair",
+        "processors": "keeb_struc_fortress:nether_fortress",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 75,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/wart_stair",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/upper/gate_01",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/upper/gate_02",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/balcony_01",
+        "processors": "keeb_struc_fortress:nether_fortress",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/balcony_02",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/rooms/lower/balcony_03",
+        "processors": "keeb_struc_fortress:nether_fortress",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    }
+  ]
+}

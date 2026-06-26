@@ -1,0 +1,21 @@
+{
+  "feature": {
+    "config": {
+      "to_place": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "minecraft:fire"
+        }
+      },
+      "schedule_tick": true
+    },
+    "type": "minecraft:simple_block"
+  },
+  "placement": [
+    {
+      "type": "minecraft:random_offset",
+      "xz_spread": 0,
+      "y_spread": -1
+    }
+  ]
+}

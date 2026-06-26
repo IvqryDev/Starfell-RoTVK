@@ -1,0 +1,60 @@
+{
+  "name": "complex/builder_basic",
+  "fallback": "keeb_struc_fortress:complex/builder_basic",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/complex/basic_cross",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/complex/basic_line",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/complex/basic_turn",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/complex/basic_stair",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/complex/lava_042",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/complex/wart_042",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    }
+  ]
+}

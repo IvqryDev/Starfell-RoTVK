@@ -1,0 +1,14 @@
+{
+  "name": "columns/hanging_tiny",
+  "fallback": "keeb_struc_fortress:columns/hanging_tiny",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:feature_pool_element",
+        "projection": "rigid",
+        "feature": "keeb_struc_fortress:columns/cap_short"
+      }
+    }
+  ]
+}

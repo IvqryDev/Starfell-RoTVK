@@ -1,0 +1,14 @@
+{
+  "name": "columns/base_huge",
+  "fallback": "keeb_struc_fortress:columns/base_large",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:feature_pool_element",
+        "projection": "rigid",
+        "feature": "keeb_struc_fortress:columns/base_tall"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "columns/lava",
+  "fallback": "keeb_struc_fortress:columns/lava",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:feature_pool_element",
+        "projection": "rigid",
+        "feature": "keeb_struc_fortress:columns/lava"
+      }
+    }
+  ]
+}

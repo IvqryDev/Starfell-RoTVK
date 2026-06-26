@@ -1,0 +1,15 @@
+{
+  "name": "pillars/delay_fallback",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/columns/pillar_fallback_delay",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    }
+  ]
+}

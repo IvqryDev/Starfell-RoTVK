@@ -1,0 +1,15 @@
+{
+  "name": "pillars/thin",
+  "fallback": "keeb_struc_fortress:pillars/end",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/columns/pillar_thin",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    }
+  ]
+}

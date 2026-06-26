@@ -1,0 +1,12 @@
+{
+  "name": "columns/fallback_worn",
+  "fallback": "keeb_struc_fortress:columns/worn",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

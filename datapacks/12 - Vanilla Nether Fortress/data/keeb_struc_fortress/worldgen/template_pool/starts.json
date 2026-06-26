@@ -1,0 +1,15 @@
+{
+  "name": "starts",
+  "fallback": "keeb_struc_fortress:bridges/end",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/adapter_bridge_double",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    }
+  ]
+}

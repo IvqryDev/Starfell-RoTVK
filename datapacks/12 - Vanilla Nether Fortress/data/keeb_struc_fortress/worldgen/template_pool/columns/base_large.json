@@ -1,0 +1,22 @@
+{
+  "name": "columns/base_large",
+  "fallback": "keeb_struc_fortress:columns/base_medium",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:feature_pool_element",
+        "projection": "rigid",
+        "feature": "keeb_struc_fortress:columns/base_tall"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:feature_pool_element",
+        "projection": "rigid",
+        "feature": "keeb_struc_fortress:columns/base_medium"
+      }
+    }
+  ]
+}

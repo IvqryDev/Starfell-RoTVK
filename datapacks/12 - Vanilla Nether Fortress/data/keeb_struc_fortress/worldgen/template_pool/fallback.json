@@ -1,0 +1,12 @@
+{
+  "name": "fallback",
+  "fallback": "keeb_struc_fortress:fallback_internal",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:empty_pool_element"
+      }
+    }
+  ]
+}

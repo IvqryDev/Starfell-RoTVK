@@ -1,0 +1,59 @@
+{
+  "type": "minecraft:block_column",
+  "config": {
+    "direction": "down",
+    "allowed_placement": {
+      "type": "minecraft:any_of",
+      "predicates": [
+        {
+          "type": "minecraft:matching_blocks",
+          "offset": [
+            0,
+            1,
+            0
+          ],
+          "blocks": "minecraft:lava"
+        },
+        {
+          "type": "minecraft:matching_block_tag",
+          "tag": "keeb_struc_fortress:foundation"
+        }
+      ]
+    },
+    "prioritize_tip": false,
+    "layers": [
+      {
+        "height": 32,
+        "provider": {
+          "type": "minecraft:weighted_state_provider",
+          "entries": [
+            {
+              "weight": 6,
+              "data": {
+                "Name": "minecraft:nether_bricks"
+              }
+            },
+            {
+              "weight": 3,
+              "data": {
+                "Name": "minecraft:cracked_nether_bricks"
+              }
+            },
+            {
+              "weight": 1,
+              "data": {
+                "Name": "minecraft:lava"
+              }
+            },
+            {
+              "weight": 1,
+              "data": {
+                "Name": "minecraft:magma_block"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

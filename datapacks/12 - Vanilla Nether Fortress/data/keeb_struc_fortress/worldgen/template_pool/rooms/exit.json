@@ -1,0 +1,24 @@
+{
+  "name": "rooms/exit",
+  "fallback": "keeb_struc_fortress:rooms/end",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/external/upper",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/external/lower",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    }
+  ]
+}

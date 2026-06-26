@@ -1,0 +1,82 @@
+{
+  "name": "columns/hollow_low_medium",
+  "fallback": "keeb_struc_fortress:columns/hanging_large",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:feature_pool_element",
+            "projection": "rigid",
+            "feature": "keeb_struc_fortress:columns/cap_tall"
+          },
+          {
+            "element_type": "minecraft:feature_pool_element",
+            "projection": "rigid",
+            "feature": "keeb_struc_fortress:columns/base_medium"
+          }
+        ]
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:feature_pool_element",
+            "projection": "rigid",
+            "feature": "keeb_struc_fortress:columns/cap_medium"
+          },
+          {
+            "element_type": "minecraft:feature_pool_element",
+            "projection": "rigid",
+            "feature": "keeb_struc_fortress:columns/base_medium"
+          }
+        ]
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:feature_pool_element",
+            "projection": "rigid",
+            "feature": "keeb_struc_fortress:columns/cap_tall"
+          },
+          {
+            "element_type": "minecraft:feature_pool_element",
+            "projection": "rigid",
+            "feature": "keeb_struc_fortress:columns/base_short"
+          }
+        ]
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:feature_pool_element",
+            "projection": "rigid",
+            "feature": "keeb_struc_fortress:columns/cap_medium"
+          },
+          {
+            "element_type": "minecraft:feature_pool_element",
+            "projection": "rigid",
+            "feature": "keeb_struc_fortress:columns/base_short"
+          }
+        ]
+      }
+    }
+  ]
+}

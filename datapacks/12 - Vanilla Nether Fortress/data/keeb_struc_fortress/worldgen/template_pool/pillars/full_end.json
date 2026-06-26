@@ -1,0 +1,25 @@
+{
+  "name": "pillars/full_end",
+  "fallback": "keeb_struc_fortress:pillars/full_end",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/columns/pillar_fallback_01",
+        "processors": "keeb_struc_fortress:nether_fortress",
+        "override_liquid_settings": "ignore_waterlogging"
+      }
+    },
+    {
+      "weight": 50,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "keeb_struc_fortress:nether_fortress/columns/pillar_fallback_02",
+        "processors": "keeb_struc_fortress:nether_fortress"
+      }
+    }
+  ]
+}

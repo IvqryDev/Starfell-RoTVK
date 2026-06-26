@@ -1,0 +1,25 @@
+{
+  "name": "lava_spring",
+  "fallback": "keeb_struc_fortress:lava_spring",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:feature_pool_element",
+            "projection": "rigid",
+            "feature": "keeb_struc_fortress:decor/lava_spring"
+          },
+          {
+            "element_type": "minecraft:feature_pool_element",
+            "projection": "rigid",
+            "feature": "keeb_struc_fortress:decor/updater"
+          }
+        ]
+      }
+    }
+  ]
+}

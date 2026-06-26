@@ -1,0 +1,20 @@
+{
+  "values": [
+    "#keeb_struc_fortress:fortress_air_nonreplaceable",
+    "#keeb_struc_fortress:iron_chain",
+    "minecraft:bone_block",
+    "#minecraft:soul_fire_base_blocks",
+    "minecraft:black_candle",
+    "minecraft:lava",
+    "minecraft:magma_block",
+    "minecraft:spawner",
+    "minecraft:chest",
+    "minecraft:wither_skeleton_wall_skull",
+    "minecraft:soul_fire",
+    "minecraft:void_air",
+    "minecraft:quartz_block",
+    "minecraft:gold_block",
+    "minecraft:netherite_block",
+    "minecraft:polished_basalt"
+  ]
+}

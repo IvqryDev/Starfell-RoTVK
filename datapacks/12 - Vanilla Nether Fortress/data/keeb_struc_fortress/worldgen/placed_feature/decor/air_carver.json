@@ -1,0 +1,10 @@
+{
+  "feature": "keeb_struc_fortress:decor/air_carver",
+  "placement": [
+    {
+      "type": "minecraft:random_offset",
+      "xz_spread": -6,
+      "y_spread": -3
+    }
+  ]
+}

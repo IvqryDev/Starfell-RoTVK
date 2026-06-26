@@ -1,0 +1,457 @@
+[
+  {
+    "processor_type": "minecraft:rule",
+    "rules": [
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:crying_obsidian",
+          "probability": 0.5
+        },
+        "output_state": {
+          "Name": "minecraft:obsidian"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:crying_obsidian",
+          "probability": 0.25
+        },
+        "output_state": {
+          "Name": "minecraft:red_nether_bricks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:obsidian",
+          "probability": 0.25
+        },
+        "output_state": {
+          "Name": "minecraft:crying_obsidian"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:lava"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:red_nether_bricks"
+        },
+        "output_state": {
+          "Name": "minecraft:air"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "keeb_struc_fortress:fortress_air_nonreplaceable"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:air"
+        },
+        "output_state": {
+          "Name": "minecraft:red_nether_bricks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:nether_brick_stairs"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "air"
+        },
+        "output_state": {
+          "Name": "minecraft:red_nether_bricks"
+        }
+      }
+    ]
+  },
+  {
+    "processor_type": "minecraft:rule",
+    "rules": [
+      {
+        "position_predicate": {
+          "predicate_type": "minecraft:linear_pos",
+          "min_dist": 16,
+          "max_dist": 96,
+          "min_chance": 0.3,
+          "max_chance": 1
+        },
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:cracked_nether_bricks",
+          "probability": 0.1
+        },
+        "output_state": {
+          "Name": "minecraft:red_nether_bricks"
+        }
+      },
+      {
+        "position_predicate": {
+          "predicate_type": "minecraft:linear_pos",
+          "min_dist": 16,
+          "max_dist": 96,
+          "min_chance": 1,
+          "max_chance": 0.65
+        },
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:cracked_nether_bricks",
+          "probability": 0.8
+        },
+        "output_state": {
+          "Name": "minecraft:nether_bricks"
+        }
+      },
+      {
+        "position_predicate": {
+          "predicate_type": "minecraft:linear_pos",
+          "min_dist": 16,
+          "max_dist": 96,
+          "min_chance": 0.3,
+          "max_chance": 1
+        },
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:nether_bricks",
+          "probability": 0.25
+        },
+        "output_state": {
+          "Name": "minecraft:cracked_nether_bricks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:quartz_block",
+          "probability": 0.25
+        },
+        "output_state": {
+          "Name": "minecraft:netherite_block"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:gold_block",
+          "probability": 0.5
+        },
+        "output_state": {
+          "Name": "minecraft:netherite_block"
+        }
+      }
+    ]
+  },
+  {
+    "processor_type": "minecraft:rule",
+    "rules": [
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:quartz_block",
+          "probability": 1
+        },
+        "output_state": {
+          "Name": "minecraft:air"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:gold_block",
+          "probability": 1
+        },
+        "output_state": {
+          "Name": "minecraft:air"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:cave_air"
+        },
+        "output_state": {
+          "Name": "minecraft:air"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:netherite_block",
+          "probability": 1
+        },
+        "output_state": {
+          "Name": "minecraft:cave_air"
+        }
+      }
+    ]
+  },
+  {
+    "processor_type": "minecraft:rule",
+    "rules": [
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_blockstate_match",
+          "block_state": {
+            "Name": "minecraft:black_candle",
+            "Properties": {
+              "candles": "2",
+              "lit": "false",
+              "waterlogged": "false"
+            }
+          },
+          "probability": 0.35
+        },
+        "output_state": {
+          "Name": "minecraft:black_candle",
+          "Properties": {
+            "candles": "4",
+            "lit": "true",
+            "waterlogged": "false"
+          }
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_blockstate_match",
+          "block_state": {
+            "Name": "minecraft:black_candle",
+            "Properties": {
+              "candles": "2",
+              "lit": "false",
+              "waterlogged": "false"
+            }
+          },
+          "probability": 0.4
+        },
+        "output_state": {
+          "Name": "minecraft:black_candle",
+          "Properties": {
+            "candles": "3",
+            "lit": "true",
+            "waterlogged": "false"
+          }
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_blockstate_match",
+          "block_state": {
+            "Name": "minecraft:black_candle",
+            "Properties": {
+              "candles": "2",
+              "lit": "false",
+              "waterlogged": "false"
+            }
+          },
+          "probability": 0.45
+        },
+        "output_state": {
+          "Name": "minecraft:black_candle",
+          "Properties": {
+            "candles": "2",
+            "lit": "true",
+            "waterlogged": "false"
+          }
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_blockstate_match",
+          "block_state": {
+            "Name": "minecraft:black_candle",
+            "Properties": {
+              "candles": "2",
+              "lit": "false",
+              "waterlogged": "false"
+            }
+          },
+          "probability": 1
+        },
+        "output_state": {
+          "Name": "minecraft:air"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_blockstate_match",
+          "block_state": {
+            "Name": "minecraft:black_candle",
+            "Properties": {
+              "candles": "1",
+              "lit": "false",
+              "waterlogged": "false"
+            }
+          },
+          "probability": 0.35
+        },
+        "output_state": {
+          "Name": "minecraft:black_candle",
+          "Properties": {
+            "candles": "2",
+            "lit": "true",
+            "waterlogged": "false"
+          }
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_blockstate_match",
+          "block_state": {
+            "Name": "minecraft:black_candle",
+            "Properties": {
+              "candles": "1",
+              "lit": "false",
+              "waterlogged": "false"
+            }
+          },
+          "probability": 0.4
+        },
+        "output_state": {
+          "Name": "minecraft:black_candle",
+          "Properties": {
+            "candles": "1",
+            "lit": "true",
+            "waterlogged": "false"
+          }
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_blockstate_match",
+          "block_state": {
+            "Name": "minecraft:black_candle",
+            "Properties": {
+              "candles": "1",
+              "lit": "false",
+              "waterlogged": "false"
+            }
+          },
+          "probability": 1
+        },
+        "output_state": {
+          "Name": "minecraft:air"
+        }
+      }
+    ]
+  },
+  {
+    "processor_type": "minecraft:capped",
+    "delegate": {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:random_block_match",
+            "block": "minecraft:cave_air",
+            "probability": 0.5
+          },
+          "output_state": {
+            "Name": "minecraft:chest"
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "minecraft:chests/nether_bridge"
+          }
+        }
+      ]
+    },
+    "limit": 1
+  },
+  {
+    "processor_type": "minecraft:capped",
+    "delegate": {
+      "processor_type": "minecraft:rule",
+      "rules": [
+        {
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          },
+          "input_predicate": {
+            "predicate_type": "minecraft:block_match",
+            "block": "minecraft:wither_skeleton_wall_skull"
+          },
+          "output_state": {
+            "Name": "minecraft:air"
+          }
+        }
+      ]
+    },
+    "limit": 2
+  },
+  {
+    "processor_type": "minecraft:block_ignore",
+    "blocks": [
+      {
+        "Name": "minecraft:red_nether_bricks"
+      }
+    ]
+  }
+]

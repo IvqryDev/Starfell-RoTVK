@@ -1,0 +1,67 @@
+[
+  {
+    "processor_type": "minecraft:rule",
+    "rules": [
+      {
+        "position_predicate": {
+          "predicate_type": "minecraft:linear_pos",
+          "min_dist": 16,
+          "max_dist": 96,
+          "min_chance": 0.3,
+          "max_chance": 1
+        },
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:cracked_nether_bricks",
+          "probability": 0.1
+        },
+        "output_state": {
+          "Name": "minecraft:red_nether_bricks"
+        }
+      },
+      {
+        "position_predicate": {
+          "predicate_type": "minecraft:linear_pos",
+          "min_dist": 16,
+          "max_dist": 96,
+          "min_chance": 1,
+          "max_chance": 0.65
+        },
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:cracked_nether_bricks",
+          "probability": 0.8
+        },
+        "output_state": {
+          "Name": "minecraft:nether_bricks"
+        }
+      },
+      {
+        "position_predicate": {
+          "predicate_type": "minecraft:linear_pos",
+          "min_dist": 16,
+          "max_dist": 96,
+          "min_chance": 0.3,
+          "max_chance": 1
+        },
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:nether_bricks",
+          "probability": 0.25
+        },
+        "output_state": {
+          "Name": "minecraft:cracked_nether_bricks"
+        }
+      }
+    ]
+  }
+]
