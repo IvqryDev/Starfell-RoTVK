@@ -226,7 +226,7 @@ ItemEvents.modification(event => {
 	maxDura('arsenal:unique_sickle_sw', 6174)
 	maxDura('arsenal:unique_longsword_sw', 6174)
 	maxDura('arsenal:unique_double_axe_1', 6174)
-	maxDura('arsenal:unique_double_axe_2', 6174)
+	maxDura('arsenal:unique_double_axe_2.json', 6174)
 	maxDura('arsenal:unique_double_axe_sw', 6174)
 	maxDura('arsenal:unique_glaive_1', 6174)
 	maxDura('arsenal:unique_glaive_2', 6174)
