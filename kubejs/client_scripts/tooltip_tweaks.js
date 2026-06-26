@@ -1,12 +1,5 @@
 ItemEvents.modifyTooltips(tooltip => {
 
-
-//Equipment & Armory
-    tooltip.add(['caverns_and_chasms:aegis'], "§7Grants high defense but is unable to parry.")
-    tooltip.modify('caverns_and_chasms:aegis', tooltip => {
-        tooltip.removeLine(5)
-    })
-
 //Audio Listeners, Love Ya' To Death
     tooltip.add(['artifacts:everlasting_beef'], '§7"Would you rather have..."')
     tooltip.add(['artifacts:eternal_steak'], '§7"The final ingredient, was all of you."')
@@ -34,9 +27,8 @@ ItemEvents.modifyTooltips(tooltip => {
         tooltip.removeLine(1)
     })
 
-    tooltip.add(['minecraft:recovery_compass'], "§7An ancient compass capable of tracking down lost souls.")
-    tooltip.add(['naturescompass:naturescompass'], "§7An earthen compass capable of finding any habitat.")
-    tooltip.add(['explorerscompass:explorerscompass'], "§7A refined compass capable of tracking down any structure.")
+    tooltip.add(['minecraft:recovery_compass'], "§7Tracks down previous souls of remebrance ")
+    tooltip.add(['spelunkery:magnetic_compass'], "§7Always points towards north.")
     tooltip.add(['caverns_and_chasms:kunai'], "§7Shatters your enemy's defense for a time.")
 
     tooltip.add(['hominid:famished_stomach'], "§7Greatly increases attack damage but removes your ability to crit for a time.")
