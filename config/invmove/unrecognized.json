@@ -33,7 +33,8 @@
     "com.teamabnormals.caverns_and_chasms.client.gui.screens.inventory.BejeweledAnvilScreen": true,
     "com.evandev.reliable_advancements.gui.screens.TabEditorScreen": true,
     "net.runes.client.RuneCraftingScreen": true,
-    "dev.hardaway.mannequins.client.screen.StatueEditorScreen": true
+    "dev.hardaway.mannequins.client.screen.StatueEditorScreen": true,
+    "com.chaosthedude.explorerscompass.gui.ExplorersCompassScreen": true
   },
   "hideBackground": {
     "dev.emi.emi.screen.RecipeScreen": true,
