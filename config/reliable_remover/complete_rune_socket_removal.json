@@ -1,0 +1,5 @@
+{
+  "action": "remove_enchantment",
+  "items": ["*:*"],
+  "advancements": ["starfell:those_before_you"]
+}
