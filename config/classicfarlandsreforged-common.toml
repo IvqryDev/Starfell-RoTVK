@@ -1,0 +1,4 @@
+#The distance from world origin where the Far Lands begin
+# Default: 12550821
+# Range: 10 ~ 12550821
+farLandsDistance = 25600
