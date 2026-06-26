@@ -1,6 +1,6 @@
 {
   "config_version": "2.0.28",
-  "config_datetime": "2026-06-26_07-51-00",
+  "config_datetime": "2026-06-26_07-47-44",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": true,
@@ -113,30 +113,6 @@
       "is_disabled": true
     },
     {
-      "name": "farmers_structures:afterdark_farms",
-      "is_disabled": true
-    },
-    {
-      "name": "farmers_structures:deeper_farms",
-      "is_disabled": true
-    },
-    {
-      "name": "farmers_structures:flesh_farms",
-      "is_disabled": true
-    },
-    {
-      "name": "farmers_structures:honey_cake_farms",
-      "is_disabled": true
-    },
-    {
-      "name": "farmers_structures:undergardens",
-      "is_disabled": true
-    },
-    {
-      "name": "farmers_structures:undergardens_sea",
-      "is_disabled": true
-    },
-    {
       "name": "friendsandfoes:illusioner_training_grounds",
       "is_disabled": true
     },
@@ -174,30 +150,6 @@
     },
     {
       "name": "spelunkery:cinnabar_wire",
-      "is_disabled": true
-    },
-    {
-      "name": "structory:abandoned_camp",
-      "is_disabled": true
-    },
-    {
-      "name": "structory:dense_forest_ruin",
-      "is_disabled": true
-    },
-    {
-      "name": "structory:firetower",
-      "is_disabled": true
-    },
-    {
-      "name": "structory:graveyard",
-      "is_disabled": true
-    },
-    {
-      "name": "structory:ruin_grassy",
-      "is_disabled": true
-    },
-    {
-      "name": "structory:taiga_ruin_underground",
       "is_disabled": true
     },
     {
