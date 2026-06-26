@@ -1451,6 +1451,210 @@
     "starfell:battle_brews": [
       66,
       -32
+    ],
+    "oreganized:story/melting_point": [
+      96,
+      0
+    ],
+    "oreganized:story/disc_smith": [
+      128,
+      0
+    ],
+    "oreganized:story/profound_brain_damage": [
+      128,
+      27
+    ],
+    "minecraft:story/iron_tools": [
+      128,
+      168
+    ],
+    "spelunkery:spelunkery/raw_nuggets": [
+      160,
+      108
+    ],
+    "oreganized:story/obtain_silver": [
+      160,
+      256
+    ],
+    "alloyed:steel_ingot": [
+      192,
+      162
+    ],
+    "oreganized:story/electrum_gear": [
+      192,
+      243
+    ],
+    "alloyed:bronze_ingot": [
+      192,
+      189
+    ],
+    "spelunkery:spelunkery/obsidian_chisel": [
+      192,
+      324
+    ],
+    "oreganized:adventure/terminal_velocity": [
+      192,
+      270
+    ],
+    "minecraft:story/shiny_gear": [
+      256,
+      81
+    ],
+    "spelunkery:spelunkery/item_magnet": [
+      288,
+      40
+    ],
+    "netherexp:nether/soul_sand_valley/soul_sand_valley": [
+      32,
+      108
+    ],
+    "netherexp:nether/soul_sand_valley/ghost_mucus": [
+      64,
+      54
+    ],
+    "netherexp:nether/soul_sand_valley/frightening_rush": [
+      64,
+      13
+    ],
+    "netherexp:nether/soul_sand_valley/enter_soul_glass": [
+      96,
+      0
+    ],
+    "netherexp:nether/soul_sand_valley/exorcism": [
+      96,
+      54
+    ],
+    "netherexp:nether/soul_sand_valley/ssv_sub_biomes": [
+      64,
+      165
+    ],
+    "netherexp:nether/add_spores_to_block": [
+      32,
+      585
+    ],
+    "netherexp:nether/soul_sand_valley/emf_raider": [
+      64,
+      128
+    ],
+    "netherexp:nether/soul_sand_valley/rodeo_stampede": [
+      128,
+      54
+    ],
+    "netherexp:nether/pizza_hunt": [
+      64,
+      702
+    ],
+    "netherexp:nether/brain_food": [
+      96,
+      351
+    ],
+    "netherexp:nether/soul_sand_valley/rattling_remnants": [
+      64,
+      202
+    ],
+    "netherexp:nether/soul_sand_valley/blind_shot": [
+      96,
+      27
+    ],
+    "netherexp:nether/soul_sand_valley/occult_manor": [
+      96,
+      128
+    ],
+    "netherexp:nether/soul_sand_valley/black_ice_black_everything_black": [
+      96,
+      165
+    ],
+    "netherexp:nether/soul_sand_valley/froghorn": [
+      128,
+      27
+    ],
+    "netherexp:nether/soul_sand_valley/gravedigger": [
+      96,
+      202
+    ],
+    "netherexp:nether/ayo_the_pizza_here": [
+      96,
+      702
+    ],
+    "netherexp:nether/soul_sand_valley/the_caduceus": [
+      128,
+      121
+    ],
+    "netherexp:nether/soul_sand_valley/rekindled_betrayal": [
+      128,
+      81
+    ],
+    "netherexp:nether/soul_sand_valley/non_renewable_yeah_right": [
+      128,
+      202
+    ],
+    "netherexp:nether/soul_sand_valley/hp_minecraftian": [
+      128,
+      175
+    ],
+    "netherexp:nether/soul_sand_valley/lorekeeper": [
+      160,
+      202
+    ],
+    "netherexp:nether/soul_sand_valley/no_skin": [
+      160,
+      175
+    ],
+    "netherexp:nether/overkill": [
+      128,
+      580
+    ],
+    "netherexp:nether/soul_sand_valley/plague_doctor": [
+      160,
+      121
+    ],
+    "netherexp:nether/stayin_frosty": [
+      128,
+      499
+    ],
+    "netherexp:nether/soul_sand_valley/sanctum_of_wax": [
+      160,
+      148
+    ],
+    "netherexp:nether/soul_sand_valley/eldritch_manipulation": [
+      160,
+      94
+    ],
+    "netherexp:nether/soul_sand_valley/back_with_a_vengeance": [
+      160,
+      67
+    ],
+    "netherexp:nether/soul_sand_valley/angel_with_a_shotgun": [
+      192,
+      94
+    ],
+    "netherexp:nether/soul_sand_valley/the_nether_is_full": [
+      224,
+      108
+    ],
+    "netherexp:nether/soul_sand_valley/ultra_overkill": [
+      256,
+      108
+    ],
+    "netherexp:nether/soul_sand_valley/guns_for_hands": [
+      224,
+      81
+    ],
+    "brewinandchewin:main/root": [
+      0,
+      27
+    ],
+    "betterdungeons:root": [
+      0,
+      67
+    ],
+    "rpg_series:root": [
+      0,
+      367
+    ],
+    "global:root": [
+      0,
+      0
     ]
   },
   "tab_properties": {
@@ -1545,6 +1749,46 @@
       "background_rules": "[]"
     },
     "starfell:your_bloody_journey": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "brewinandchewin:main/root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "betterdungeons:root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "rpg_series:root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "global:root": {
       "title": "",
       "static_background": false,
       "bg_width": 16,
