@@ -81,11 +81,11 @@
 		// Stamina bar orientation
 		"orientation": "HORIZONTAL",
 		// Short side (pixels)
-		"shortSide": 3,
+		"shortSide": 2,
 		// Long side (pixels)
 		"longSide": 180,
 		// Horizontal offset
-		"offsetY": 7,
+		"offsetY": 8,
 		// Vertical offset
 		"offsetX": 0
 	},
