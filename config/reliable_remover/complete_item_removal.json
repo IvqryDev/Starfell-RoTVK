@@ -782,7 +782,9 @@
             "suppsquared:copper_plaque",
             "suppsquared:gold_plaque",
             "minecraft:lodestone",
-            "supplementaries:urn"
+            "supplementaries:urn",
+            "netherexp:spirit_armor_trim_smithing_template",
+            "netherexp:valor_armor_trim_smithing_template"
         ]
     }
 ]
