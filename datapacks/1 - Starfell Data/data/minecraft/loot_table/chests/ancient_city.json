@@ -11,7 +11,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "valcon:enchanting_guide",
+          "name": "valcon:great_rune_schematic",
           "weight": 15,
           "functions": [
             {
