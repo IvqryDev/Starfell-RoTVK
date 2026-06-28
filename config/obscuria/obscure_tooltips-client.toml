@@ -9,7 +9,7 @@ ignoredItems = ["quality_equipment:reforge_gui_button"]
 #Whether Obscure Tooltips should display the second line in the tooltip header.
 labelsEnabled = true
 #Whether Obscure Tooltips should display drop shadows.
-shadowsEnabled = true
+shadowsEnabled = false
 #The opacity of the drop shadows.
 # Default: 0.3
 # Range: 0.0 ~ 1.0
@@ -33,7 +33,7 @@ shadowOpacity = 0.3
 
 [ArmorPreview]
 	#Whether Obscure Tooltips should display 3D armor previews.
-	armorPreviewEnabled = true
+	armorPreviewEnabled = false
 	#List of item IDs that should always display a 3D armor preview.
 	armorPreviewWhitelist = []
 	#List of item IDs that should never display a 3D armor preview.
