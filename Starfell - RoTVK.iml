@@ -21,7 +21,6 @@
       <excludeFolder url="file://$MODULE_DIR$/player_models" />
       <excludeFolder url="file://$MODULE_DIR$/cache/c2me-dfc" />
       <excludeFolder url="file://$MODULE_DIR$/figura/cache/avatars" />
-      <excludeFolder url="file://$MODULE_DIR$/.idea" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
