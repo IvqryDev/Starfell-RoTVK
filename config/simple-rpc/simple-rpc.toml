@@ -284,7 +284,7 @@
 #Dimension Information Overrides
 [dimension_overrides]
 	#Allows you to override the displayed values for dimensions
-	enabled = false
+	enabled = true
 
 	#The Dimensions to override
 	[[dimension_overrides.dimensions]]
