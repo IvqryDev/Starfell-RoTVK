@@ -594,6 +594,17 @@
       },
       "sync": "minecraft:hotbar"
     },
+    "staminafortweakers:stamina": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "staminafortweakers:stamina"
+    },
     "supplementaries:cannon_charge": {
       "displacement": {
         "x": 0,
