@@ -5,13 +5,16 @@
     "B": {
       "item": "minecraft:gold_ingot"
     },
+    "R": {
+      "item": "jewelry:ruby"
+    },
     "H": {
       "item": "minecraft:stick"
     }
   },
   "pattern": [
-    "  B",
-    "BB ",
+    " BB",
+    "BRB",
     "HB "
   ],
   "result": {

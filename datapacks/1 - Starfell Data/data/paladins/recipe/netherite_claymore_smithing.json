@@ -1,0 +1,21 @@
+{
+  "type": "alloyed:forging_shaped",
+  "category": "equipment",
+  "key": {
+    "H": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "pattern": [
+    " BB",
+    "BHB",
+    "HB "
+  ],
+  "result": {
+    "count": 1,
+    "id": "paladins:netherite_claymore"
+  }
+}

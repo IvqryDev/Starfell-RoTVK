@@ -5,13 +5,16 @@
     "H": {
       "item": "valcon:ashen_steel_handle"
     },
+    "R": {
+      "item": "minecraft:breeze_rod"
+    },
     "B": {
       "item": "oreganized:silver_ingot"
     }
   },
   "pattern": [
-    "  B",
-    "BB ",
+    " BR",
+    "BRB",
     "HB "
   ],
   "result": {
