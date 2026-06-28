@@ -306,5 +306,6 @@
   "block.minecraft.tuff_slab": "Tuff Slab",
   "block.minecraft.tuff_stairs": "Tuff Stairs",
   "block.minecraft.tuff_wall": "Tuff Wall",
-  "block.minecraft.chiseled_deepslate_bricks": "Chiseled Grimstone"
+  "block.minecraft.chiseled_deepslate_bricks": "Chiseled Grimstone",
+  "item.minecraft.flint_and_steel": "Fire Striker"
 }
