@@ -6,9 +6,9 @@
 	// Percentage of total stamina making the player fatigued
 	"fatiguedPercentage": 0,
 	// Stamina points depleted per tick while sprinting.
-	"depletionPerTickSprinting": 0.5,
+	"depletionPerTickSprinting": 0.25,
 	// Stamina points depleted per tick while swimming.
-	"depletionPerTickSwimming": 0.5,
+	"depletionPerTickSwimming": 0.25,
 	// Stamina points depleted per tick while moving in water.
 	"depletionPerTickWading": 0.10000000149011612,
 	// Stamina points depleted per tick while climbing.
@@ -92,7 +92,7 @@
 	// Stamina bar background color
 	"staminaBarBackgroundColor": 6440111,
 	// Stamina bar outline color
-	"staminaBarOutlineColor": 3939977,
+	"staminaBarOutlineColor": 1707325,
 	// Stamina bar main color
 	"staminaBarColor": 12756223,
 	// Stamina bar fatigued color
