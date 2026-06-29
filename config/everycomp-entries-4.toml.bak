@@ -25,6 +25,9 @@
 			walnut = true
 			willow = true
 
+		[types.wood_type.minecraft]
+			pale_oak = true
+
 		[types.leaves_type.quark]
 			orange_blossom = false
 			lavender_blossom = false
@@ -52,8 +55,27 @@
 			apple_fruit = true
 			pear_fruit = true
 
+		[types.leaves_type.minecraft]
+			pale_oak = true
+
 		[types.cake.nomansland]
 			fruit_cake = true
+
+		[types.lantern.suppsquared]
+			copper_lantern = true
+			brass_lantern = true
+			crimson_lantern = true
+
+		[types.lantern.caverns_and_chasms]
+			cupric_lantern = true
+			copper_lantern = true
+			exposed_copper_lantern = true
+			weathered_copper_lantern = true
+			oxidized_copper_lantern = true
+			waxed_copper_lantern = true
+			waxed_exposed_copper_lantern = true
+			waxed_weathered_copper_lantern = true
+			waxed_oxidized_copper_lantern = true
 
 #Disables specific entries
 [entries]

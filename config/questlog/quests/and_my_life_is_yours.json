@@ -1,0 +1,19 @@
+{
+  "title": "And My Life Is Yours",
+  "description": "Kill your first shardbearer and obtain the shard of Winter from Tharnok.",
+  "icon": {
+    "item": "block_factorys_bosses:ice_gauntlet"
+  },
+  "chapter": "main",
+  "order": 1,
+  "objectives": [
+    {
+      "type": "questlog:entity_kill",
+      "name": "Enemy Felled",
+      "entity": "block_factorys_bosses:yeti",
+      "required_amount": 1
+    }
+  ],
+  "requirements": [],
+  "rewards": []
+}

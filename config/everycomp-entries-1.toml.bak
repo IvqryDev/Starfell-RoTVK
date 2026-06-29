@@ -28,9 +28,6 @@
 		[types.wood_type.minecraft]
 			pale_oak = true
 
-		[types.wood_type.netherexp]
-			claret = true
-
 		[types.leaves_type.quark]
 			orange_blossom = false
 			lavender_blossom = false
@@ -64,6 +61,14 @@
 		[types.cake.nomansland]
 			fruit_cake = true
 
+		[types.cake.neapolitan]
+			vanilla_cake = true
+			chocolate_cake = true
+			strawberry_cake = true
+			banana_cake = true
+			mint_cake = true
+			adzuki_cake = true
+
 		[types.lantern.suppsquared]
 			copper_lantern = true
 			brass_lantern = true
@@ -79,9 +84,6 @@
 			waxed_exposed_copper_lantern = true
 			waxed_weathered_copper_lantern = true
 			waxed_oxidized_copper_lantern = true
-
-		[types.lantern.netherexp]
-			ancient_lantern = true
 
 #Disables specific entries
 [entries]
