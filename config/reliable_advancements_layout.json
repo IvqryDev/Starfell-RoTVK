@@ -1378,11 +1378,11 @@
     ],
     "starfell:your_bloody_journey": [
       0,
-      -16
+      0
     ],
     "starfell:copy_that": [
       66,
-      0
+      16
     ],
     "starfell:forge_and_reforged": [
       99,
@@ -1390,7 +1390,7 @@
     ],
     "starfell:working_on_it": [
       33,
-      -16
+      0
     ],
     "starfell:a_little_tight_across_the_chest": [
       132,
@@ -1399,10 +1399,6 @@
     "starfell:the_mission_yakumo": [
       165,
       -16
-    ],
-    "starfell:those_before_you": [
-      231,
-      0
     ],
     "starfell:forego_your_ancestors_sins": [
       198,
@@ -1421,7 +1417,7 @@
       48
     ],
     "starfell:battle_brews": [
-      66,
+      99,
       -32
     ],
     "oreganized:story/melting_point": [
@@ -1617,8 +1613,8 @@
       -33
     ],
     "starfell:portal_tech": [
-      33,
-      33
+      36,
+      0
     ],
     "starfell:finality": [
       33,
@@ -1627,6 +1623,38 @@
     "starfell:potential": [
       0,
       0
+    ],
+    "starfell:the_final_step": [
+      71,
+      0
+    ],
+    "starfell:second_breakfast": [
+      68,
+      -16
+    ],
+    "starfell:to_accept_their_god": [
+      198,
+      0
+    ],
+    "starfell:re_reliable": [
+      99,
+      32
+    ],
+    "starfell:reunion": [
+      231,
+      16
+    ],
+    "starfell:savora_fortuna": [
+      264,
+      0
+    ],
+    "starfell:azanulbizar": [
+      198,
+      32
+    ],
+    "starfell:fiery_forge": [
+      231,
+      -16
     ]
   },
   "tab_properties": {
