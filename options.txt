@@ -216,6 +216,7 @@ key_treeliable.key.cycle_sneak_behavior:key.keyboard.unknown
 key_key.raised.options:key.keyboard.unknown
 key_key.shine.toggle:key.keyboard.unknown
 key_key.shine.editor:key.keyboard.unknown
+key_key.pickup.item:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.7527593818984547
