@@ -1,3 +1,6 @@
 {
-  "values": []
+  "values": [
+    "supplementaries:quiver",
+    "reliable_backpacks:backpack"
+  ]
 }

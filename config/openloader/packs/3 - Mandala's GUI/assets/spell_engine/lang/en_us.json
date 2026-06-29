@@ -1,5 +1,5 @@
 {
-  "accessories.slot.spell_quiver": "Rune Pouch",
+  "accessories.slot.spell_quiver": "Storage",
 
   "gui.spell_engine.spell_binding" : "Ash Binding",
   "gui.spell_engine.spell_binding.title" : "Bind Ashes of War",
@@ -113,14 +113,10 @@
   "keybindings.spell_engine.spell_hotbar_8" : "Ash Hotbar Slot 8",
   "keybindings.spell_engine.spell_hotbar_9" : "Ash Hotbar Slot 9",
 
-  "trinkets.slot.spell.book": "Ash of War Compendium",
-  "trinkets.slot.spell.scroll": "Ash of War Scroll",
-  "trinkets.slot.spell.quiver": "Rune Pouch",
-  "trinkets.slot.misc.quiver": "Rune Pouch",
 
   "accessories.slot_group.spell": "Ash of War",
-  "accessories.slot.spell_book": "Ash of War Compendium",
-  "accessories.slot.spell_scroll": "Ash of War Scroll",
+  "accessories.slot.spell_book": "Compendium",
+  "accessories.slot.spell_scroll": "Scroll",
   "accessories.slot.spell_trinket": "Trinket",
 
   "effect.spell_engine.stun": "Stunned",

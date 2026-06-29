@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "amount": 4,
+  "operation": "set",
+  "order": 1,
+  "icon": "valcon:gui/slot/talisman",
+  "validators": [
+    "accessories:tag"
+  ]
+}

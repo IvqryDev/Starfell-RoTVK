@@ -7,7 +7,15 @@
 		"showCosmeticAccessories": false,
 		"disabledDefaultRenders": [
 			{
-				"slotType": "back",
+				"slotType": "spell_quiver",
+				"targetType": "ALL"
+			},
+			{
+				"slotType": "necklace",
+				"targetType": "ALL"
+			},
+			{
+				"slotType": "spell_book",
 				"targetType": "ALL"
 			}
 		]
@@ -15,7 +23,7 @@
 	"screenOptions": {
 		"selectedScreenType": "ORIGINAL",
 		"showUnusedSlots": false,
-		"allowSlotScrolling": true,
+		"allowSlotScrolling": false,
 		"inventoryButtonOffset": {
 			"x": 66,
 			"y": 8
@@ -45,6 +53,18 @@
 	"modifiers": [
 		{
 			"slotType": "spell_trinket",
+			"amount": -1
+		},
+		{
+			"slotType": "necklace",
+			"amount": 3
+		},
+		{
+			"slotType": "spell_quiver",
+			"amount": 1
+		},
+		{
+			"slotType": "spell_book",
 			"amount": 1
 		}
 	]
