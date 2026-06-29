@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "starfell:potential",
+  "display": {
+    "icon": {
+      "id": "valcon:umbral_shard",
+      "count": 1
+    },
+    "title": {
+      "text": "Finality"
+    },
+    "description": {
+      "text": "The final step in the ritual to summon a portal to the Abyss, and fulfill your mission."
+    },
+    "frame": "task",
+    "hidden": false
+  },
+  "sends_telemetry_event": false
+}

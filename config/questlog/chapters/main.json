@@ -1,7 +1,9 @@
 {
+  "name": "Campaign",
   "icon": {
-    "item": "minecraft:knowledge_book"
+    "item": "valcon:great_rune_schematic"
   },
+  "order": 0,
   "default_chapter": true,
   "hidden": false
 }

@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "impossible": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "impossible"
+    ]
+  ],
+  "parent": "starfell:potential",
+  "display": {
+    "icon": {
+      "id": "dimensional_tears:dimensional_tears_bottle",
+      "count": 1
+    },
+    "title": {
+      "text": "Portal Tech"
+    },
+    "description": {
+      "text": "You\u0027re spirit is enhanced with the abilites to create portals to other realms."
+    },
+    "frame": "task",
+    "hidden": false
+  },
+  "sends_telemetry_event": false
+}

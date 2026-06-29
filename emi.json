@@ -1,5 +1,9 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:naturalist:capture_net"
+    }
+  ],
   "lookup_history": [
     "item:paladins:diamond_claymore",
     "item:paladins:netherite_claymore",
