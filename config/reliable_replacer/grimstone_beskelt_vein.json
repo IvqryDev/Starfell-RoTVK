@@ -1,5 +1,5 @@
 {
-  "retrogen": true,
+  "retrogen": false,
   "inputs": ["minecraft:deepslate_iron_ore"],
   "output": "oreganized:deepslate_lead_ore",
   "probability": 0.25
