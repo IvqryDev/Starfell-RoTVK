@@ -5,7 +5,7 @@
     "rotateSpeed": 1.0,
     "showPickupTooltip": true,
     "showPickupTooltipOnlyOnGround": false,
-    "showPickupTooltipExtended": true,
+    "showPickupTooltipExtended": false,
     "showPickupTooltipKeybind": false,
     "disableThrowHUD": true,
     "vanillaRendered": {
