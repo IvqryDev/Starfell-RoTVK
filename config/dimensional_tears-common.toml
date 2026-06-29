@@ -26,10 +26,10 @@
 	fluid_flowing_tick_rate = 10
 
 [teleportation]
+	fully_submerged_instant_teleport = true
 	# Default: 10
 	# Range: 1 ~ 300
 	rifting_delay_seconds = 5
-	fully_submerged_instant_teleport = false
 	# Default: 4
 	# Range: 0 ~ 32
 	spawn_bypass_instant_teleportation_range = 4
