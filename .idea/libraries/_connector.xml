@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name=".connector">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mods/.connector/fabric-language-kotlin-1.13.9+kotlin.2.3.10$kotlinx-serialization-cbor-jvm-1.10.0_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/fabric-language-kotlin-1.13.9+kotlin.2.3.10$kotlinx-io-bytestring-jvm-0.8.2_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/aa4-atlas-1.1.2+1.21_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/fabric-language-kotlin-1.13.9+kotlin.2.3.10$kotlinx-datetime-jvm-0.7.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/antique-atlas-3.1.2+1.21_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/wakes-0.4.1+1.21.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/cardinal-components-api-6.1.1$cardinal-components-world-6.1.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/cardinal-components-api-6.1.1$cardinal-components-item-6.1.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/numismatic-overhaul-0.3.5+1.21$cardinal-components-base-6.1.2_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/cardinal-components-api-6.1.1$cardinal-components-chunk-6.1.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/herdspanic-1.1.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/worldplaytime-1.2.2-1.21-FABRIC_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/cardinal-components-api-6.1.1$cardinal-components-level-6.1.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/surveyor-1.2.4+1.21_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/fabric-language-kotlin-1.13.9+kotlin.2.3.10_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/cardinal-components-api-6.1.1$cardinal-components-scoreboard-6.1.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/continuity-3.0.0+1.21.neoforge_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/surveyor-1.2.4+1.21$kaleido-config-0.3.1+1.3.2_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/numismatic-overhaul-0.3.5+1.21_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/cardinal-components-api-6.1.1$cardinal-components-block-6.1.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/cardinal-components-api-6.1.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/fabric-language-kotlin-1.13.9+kotlin.2.3.10$kotlinx-io-core-jvm-0.8.2_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/savepoint-1.1.0+1.21.1_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/fabric-language-kotlin-1.13.9+kotlin.2.3.10$atomicfu-jvm-0.31.0_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/numismatic-overhaul-0.3.5+1.21$cardinal-components-entity-6.1.2_mapped_moj_1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mods/.connector/wakes-0.4.1+1.21.1$DelaunayTriangulator-1.0.0_mapped_moj_1.21.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

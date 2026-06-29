@@ -1,0 +1,4 @@
+[16:55:42] [WARN] [FabricLoader/Resolution]: Mod resolution failed
+[16:55:42] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_INCOMPATIBLE_PRESELECTED optional_pickup 0.1.2-mc1.21.1 {depends fabricloader @ [>=0.18.4]}, ROOT_FORCELOAD_SINGLE optional_pickup 0.1.2-mc1.21.1]
+[16:55:42] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP optional_pickup 0.1.2-mc1.21.1 {depends fabricloader @ [>=0.18.4]}]
+[16:55:42] [INFO] [FabricLoader/Resolution]: Fix: add [], remove [], replace [[fabricloader 0.17.x] -> add:fabricloader 0.18.4 ([[0.18.4,∞)])]

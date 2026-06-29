@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="The Knight Avatar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/figura/avatars/The Knight/The Knight Avatar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

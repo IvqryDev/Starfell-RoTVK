@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="shaderpacks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shaderpacks/Tea.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/OPAL.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/TAA.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/ComplementaryUnbound_r5.8.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/VHS.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/miniature-shader-2.18.11.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/ComplementaryReimagined_r5.8.1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/shaderpacks/PSX.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
