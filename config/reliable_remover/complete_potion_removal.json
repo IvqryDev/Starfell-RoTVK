@@ -80,6 +80,10 @@
     "minecraft:strong_haste",
     "minersdelight:haste",
     "minersdelight:long_haste",
-    "minersdelight:strong_haste"
+    "minersdelight:strong_haste",
+    "staminafortweakers:fatigue_potion",
+    "staminafortweakers:tirelessness_potion",
+    "staminafortweakers:long_fatigue_potion",
+    "staminafortweakers:long_tirelessness_potion"
   ]
 }
