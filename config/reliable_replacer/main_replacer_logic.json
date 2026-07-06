@@ -47,6 +47,9 @@
     "spelunkery:tuff_emerald_ore": "minecraft:tuff",
 
     "minecraft:wildflowers": "wilderflowers:cheery_wildflowers",
-    "wilderflowers:clovers": "nomansland:clover_patch"
+    "wilderflowers:clovers": "nomansland:clover_patch",
+
+    "caverns_and_chasms:lava_lamp": "redomesticate:wayward_lantern",
+    "caverns_and_chasms:gold_ingot_placed": "minecraft:air"
   }
 }
