@@ -1655,6 +1655,50 @@
     "starfell:fiery_forge": [
       231,
       -16
+    ],
+    "minecraft:story/root": [
+      0,
+      290
+    ],
+    "minecraft:adventure/root": [
+      0,
+      850
+    ],
+    "minecraft:husbandry/root": [
+      0,
+      391
+    ],
+    "minecraft:nether/root": [
+      0,
+      222
+    ],
+    "minecraft:end/root": [
+      0,
+      54
+    ],
+    "brewinandchewin:main/root": [
+      0,
+      27
+    ],
+    "betterdungeons:root": [
+      0,
+      67
+    ],
+    "rpg_series:root": [
+      0,
+      212
+    ],
+    "block_factorys_bosses:die_boss": [
+      0,
+      67
+    ],
+    "global:root": [
+      0,
+      0
+    ],
+    "farmersdelight:main/root": [
+      0,
+      94
     ]
   },
   "tab_properties": {
@@ -1689,6 +1733,116 @@
       "background_rules": "[]"
     },
     "starfell:potential": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "minecraft:story/root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 0,
+      "background_rules": "[]"
+    },
+    "minecraft:adventure/root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 1,
+      "background_rules": "[]"
+    },
+    "minecraft:husbandry/root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 2,
+      "background_rules": "[]"
+    },
+    "minecraft:nether/root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 3,
+      "background_rules": "[]"
+    },
+    "minecraft:end/root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 4,
+      "background_rules": "[]"
+    },
+    "brewinandchewin:main/root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "betterdungeons:root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "rpg_series:root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "block_factorys_bosses:die_boss": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "global:root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "farmersdelight:main/root": {
       "title": "",
       "static_background": false,
       "bg_width": 16,

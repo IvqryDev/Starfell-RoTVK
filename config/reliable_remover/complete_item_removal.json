@@ -843,7 +843,9 @@
             "artifacts:lucky_scarf",
             "artifacts:power_glove",
             "artifacts:scarf_of_invisibility",
-            "minecraft:splash_potion"
+            "minecraft:splash_potion",
+            "minecraft:wildflowers",
+            "wilderflowers:clovers"
         ]
     }
 ]
