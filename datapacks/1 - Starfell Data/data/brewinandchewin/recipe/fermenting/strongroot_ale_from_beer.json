@@ -3,7 +3,7 @@
   "base_fluid": {
     "amount": 1000,
     "ingredient": {
-      "tag": "#brewinandchewin:beer"
+      "tag": "#c:water"
     },
     "unit": "millibuckets"
   },
@@ -11,16 +11,16 @@
   "fermenting_time": 4800,
   "ingredients": [
     {
-      "tag": "c:crops/beetroot"
-    },
-    {
-      "tag": "c:crops/beetroot"
-    },
-    {
       "item": "minecraft:red_mushroom"
     },
     {
       "item": "minecraft:hanging_roots"
+    },
+    {
+      "tag": "c:crops/beetroot"
+    },
+    {
+      "tag": "c:crops/beetroot"
     }
   ],
   "result": {

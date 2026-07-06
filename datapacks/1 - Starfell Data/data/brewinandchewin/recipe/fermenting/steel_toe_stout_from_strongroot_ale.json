@@ -3,7 +3,7 @@
   "base_fluid": {
     "amount": 1000,
     "ingredient": {
-      "tag": "#brewinandchewin:strongroot_ale"
+      "tag": "#c:water"
     },
     "unit": "millibuckets"
   },
@@ -11,16 +11,16 @@
   "fermenting_time": 4800,
   "ingredients": [
     {
-      "item": "minecraft:iron_ingot"
-    },
-    {
       "item": "mynethersdelight:pepper_powder"
     },
     {
       "item": "minecraft:nether_wart"
     },
     {
-      "item": "minecraft:wheat"
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
     }
   ],
   "result": {

@@ -13,13 +13,13 @@
       "item": "minecraft:wheat"
     },
     {
-      "item": "minecraft:wheat_seeds"
+      "item": "nomansland:pear"
     },
     {
       "item": "minecraft:sweet_berries"
     },
     {
-      "item": "nomansland:pear"
+      "item": "minecraft:sweet_berries"
     }
   ],
   "result": {

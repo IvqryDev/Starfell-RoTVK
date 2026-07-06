@@ -3,23 +3,23 @@
   "base_fluid": {
     "amount": 1000,
     "ingredient": {
-      "tag": "#brewinandchewin:salty_folly"
+      "tag": "#c:water"
     },
     "unit": "millibuckets"
   },
   "experience": 2.0,
   "ingredients": [
     {
-      "item": "minecraft:wither_rose"
-    },
-    {
-      "item": "minecraft:ink_sac"
+      "item": "minecraft:bone"
     },
     {
       "item": "pigsteel:pigsteel_chunk"
     },
     {
-      "item": "minecraft:bone"
+      "item": "minecraft:wither_rose"
+    },
+    {
+      "item": "minecraft:wither_rose"
     }
   ],
   "result": {

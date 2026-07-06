@@ -374,7 +374,7 @@ ItemEvents.modification(event => {
                     effectSupplier: () =>
                         new $MobEffectInstance(
                             'minecraft:wither',
-                            3000, /* 2.5 Minutes */
+                            2400, /* 2 Minutes */
                             1, /* Level 2*/
                             true, /* Ambience */
                             false /* Particles */

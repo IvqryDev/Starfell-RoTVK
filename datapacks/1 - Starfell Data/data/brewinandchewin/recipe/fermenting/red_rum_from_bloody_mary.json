@@ -3,7 +3,7 @@
   "base_fluid": {
     "amount": 1000,
     "ingredient": {
-      "tag": "#brewinandchewin:bloody_mary"
+      "tag": "#c:water"
     },
     "unit": "millibuckets"
   },
@@ -20,7 +20,7 @@
       "item": "mynethersdelight:bullet_pepper"
     },
     {
-      "item": "minecraft:shroomlight"
+      "item": "mynethersdelight:bullet_pepper"
     }
   ],
   "result": {

@@ -3,7 +3,7 @@
   "base_fluid": {
     "amount": 1000,
     "ingredient": {
-      "tag": "#brewinandchewin:vodka"
+      "tag": "#c:water"
     },
     "unit": "millibuckets"
   },
@@ -14,13 +14,13 @@
       "item": "minecraft:sea_pickle"
     },
     {
+      "item": "nomansland:frog_leg"
+    },
+    {
       "item": "minecraft:dried_kelp"
     },
     {
-      "item": "minecraft:seagrass"
-    },
-    {
-      "item": "nomansland:frog_leg"
+      "item": "minecraft:dried_kelp"
     }
   ],
   "result": {

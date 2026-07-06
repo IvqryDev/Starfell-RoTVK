@@ -3,7 +3,7 @@
   "base_fluid": {
     "amount": 1000,
     "ingredient": {
-      "tag": "#brewinandchewin:mead"
+      "tag": "#c:water"
     },
     "unit": "millibuckets"
   },
@@ -20,7 +20,7 @@
       "item": "minecraft:glistering_melon_slice"
     },
     {
-      "item": "minecraft:apple"
+      "item": "minecraft:glistering_melon_slice"
     }
   ],
   "result": {

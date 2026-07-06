@@ -10,16 +10,16 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "c:eggs"
-    },
-    {
-      "tag": "c:eggs"
+      "item": "minecraft:glow_ink_sac"
     },
     {
       "tag": "c:crops/cabbage"
     },
     {
-      "item": "minecraft:sugar"
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
     }
   ],
   "result": {

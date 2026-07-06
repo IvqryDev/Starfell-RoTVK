@@ -10,16 +10,16 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:glow_berries"
-    },
-    {
-      "item": "minecraft:glow_berries"
-    },
-    {
       "item": "quark:glow_shroom"
     },
     {
       "item": "minecraft:glow_ink_sac"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:glow_berries"
     }
   ],
   "result": {

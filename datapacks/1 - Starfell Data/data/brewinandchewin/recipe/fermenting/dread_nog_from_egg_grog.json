@@ -3,7 +3,7 @@
   "base_fluid": {
     "amount": 1000,
     "ingredient": {
-      "tag": "#brewinandchewin:egg_grog"
+      "tag": "#c:milk"
     },
     "unit": "millibuckets"
   },

@@ -10,16 +10,16 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "c:crops/rice"
-    },
-    {
-      "tag": "c:crops/rice"
-    },
-    {
       "item": "minecraft:brown_mushroom"
     },
     {
       "item": "nomansland:walnuts"
+    },
+    {
+      "tag": "c:crops/rice"
+    },
+    {
+      "tag": "c:crops/rice"
     }
   ],
   "result": {

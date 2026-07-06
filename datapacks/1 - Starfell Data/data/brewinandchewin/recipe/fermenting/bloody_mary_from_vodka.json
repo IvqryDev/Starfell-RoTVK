@@ -3,7 +3,7 @@
   "base_fluid": {
     "amount": 1000,
     "ingredient": {
-      "tag": "#brewinandchewin:vodka"
+      "tag": "#c:water"
     },
     "unit": "millibuckets"
   },
@@ -11,16 +11,16 @@
   "fermenting_time": 4800,
   "ingredients": [
     {
-      "tag": "c:crops/tomato"
-    },
-    {
-      "tag": "c:crops/tomato"
-    },
-    {
       "tag": "c:crops/cabbage"
     },
     {
       "item": "minecraft:sweet_berries"
+    },
+    {
+      "tag": "c:crops/tomato"
+    },
+    {
+      "tag": "c:crops/tomato"
     }
   ],
   "result": {

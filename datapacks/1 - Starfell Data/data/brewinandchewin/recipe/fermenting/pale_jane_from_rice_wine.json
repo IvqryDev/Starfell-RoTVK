@@ -3,7 +3,7 @@
   "base_fluid": {
     "amount": 1000,
     "ingredient": {
-      "tag": "#brewinandchewin:rice_wine"
+      "tag": "#c:water"
     },
     "unit": "millibuckets"
   },
@@ -11,16 +11,16 @@
   "fermenting_time": 4800,
   "ingredients": [
     {
-      "item": "minecraft:honey_bottle"
+      "item": "farmersdelight:tree_bark"
     },
     {
-      "item": "farmersdelight:tree_bark"
+      "item": "minecraft:honeycomb"
     },
     {
       "item": "minecraft:lily_of_the_valley"
     },
     {
-      "item": "minecraft:sugar"
+      "item": "minecraft:lily_of_the_valley"
     }
   ],
   "result": {
