@@ -845,7 +845,24 @@
             "artifacts:scarf_of_invisibility",
             "minecraft:splash_potion",
             "minecraft:wildflowers",
-            "wilderflowers:clovers"
+            "wilderflowers:clovers",
+            "another_furniture:oak_shutter",
+            "another_furniture:spruce_shutter",
+            "another_furniture:birch_shutter",
+            "another_furniture:jungle_shutter",
+            "another_furniture:acacia_shutter",
+            "another_furniture:dark_oak_shutter",
+            "another_furniture:mangrove_shutter",
+            "another_furniture:cherry_shutter",
+            "another_furniture:bamboo_shutter",
+            "everycomp:af/nomansland/pine_shutter",
+            "everycomp:af/minecraft/pale_oak_shutter",
+            "everycomp:af/nomansland/walnut_shutter",
+            "everycomp:af/newworld/fir_shutter",
+            "another_furniture:crimson_shutter",
+            "everycomp:af/nomansland/willow_shutter",
+            "everycomp:af/nomansland/maple_shutter",
+            "another_furniture:warped_shutter"
         ]
     }
 ]
