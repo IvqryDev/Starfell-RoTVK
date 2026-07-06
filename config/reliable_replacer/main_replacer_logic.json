@@ -44,6 +44,9 @@
     "spelunkery:andesite_emerald_ore": "minecraft:andesite",
     "spelunkery:granite_emerald_ore": "minecraft:granite",
     "spelunkery:diorite_emerald_ore": "minecraft:diorite",
-    "spelunkery:tuff_emerald_ore": "minecraft:tuff"
+    "spelunkery:tuff_emerald_ore": "minecraft:tuff",
+
+    "minecraft:wildflowers": "wilderflowers:cheery_wildflowers",
+    "wilderflowers:clovers": "nomansland:clover_patch"
   }
 }
