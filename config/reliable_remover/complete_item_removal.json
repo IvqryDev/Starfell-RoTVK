@@ -861,7 +861,12 @@
             "everycomp:af/nomansland/willow_shutter",
             "everycomp:af/nomansland/maple_shutter",
             "another_furniture:warped_shutter",
-            "supplementaries:caverns_and_chasms/cannon_boat_azalea"
+            "supplementaries:caverns_and_chasms/cannon_boat_azalea",
+            "nomansland:warding_bandage",
+            "nomansland:bandage",
+            "nomansland:medicinal_bandage",
+            "minecraft:enchanted_golden_apple",
+            "quark:golden_apple_crate"
         ]
     }
 ]
