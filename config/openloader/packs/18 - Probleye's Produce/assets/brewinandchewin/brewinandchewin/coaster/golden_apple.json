@@ -1,0 +1,11 @@
+{
+  "item": "minecraft:golden_apple",
+  "models": [
+    {
+      "model": "brewinandchewin:block/coaster_pomegranate"
+    },
+    {
+      "model": "brewinandchewin:block/coaster_pomegranate"
+    }
+  ]
+}
