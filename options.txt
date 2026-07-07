@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:20
+renderDistance:14
 simulationDistance:8
 screenEffectScale:1.0
 soundDevice:""
@@ -44,12 +44,12 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.5
+mouseSensitivity:0.6009389671361502
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:["fabric"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","scholar:colored_books","scholar:chiseled_bookshelf_colored_books","generated/fragmentum_layer","mod_resources","mod/wilderflowers:resourcepacks/wildflowers","moonlight:merged_pack","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/1 - Basic Resources","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/10 - Farcr\u0027s Better Dirt","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/11 - Fantasy Ores Stafell Compat","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/12 - Minecraft Kingdom","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/13 - Groovier Discs","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/14 - Farcr\u0027s Recrafted","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/16 - Corrupted Raven Phantoms","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/17 - Dungeon\u0027s Textures","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/18 - Probleye\u0027s Produce","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/19 - Hominid Retextures","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/2 - Sun and Moon Fusion","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/20 - Visual Titles","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/21 - Bagel\u0027s Texture Tweaks","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/22 - Brush \u0026 Juice","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/23 - Lanostry\u0027s Journey","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/24 - Moberhaul","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/25 - Antique Atlas Compat","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/26 - Wisp Allays","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/27 - Excalibur Sounds","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/28 - Tutta\u0027s Runes","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/29 - Lanostry\u0027s Wolves","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/3 - Mandala\u0027s GUI","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/30 - Drodi\u0027s Illagers","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/31 - Drodi\u0027s Blazes","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/32 - Beyonder","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/33 - Choppy Wood","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/34 - Maestro Overture","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/35 - Nibble Bits","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/36 - Water Caustics","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/4 - Refined Armor","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/5 - Ender Dragon Reborn","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/6 - Fontolith","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/7 - Monumental","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/8 - Starfell Sounds","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/9 - Artisanal Nether Bricks"]
+incompatibleResourcePacks:["openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/33 - Choppy Wood","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/36 - Water Caustics","openloader//home/ivqrydev/.local/share/ModrinthApp/profiles/Starfell - RoTVK/config/openloader/packs/37 - Pixion\u0027s Rebrush"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -127,10 +127,10 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.keyboard.unknown
 key_quark.keybind.camera_mode:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
@@ -217,9 +217,9 @@ key_key.raised.options:key.keyboard.unknown
 key_key.shine.toggle:key.keyboard.unknown
 key_key.shine.editor:key.keyboard.unknown
 key_key.pickup.item:key.keyboard.unknown
-key_keybind.invmove.toggleMove:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
-soundCategory_master:1.0
+key_keybind.invmove.toggleMove:key.keyboard.unknown
+soundCategory_master:0.6081677704194262
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

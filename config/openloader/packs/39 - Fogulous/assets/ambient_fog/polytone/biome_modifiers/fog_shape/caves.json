@@ -1,0 +1,58 @@
+{
+	"targets": [
+	 {
+	  "id": "minecraft:dripstone_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "minecraft:lush_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:cold_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:dirt_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:frozen_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:inferno",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:lukewarm_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "clifftree:warm_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "alexscaves:magnetic_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "alexscaves:primordial_caves",
+	  "required": false
+	 },
+	 {
+	  "id": "alexscaves:candy_cavity",
+	  "required": false
+	 },
+	 {
+	  "id": "minecraft:sulfur_caves",
+	  "required": false
+	 }
+	],
+	"fog_end": "0.4 / (1 - ((1 - (RENDER_DISTANCE / 32)) * 0.4))",
+	"fog_start": "13 * max(0.85, (1 + (((RENDER_DISTANCE / 32) - 1) * 0.6)))"
+}

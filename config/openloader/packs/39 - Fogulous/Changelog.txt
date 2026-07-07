@@ -1,0 +1,4 @@
+v1.2.0
+- Fog now scales to render distance.
+- Increased fog density in many biomes.
+- Added Enderscape Support (Only if Enderscape's fog is disabled.)

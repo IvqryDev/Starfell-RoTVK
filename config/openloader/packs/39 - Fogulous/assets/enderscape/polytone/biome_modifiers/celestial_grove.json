@@ -1,0 +1,7 @@
+{
+	"require_mods": [
+     "enderscape"  
+   ],
+	"fog_end": "0.7 / (1 - ((1 - (RENDER_DISTANCE / 32)) * 0.4))",
+	"fog_start": "12.5 * max(0.85, (1 + (((RENDER_DISTANCE / 32) - 1) * 0.6)))"
+}

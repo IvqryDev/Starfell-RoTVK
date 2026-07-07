@@ -1,0 +1,6 @@
+{
+	"require_mods": ["vanillabackport"],
+	"targets": ["minecraft:pale_garden"],
+	"fog_end": "(0.4 - max(0, (min(0.3 * ((RENDER_DISTANCE / 32) * 0.25), (DAY_TIME%24000 > 12500) + (DAY_TIME%24000 < 1000) + ((RAIN * 0.3) * ((RENDER_DISTANCE / 32) * 0.25)) - max(0, 11 - SKY_LIGHT))))) / (1 - ((1 - (RENDER_DISTANCE / 32)) * 0.75))",
+	 "fog_start": "(12 + max(-1.5, min(1.5, (DAY_TIME%24000 > 12500) + (DAY_TIME%24000 < 1000) + (RAIN * 1.5) - max(0, 11 - SKY_LIGHT) * 100))) * max(1, (1 + (((RENDER_DISTANCE / 32) - 1) * 0.75)))"
+}
