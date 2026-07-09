@@ -34,12 +34,12 @@
 	xpTextPulseEnabled: true,
 	xpBarSpeed: 1.0,
 	xpGlowEnabled: true,
-	xpGlowColor: -171,
+	xpGlowColor: -9117960,
 	xpGlowFadeSpeed: 0.12,
 	xpGlowBoostOnGain: 0.35,
 	glowTailPx: 18,
 	glowTailStrips: 6,
 	xpLevelUpParticlesEnabled: true,
-	xpLevelUpParticleColor: -171,
+	xpLevelUpParticleColor: -9117960,
 	xpLevelUpParticleLevels: 5
 }
