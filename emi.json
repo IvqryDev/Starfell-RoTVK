@@ -1,6 +1,17 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:alterna:oak_item_rack",
+    "item:alterna:conch_shell{\"minecraft:instrument\":\"alterna:pour_conch_shell\"}",
+    "item:alterna:sunken_trident",
+    "item:alterna:glider",
+    "item:alterna:music_disc_creep",
+    "item:undead_unleashed:demon_horn",
+    "item:undead_unleashed:demon_broth",
+    "item:undead_unleashed:plate_helmet",
+    "item:undead_unleashed:plate_leggings",
+    "item:undead_unleashed:plate_chestplate",
+    "item:undead_unleashed:heavy_plating",
     "item:nomansland:wooden_scaffolding",
     "item:minecraft:bowl",
     "item:newworld:fir_sapling",
