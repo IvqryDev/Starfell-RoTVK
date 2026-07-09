@@ -1,6 +1,0 @@
-{
-	"sky_color": 740477,
-    "fog_color": 1052968,
-	"fog_end": "0.35 / (1 - ((1 - (RENDER_DISTANCE / 32)) * 0.3))",
-	"fog_start": "13 * max(0.85, (1 + (((RENDER_DISTANCE / 32) - 1) * 0.6)))"
-}

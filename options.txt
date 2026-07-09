@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:14
+renderDistance:16
 simulationDistance:8
 screenEffectScale:1.0
 soundDevice:""
@@ -48,7 +48,7 @@ mouseSensitivity:0.6009389671361502
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:false
-resourcePacks:[]
+resourcePacks:["fabric"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -209,6 +209,9 @@ key_key.raised.options:key.keyboard.grave.accent
 key_armorhud.keybind.toggle:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_key.presencefootsteps.toggle:key.keyboard.unknown
+key_key.pickup.item:key.keyboard.unknown
+key_keybind.invmove.toggleMove:key.keyboard.unknown
+key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.6081677704194262
 soundCategory_music:0.0
 soundCategory_record:1.0
