@@ -14,9 +14,9 @@ drop_items_on_despawn = false
 #treephysics.config.rooted_dirt_generation.tooltip
 rooted_dirt_generation = true
 #treephysics.config.remove_rooted_dirt.tooltip
-remove_rooted_dirt = true
+remove_rooted_dirt = false
 #treephysics.config.drop_hanging_roots.tooltip
-drop_hanging_roots = false
+drop_hanging_roots = true
 #treephysics.config.rootless_tree_detection.tooltip
 rootless_tree_detection = false
 #treephysics.config.requires_axe.tooltip
@@ -55,6 +55,6 @@ tree_entity_damage = 25.0
 	#treephysics.config.extra_push_multiplier.tooltip
 	# Default: 1.5
 	# Range: 0.0 ~ 1.7976931348623157E308
-	extra_push_multiplier = 1.5
+	extra_push_multiplier = 0.5
 	#treephysics.config.static_leaf_collision.tooltip
 	static_leaf_collision = false
