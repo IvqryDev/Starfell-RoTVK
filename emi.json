@@ -1,11 +1,16 @@
 {
   "favorites": [],
   "lookup_history": [
-    "item:alterna:oak_item_rack",
-    "item:alterna:conch_shell{\"minecraft:instrument\":\"alterna:pour_conch_shell\"}",
-    "item:alterna:sunken_trident",
-    "item:alterna:glider",
-    "item:alterna:music_disc_creep",
+    "item:minecraft:gold_ingot",
+    "item:minecraft:iron_ingot",
+    {
+      "type": "fluid",
+      "id": "brewinandchewin:steel_toe_stout",
+      "amount": 0
+    },
+    "item:paladins:iron_mace",
+    "item:paladins:iron_claymore",
+    "item:farmersdelight:iron_knife",
     "item:undead_unleashed:demon_horn",
     "item:undead_unleashed:demon_broth",
     "item:undead_unleashed:plate_helmet",
@@ -44,11 +49,6 @@
     {
       "type": "fluid",
       "id": "brewinandchewin:dread_nog",
-      "amount": 0
-    },
-    {
-      "type": "fluid",
-      "id": "brewinandchewin:steel_toe_stout",
       "amount": 0
     },
     {
@@ -138,7 +138,6 @@
     "item:oreganized:silver_ingot",
     "item:minecraft:obsidian",
     "item:reliable_backpacks:backpack",
-    "item:minecraft:iron_ingot",
     "item:minecraft:copper_ingot",
     "item:oreganized:lead_bars",
     "item:oreganized:lead_ingot",
@@ -146,13 +145,11 @@
     "item:paladins:diamond_claymore",
     "item:paladins:netherite_claymore",
     "item:paladins:golden_claymore",
-    "item:paladins:iron_claymore",
     "item:rogues:golden_dagger",
     "item:rogues:diamond_dagger",
     "item:rogues:netherite_dagger",
     "item:valcon:umbral_shard",
     "item:minecraft:netherite_ingot",
-    "item:farmersdelight:iron_knife",
     "item:farmersdelight:flint_knife",
     "item:minecraft:flint_and_steel",
     "item:minecraft:detector_rail",
@@ -291,7 +288,6 @@
     "item:mynethersdelight:hot_wings_bucket",
     "item:valcon:ashen_steel_ingot",
     "#item:c:ingots",
-    "item:minecraft:gold_ingot",
     "item:minecraft:crafting_table",
     "item:modulation:chain_staff",
     "item:modulation:zipline_staff",
@@ -732,7 +728,6 @@
     "item:alloyed:steel_ingot",
     "item:hominid:remains_armor_trim_smithing_template",
     "item:rogues:iron_dagger",
-    "item:paladins:iron_mace",
     "item:paladins:iron_great_hammer",
     "item:minecraft:apple",
     "item:minecraft:ward_armor_trim_smithing_template",

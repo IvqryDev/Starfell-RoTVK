@@ -866,7 +866,11 @@
             "nomansland:bandage",
             "nomansland:medicinal_bandage",
             "minecraft:enchanted_golden_apple",
-            "quark:golden_apple_crate"
+            "quark:golden_apple_crate",
+            "paladins:iron_mace",
+            "paladins:golden_mace",
+            "paladins:diamond_mace",
+            "paladins:netherite_mace"
         ]
     }
 ]

@@ -1,6 +1,6 @@
 {
 	"bottomSparsity": 0.0,
-	"migrationVersion": 0,
+	"migrationVersion": 2,
 	"enabled": true,
 	"distance": 4.0,
 	"randomPlacement": 1.0,
@@ -9,7 +9,7 @@
 	"yOffset": 0.0,
 	"timeSource": "WORLD",
 	"sparsity": 0.0,
-	"spacing": 5.25,
+	"spacing": 3.5,
 	"sizeXZ": 16.0,
 	"sizeY": 8.0,
 	"travelSpeed": 0.03,
@@ -22,23 +22,21 @@
 	"scaleFalloffMin": 0.25,
 	"fogRangeFactor": 1.0,
 	"fogEndFactor": 1.0,
-	"usePersistentBuffers": true,
+	"usePersistentBuffers": false,
 	"useSamplerCaching": true,
 	"useFrustumCulling": true,
 	"irisSupport": true,
 	"selectedNoisePreset": 0,
 	"cloudOverride": true,
 	"useIrisFBO": true,
-	"selectedPreset": 0,
+	"selectedPreset": 1,
 	"presets": [],
 	"noisePresets": [],
 	"lastTelemetryVersion": 0,
 	"gpuIncompatibleMessageEnabled": true,
 	"issueReportEnabled": true,
 	"enabledDimensions": [
-		"minecraft:overworld",
-		"bigglobe:overworld",
-		"me:middle_earth_type"
+		"minecraft:overworld"
 	],
 	"sereneSeasonsConfig": {
 		"transition_days": 2.0,
