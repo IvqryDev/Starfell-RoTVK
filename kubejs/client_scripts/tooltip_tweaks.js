@@ -13,21 +13,12 @@ ItemEvents.modifyTooltips(tooltip => {
     tooltip.add(['nomansland:incendiary_arrow'], "§7Creates a vicious explosive of flame.")
     tooltip.add(['heart_crystals:cupids_arrow'], "§7Deals no damage but is capable of breeding animals")
 
-    tooltip.add(['minecraft:compass'], "§7Displays your horizontal position.")
-    tooltip.add(['supplementaries:altimeter'], "§7Displays your vertical position.")
-    tooltip.add(['aa4-atlas:antique_atlas'], "§7Displays your current habitat.")
-    tooltip.add(['minecraft:clock'], "§7Displays the current time.")
-    tooltip.modify('minecraft:clock', tooltip => {
-        tooltip.removeLine(1)
-        tooltip.removeLine(1)
-    })
-
     tooltip.add(['heart_crystals:heart_crystal'], "§7Increases maximum vitality by two points.")
     tooltip.modify('heart_crystals:heart_crystal', tooltip => {
         tooltip.removeLine(1)
     })
 
-    tooltip.add(['minecraft:recovery_compass'], "§7Tracks down previous souls of remebrance ")
+    tooltip.add(['minecraft:recovery_compass'], "§7Points towards your last known soul of remembrance.")
     tooltip.add(['spelunkery:magnetic_compass'], "§7Always points towards north.")
     tooltip.add(['caverns_and_chasms:kunai'], "§7Shatters your enemy's defense for a time.")
 
