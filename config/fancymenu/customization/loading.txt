@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = drippy_loading_overlay
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1783531712069
+  last_edited_time = 1783648520873
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:acb6965c-ab84-4ce5-bc1c-75c68c77594c-1783531695182] = [groups:][instances:]
+  [loading_requirement_container_meta:eda38d29-a2cc-4d3d-ad03-9d03721abe93-1783648513629] = [groups:][instances:]
 }
 
 customization {
@@ -372,8 +372,8 @@ element {
   auto_sizing_base_screen_height = 1080
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -200
-  y = -200
+  x = -223
+  y = -32
   width = 50
   height = 50
   stay_on_screen = true
@@ -392,8 +392,8 @@ element {
   in_editor_color = #FFC800FF
   advanced_posx = -2147483648
   advanced_posy = -2147483648
-  advanced_width = 400
-  advanced_height = 400
+  advanced_width = 445
+  advanced_height = 66
   stretch_x = false
   stretch_y = false
   appearance_delay_seconds = 1.0
@@ -409,7 +409,7 @@ element {
   advanced_vertical_tilt_degrees = 0.0
   horizontal_tilt_degrees = 0.0
   advanced_horizontal_tilt_degrees = 0.0
-  source = [source:local]/config/fancymenu/assets/images/ss_title.png
+  source = [source:local]/config/fancymenu/assets/images/sl-studios.png
   repeat_texture = false
   nine_slice_texture = false
   nine_slice_texture_border_x = 5
