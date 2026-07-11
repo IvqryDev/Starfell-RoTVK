@@ -1,0 +1,10 @@
+{
+  "action": "remove_interactions",
+  "items": [
+    "minecraft:glass_bottle"
+  ],
+  "blocks": [
+    "minecraft:crying_obsidian"
+  ],
+  "advancements": ["starfell:and_my_life_is_yours"]
+}
