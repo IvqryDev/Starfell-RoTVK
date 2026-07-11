@@ -871,7 +871,9 @@
             "paladins:golden_mace",
             "paladins:diamond_mace",
             "paladins:netherite_mace",
-            "minecraft:blaze_rod"
+            "minecraft:blaze_rod",
+            "minecraft:firework_rocket",
+            "minecraft:firework_star"
         ]
     }
 ]
