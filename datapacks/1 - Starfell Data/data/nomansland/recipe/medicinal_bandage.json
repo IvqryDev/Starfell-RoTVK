@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nomansland:antidote_bandage"
+    },
+    {
+      "item": "nomansland:resin"
+    }
+  ],
+  "result": {
+    "id": "nomansland:medicinal_bandage"
+  }
+}
