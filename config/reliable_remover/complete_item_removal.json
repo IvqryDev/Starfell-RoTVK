@@ -870,7 +870,8 @@
             "paladins:iron_mace",
             "paladins:golden_mace",
             "paladins:diamond_mace",
-            "paladins:netherite_mace"
+            "paladins:netherite_mace",
+            "minecraft:blaze_rod"
         ]
     }
 ]

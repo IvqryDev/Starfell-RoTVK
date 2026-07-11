@@ -330,5 +330,11 @@
   "subtitles.entity.wither.hurt": "Serokin hurts",
   "subtitles.entity.wither.shoot": "Serokin attacks",
   "subtitles.entity.wither.spawn": "Serokin released",
-  "biome.minecraft.nether_wastes": "Underworld Barrens"
+  "biome.minecraft.nether_wastes": "Underworld Barrens",
+  "item.minecraft.wind_charge": "Essence of Aero",
+  "item.minecraft.breeze_rod": "Rod of Aero",
+  "entity.minecraft.breeze": "Aero Construct",
+  "item.minecraft.breeze_spawn_egg": "Aero Construct Spawn Egg",
+  "item.minecraft.blaze_spawn_egg": "Cinder Cinstruct Spawn Egg",
+  "item.minecraft.fire_charge": "Essence of Cinder"
 }

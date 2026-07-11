@@ -224,7 +224,11 @@
       "minecraft:iron_ingot_from_smelting_iron_ore",
       "minecraft:gold_ingot_from_smelting_nether_gold_ore",
       "minecraft:gold_ingot_from_smelting_deepslate_gold_ore",
-      "oreganized:smelt_deepslate_silver_ore"
+      "oreganized:smelt_deepslate_silver_ore",
+      "mynethersdelight:cutting/balze_rod",
+      "minecraft:blaze_powder",
+      "mynethersdelight:crafting/blaze_powder_alt",
+      "minecraft:fire_charge"
     ]
   }
 ]
