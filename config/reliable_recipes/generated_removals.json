@@ -214,7 +214,17 @@
       "spelunkery:lapis_ore_smelting",
       "emi_loot:/block_drops/supplementaries/loot/urn_loot/urn_loot",
       "modestmagic:infusing/echo_shard",
-      "minecraft:golden_apple"
+      "minecraft:golden_apple",
+      "mynethersdelight:boiled_egg_from_campfire_cooking",
+      "mynethersdelight:boiled_egg_cooking",
+      "undead_unleashed:heavy_plate_smelt",
+      "minecraft:copper_ingot_from_smelting_copper_ore",
+      "minecraft:copper_ingot_from_smelting_deepslate_copper_ore",
+      "oreganized:smelt_deepslate_lead_ore",
+      "minecraft:iron_ingot_from_smelting_iron_ore",
+      "minecraft:gold_ingot_from_smelting_nether_gold_ore",
+      "minecraft:gold_ingot_from_smelting_deepslate_gold_ore",
+      "oreganized:smelt_deepslate_silver_ore"
     ]
   }
 ]

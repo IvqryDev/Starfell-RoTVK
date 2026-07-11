@@ -1,0 +1,18 @@
+{
+  "type": "alloyed:forging",
+  "ingredients": [
+    {
+      "item": "spelunkery:raw_magnetite"
+    },
+    {
+      "item": "spelunkery:raw_magnetite"
+    },
+    {
+      "item": "spelunkery:raw_magnetite"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 3
+  }
+}

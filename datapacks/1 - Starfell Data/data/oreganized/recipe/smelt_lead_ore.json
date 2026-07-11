@@ -2,10 +2,10 @@
   "type": "alloyed:forging",
   "ingredients": [
     {
-      "item": "oreganized:lead_ore"
+      "tag": "c:ores/lead"
     },
     {
-      "item": "oreganized:lead_ore"
+      "tag": "c:ores/lead"
     }
   ],
   "result": {

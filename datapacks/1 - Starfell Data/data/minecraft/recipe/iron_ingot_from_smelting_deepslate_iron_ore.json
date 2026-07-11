@@ -2,10 +2,10 @@
   "type": "alloyed:forging",
   "ingredients": [
     {
-      "item": "minecraft:iron_ore"
+      "tag": "c:ores/iron"
     },
     {
-      "item": "minecraft:iron_ore"
+      "tag": "c:ores/iron"
     }
   ],
   "result": {

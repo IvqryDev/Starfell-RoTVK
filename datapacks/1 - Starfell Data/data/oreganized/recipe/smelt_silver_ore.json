@@ -2,10 +2,10 @@
   "type": "alloyed:forging",
   "ingredients": [
     {
-      "item": "oreganized:silver_ore"
+      "tag": "c:ores/silver"
     },
     {
-      "item": "oreganized:silver_ore"
+      "tag": "c:ores/silver"
     }
   ],
   "result": {
