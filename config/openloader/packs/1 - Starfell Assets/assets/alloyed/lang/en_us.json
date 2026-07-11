@@ -1,3 +1,4 @@
 {
-  "block.alloyed.alloy_forge": "Forge"
+  "block.alloyed.forge": "Forge",
+  "gui.alloyed.alloy_forge": "Forge"
 }
