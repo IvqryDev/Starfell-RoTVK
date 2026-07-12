@@ -1,7 +1,5 @@
-#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
-[types]
-
 		[types.wood_type.caverns_and_chasms]
+			#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
 			azalea = false
 
 		[types.wood_type.quark]
@@ -58,28 +56,6 @@
 		[types.leaves_type.minecraft]
 			pale_oak = true
 
-		[types.cake.nomansland]
-			fruit_cake = true
-
-		[types.lantern.suppsquared]
-			copper_lantern = true
-			brass_lantern = true
-			crimson_lantern = true
-
-		[types.lantern.caverns_and_chasms]
-			cupric_lantern = true
-			copper_lantern = true
-			exposed_copper_lantern = true
-			weathered_copper_lantern = true
-			oxidized_copper_lantern = true
-			waxed_copper_lantern = true
-			waxed_exposed_copper_lantern = true
-			waxed_weathered_copper_lantern = true
-			waxed_oxidized_copper_lantern = true
-
-#Disables specific entries
-[entries]
-
 		[entries.wood_type.quark]
 			ladder = false
 			stripped_post = false
@@ -101,6 +77,7 @@
 			chair = true
 
 		[entries.wood_type.nomansland]
+			#Disables specific entries
 			bookshelf = true
 			trimmed_planks = true
 

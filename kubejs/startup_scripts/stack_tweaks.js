@@ -5,18 +5,9 @@ ItemEvents.modification(event => {
 	function stackTo16(x) {
 		event.modify(x, item => {item.maxStackSize = 16})
 	}
-	function stackTo4(x) {
-		event.modify(x, item => {item.maxStackSize = 4})
-	}
 
 	//Combat Edibles
-	stackTo4('minecraft:enchanted_golden_apple')
 	stackTo16('minecraft:golden_apple')
-
-	//Potions
-	stackTo64('minecraft:potion')
-	stackTo64('minecraft:splash_potion')
-	stackTo64('minecraft:lingering_potion')
 
 	//Placeable Foods
 	stackTo16('minecraft:cake')
@@ -33,6 +24,14 @@ ItemEvents.modification(event => {
 	stackTo16('farmersdelight:rice_roll_medley_block')
 	stackTo16('mynethersdelight:striderloaf')
 	stackTo16('mynethersdelight:ghasta_with_cream')
+	stackTo16('farmersdelight:gleaming_salad_block')
+	stackTo16('mynethersdelight:magma_cake_block')
+	stackTo16('mynethersdelight:striderloaf')
+	stackTo16('mynethersdelight:cold_striderloaf')
+	stackTo16('mynethersdelight:roast_stuffed_hoglin')
+	stackTo16('minersdelight:glazed_arachnid_limbs')
+	stackTo16('minersdelight:stuffed_squid')
+	stackTo16('minersdelight:fake_meatloaf')
 
 	//Items
 	stackTo16('minecraft:dragon_breath')
@@ -42,8 +41,7 @@ ItemEvents.modification(event => {
 	stackTo16('minecraft:tnt_minecart')
 	stackTo16('minecraft:hopper_minecart')
 	stackTo16('minecraft:command_block_minecart')
-	stackTo16('supplementaries:dispenser_minecart')
-	stackTo16('supplementaries:altimeter')
+	stackTo16('caverns_and_chasms:depth_gauge')
 	stackTo16('minecraft:white_bed')
 	stackTo16('minecraft:orange_bed')
 	stackTo16('minecraft:magenta_bed')

@@ -1,7 +1,7 @@
 [
   {
     "action": "replace_input",
-    "target": "farmersdelight:rope",
-    "replacement": "supplementaries:rope"
+    "target": "supplementaries:rope",
+    "replacement": "farmersdelight:rope"
   }
 ]

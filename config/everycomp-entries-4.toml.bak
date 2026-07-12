@@ -28,6 +28,9 @@
 		[types.wood_type.minecraft]
 			pale_oak = true
 
+		[types.wood_type.netherexp]
+			claret = true
+
 		[types.leaves_type.quark]
 			orange_blossom = false
 			lavender_blossom = false
@@ -76,6 +79,9 @@
 			waxed_exposed_copper_lantern = true
 			waxed_weathered_copper_lantern = true
 			waxed_oxidized_copper_lantern = true
+
+		[types.lantern.netherexp]
+			ancient_lantern = true
 
 #Disables specific entries
 [entries]

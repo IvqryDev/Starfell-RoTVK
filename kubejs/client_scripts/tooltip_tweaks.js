@@ -6,8 +6,6 @@ ItemEvents.modifyTooltips(tooltip => {
 
 //Utilities & Tools
     tooltip.add(['minecraft:experience_bottle'], "§7Shatters into souls.")
-    tooltip.add(['supplementaries:wrench'], "§7Can rotate blocks and hang from a zipline.")
-    tooltip.add(['supplementaries:flute'], "§7Sings a song that attracts your pets to your location.")
     tooltip.add(['oreganized:lead_bolt'], "§7Increased velocity and damage of a typical arrow.")
     tooltip.add(['caverns_and_chasms:large_arrow'], "§7Reduced arrow velocity but has devastating damage.")
     tooltip.add(['nomansland:incendiary_arrow'], "§7Creates a vicious explosive of flame.")
@@ -50,7 +48,7 @@ ItemEvents.modifyTooltips(tooltip => {
         tooltip.removeLine(1)
     })
 
-    tooltip.modify('supplementaries:rope', tooltip => {
+    tooltip.modify('farmersdelight:rope', tooltip => {
         tooltip.removeLine(1)
     })
 

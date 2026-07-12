@@ -228,7 +228,8 @@
       "mynethersdelight:cutting/balze_rod",
       "minecraft:blaze_powder",
       "mynethersdelight:crafting/blaze_powder_alt",
-      "minecraft:fire_charge"
+      "minecraft:fire_charge",
+      "reliable_backpacks:backpack_from_rope"
     ]
   }
 ]
