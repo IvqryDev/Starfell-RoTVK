@@ -93,108 +93,108 @@
       135
     ],
     "minecraft:story/upgrade_tools": [
-      44,
-      91
+      11,
+      76
     ],
     "minecraft:story/smelt_iron": [
-      132,
-      6
+      202,
+      120
     ],
     "minecraft:story/lava_bucket": [
       192,
       51
     ],
     "alloyed:forge": [
-      80,
-      91
+      93,
+      67
     ],
     "spelunkery:spelunkery/rough_diamond": [
-      350,
-      78
+      246,
+      100
     ],
     "minecraft:story/form_obsidian": [
-      260,
-      51
+      266,
+      32
     ],
     "spelunkery:spelunkery/every_ore": [
-      275,
-      331
+      245,
+      357
     ],
     "minecraft:story/deflect_arrow": [
-      300,
-      -6
+      356,
+      -31
     ],
     "spelunkery:spelunkery/carved_nephrite": [
-      275,
-      277
+      249,
+      272
     ],
     "minecraft:story/enter_the_nether": [
       332,
       51
     ],
     "spelunkery:spelunkery/diamond_grindstone": [
-      357,
-      144
+      325,
+      120
     ],
     "spelunkery:spelunkery/grindstone": [
-      275,
-      304
+      245,
+      314
     ],
     "alloyed:bronze_instruments": [
-      364,
-      183
+      245,
+      184
     ],
     "minecraft:story/mine_diamond": [
       364,
       129
     ],
     "shieldexp:get_diamond_shield": [
-      332,
-      -6
+      414,
+      -21
     ],
     "minecraft:story/enchant_item": [
       396,
       169
     ],
     "minecraft:story/cure_zombie_villager": [
-      364,
-      34
+      369,
+      22
     ],
     "shieldexp:get_netherite_shield": [
-      364,
-      -6
+      494,
+      -41
     ],
     "minecraft:story/follow_ender_eye": [
-      364,
-      61
+      366,
+      66
     ],
     "minecraft:story/enter_the_end": [
-      396,
-      61
+      430,
+      45
     ],
     "quark:content/apply_color_rune": [
-      428,
-      156
+      444,
+      152
     ],
     "spelunkery:spelunkery/magnetite": [
-      396,
-      115
+      399,
+      121
     ],
     "spelunkery:spelunkery/magnetic_compass": [
-      428,
-      129
+      453,
+      109
     ],
     "supplementaries:story/unenchanter": [
-      428,
-      183
+      441,
+      191
     ],
     "spelunkery:spelunkery/true_north": [
-      460,
-      129
+      521,
+      116
     ],
     "quark:content/wear_full_rainbow": [
-      460,
-      156
+      511,
+      154
     ],
     "starfell:journey": [
       -7,
@@ -1333,32 +1333,32 @@
       36
     ],
     "oreganized:story/lead_to_dust": [
-      32,
-      232
+      -37,
+      266
     ],
     "minecraft:story/mine_stone": [
-      81,
-      136
+      -32,
+      111
     ],
     "spelunkery:spelunkery/wooden_rail": [
       64,
       192
     ],
     "spelunkery:spelunkery/coal_lump": [
-      59,
-      292
+      115,
+      322
     ],
     "spelunkery:spelunkery/rock_salt": [
-      64,
-      165
+      65,
+      147
     ],
     "oreganized:story/like_the_romans": [
-      116,
-      252
+      128,
+      275
     ],
     "minecraft:story/obtain_armor": [
-      161,
-      -21
+      303,
+      -57
     ],
     "spelunkery:spelunkery/nephrite_chunk": [
       160,
@@ -1382,15 +1382,15 @@
     ],
     "starfell:copy_that": [
       66,
-      16
+      0
     ],
     "starfell:forge_and_reforged": [
       99,
-      0
+      -16
     ],
     "starfell:working_on_it": [
       33,
-      0
+      -16
     ],
     "starfell:a_little_tight_across_the_chest": [
       132,
@@ -1406,18 +1406,6 @@
     ],
     "starfell:do_aliens_have_a_visual_meter": [
       132,
-      -32
-    ],
-    "block_factorys_bosses:kill_yeti_copy": [
-      165,
-      48
-    ],
-    "starfell:and_my_life_is_yours": [
-      165,
-      48
-    ],
-    "starfell:battle_brews": [
-      99,
       -32
     ],
     "oreganized:story/melting_point": [
@@ -1441,36 +1429,36 @@
       108
     ],
     "oreganized:story/obtain_silver": [
-      160,
-      256
+      299,
+      204
     ],
     "alloyed:steel_ingot": [
       192,
       162
     ],
     "oreganized:story/electrum_gear": [
-      192,
-      243
+      360,
+      242
     ],
     "alloyed:bronze_ingot": [
-      192,
-      189
+      191,
+      190
     ],
     "spelunkery:spelunkery/obsidian_chisel": [
-      192,
-      324
+      303,
+      299
     ],
     "oreganized:adventure/terminal_velocity": [
-      192,
-      270
+      214,
+      289
     ],
     "minecraft:story/shiny_gear": [
-      256,
-      81
+      397,
+      217
     ],
     "spelunkery:spelunkery/item_magnet": [
-      288,
-      40
+      482,
+      73
     ],
     "netherexp:nether/soul_sand_valley/soul_sand_valley": [
       32,
@@ -1629,8 +1617,8 @@
       0
     ],
     "starfell:second_breakfast": [
-      68,
-      -16
+      66,
+      -32
     ],
     "starfell:to_accept_their_god": [
       198,
@@ -1657,8 +1645,8 @@
       -16
     ],
     "minecraft:story/root": [
-      0,
-      290
+      -91,
+      169
     ],
     "minecraft:adventure/root": [
       0,
@@ -1699,6 +1687,94 @@
     "farmersdelight:main/root": [
       0,
       94
+    ],
+    "starfell:a_divine_mission": [
+      0,
+      0
+    ],
+    "starfell:down_from_the_door": [
+      99,
+      16
+    ],
+    "starfell:tight_across_the_chest": [
+      132,
+      32
+    ],
+    "starfel:the_mission_yakumo": [
+      165,
+      -16
+    ],
+    "starfell:so_its_a_drinking_game": [
+      99,
+      -48
+    ],
+    "starfell:and_my_life_is_yours": [
+      165,
+      48
+    ],
+    "starfell:you_listen_deadweight": [
+      222,
+      -53
+    ],
+    "starfell:love_ya_to_death": [
+      165,
+      -48
+    ],
+    "starfell:city_of_cinders": [
+      231,
+      -16
+    ],
+    "starfell:re_ignition": [
+      198,
+      -32
+    ],
+    "starfell:and_the_dead_keep_it": [
+      231,
+      16
+    ],
+    "starfell:those_before_you": [
+      264,
+      32
+    ],
+    "starfell:justice_is_the_end_we_crave": [
+      264,
+      0
+    ],
+    "starfell:its_the_dwarves_that_go_swimming": [
+      132,
+      -64
+    ],
+    "starfell:where_now_the_horse_and_the_rider": [
+      33,
+      16
+    ],
+    "starfell:burning_calories": [
+      99,
+      48
+    ],
+    "starfell:meats_back_on_the_menu_boys": [
+      66,
+      32
+    ],
+    "starfell:my_wings_are_a_hurricane": [
+      231,
+      48
+    ],
+    "starfell:beacon_of_hope": [
+      198,
+      64
+    ],
+    "starfell:first_off_be_wary_of_trap": [
+      132,
+      64
+    ],
+    "starfell:riddles_in_the_dark": [
+      165,
+      80
+    ],
+    "starfell:steel_soul": [
+      231,
+      -48
     ]
   },
   "tab_properties": {
@@ -1843,6 +1919,16 @@
       "background_rules": "[]"
     },
     "farmersdelight:main/root": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "starfell:a_divine_mission": {
       "title": "",
       "static_background": false,
       "bg_width": 16,

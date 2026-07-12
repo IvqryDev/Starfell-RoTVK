@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "anchor": "HOTBAR",
-  "side": "LEFT",
+  "side": "RIGHT",
   "offsetX": 0,
   "offsetY": 0,
   "vertical": false,
