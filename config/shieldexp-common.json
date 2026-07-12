@@ -18,7 +18,12 @@
     "arsenal:unique_sickle_1",
     "arsenal:unique_sickle_2",
     "arsenal:unique_sickle_sw",
-    "caverns_and_chasms:aegis"
+    "caverns_and_chasms:aegis",
+    "shieldexp:wooden_shield",
+    "oreganized:electrum_shield",
+    "minecraft:shield",
+    "shieldexp:golden_shield",
+    "artifacts:umbrella"
   ],
   "shieldBlacklist": [],
   "itemOnlyMode": false,
@@ -35,7 +40,7 @@
   "tooltipParryDamage": true,
   "tooltipParryWindow": true,
   "tooltipBlastResistance": false,
-  "hudIndicator": true,
+  "hudIndicator": false,
   "hudXOffset": 0,
   "hudYOffset": 0
 }
