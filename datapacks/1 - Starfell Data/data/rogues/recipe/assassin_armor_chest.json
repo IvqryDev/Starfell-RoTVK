@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "alloyed:forging_shaped",
   "category": "equipment",
   "key": {
     "G": {
@@ -10,12 +10,15 @@
     },
     "S": {
       "item": "minecraft:phantom_membrane"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
     }
   },
   "pattern": [
     "S S",
-    "RGR",
-    "RRR"
+    "OGO",
+    "ORO"
   ],
   "result": {
     "count": 1,
