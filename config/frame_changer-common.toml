@@ -14,9 +14,9 @@
 
 	[changes."custom exit portals"]
 		#Entering a portal causes the portal on the other side to be made of a custom block
-		"Custom exit portals" = false
+		"Custom exit portals" = true
 		#Define the block that exit portal frames are made of. Format should follow 'modid:blockID'. Ideally, the block should also be a valid portal frame.
-		"Exit portal frame" = "minecraft:obsidian"
+		"Exit portal frame" = "blockbox:polished_obsidian"
 
 	[changes."portal break changes"]
 		#Breaking a portal causes obsidian blocks in the frame to possibly convert to their crying variants
