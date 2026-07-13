@@ -871,7 +871,15 @@
             "paladins:netherite_mace",
             "minecraft:blaze_rod",
             "minecraft:firework_rocket",
-            "minecraft:firework_star"
+            "minecraft:firework_star",
+            "frame_changer:crying_obsidian_pillar",
+            "frame_changer:crying_chiseled_obsidian",
+            "frame_changer:crying_polished_obsidian",
+            "frame_changer:crying_obsidian_bricks",
+            "frame_changer:obsidian_pillar",
+            "frame_changer:chiseled_obsidian",
+            "frame_changer:polished_obsidian",
+            "frame_changer:obsidian_bricks"
         ]
     }
 ]
