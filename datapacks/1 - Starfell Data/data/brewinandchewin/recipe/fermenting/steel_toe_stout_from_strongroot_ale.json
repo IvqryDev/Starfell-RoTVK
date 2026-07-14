@@ -11,22 +11,22 @@
   "fermenting_time": 4800,
   "ingredients": [
     {
-      "item": "mynethersdelight:pepper_powder"
+      "item": "minersdelight:cave_carrot"
     },
     {
       "item": "minecraft:nether_wart"
     },
     {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:raw_iron"
     },
     {
-      "item": "minecraft:iron_ingot"
+      "item": "minecraft:raw_iron"
     }
   ],
   "result": {
     "amount": 1000,
     "id": "brewinandchewin:steel_toe_stout"
   },
-  "temperature": 1,
+  "temperature": 5,
   "unit": "millibuckets"
 }

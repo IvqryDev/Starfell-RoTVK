@@ -10,10 +10,10 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "tag": "c:crops/potato"
+      "item": "nomansland:resin"
     },
     {
-      "item": "minecraft:wheat"
+      "item": "nomansland:wild_mint"
     },
     {
       "item": "minecraft:bone_meal"

@@ -1,6 +1,6 @@
 {
   "fluid_type.brewinandchewin.beer": "Evening Ale",
-  "fluid_type.brewinandchewin.vodka": "Featherlight Vodka",
+  "fluid_type.brewinandchewin.vodka": "Wayfaring Wine",
   "fluid_type.brewinandchewin.mead": "Hopgoblet Lager",
   "fluid_type.brewinandchewin.egg_grog": "Silverspec Grog",
   "fluid_type.brewinandchewin.strongroot_ale": "Strongroot Beer",
@@ -12,13 +12,13 @@
   "fluid_type.brewinandchewin.pale_jane": "Dawnbreak Pale Ale",
   "fluid_type.brewinandchewin.salty_folly": "Aqualung Folly",
   "fluid_type.brewinandchewin.bloody_mary": "Singed Vodka",
-  "fluid_type.brewinandchewin.red_rum": "Ire Vodka",
+  "fluid_type.brewinandchewin.red_rum": "Ire Gin",
   "fluid_type.brewinandchewin.withering_dross": "Orkish Medicine",
 
   "block.brewinandchewin.keg": "Brew Tank",
 
   "item.brewinandchewin.beer": "Evening Ale",
-  "item.brewinandchewin.vodka": "Featherlight Vodka",
+  "item.brewinandchewin.vodka": "Wayfaring Wine",
   "item.brewinandchewin.mead": "Hopgoblet Lager",
   "item.brewinandchewin.rice_wine": "Eventide Sake",
   "item.brewinandchewin.egg_grog": "Silverspec Grog",
@@ -30,7 +30,7 @@
   "item.brewinandchewin.steel_toe_stout": "Ironheart Stout",
   "item.brewinandchewin.glittering_grenadine": "Golden Midori",
   "item.brewinandchewin.bloody_mary": "Singed Vodka",
-  "item.brewinandchewin.red_rum": "Ire Vodka",
+  "item.brewinandchewin.red_rum": "Ire Gin",
   "item.brewinandchewin.withering_dross": "Orkish Medicine",
 
   "brewinandchewin.jei.fermenting": "Brewing",

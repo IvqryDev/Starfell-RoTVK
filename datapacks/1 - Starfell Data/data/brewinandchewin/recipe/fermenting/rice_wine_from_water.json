@@ -26,5 +26,6 @@
     "amount": 1000,
     "id": "brewinandchewin:rice_wine"
   },
+  "temperature": 2,
   "unit": "millibuckets"
 }

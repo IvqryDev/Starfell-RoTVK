@@ -135,9 +135,9 @@ ItemEvents.modification(event => {
                     probability: 1,
                     effectSupplier: () =>
                         new $MobEffectInstance(
-                            'minecraft:invisibility',
+                            'ranged_weapon:haste',
                             6000, /* 5 Minutes */
-                            0, /* Level 1 */
+                            1, /* Level 2 */
                             true, /* Ambience */
                             false /* Particles */
                         ),
@@ -231,7 +231,7 @@ ItemEvents.modification(event => {
                     probability: 1,
                     effectSupplier: () =>
                         new $MobEffectInstance(
-                            'friendsandfoes:reach',
+                            'minecraft:health_boost',
                             6000, /* 5 Minutes */
                             0, /* Level 1 */
                             true, /* Ambience */

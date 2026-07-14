@@ -26,5 +26,6 @@
     "amount": 1000,
     "id": "brewinandchewin:egg_grog"
   },
+  "temperature": 1,
   "unit": "millibuckets"
 }

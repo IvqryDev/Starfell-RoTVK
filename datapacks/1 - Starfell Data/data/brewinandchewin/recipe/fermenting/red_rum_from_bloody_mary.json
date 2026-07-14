@@ -11,16 +11,16 @@
   "fermenting_time": 4800,
   "ingredients": [
     {
-      "item": "minecraft:crimson_fungus"
+      "item": "undead_unleashed:demon_horn"
     },
     {
       "item": "minecraft:nether_wart"
     },
     {
-      "item": "mynethersdelight:bullet_pepper"
+      "item": "minecraft:crimson_fungus"
     },
     {
-      "item": "mynethersdelight:bullet_pepper"
+      "item": "minecraft:crimson_fungus"
     }
   ],
   "result": {
