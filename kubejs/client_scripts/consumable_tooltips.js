@@ -35,7 +35,7 @@ ItemEvents.modifyTooltips(tooltip => {
     tooltip.add(['brewinandchewin:glittering_grenadine'], "§7Increases critical chance for a time.")
     tooltip.add(['brewinandchewin:saccharine_rum'], "§7Restores a fair amount of vitality.")
     tooltip.add(['brewinandchewin:salty_folly'], "§7Lets you breathe underwater for a time.")
-    tooltip.add(['brewinandchewin:bloody_mary'], "§7Provides immunity to flame and magma for a time.")
+    tooltip.add(['brewinandchewin:bloody_mary'], "§7Provides immunity to fire for a time.")
     tooltip.add(['brewinandchewin:red_rum'], "§7Increases attack speed upon striking an enemy for a time.")
     tooltip.add(['brewinandchewin:strongroot_ale'], "§7Increases critical damage for a time.")
     tooltip.add(['brewinandchewin:steel_toe_stout'], "§7Increases all resistances for a time.")
