@@ -11,19 +11,21 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:brown_mushroom"
+      "item": "minecraft:sugar"
     },
     {
       "item": "minecraft:wheat_seeds"
     },
     {
-      "item": "minecraft:sugar"
+      "item": "nomansland:field_mushroom"
+    },
+    {
+      "item": "nomansland:field_mushroom"
     }
   ],
   "result": {
     "amount": 1000,
     "id": "brewinandchewin:flaxen_cheese"
   },
-  "temperature": 4,
   "unit": "millibuckets"
 }

@@ -11,13 +11,16 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:crimson_fungus"
+      "item": "minecraft:sugar"
     },
     {
       "item": "minecraft:nether_wart"
     },
     {
-      "item": "minecraft:sugar"
+      "item": "minecraft:crimson_fungus"
+    },
+    {
+      "item": "minecraft:crimson_fungus"
     }
   ],
   "result": {
