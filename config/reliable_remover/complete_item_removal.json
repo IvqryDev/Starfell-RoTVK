@@ -531,7 +531,24 @@
             "nomansland:pot_of_witch_stew",
             "nomansland:witch_stew",
             "nomansdelight:cleaver",
-            "minecraft:suspicious_stew"
+            "minecraft:suspicious_stew",
+            "caverns_and_chasms:iron_ingot",
+            "caverns_and_chasms:gold_ingot",
+            "caverns_and_chasms:netherite_ingot",
+            "caverns_and_chasms:copper_ingot",
+            "cookscollection:lemon",
+            "cookscollection:salt",
+            "cookscollection:chocolate_muffin",
+            "cookscollection:lemon_muffin",
+            "cookscollection:lemonade",
+            "cookscollection:rustic_loaf",
+            "cookscollection:rustic_loaf_slice",
+            "cookscollection:lemon_sapling",
+            "cookscollection:lemon_log",
+            "cookscollection:lemon_leaves",
+            "cookscollection:fruiting_lemon_leaves",
+            "cookscollection:salted_dripstone_block",
+            "cookscollection:lemon_crate"
         ]
     }
 ]
