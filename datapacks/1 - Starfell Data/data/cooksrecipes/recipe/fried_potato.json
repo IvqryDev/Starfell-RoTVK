@@ -1,0 +1,21 @@
+{
+  "type": "cookscollection:baking",
+  "cookingtime": 400,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 8,
+    "id": "cookscollection:fried_potato"
+  }
+}

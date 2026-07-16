@@ -1,0 +1,31 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "cookscollection:fried_potato"
+    },
+    {
+      "tag": "c:foods/cooked_fish"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "cookscollection:fish_and_chips"
+  }
+
+}

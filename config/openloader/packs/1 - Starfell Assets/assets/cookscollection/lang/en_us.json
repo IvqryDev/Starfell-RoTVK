@@ -1,0 +1,10 @@
+{
+  "creativetab.cookscollection.cookscollections_tab": "Cooks Collection",
+
+  "item.cookscollection.fried_potato": "Fried Potato",
+
+  "recipe.cookscollection.shapeless_baking": "Baking",
+  "emi.category.cookscollection.shapeless_baking": "Baking",
+  "container.cookscollection.oven.heated": "Heated!",
+  "container.cookscollection.oven.not_heated": "Needs heat from below..."
+}

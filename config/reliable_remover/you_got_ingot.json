@@ -1,0 +1,9 @@
+{
+  "action": "remove_interactions",
+  "items": [
+    "minecraft:gold_ingot",
+    "minecraft:netherite_ingot",
+    "minecraft:copper_ingot",
+    "minecraft:iron_ingot"
+  ]
+}
