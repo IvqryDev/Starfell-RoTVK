@@ -1,18 +1,19 @@
 {
-  "type": "create:mixing",
+  "type": "cookscollection:baking",
   "ingredients": [
+    {
+      "tag": "c:drinks/milk"
+    },
     {
       "item": "farmersdelight:wheat_dough"
     },
     {
-      "fluidTag": "c:milk",
-      "amount": 20250
+      "item": "spelunkery:rock_salt"
     }
   ],
-  "results": [
-    {
-      "id": "farmersdelight:pie_crust",
-      "count": 1
-    }
-  ]
+  "result": {
+    "id": "farmersdelight:pie_crust",
+    "count": 1
+  },
+  "cookingtime": 200
 }

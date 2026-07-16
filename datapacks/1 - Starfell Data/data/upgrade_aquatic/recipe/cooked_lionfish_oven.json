@@ -1,0 +1,19 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "upgrade_aquatic:lionfish"
+    },
+    {
+      "item": "upgrade_aquatic:lionfish"
+    },
+    {
+      "item": "upgrade_aquatic:lionfish"
+    }
+  ],
+  "result": {
+    "id": "upgrade_aquatic:cooked_lionfish",
+    "count": 3
+  },
+  "cookingtime": 200
+}

@@ -1,0 +1,19 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "minersdelight:spider_leg"
+    },
+    {
+      "item": "minersdelight:spider_leg"
+    },
+    {
+      "item": "minersdelight:spider_leg"
+    }
+  ],
+  "result": {
+    "id": "minersdelight:baked_spider_leg",
+    "count": 3
+  },
+  "cookingtime": 200
+}

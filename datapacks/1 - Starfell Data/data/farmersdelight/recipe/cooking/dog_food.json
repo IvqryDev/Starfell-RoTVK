@@ -13,6 +13,9 @@
     },
     {
       "tag": "c:crops/rice"
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "result": {

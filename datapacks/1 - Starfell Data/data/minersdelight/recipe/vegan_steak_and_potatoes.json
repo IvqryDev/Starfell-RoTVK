@@ -1,0 +1,28 @@
+{
+  "type": "cookscollection:baking",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "tag": "minersdelight:baked_cave_carrot"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:crops/onion"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minersdelight:vegan_steak_and_potatoes"
+  }
+}

@@ -18,14 +18,26 @@
 	{
       "category": "miners_delight:cooking"
     },
-	{
-      "category": "brewinandchewin:flaxen_cheese_ripening"
+    {
+      "category": "brewinandchewin:aging"
     },
-	{
-      "category": "brewinandchewin:scarlet_cheese_ripening"
+    {
+      "category": "modestmagic:summoning"
     },
-	{
-      "category": "mynethersdelight:forgoting"
+    {
+      "category": "emi:fuel"
+    },
+    {
+      "category": "emi:composting"
+    },
+    {
+      "category": "minecraft:brewing"
+    },
+    {
+      "category": "farmersdelight:decomposition"
+    },
+    {
+      "category": "minecraft:campfire_cooking"
     }
   ]
 }

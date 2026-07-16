@@ -1,0 +1,28 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "brewinandchewin:apple_jelly"
+    },
+    {
+      "item": "nomansland:pear"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "item": "farmersdelight:wheat_dough"
+    }
+  ],
+  "result": {
+    "id": "nomansland:fruit_cake",
+    "count": 1
+  },
+  "cookingtime": 200
+}

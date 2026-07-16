@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "cookscollection:baking",
   "category": "misc",
   "ingredients": [
     {
@@ -12,10 +12,13 @@
       "item": "minecraft:bowl"
     },
     {
-      "tag": "c:crops/cabbage"
+      "tag": "c:crops/onion"
     },
     {
-      "tag": "c:crops/onion"
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
     }
   ],
   "result": {

@@ -1,0 +1,37 @@
+{
+  "type": "cookscollection:baking",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minersdelight:baked_spider_leg"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "minersdelight:baked_spider_leg"
+    },
+    {
+      "item": "minersdelight:baked_spider_leg"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "minersdelight:baked_spider_leg"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minersdelight:glazed_arachnid_limbs"
+  }
+}

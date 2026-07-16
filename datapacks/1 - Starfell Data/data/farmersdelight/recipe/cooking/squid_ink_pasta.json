@@ -9,10 +9,13 @@
       "tag": "c:foods/pasta"
     },
     {
-      "tag": "c:crops/tomato"
+      "item": "farmersdelight:tomato_sauce"
     },
     {
       "item": "minecraft:ink_sac"
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "recipe_book_tab": "meals",

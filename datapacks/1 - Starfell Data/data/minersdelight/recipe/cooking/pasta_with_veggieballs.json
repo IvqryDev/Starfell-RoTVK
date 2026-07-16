@@ -1,0 +1,27 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 400,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "tag": "minersdelight:baked_cave_carrot"
+    },
+    {
+      "tag": "c:foods/pasta"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "minersdelight:pasta_with_veggieballs"
+  }
+}

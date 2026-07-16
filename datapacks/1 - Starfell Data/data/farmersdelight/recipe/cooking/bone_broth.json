@@ -6,21 +6,10 @@
       "tag": "c:bones"
     },
     {
-      "type": "neoforge:compound",
-      "children": [
-        {
-          "item": "minecraft:glow_berries"
-        },
-        {
-          "tag": "c:mushrooms"
-        },
-        {
-          "item": "minecraft:hanging_roots"
-        },
-        {
-          "item": "minecraft:glow_lichen"
-        }
-      ]
+      "item": "minersdelight:cave_carrot"
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "recipe_book_tab": "meals",

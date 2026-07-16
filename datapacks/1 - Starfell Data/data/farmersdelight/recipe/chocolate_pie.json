@@ -1,6 +1,5 @@
 {
-  "type": "create:mixing",
-  "heatRequirement": "heated",
+  "type": "cookscollection:baking",
   "ingredients": [
     {
       "item": "minecraft:cocoa_beans"
@@ -12,22 +11,27 @@
       "item": "minecraft:cocoa_beans"
     },
     {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "tag": "c:drinks/milk"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
       "item": "farmersdelight:pie_crust"
     },
-	{
-      "item": "minecraft:sugar"
-    },
     {
       "item": "minecraft:sugar"
-    },
-    {
-      "fluidTag": "c:milk",
-      "amount": 60750
     }
   ],
-  "results": [
-    {
-      "id": "farmersdelight:chocolate_pie"
-    }
-  ]
+  "result": {
+    "id": "farmersdelight:chocolate_pie",
+    "count": 1
+  },
+  "cookingtime": 200
 }

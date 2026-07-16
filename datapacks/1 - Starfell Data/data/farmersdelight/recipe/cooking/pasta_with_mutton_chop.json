@@ -10,6 +10,12 @@
     },
     {
       "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
     }
   ],
   "recipe_book_tab": "meals",

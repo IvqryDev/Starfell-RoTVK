@@ -10,7 +10,10 @@
       "item": "minecraft:brown_mushroom"
     },
     {
-      "item": "minecraft:red_mushroom"
+      "item": "nomansland:field_mushroom"
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "recipe_book_tab": "meals",

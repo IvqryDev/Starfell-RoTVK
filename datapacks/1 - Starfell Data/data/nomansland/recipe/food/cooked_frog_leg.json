@@ -1,0 +1,12 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "nomansland:frog_leg"
+    }
+  ],
+  "result": {
+    "id": "nomansland:cooked_frog_leg"
+  },
+  "cookingtime": 200
+}

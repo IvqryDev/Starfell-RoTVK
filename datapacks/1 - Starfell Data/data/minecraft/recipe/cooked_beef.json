@@ -1,0 +1,12 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "minecraft:raw_beef"
+    }
+  ],
+  "result": {
+    "id": "minecraft:cooked_beef"
+  },
+  "cookingtime": 200
+}

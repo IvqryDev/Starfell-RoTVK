@@ -13,6 +13,12 @@
     },
     {
       "tag": "c:crops/onion"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
     }
   ],
   "recipe_book_tab": "meals",

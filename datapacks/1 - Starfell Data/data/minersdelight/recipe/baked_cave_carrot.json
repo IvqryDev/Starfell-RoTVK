@@ -1,0 +1,12 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "minersdelight:cave_carrot"
+    }
+  ],
+  "result": {
+    "id": "minersdelight:baked_cave_carrot"
+  },
+  "cookingtime": 200
+}

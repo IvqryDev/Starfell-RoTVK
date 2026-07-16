@@ -13,6 +13,9 @@
     },
     {
       "tag": "c:foods/leafy_green"
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "recipe_book_tab": "meals",

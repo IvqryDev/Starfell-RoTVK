@@ -1,0 +1,12 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "minecraft:chicken"
+    }
+  ],
+  "result": {
+    "id": "minecraft:cooked_chicken"
+  },
+  "cookingtime": 200
+}

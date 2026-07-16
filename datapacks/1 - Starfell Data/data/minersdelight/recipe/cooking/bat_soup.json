@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:foods/bat_wing"
+    },
+    {
+      "tag": "c:foods/bat_wing"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "minersdelight:bat_soup"
+  }
+}

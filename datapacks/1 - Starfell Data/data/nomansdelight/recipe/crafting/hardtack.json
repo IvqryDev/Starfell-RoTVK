@@ -1,0 +1,14 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    }
+  ],
+  "result": {
+    "id": "nomansland:hardtack"
+  }
+}

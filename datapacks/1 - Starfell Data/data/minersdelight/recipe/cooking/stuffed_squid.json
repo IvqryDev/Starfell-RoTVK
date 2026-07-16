@@ -1,0 +1,37 @@
+{
+  "type": "cookscollection:baking",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minersdelight:cave_carrot"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "minersdelight:cave_carrot"
+    },
+    {
+      "item": "farmersdelight:fried_egg"
+    },
+    {
+      "tag": "c:foods/squid"
+    },
+    {
+      "item": "farmersdelight:fried_egg"
+    },
+    {
+      "tag": "c:foods/onion"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:foods/onion"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minersdelight:stuffed_squid"
+  }
+}

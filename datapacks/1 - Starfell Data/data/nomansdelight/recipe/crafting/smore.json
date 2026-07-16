@@ -1,0 +1,20 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "nomansland:hardtack"
+    },
+    "X": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "count": 2,
+    "id": "nomansdelight:smore"
+  }
+}

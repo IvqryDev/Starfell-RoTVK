@@ -5,6 +5,12 @@
   "ingredients": [
     {
       "tag": "c:crops/rice"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "result": {

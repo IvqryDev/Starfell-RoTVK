@@ -1,0 +1,28 @@
+{
+  "type": "cookscollection:baking",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minersdelight:baked_cave_carrot"
+    },
+    {
+      "item": "minersdelight:baked_cave_carrot"
+    },
+    {
+      "item": "minersdelight:baked_cave_carrot"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minersdelight:fake_meatloaf"
+  }
+}

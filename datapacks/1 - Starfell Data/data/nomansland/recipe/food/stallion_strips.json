@@ -1,0 +1,42 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "nomansland:pesto_bottle"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "nomansland:pesto_bottle"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "c:foods/cooked_venison"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "farmersdelight:onion"
+    }
+  ],
+  "result": {
+    "id": "nomansland:stallion_strips",
+    "count": 1
+  }
+}

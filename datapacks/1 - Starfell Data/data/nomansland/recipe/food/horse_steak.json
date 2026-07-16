@@ -1,0 +1,12 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "nomansland:raw_horse"
+    }
+  ],
+  "result": {
+    "id": "nomansland:horse_steak"
+  },
+  "cookingtime": 200
+}

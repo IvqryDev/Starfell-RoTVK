@@ -16,15 +16,10 @@
       "item": "minecraft:carrot"
     },
     {
-      "type": "neoforge:compound",
-      "children": [
-        {
-          "item": "minecraft:brown_mushroom"
-        },
-        {
-          "item": "minecraft:red_mushroom"
-        }
-      ]
+      "tag": "nomansland:edible_mushrooms"
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "recipe_book_tab": "meals",

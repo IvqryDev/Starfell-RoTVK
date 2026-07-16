@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minersdelight:smoked_bat_wing"
+    },
+    {
+      "tag": "nomansland:edible_mushrooms"
+    }
+  ],
+  "result": {
+    "id": "minersdelight:bat_rolls",
+    "count": 2
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "brewinandchewin:flaxen_cheese_wedge"
+    },
+    {
+      "item": "nomansland:pine_nuts"
+    },
+    {
+      "item": "minecraft:fern"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    }
+  ],
+  "result": {
+    "id": "nomansland:pesto_bottle",
+    "count": 2
+  }
+}

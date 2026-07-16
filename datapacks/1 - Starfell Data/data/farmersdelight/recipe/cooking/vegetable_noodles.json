@@ -3,9 +3,6 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:carrot"
-    },
-    {
       "item": "minecraft:brown_mushroom"
     },
     {
@@ -22,6 +19,12 @@
       "subtracted": {
         "item": "minecraft:melon_slice"
       }
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
     }
   ],
   "recipe_book_tab": "meals",

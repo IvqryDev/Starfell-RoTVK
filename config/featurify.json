@@ -1,6 +1,6 @@
 {
-  "config_version": "1.0.3",
-  "config_datetime": "2026-06-29_00-16-35",
+  "config_version": "1.0.4",
+  "config_datetime": "2026-07-14_14-35-30",
   "global": {
     "disable_all_placed_features": false
   },
@@ -75,6 +75,14 @@
     },
     {
       "name": "caverns_and_chasms:patch_cave_growths_deep",
+      "is_disabled": true
+    },
+    {
+      "name": "cookscollection:lemon_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "cookscollection:salt_placed",
       "is_disabled": true
     },
     {
@@ -159,22 +167,6 @@
     },
     {
       "name": "spelunkery:sulfur_patch",
-      "is_disabled": true
-    },
-    {
-      "name": "supplementaries:cave_urns",
-      "is_disabled": true
-    },
-    {
-      "name": "supplementaries:ocean_barnacles",
-      "is_disabled": true
-    },
-    {
-      "name": "supplementaries:shore_barnacles",
-      "is_disabled": true
-    },
-    {
-      "name": "supplementaries:wild_flax",
       "is_disabled": true
     },
     {

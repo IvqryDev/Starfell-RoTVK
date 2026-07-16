@@ -10,6 +10,9 @@
     },
     {
       "tag": "c:crops/onion"
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "recipe_book_tab": "meals",

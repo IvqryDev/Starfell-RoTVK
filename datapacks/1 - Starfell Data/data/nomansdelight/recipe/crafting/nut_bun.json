@@ -1,0 +1,18 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "farmersdelight:wheat_dough"
+    },
+    {
+      "item": "nomansland:walnuts"
+    },
+    {
+      "item": "nomansland:pine_nuts"
+    }
+  ],
+  "result": {
+    "id": "nomansdelight:nut_bun",
+    "count": 2
+  }
+}

@@ -1,24 +1,20 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "-": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "item": "minecraft:stick"
     },
-    "i": {
+    {
+      "item": "minecraft:melon_slice"
+    },
+    {
       "item": "minecraft:ice"
     },
-    "m": {
-      "item": "minecraft:melon_slice"
+    {
+      "item": "spelunkery:rock_salt"
     }
-  },
-  "pattern": [
-    " mm",
-    "imm",
-    "-i "
   ],
   "result": {
-    "count": 1,
     "id": "farmersdelight:melon_popsicle"
   }
 }

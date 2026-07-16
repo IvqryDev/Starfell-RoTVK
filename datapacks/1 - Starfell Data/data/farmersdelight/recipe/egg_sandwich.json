@@ -9,11 +9,11 @@
       "tag": "c:foods/cooked_egg"
     },
     {
-      "tag": "c:foods/cooked_egg"
+      "item": "spelunkery:rock_salt"
     }
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "id": "farmersdelight:egg_sandwich"
   }
 }

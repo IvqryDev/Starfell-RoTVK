@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "c:foods/cooked_billhook_bass"
+    },
+    {
+      "item": "farmersdelight:fried_egg"
+    },
+    {
+      "tag": "c:foods/tomato"
+    },
+    {
+      "tag": "c:foods/leafy_green"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "nomansdelight:billhook_bass_with_eggs"
+  }
+}

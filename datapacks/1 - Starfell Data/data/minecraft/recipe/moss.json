@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minersdelight:moss"
+    }
+  },
+  "result": {
+    "id": "minecraft:moss_block",
+    "count": 1
+  }
+}

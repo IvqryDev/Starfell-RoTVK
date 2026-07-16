@@ -1,6 +1,4 @@
 {
-  "type": "emixx:tag",
   "id": "rpg_series:loot_tier/tier_4_accessories",
-  "tag": "rpg_series:loot_tier/tier_4_accessories",
-  "enabled": true
+  "enabled": false
 }

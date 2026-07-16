@@ -1,0 +1,12 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "nomansdelight:venison_chop"
+    }
+  ],
+  "result": {
+    "id": "nomansdelight:cooked_venison_chop"
+  },
+  "cookingtime": 200
+}

@@ -1,0 +1,12 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "minersdelight:arthropod"
+    }
+  ],
+  "result": {
+    "id": "minersdelight:cooked_arthropod"
+  },
+  "cookingtime": 200
+}

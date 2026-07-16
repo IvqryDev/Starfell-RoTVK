@@ -3,24 +3,22 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "minecraft:brown_mushroom"
+      "tag": "nomansland:edible_mushrooms"
     },
     {
-      "item": "minecraft:red_mushroom"
+      "tag": "nomansland:edible_mushrooms"
     },
     {
       "tag": "c:crops/rice"
     },
     {
-      "type": "neoforge:compound",
-      "children": [
-        {
-          "item": "minecraft:carrot"
-        },
-        {
-          "item": "minecraft:potato"
-        }
-      ]
+      "item": "minersdelight:cave_carrot"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
     }
   ],
   "recipe_book_tab": "meals",

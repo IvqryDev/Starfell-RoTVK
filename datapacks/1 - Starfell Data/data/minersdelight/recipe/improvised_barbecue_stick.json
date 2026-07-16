@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minersdelight:baked_cave_carrot"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minersdelight:smoked_bat_wing"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "tag": "c:rods/wooden"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "minersdelight:improvised_barbecue_stick"
+  }
+}

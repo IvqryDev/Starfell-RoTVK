@@ -3,13 +3,19 @@
   "experience": 1.0,
   "ingredients": [
     {
-      "item": "farmersdelight:minced_beef"
+      "tag": "c:foods/raw_beef"
     },
     {
       "tag": "c:foods/pasta"
     },
     {
       "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    },
+    {
+      "item": "cookscollection:cooking_oil"
     }
   ],
   "recipe_book_tab": "meals",

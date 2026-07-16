@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:vegetables/cave_carrot"
+    },
+    {
+      "tag": "c:vegetables/cave_carrot"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "spelunkery:rock_salt"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "minersdelight:cave_soup"
+  }
+}

@@ -6,7 +6,7 @@
       "tag": "c:foods/raw_chicken"
     },
     {
-      "item": "minecraft:carrot"
+      "item": "farmersdelight:rice"
     },
     {
       "tag": "c:foods/leafy_green"
@@ -19,6 +19,9 @@
       "subtracted": {
         "item": "minecraft:melon_slice"
       }
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "recipe_book_tab": "meals",

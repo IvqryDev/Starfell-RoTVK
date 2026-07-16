@@ -1,23 +1,18 @@
 {
-  "type": "farmersdelight:cooking",
-  "container": {
-    "count": 1,
-    "id": "minecraft:pumpkin"
-  },
-  "cookingtime": 400,
-  "experience": 2.0,
+  "type": "cookscollection:baking",
+  "category": "misc",
   "ingredients": [
     {
       "tag": "c:crops/rice"
     },
     {
+      "tag": "nomansland:edible_mushrooms"
+    },
+    {
       "tag": "c:crops/onion"
     },
     {
-      "item": "minecraft:brown_mushroom"
-    },
-    {
-      "item": "minecraft:potato"
+      "item": "minecraft:baked_potato"
     },
     {
       "tag": "c:foods/berry"
@@ -30,9 +25,17 @@
       "subtracted": {
         "item": "minecraft:melon_slice"
       }
+    },
+    {
+      "item": "farmersdelight:fried_egg"
+    },
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "tag": "brewinandchewin:cheese_wheels/ripe"
     }
   ],
-  "recipe_book_tab": "meals",
   "result": {
     "count": 1,
     "id": "farmersdelight:stuffed_pumpkin_block"

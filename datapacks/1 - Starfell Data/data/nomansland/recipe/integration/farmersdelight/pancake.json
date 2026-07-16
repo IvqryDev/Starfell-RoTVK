@@ -1,0 +1,17 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "tag": "c:foods/dough"
+    },
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "nomansland:maple_syrup_bottle"
+    }
+  ],
+  "result": {
+    "id": "nomansland:pancake"
+  }
+}

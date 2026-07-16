@@ -1,0 +1,19 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "minersdelight:tentacles"
+    },
+    {
+      "item": "minersdelight:tentacles"
+    },
+    {
+      "item": "minersdelight:tentacles"
+    }
+  ],
+  "result": {
+    "id": "minersdelight:baked_tentacles",
+    "count": 3
+  },
+  "cookingtime": 200
+}

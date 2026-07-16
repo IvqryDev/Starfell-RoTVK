@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "cookscollection:baking",
   "category": "misc",
   "ingredients": [
     {
@@ -16,6 +16,9 @@
     },
     {
       "tag": "c:foods/cooked_egg"
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "result": {

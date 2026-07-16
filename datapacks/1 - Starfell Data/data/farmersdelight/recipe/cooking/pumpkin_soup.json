@@ -13,6 +13,9 @@
     },
     {
       "tag": "c:drinks/milk"
+    },
+    {
+      "item": "spelunkery:rock_salt"
     }
   ],
   "recipe_book_tab": "meals",

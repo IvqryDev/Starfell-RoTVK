@@ -1,0 +1,19 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "minersdelight:bat_wing"
+    },
+    {
+      "item": "minersdelight:bat_wing"
+    },
+    {
+      "item": "minersdelight:bat_wing"
+    }
+  ],
+  "result": {
+    "id": "minersdelight:smoked_bat_wing",
+    "count": 3
+  },
+  "cookingtime": 200
+}

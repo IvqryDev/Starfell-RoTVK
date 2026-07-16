@@ -229,7 +229,30 @@
       "minecraft:blaze_powder",
       "mynethersdelight:crafting/blaze_powder_alt",
       "minecraft:fire_charge",
-      "reliable_backpacks:backpack_from_rope"
+      "reliable_backpacks:backpack_from_rope",
+      "farmersdelight:bread_from_wheat",
+      "brewinandchewin:quiche_from_bacon",
+      "brewinandchewin:quiche_from_mushroom",
+      "farmersdelight:sweet_berry_cookies_from_wheat",
+      "farmersdelight:sweet_berry_cookie",
+      "farmersdelight:honey_cookies_from_wheat",
+      "farmersdelight:honey_cookie",
+      "farmersdelight:cooking/ratatouille",
+      "farmersdelight:roast_chicken",
+      "farmersdelight:honey_glazed_ham_block",
+      "farmersdelight:shepherds_pie",
+      "minersdelight:alt_insect_wrap",
+      "minersdelight:cooking/alt_insect_stew",
+      "minecraft:cookie",
+      "farmersdelight:cookies_from_wheat",
+      "nomansland:mushroom_stew",
+      "nomansland:food/mashed_potatoes_with_mushroom",
+      "nomansland:food/mashed_potatoes_with_mushroom_cooking",
+      "minecraft:beetroot_soup",
+      "minecraft:rabbit_stew_from_brown_mushroom",
+      "nomansland:rabbit_stew_from_red_mushroom",
+      "farmersdelight:cake_from_wheat",
+      "farmersdelight:pumpkin_pie_from_pie_crust"
     ]
   }
 ]
