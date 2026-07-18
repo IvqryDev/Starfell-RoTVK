@@ -1,0 +1,11 @@
+{
+  "gui.runes.rune_crafting" : "Icon Crafting",
+  "block.runes.crafting_altar": "Icon Altar",
+  "block.runes.crafting_altar.hint": "Craft runes more cost-efficiently.",
+  "item.runes.medium_rune_pouch": "Icon Bag",
+  "item.runes.rune_pouch.hint": "Provides runes for spell casting, when equipped.",
+  "item.runes.arcane_stone": "Seleno Icon",
+  "item.runes.fire_stone": "Pyro Icon",
+  "item.runes.frost_stone": "Cryo Icon",
+  "item.runes.healing_stone": "Dendro Icon"
+}

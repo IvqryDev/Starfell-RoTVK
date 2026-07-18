@@ -52,10 +52,6 @@
 	},
 	"modifiers": [
 		{
-			"slotType": "spell_trinket",
-			"amount": -1
-		},
-		{
 			"slotType": "necklace",
 			"amount": 3
 		},

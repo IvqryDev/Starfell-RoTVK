@@ -136,9 +136,8 @@
             "oreganized:shrapnel_bomb_minecart",
             "friendsandfoes:totem_of_illusion",
             "friendsandfoes:totem_of_freezing",
-            "archers:small_quiver",
-            "archers:medium_quiver",
             "archers:large_quiver",
+            "archers:small_quiver",
             "oreganized:lead_bulb",
             "oreganized:molten_lead_bucket",
             "nomansland:ink_bomb",
@@ -548,7 +547,9 @@
             "cookscollection:lemon_leaves",
             "cookscollection:fruiting_lemon_leaves",
             "cookscollection:salted_dripstone_block",
-            "cookscollection:lemon_crate"
+            "cookscollection:lemon_crate",
+            "runes:small_rune_pouch",
+            "runes:large_rune_pouch"
         ]
     }
 ]

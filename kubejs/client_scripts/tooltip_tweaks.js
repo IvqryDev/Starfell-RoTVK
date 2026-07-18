@@ -1,62 +1,49 @@
 ItemEvents.modifyTooltips(tooltip => {
 
-//Audio Listeners, Love Ya' To Death
+    //Removal
+    tooltip.modify([
+        "dimensional_tears:dimensional_tears_bottle",
+        "dimensional_tears:dimensional_tears_bucket",
+        "heart_crystals:heart_crystal",
+        "runes:crafting_altar",
+        "minecraft:chain",
+        "minecraft:vine",
+        "minecraft:lead",
+        "farmersdelight:rope",
+        "minecraft:crying_obsidian"
+    ], tooltip => {
+        tooltip.removeLine(1)
+    })
+
+    tooltip.modify([
+        "runes:medium_rune_pouch",
+        "archers:medium_quiver"
+    ], tooltip => {
+        tooltip.removeLine(3)
+    })
+
+    //Audio Listeners, Love Ya' To Death
     tooltip.add(['artifacts:everlasting_beef'], '§7"Would you rather have..."')
     tooltip.add(['artifacts:eternal_steak'], '§7"The final ingredient, was all of you."')
 
-//Utilities & Tools
+    // Utilities & Tools
     tooltip.add(['minecraft:experience_bottle'], "§7Shatters into souls.")
     tooltip.add(['oreganized:lead_bolt'], "§7Increased velocity and damage of a typical arrow.")
     tooltip.add(['caverns_and_chasms:large_arrow'], "§7Reduced arrow velocity but has devastating damage.")
     tooltip.add(['nomansland:incendiary_arrow'], "§7Creates a vicious explosive of flame.")
     tooltip.add(['heart_crystals:cupids_arrow'], "§7Deals no damage but is capable of breeding animals")
-
-    tooltip.add(['heart_crystals:heart_crystal'], "§7Increases maximum vitality by two points.")
-    tooltip.modify('heart_crystals:heart_crystal', tooltip => {
-        tooltip.removeLine(1)
-    })
-
     tooltip.add(['minecraft:recovery_compass'], "§7Points towards your last known soul of remembrance.")
     tooltip.add(['spelunkery:magnetic_compass'], "§7Always points towards north.")
     tooltip.add(['caverns_and_chasms:kunai'], "§7Shatters your enemy's defense for a time.")
-
     tooltip.add(['hominid:famished_stomach'], "§7Greatly increases attack damage but removes your ability to crit for a time.")
-    tooltip.modify('dimensional_tears:dimensional_tears_bottle', tooltip => {
-        tooltip.removeLine(1)
-    })
-    tooltip.modify('dimensional_tears:dimensional_tears_bucket', tooltip => {
-        tooltip.removeLine(1)
-    })
+    tooltip.add(['heart_crystals:heart_crystal'], "§7Increases maximum vitality by two points.")
 
-//Blocks
+    //Blocks
     tooltip.add(['heart_crystals:heart_lantern'], "§7Heals you when nearby.")
     tooltip.add(['nomansland:warding_effigy'], "§7Reduces monster spawns when nearby.")
     tooltip.add(['runes:crafting_altar'], "§7Can craft icons more efficiently than by hand.")
-    tooltip.modify('runes:crafting_altar', tooltip => {
-        tooltip.removeLine(1)
-    })
 
-    tooltip.modify('minecraft:chain', tooltip => {
-        tooltip.removeLine(1)
-    })
-
-    tooltip.modify('minecraft:vine', tooltip => {
-        tooltip.removeLine(1)
-    })
-
-    tooltip.modify('minecraft:lead', tooltip => {
-        tooltip.removeLine(1)
-    })
-
-    tooltip.modify('farmersdelight:rope', tooltip => {
-        tooltip.removeLine(1)
-    })
-
-    tooltip.modify('minecraft:crying_obsidian', tooltip => {
-        tooltip.removeLine(1)
-    })
-
-//Class: Basic
+    //Class: Basic
     tooltip.add([
         'minecraft:leather_helmet',
         'minecraft:leather_chestplate',
@@ -65,7 +52,7 @@ ItemEvents.modifyTooltips(tooltip => {
 
     ], "§7Class: §8Basic")
 
-//Class: Lancer
+    //Class: Lancer
     tooltip.add([
         'archers:archer_armor_head',
         'archers:archer_armor_chest',
@@ -83,7 +70,7 @@ ItemEvents.modifyTooltips(tooltip => {
         'archers:netherite_ranger_armor_feet'
     ], "§7Class: §8Lancer")
 
-//Class: Paladin
+    //Class: Justicar
     tooltip.add([
         'paladins:paladin_armor_head',
         'paladins:paladin_armor_chest',
@@ -101,7 +88,7 @@ ItemEvents.modifyTooltips(tooltip => {
         'paladins:netherite_crusader_armor_feet'
     ], "§7Class: §8Justicar")
 
-//Class: Avatar
+    //Class: Avatar
     tooltip.add([
         'paladins:priest_robe_head',
         'paladins:priest_robe_chest',
@@ -119,7 +106,7 @@ ItemEvents.modifyTooltips(tooltip => {
         'paladins:netherite_prior_robe_feet'
     ], "§7Class: §8Avatar")
 
-//Class: Savager
+    //Class: Savager
     tooltip.add([
         'rogues:rogue_armor_head',
         'rogues:rogue_armor_chest',
@@ -138,7 +125,7 @@ ItemEvents.modifyTooltips(tooltip => {
 
     ], "§7Class: §8Savager")
 
-//Class: Legionnaire
+    //Class: Legionnaire
     tooltip.add([
         'rogues:warrior_armor_head',
         'rogues:warrior_armor_chest',
@@ -156,7 +143,7 @@ ItemEvents.modifyTooltips(tooltip => {
         'rogues:netherite_berserker_armor_feet'
     ], "§7Class: §8Legionnaire")
 
-//Class: Stargazer
+    //Class: Stargazer
     tooltip.add([
         'wizards:wizard_robe_head',
         'wizards:wizard_robe_chest',
