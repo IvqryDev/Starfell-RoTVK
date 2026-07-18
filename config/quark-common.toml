@@ -47,14 +47,14 @@
 [automation]
 	"Chains Connect Blocks" = true
 	Chute = false
-	"Dispensers Place Blocks" = false
+	"Dispensers Place Blocks" = true
 	"Ender Watcher" = false
 	"Feeding Trough" = false
 	Gravisand = false
 	"Iron Rod" = false
 	"Metal Buttons" = false
 	"Obsidian Plate" = false
-	"Pistons Move Tile Entities" = false
+	"Pistons Move Tile Entities" = true
 	"Redstone Randomizer" = false
 
 	[automation.dispensers_place_blocks]
@@ -97,7 +97,7 @@
 	"Celebratory Lamps" = false
 	"Compressed Blocks" = true
 	"Duskbound Blocks" = false
-	"Framed Glass" = false
+	"Framed Glass" = true
 	"Glass Item Frame" = true
 	"Gold Bars" = false
 	Grate = false
@@ -500,7 +500,7 @@
 
 [tweaks]
 	"Armed Armor Stands" = true
-	"Automatic Recipe Unlock" = true
+	"Automatic Recipe Unlock" = false
 	"Better Elytra Rocket" = false
 	"Campfires Boost Elytra" = false
 	"Compasses Work Everywhere" = true
@@ -512,7 +512,7 @@
 	Emotes = false
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
-	"Gold Tools Have Fortune" = true
+	"Gold Tools Have Fortune" = false
 	"Grab Chickens" = false
 	"Hoe Harvesting" = true
 	"Horses Swim" = true
@@ -522,7 +522,7 @@
 	"Map Washing" = true
 	"More Banner Layers" = true
 	"More Note Block Sounds" = true
-	"More Villagers" = true
+	"More Villagers" = false
 	"No Durability On Cosmetics" = true
 	"Pat The Dogs" = true
 	"Petals On Water" = true
@@ -539,8 +539,8 @@
 	"Snow Golem Player Heads" = false
 	"Utility Recipes" = false
 	"Vexes Die With Their Masters" = true
-	"Villagers Follow Emeralds" = true
-	"Zombie Villagers On Normal" = true
+	"Villagers Follow Emeralds" = false
+	"Zombie Villagers On Normal" = false
 
 	[tweaks.automatic_recipe_unlock]
 		#A list of recipe names that should NOT be added in by default
@@ -724,7 +724,7 @@
 
 	[tweaks.utility_recipes]
 		#Can other stone-like materials be used for crafting stone tools?
-		"Better Stone Tool Crafting" = true
+		"Better Stone Tool Crafting" = false
 		#Can a dispenser be crafted by adding a bow to a dropper?
 		"Enable Dispenser" = true
 		#Can a repeater be crafted with the pattern for a redstone torch?
@@ -736,9 +736,9 @@
 		#Can you craft four chests at once using logs?
 		"Logs To Chests" = true
 		#Can Coral be crafted into dye?
-		"Coral To Dye" = true
+		"Coral To Dye" = false
 		#Can cookies, paper, and bread be crafted in a 2x2 crafting table?
-		"Bent Recipes" = true
+		"Bent Recipes" = false
 		#Can Rotten Flesh and Poisonous Potatoes be composted?
 		"Compostable Toxins" = true
 		#Does Dragon Breath return a bottle when used as a reagent or material?
@@ -748,13 +748,13 @@
 		#Can bones be smelted down to bone meal?
 		"Bone Meal Utility" = true
 		#Can Charcoal be crafted into Black Dye?
-		"Charcoal To Black Dye" = true
+		"Charcoal To Black Dye" = false
 		#Can two Logs be used instead of a Chest to make a Hopper?
-		"Easy Hopper" = true
+		"Easy Hopper" = false
 		#Can two Logs be used to craft 16 sticks?
 		"Easy Sticks" = true
 		#Can raw ore blocks be smelted, taking 9x the time a normal item?
-		"Smelt Raw Ore Blocks" = true
+		"Smelt Raw Ore Blocks" = false
 
 	[tweaks.slabs_to_blocks]
 		#Slabs that should NOT be convertible back into full-blocks
@@ -1544,7 +1544,7 @@
 	"Elytra Indicator" = false
 	"Greener Grass" = false
 	"Improved Tooltips" = true
-	"Long Range Pick Block" = false
+	"Long Range Pick Block" = true
 	"Microcrafting Helper" = true
 	"Soul Candles" = true
 	"Usage Ticker" = false
@@ -1589,8 +1589,8 @@
 			B = [0.0, 0.0, 1.22]
 
 	[client.improved_tooltips]
-		"Attribute Tooltips" = false
-		"Food Tooltips" = false
+		"Attribute Tooltips" = true
+		"Food Tooltips" = true
 		"Shulker Tooltips" = false
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
