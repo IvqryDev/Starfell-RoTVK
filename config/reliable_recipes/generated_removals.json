@@ -252,7 +252,8 @@
       "minecraft:rabbit_stew_from_brown_mushroom",
       "nomansland:rabbit_stew_from_red_mushroom",
       "farmersdelight:cake_from_wheat",
-      "farmersdelight:pumpkin_pie_from_pie_crust"
+      "farmersdelight:pumpkin_pie_from_pie_crust",
+      "valcon:cooking/lembas"
     ]
   }
 ]
