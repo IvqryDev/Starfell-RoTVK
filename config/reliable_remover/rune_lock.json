@@ -1,7 +1,7 @@
 {
   "action": "remove_enchantment",
   "not": {
-    "items": ["minecraft:unbreaking"]
+    "items": ["minecraft:mending"]
   },
   "advancements": ["starfell:those_before_you"]
 }

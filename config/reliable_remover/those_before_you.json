@@ -15,6 +15,7 @@
     "modestmagic:enchantment_tablet_everlasting",
     "modestmagic:enchantment_tablet_cyclic",
     "modestmagic:enchantment_tablet_aquatic",
+    "modestmagic:enchantment_tablet_heavy",
     "modestmagic:enchantment_tablet"
   ],
   "advancements": ["starfell:those_before_you"]
