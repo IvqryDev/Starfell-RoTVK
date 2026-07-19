@@ -8,7 +8,13 @@
     "minecraft:leaf_litter",
     "minecraft:firefly_bush",
     "block_factorys_bosses:rope_roll",
-    "block_factorys_bosses:ship_steering_wheel"
+    "block_factorys_bosses:ship_steering_wheel",
+    "nomansland:white_flowerbed",
+    "nomansland:violet_flowerbed",
+    "nomansland:blue_flowerbed",
+    "nomansland:yellow_flowerbed",
+    "nomansland:red_flowerbed",
+    "caverns_and_chasms:sparkler"
   ],
   "output": "minecraft:air"
 }

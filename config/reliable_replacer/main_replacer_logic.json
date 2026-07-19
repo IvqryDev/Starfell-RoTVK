@@ -7,6 +7,16 @@
 
     "upgrade_aquatic:driftwood_log": "nomansland:pine_log",
 
+    "oreganized:spotted_glance": "oreganized:glance",
+    "spelunkery:nephrite": "minecraft:deepslate",
+
+    "block_factorys_bosses:ship_lantern": "redomesticate:wayward_lantern",
+    "block_factorys_bosses:plank": "nomansland:crude_trapdoor",
+
+    "minecraft:smoker": "minecraft:furnace",
+    "minecraft:blast_furnace": "minecraft:furnace",
+    "minecraft:brewing_stand": "brewinandchewin:keg",
+
     "minecraft:diamond_ore": "oreganized:silver_ore",
     "minecraft:deepslate_diamond_ore": "oreganized:deepslate_silver_ore",
     "minecraft:diamond_block": "oreganized:silver_block",
@@ -17,22 +27,8 @@
     "spelunkery:smooth_basalt_diamond_ore": "oreganized:deepslate_silver_ore",
     "spelunkery:rough_diamond_block": "oreganized:raw_silver_block",
 
-    "caverns_and_chasms:sparkler": "minecraft:torch",
-
-    "oreganized:spotted_glance": "oreganized:glance",
-    "spelunkery:nephrite": "minecraft:deepslate",
-
-    "block_factorys_bosses:ship_lantern": "redomesticate:wayward_lantern",
-    "block_factorys_bosses:plank": "nomansland:crude_trapdoor",
-
-    "minecraft:smoker": "minecraft:furnace",
-    "minecraft:blast_furnace": "minecraft:furnace",
-
     "minecraft:lapis_ore": "minecraft:stone",
     "minecraft:deepslate_lapis_ore": "minecraft:deepslate",
-
-    "minecraft:brewing_stand": "brewinandchewin:keg",
-
     "spelunkery:andesite_lapis_ore": "minecraft:andesite",
     "spelunkery:granite_lapis_ore": "minecraft:granite",
     "spelunkery:diorite_lapis_ore": "minecraft:diorite",

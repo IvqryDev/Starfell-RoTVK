@@ -1,7 +1,7 @@
 {
   "retrogen": false,
   "player_blocks": false,
-  "inputs": ["minecraft:iron_ore"],
+  "inputs": "minecraft:iron_ore",
   "output": "oreganized:lead_ore",
   "probability": 0.1
 }
