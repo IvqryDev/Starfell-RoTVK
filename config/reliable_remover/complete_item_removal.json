@@ -549,7 +549,8 @@
             "cookscollection:salted_dripstone_block",
             "cookscollection:lemon_crate",
             "runes:small_rune_pouch",
-            "runes:large_rune_pouch"
+            "runes:large_rune_pouch",
+            "cookscollection:lemon_wood"
         ]
     }
 ]
