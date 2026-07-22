@@ -46,7 +46,6 @@
     "wilderflowers:clovers": "nomansland:clover_patch",
 
     "caverns_and_chasms:lava_lamp": "redomesticate:wayward_lantern",
-    "caverns_and_chasms:gold_ingot_placed": "minecraft:air",
 
     "quark:blaze_lantern": "minecraft:shroomlight"
   }

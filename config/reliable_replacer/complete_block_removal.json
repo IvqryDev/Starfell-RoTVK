@@ -14,7 +14,8 @@
     "nomansland:blue_flowerbed",
     "nomansland:yellow_flowerbed",
     "nomansland:red_flowerbed",
-    "caverns_and_chasms:sparkler"
+    "caverns_and_chasms:sparkler",
+    "caverns_and_chasms:gold_ingot_placed"
   ],
   "output": "minecraft:air"
 }

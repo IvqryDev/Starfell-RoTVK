@@ -60,3 +60,6 @@ io.wispforest.accessories.client.gui.AccessoriesScreen {
 net.neoforged.neoforge.client.gui.ModListScreen {
 }
 
+de.keksuccino.spiffyhud.customization.SpiffyOverlayScreen {
+}
+
