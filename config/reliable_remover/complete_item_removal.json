@@ -553,7 +553,12 @@
             "incubation:fried_egg",
             "incubation:scrambled_eggs",
             "incubation:turtle_egg_crate",
-            "incubation:chicken_egg_crate"
+            "incubation:chicken_egg_crate",
+            "friendsandfoes:buttercup",
+            "friendsandfoes:mauler_spawn_egg",
+            "friendsandfoes:glare_spawn_egg",
+            "friendsandfoes:crab_spawn_egg",
+            "friendsandfoes:crab_egg"
         ]
     }
 ]
