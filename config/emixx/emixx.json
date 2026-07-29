@@ -2,6 +2,7 @@
   "enableCreativeModeTabs": false,
   "syncSelectedCreativeModeTab": false,
   "showCreativeTabNameInSearchbar": true,
+  "maxSidebarTabs": 0,
   "disabledCreativeModeTabs": [
     "minecraft:op_blocks"
   ],
@@ -18,8 +19,23 @@
     "minecraft:tipped_arrows",
     "c:concrete_powders",
     "minecraft:enchanted_books",
-    "minecraft:lingering_potions"
+    "minecraft:lingering_potions",
+    "keeb_struc_fortress:fortress_air_nonreplaceable"
   ],
   "stackGroupItemOrder": {},
-  "emiOnlyInRecipeBook": false
+  "enableCategorizedTagPages": true,
+  "enableEntityTags": true,
+  "enableTagSearchEnhancements": true,
+  "emiOnlyInRecipeBook": false,
+  "disablePaginationWrapping": false,
+  "scrollInsteadOfPagination": false,
+  "showTitleInsteadOfPageNumbers": false,
+  "hidePageButtonWhenOnePage": false,
+  "incrementalScrollbarFill": false,
+  "searchWidgetAlignWithPanel": false,
+  "searchWidgetTopOffset": 0,
+  "searchWidgetHorizontalPadding": 4,
+  "searchWidgetVerticalPadding": 2,
+  "searchWidgetSuggestionTextColor": -8355712,
+  "searchWidgetTextColor": -1
 }

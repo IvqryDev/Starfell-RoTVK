@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "D"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "D": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "spell_engine:spell_scroll",
+    "count": 1,
+    "components": {
+      "spell_engine:item_model": "archers:item/spell_scroll/archer",
+      "minecraft:rarity": "uncommon",
+      "spell_engine:spell_container": {
+        "spell_ids": ["archers:power_shot"]
+      },
+      "minecraft:item_name": "{\"translate\":\"item.archers.spell_scroll/archer\"}"
+    }
+  }
+}

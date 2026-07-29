@@ -253,7 +253,16 @@
       "nomansland:rabbit_stew_from_red_mushroom",
       "farmersdelight:cake_from_wheat",
       "farmersdelight:pumpkin_pie_from_pie_crust",
-      "valcon:cooking/lembas"
+      "valcon:cooking/lembas",
+      "caverns_and_chasms:copper_ingot_from_smelting",
+      "minecraft:redstone_from_smelting_redstone_ore",
+      "spelunkery:redstone_ore_smelting",
+      "nomansland:brown_dye_from_resin",
+      "spelunkery:coal_ore_smelting",
+      "minecraft:redstone_from_smelting_deepslate_redstone_ore",
+      "minecraft:coal_from_smelting_coal_ore",
+      "minecraft:coal_from_smelting_deepslate_coal_ore",
+      "minecraft:packed_mud"
     ]
   }
 ]

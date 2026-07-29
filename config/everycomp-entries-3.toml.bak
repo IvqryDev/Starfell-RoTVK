@@ -61,14 +61,6 @@
 		[types.cake.nomansland]
 			fruit_cake = true
 
-		[types.cake.neapolitan]
-			vanilla_cake = true
-			chocolate_cake = true
-			strawberry_cake = true
-			banana_cake = true
-			mint_cake = true
-			adzuki_cake = true
-
 		[types.lantern.suppsquared]
 			copper_lantern = true
 			brass_lantern = true

@@ -1791,6 +1791,22 @@
     "starfell:the_order_of_the_axe": [
       264,
       -32
+    ],
+    "rpg_series:trade_with_archery_artisan": [
+      64,
+      607
+    ],
+    "rpg_series:trade_with_wizard": [
+      64,
+      580
+    ],
+    "rpg_series:trade_with_arms_dealer": [
+      64,
+      553
+    ],
+    "rpg_series:trade_with_monk": [
+      64,
+      499
     ]
   },
   "tab_properties": {

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "D": {
+      "item": "minecraft:mud"
+    },
+    "G": {
+      "item": "farmersdelight:straw"
+    }
+  },
+  "pattern": [
+    "DG",
+    "GD"
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:packed_mud"
+  }
+}

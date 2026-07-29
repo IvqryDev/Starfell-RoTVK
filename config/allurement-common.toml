@@ -1,56 +1,14 @@
-	[tweaks.enchanting]
-		#Allow enchanting power from bookshelves to transmit through any non-solid block, not just replaceable ones
-		"Non-solid blocks transmit enchanting power" = true
-		#Allow Chiseled Bookshelves to be usable to boost enchanting table power
-		"Chiseled Bookshelf enchanting" = true
-		#How many regular books are needed to increase the enchantment power by 1
-		# Default: 3
-		# Range: 1 ~ 6
-		"Books needed" = 3
-		#How many enchanted are needed to increase the enchantment power by 1
-		# Default: 2
-		# Range: 1 ~ 6
-		"Enchanted Books needed" = 2
-
-	[tweaks.animal_armor]
-		#Allow animal armor to be enchanted
-		"Enchantable animal armor" = true
-		#If animal armor can appear enchanted when found in loot tables
-		"Generates in loot tables" = true
-		#Which loot tables animal armor can't appear enchanted in
-		"Unenchanted loot tables" = ["minecraft:chests/village/village_weaponsmith", "minecraft:chests/stronghold_corridor", "minecraft:chests/nether_bridge"]
-
-	[tweaks.bane_of_arthropods]
-		#If Bane of Arthropods increases the mining speed of Cobwebs
-		"Bane of Arthropods mines cobwebs faster" = true
-
-	[tweaks.feather_falling]
-		#If having Feather Falling prevents farmland from being trampled
-		"Feather Falling prevents trampling" = true
-
-	[tweaks.infinity]
-		#If Infinity requires an arrow in the player's inventory in order to shoot
-		"Infinity requires arrows" = false
-
-	[tweaks.riptide]
-		#Allow Riptide to function when in cauldrons
-		"Riptide works in cauldrons" = true
-
-	[tweaks.soul_speed]
-		#Instead of losing durability as you run, Soul Speed makes incoming damage increase when on Soul Speed blocks
-		"Soul Speed change" = true
-
 		[tweaks.experience.dropped_xp]
 			#If the player drops a flat percentage of their experience rather than capping at level 7
-			"Drop experience percentage" = false
+			"Drop experience percentage" = true
 			#What percentage of the player's total experience is dropped
 			# Default: 0.75
 			# Range: 0.0 ~ 1.0
-			"Experience percentage" = 0.75
+			"Experience percentage" = 0.5
 
 		[tweaks.experience.level_scaling]
 			#Remove the amount of experience per level increasing (experimental)
-			"Remove level scaling" = false
+			"Remove level scaling" = true
 			#The amount of experience per level, if level scaling is removed (experimental)
 			# Default: 50
 			# Range: > 0
@@ -87,3 +45,45 @@
 			# Default: 30
 			# Range: > 1
 			"Anvil cost cap" = 30
+
+	[tweaks.animal_armor]
+		#Which loot tables animal armor can't appear enchanted in
+		"Unenchanted loot tables" = []
+		#Allow animal armor to be enchanted
+		"Enchantable animal armor" = true
+		#If animal armor can appear enchanted when found in loot tables
+		"Generates in loot tables" = true
+
+	[tweaks.enchanting]
+		#Allow enchanting power from bookshelves to transmit through any non-solid block, not just replaceable ones
+		"Non-solid blocks transmit enchanting power" = true
+		#Allow Chiseled Bookshelves to be usable to boost enchanting table power
+		"Chiseled Bookshelf enchanting" = true
+		#How many regular books are needed to increase the enchantment power by 1
+		# Default: 3
+		# Range: 1 ~ 6
+		"Books needed" = 3
+		#How many enchanted are needed to increase the enchantment power by 1
+		# Default: 2
+		# Range: 1 ~ 6
+		"Enchanted Books needed" = 2
+
+	[tweaks.bane_of_arthropods]
+		#If Bane of Arthropods increases the mining speed of Cobwebs
+		"Bane of Arthropods mines cobwebs faster" = true
+
+	[tweaks.feather_falling]
+		#If having Feather Falling prevents farmland from being trampled
+		"Feather Falling prevents trampling" = true
+
+	[tweaks.infinity]
+		#If Infinity requires an arrow in the player's inventory in order to shoot
+		"Infinity requires arrows" = false
+
+	[tweaks.riptide]
+		#Allow Riptide to function when in cauldrons
+		"Riptide works in cauldrons" = true
+
+	[tweaks.soul_speed]
+		#Instead of losing durability as you run, Soul Speed makes incoming damage increase when on Soul Speed blocks
+		"Soul Speed change" = true

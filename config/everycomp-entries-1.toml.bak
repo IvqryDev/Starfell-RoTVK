@@ -7,9 +7,6 @@
 			ancient = false
 			blossom = false
 
-		[types.wood_type.mynethersdelight]
-			powdery = false
-
 		[types.wood_type.upgrade_aquatic]
 			driftwood = false
 			river = false
@@ -55,6 +52,10 @@
 
 		[types.leaves_type.minecraft]
 			pale_oak = true
+
+		[types.leaves_type.cookscollection]
+			lemon = true
+			fruiting_lemon = true
 
 		[entries.wood_type.quark]
 			ladder = false

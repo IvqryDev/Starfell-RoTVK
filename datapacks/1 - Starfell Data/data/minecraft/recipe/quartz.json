@@ -1,0 +1,18 @@
+{
+  "type": "alloyed:forging",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_quartz_ore"
+    },
+    {
+      "item": "minecraft:nether_quartz_ore"
+    },
+    {
+      "item": "minecraft:nether_quartz_ore"
+    }
+  ],
+  "result": {
+    "id": "minecraft:quartz",
+    "count": 3
+  }
+}

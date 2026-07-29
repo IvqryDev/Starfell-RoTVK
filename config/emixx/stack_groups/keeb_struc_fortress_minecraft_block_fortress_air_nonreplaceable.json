@@ -1,0 +1,7 @@
+{
+  "type": "emixx:tag",
+  "id": "keeb_struc_fortress:fortress_air_nonreplaceable",
+  "tag": "keeb_struc_fortress:fortress_air_nonreplaceable",
+  "registry": "minecraft:block",
+  "enabled": true
+}

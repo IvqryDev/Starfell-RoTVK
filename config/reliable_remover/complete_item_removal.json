@@ -324,7 +324,6 @@
             "minecraft:lapis_ore",
             "minecraft:deepslate_lapis_ore",
             "modestmagic:altar",
-            "modestmagic:pedestal",
             "modestmagic:enchantment_tablet_infested",
             "modestmagic:enchantment_tablet_flinging",
             "modestmagic:enchantment_tablet_hallowed",
@@ -550,7 +549,11 @@
             "cookscollection:lemon_crate",
             "runes:small_rune_pouch",
             "runes:large_rune_pouch",
-            "cookscollection:lemon_wood"
+            "cookscollection:lemon_wood",
+            "incubation:fried_egg",
+            "incubation:scrambled_eggs",
+            "incubation:turtle_egg_crate",
+            "incubation:chicken_egg_crate"
         ]
     }
 ]

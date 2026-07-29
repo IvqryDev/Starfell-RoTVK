@@ -1,5 +1,4 @@
 		[types.wood_type.caverns_and_chasms]
-			#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
 			azalea = false
 
 		[types.wood_type.quark]
@@ -78,7 +77,6 @@
 			chair = true
 
 		[entries.wood_type.nomansland]
-			#Disables specific entries
 			bookshelf = true
 			trimmed_planks = true
 
