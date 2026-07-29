@@ -14,7 +14,7 @@
   "compass_enable": true,
   "compass_vertical_position": 140,
   "compass_horizontal_position_left": false,
-  "compass_direction": false,
+  "compass_direction": true,
   "compass_single_line": false,
   "compass_direction_text_colour": 16755200,
   "compass_text_colour": 14737632,
@@ -52,13 +52,12 @@
     "minecraft:clock"
   ],
   "clock_weather_items": [
-    "caverns_and_chasms:barometer",
-    "firmaciv:barometer"
+    "caverns_and_chasms:barometer"
   ],
-  "clock_day_count_items": [],
-  "clock_blocks": [
-    "supplementaries:clock_block"
+  "clock_day_count_items": [
+    "minecraft:clock"
   ],
+  "clock_blocks": [],
   "clock_weather_blocks": [],
   "clock_day_count_blocks": [],
   "temperature_enable": true,
@@ -68,12 +67,7 @@
   "temperature_temperate_colour": 16777215,
   "temperature_vertical_position": 112,
   "temperature_horizontal_position_left": true,
-  "temperature_items": [
-    "oreganized:thermometer",
-    "toughasnails:thermometer",
-    "legendarysurvivaloverhaul:thermometer",
-    "cold_sweat:thermometer"
-  ],
+  "temperature_items": [],
   "temperature_blocks": [],
   "compat_xaeros": true,
   "compat_antique_atlas": true,
@@ -90,28 +84,16 @@
   "biome_vertical_position": 112,
   "biome_horizontal_position_left": false,
   "biome_items": [
-    "minecraft:map",
-    "minecraft:filled_map",
-    "minecraft:empty_map",
     "aa4-atlas:antique_atlas"
   ],
   "biome_blocks": [],
-  "season_items": [
-    "sereneseasons:calendar",
-    "seasonsextras:season_calendar",
-    "eclipticseasons:calendar"
-  ],
-  "season_blocks": [
-    "seasonsextras:season_calendar"
-  ],
+  "season_items": [],
+  "season_blocks": [],
   "speed_enable": true,
   "speed_vertical_position": 137,
   "speed_horizontal_position_left": true,
   "speed_colour": 13090689,
-  "speed_items": [
-    "oreganized:speedometer",
-    "speedometer:speedometer"
-  ],
+  "speed_items": [],
   "speed_blocks": [],
   "compat_oreganized_speed": true,
   "compat_jade": false,
@@ -132,9 +114,7 @@
   "wind_horizontal_position_left": true,
   "wind_colour": 10254644,
   "compat_breezy": true,
-  "wind_items": [
-    "breezy:gust_gauge"
-  ],
+  "wind_items": [],
   "wind_blocks": [],
   "compat_dead_reckoning": true
 }

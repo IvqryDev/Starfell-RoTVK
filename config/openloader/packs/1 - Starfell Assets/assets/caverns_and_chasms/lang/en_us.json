@@ -20,5 +20,7 @@
   "block.caverns_and_chasms.smooth_schist_stairs": "Smooth Tuff Stairs",
   "block.caverns_and_chasms.smooth_schist_wall": "Smooth Tuff Wall",
   "block.caverns_and_chasms.chiseled_polished_schist": "Chiseled Polished Tuff",
-  "block.caverns_and_chasms.chiseled_schist_bricks": "Chiseled Tuff Bricks"
+  "block.caverns_and_chasms.chiseled_schist_bricks": "Chiseled Tuff Bricks",
+
+  "tooltip.caverns_and_chasms.altitude": "Fathoms"
 }
