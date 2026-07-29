@@ -1,0 +1,14 @@
+{
+  "retrogen": true,
+  "player_blocks": false,
+  "inputs": ["nomansland:silt"],
+  "output": "minecraft:mud",
+  "neighbors": {
+    "up": [
+      "minecraft:water",
+      "minecraft:seagrass",
+      "nomansland:reeds",
+      "nomansland:cattail"
+    ]
+  }
+}

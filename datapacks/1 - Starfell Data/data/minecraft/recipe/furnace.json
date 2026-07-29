@@ -3,11 +3,14 @@
     "pattern": [
         "###",
         "#C#",
-        "###"
+        "MMM"
     ],
     "key": {
         "#": {
             "item": "minecraft:cobblestone"
+        },
+        "M": {
+            "item": "minecraft:mud_bricks"
         },
         "C": {
             "tag": "minecraft:coals"

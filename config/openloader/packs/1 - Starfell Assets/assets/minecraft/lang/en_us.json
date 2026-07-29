@@ -337,5 +337,7 @@
   "item.minecraft.breeze_spawn_egg": "Aero Construct Spawn Egg",
   "item.minecraft.blaze_spawn_egg": "Cinder Cinstruct Spawn Egg",
   "item.minecraft.fire_charge": "Essence of Cinder",
-  "item.minecraft.golden_apple": "Pomegranate"
+  "item.minecraft.golden_apple": "Pomegranate",
+  "block.minecraft.furnace": "Kiln",
+  "container.furnace": "Kiln"
 }

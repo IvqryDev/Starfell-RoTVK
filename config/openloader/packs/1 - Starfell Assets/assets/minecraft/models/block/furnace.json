@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "clayworks:block/kiln_bottom",
+    "east": "clayworks:block/kiln_left",
+    "north": "clayworks:block/kiln_front",
+    "particle": "clayworks:block/kiln_back",
+    "south": "clayworks:block/kiln_back",
+    "up": "clayworks:block/kiln_top",
+    "west": "clayworks:block/kiln_right"
+  }
+}
