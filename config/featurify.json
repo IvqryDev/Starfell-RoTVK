@@ -1,6 +1,6 @@
 {
   "config_version": "1.0.4",
-  "config_datetime": "2026-07-29_16-56-21",
+  "config_datetime": "2026-07-30_05-08-59",
   "global": {
     "disable_all_placed_features": false
   },
@@ -238,12 +238,39 @@
       "is_disabled": true
     },
     {
+      "name": "windswept:ginger_patch",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "nomansland:dark_taiga",
+        "minecraft:old_growth_pine_taiga",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:snowy_taiga",
+        "minecraft:taiga",
+        "clifftree:snowy_old_growth_taiga"
+      ],
+      "blacklisted_biomes": [
+        "windswept:pine_barrens",
+        "windswept:snowy_pine_barrens"
+      ]
+    },
+    {
       "name": "windswept:holly_bush",
       "is_disabled": true
     },
     {
       "name": "windswept:holly_trees_on_snow",
       "is_disabled": true
+    },
+    {
+      "name": "windswept:large_white_rose",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "nomansland:lavender_field"
+      ],
+      "blacklisted_biomes": [
+        "windswept:lavender_fields",
+        "windswept:lavender_hills"
+      ]
     },
     {
       "name": "windswept:larkspurs",
