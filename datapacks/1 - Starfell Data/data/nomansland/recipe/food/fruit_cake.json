@@ -2,10 +2,10 @@
   "type": "cookscollection:baking",
   "ingredients": [
     {
-      "item": "minecraft:sweet_berries"
+      "item": "windswept:ginger_root"
     },
     {
-      "item": "brewinandchewin:apple_jelly"
+      "item": "minecraft:apple"
     },
     {
       "item": "nomansland:pear"

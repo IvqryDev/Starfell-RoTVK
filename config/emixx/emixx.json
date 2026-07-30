@@ -1,7 +1,7 @@
 {
   "enableCreativeModeTabs": false,
   "syncSelectedCreativeModeTab": false,
-  "showCreativeTabNameInSearchbar": true,
+  "showCreativeTabNameInSearchbar": false,
   "maxSidebarTabs": 0,
   "disabledCreativeModeTabs": [
     "minecraft:op_blocks"
@@ -28,6 +28,7 @@
   "enableEntityTags": true,
   "enableTagSearchEnhancements": true,
   "emiOnlyInRecipeBook": false,
+  "dragCheatToInventory": true,
   "disablePaginationWrapping": false,
   "scrollInsteadOfPagination": false,
   "showTitleInsteadOfPageNumbers": false,
