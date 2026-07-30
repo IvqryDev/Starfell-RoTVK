@@ -1,0 +1,7 @@
+{
+  "entities": "windswept:frostbiter",
+  "items": {
+    "item": "windswept:ginger_root"
+  },
+  "chance": 0.2
+}
