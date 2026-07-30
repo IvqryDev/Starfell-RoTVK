@@ -1,0 +1,7 @@
+[
+  {
+    "action": "replace_input",
+    "target": "windswept:elder_feather",
+    "replacement": "minecraft:feather"
+  }
+]
