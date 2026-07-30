@@ -1,6 +1,6 @@
 {
-  "config_version": "2.0.28",
-  "config_datetime": "2026-06-26_10-11-55",
+  "config_version": "2.0.29",
+  "config_datetime": "2026-07-29_16-54-04",
   "general": {
     "disable_all_structures": false,
     "prevent_structure_overlap": true,
@@ -174,59 +174,27 @@
       "is_disabled": true
     },
     {
-      "name": "ivp:small_village_desert",
-      "is_disabled": true
-    },
-    {
-      "name": "ivp:small_village_plains",
-      "is_disabled": true
-    },
-    {
-      "name": "ivp:small_village_savanna",
-      "is_disabled": true
-    },
-    {
-      "name": "ivp:small_village_snowy",
-      "is_disabled": true
-    },
-    {
-      "name": "ivp:small_village_taiga",
-      "is_disabled": true
-    },
-    {
       "name": "spelunkery:cinnabar_wire",
       "is_disabled": true
     },
     {
-      "name": "structory:abandoned_camp",
+      "name": "windswept:chestnut_weathered_house",
       "is_disabled": true
     },
     {
-      "name": "structory:dense_forest_ruin",
+      "name": "windswept:grove_weathered_house",
       "is_disabled": true
     },
     {
-      "name": "structory:firetower",
+      "name": "windswept:pine_totem",
       "is_disabled": true
     },
     {
-      "name": "structory:graveyard",
+      "name": "windswept:snowy_pine_totem",
       "is_disabled": true
     },
     {
-      "name": "structory:outcast_villager_desert",
-      "is_disabled": true
-    },
-    {
-      "name": "structory:outcast_villager_grassy",
-      "is_disabled": true
-    },
-    {
-      "name": "structory:taiga_ruin_underground",
-      "is_disabled": true
-    },
-    {
-      "name": "supplementaries:galleon",
+      "name": "windswept:village_frozen",
       "is_disabled": true
     }
   ],

@@ -1,6 +1,6 @@
 {
   "config_version": "1.0.4",
-  "config_datetime": "2026-07-14_14-35-30",
+  "config_datetime": "2026-07-29_16-56-21",
   "global": {
     "disable_all_placed_features": false
   },
@@ -187,6 +187,178 @@
     },
     {
       "name": "upgrade_aquatic:river_tree",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:arkose",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:bluebells",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:brittlebushes",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:chestnut_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:common_lions_tail",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:desert_lilies",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:dry_moss_patch_large",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:dry_moss_patch_small",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:dry_moss_rock",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:ferns",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:flowering_acacia_checked",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:gelisol_patch_small",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:holly_bush",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:holly_trees_on_snow",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:larkspurs",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lavender",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lavender_chestnut_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lavender_fields_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lavender_tall_birch_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lions_tail",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lupine",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lush_caves_vegetation",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:mega_spruce_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:old_growth_pine_taiga_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:pine_checked",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:pine_fallen_log",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:pine_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:rare_chestnut_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:rare_flowering_acacia_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:rare_holly_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:rare_holly_trees_on_snow",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:rare_yellow_petals",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:sandy_sprouts",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:snowy_gelisol",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:snowy_sprouts",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:spruce_trees_on_snow",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:tall_birch_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:tall_ferns",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:tundra_fallen_log",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:verbena",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:wild_berry_bush_common",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:windswept_savanna_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:yellow_petals",
       "is_disabled": true
     }
   ]
