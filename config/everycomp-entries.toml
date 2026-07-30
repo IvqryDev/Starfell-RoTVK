@@ -22,6 +22,11 @@
 		[types.wood_type.minecraft]
 			pale_oak = true
 
+		[types.wood_type.windswept]
+			holly = true
+			chestnut = true
+			pine = true
+
 		[types.leaves_type.quark]
 			orange_blossom = false
 			lavender_blossom = false
@@ -55,6 +60,12 @@
 		[types.leaves_type.cookscollection]
 			lemon = true
 			fruiting_lemon = true
+
+		[types.leaves_type.windswept]
+			holly = true
+			chestnut = true
+			pine = true
+			flowering_acacia = true
 
 		[entries.wood_type.quark]
 			ladder = false

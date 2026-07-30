@@ -20,7 +20,8 @@
     "c:concrete_powders",
     "minecraft:enchanted_books",
     "minecraft:lingering_potions",
-    "keeb_struc_fortress:fortress_air_nonreplaceable"
+    "keeb_struc_fortress:fortress_air_nonreplaceable",
+    "minecraft:swords"
   ],
   "stackGroupItemOrder": {},
   "enableCategorizedTagPages": true,
