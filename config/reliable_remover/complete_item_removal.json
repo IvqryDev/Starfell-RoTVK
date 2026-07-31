@@ -558,7 +558,8 @@
             "friendsandfoes:mauler_spawn_egg",
             "friendsandfoes:glare_spawn_egg",
             "friendsandfoes:crab_spawn_egg",
-            "friendsandfoes:crab_egg"
+            "friendsandfoes:crab_egg",
+            "minecraft:carrot_on_a_stick"
         ]
     }
 ]
