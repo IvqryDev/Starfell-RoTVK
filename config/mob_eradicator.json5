@@ -15,6 +15,9 @@
     "minecraft:zombie_villager",
     "minecraft:wandering_trader",
     "minecraft:trader_llama",
-    "supplementaries:red_merchant"
+    "minecraft:zombie_horse",
+    "minecraft:skeleton_horse",
+    "minecraft:donkey",
+    "minecraft:mule"
   ]
 }
