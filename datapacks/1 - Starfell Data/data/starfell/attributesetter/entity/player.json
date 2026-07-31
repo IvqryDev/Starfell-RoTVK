@@ -1,0 +1,9 @@
+{
+  "minecraft:player": [
+    {
+      "attribute": "artifacts:generic.mount_speed",
+      "value": 1.3,
+      "operation": "BASE"
+    }
+  ]
+}
