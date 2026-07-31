@@ -47,6 +47,8 @@
 
     "caverns_and_chasms:lava_lamp": "redomesticate:wayward_lantern",
 
-    "quark:blaze_lantern": "minecraft:shroomlight"
+    "quark:blaze_lantern": "minecraft:shroomlight",
+
+    "minecraft:emerald_block": "minersdelight:cave_carrot_crate"
   }
 }
