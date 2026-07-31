@@ -67,6 +67,23 @@
 			pine = true
 			flowering_acacia = true
 
+		[types.cake.nomansland]
+			fruit_cake = true
+
+		[types.lantern.caverns_and_chasms]
+			cupric_lantern = true
+			copper_lantern = true
+			exposed_copper_lantern = true
+			weathered_copper_lantern = true
+			oxidized_copper_lantern = true
+			waxed_copper_lantern = true
+			waxed_exposed_copper_lantern = true
+			waxed_weathered_copper_lantern = true
+			waxed_oxidized_copper_lantern = true
+
+		[types.lantern.windswept]
+			ice_lantern = true
+
 		[entries.wood_type.quark]
 			ladder = false
 			stripped_post = false

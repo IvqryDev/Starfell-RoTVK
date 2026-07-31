@@ -37,3 +37,5 @@
 /cherishedworlds-favorites.dat
 /.sable/
 /config/zfastnoise.mixin.properties
+/.cache/
+*.bak
