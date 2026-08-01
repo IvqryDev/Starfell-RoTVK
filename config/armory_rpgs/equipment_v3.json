@@ -5,21 +5,6 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
-        "attributes": [
-          {
-            "attribute": "spell_power:arcane",
-            "value": 0.35,
-            "operation": "ADD_MULTIPLIED_BASE"
-          },
-          {
-            "attribute": "spell_power:haste",
-            "value": 0.03,
-            "operation": "ADD_MULTIPLIED_BASE"
-          }
-        ]
-      },
-      "chest": {
         "armor": 3,
         "attributes": [
           {
@@ -34,8 +19,23 @@
           }
         ]
       },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "spell_power:arcane",
+            "value": 0.35,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
       "legs": {
-        "armor": 2,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "spell_power:arcane",
@@ -50,7 +50,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "attribute": "spell_power:arcane",
@@ -69,21 +69,6 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
-        "attributes": [
-          {
-            "attribute": "spell_power:fire",
-            "value": 0.35,
-            "operation": "ADD_MULTIPLIED_BASE"
-          },
-          {
-            "attribute": "spell_power:critical_chance",
-            "value": 0.03,
-            "operation": "ADD_MULTIPLIED_BASE"
-          }
-        ]
-      },
-      "chest": {
         "armor": 3,
         "attributes": [
           {
@@ -98,8 +83,23 @@
           }
         ]
       },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "spell_power:fire",
+            "value": 0.35,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:critical_chance",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
       "legs": {
-        "armor": 2,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "spell_power:fire",
@@ -114,7 +114,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "attribute": "spell_power:fire",
@@ -133,21 +133,6 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
-        "attributes": [
-          {
-            "attribute": "spell_power:frost",
-            "value": 0.35,
-            "operation": "ADD_MULTIPLIED_BASE"
-          },
-          {
-            "attribute": "spell_power:critical_damage",
-            "value": 0.08,
-            "operation": "ADD_MULTIPLIED_BASE"
-          }
-        ]
-      },
-      "chest": {
         "armor": 3,
         "attributes": [
           {
@@ -162,8 +147,23 @@
           }
         ]
       },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "spell_power:frost",
+            "value": 0.35,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:critical_damage",
+            "value": 0.08,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
       "legs": {
-        "armor": 2,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "spell_power:frost",
@@ -178,7 +178,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "attribute": "spell_power:frost",
@@ -197,7 +197,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "spell_power:healing",
@@ -212,7 +212,7 @@
         ]
       },
       "chest": {
-        "armor": 3,
+        "armor": 6,
         "attributes": [
           {
             "attribute": "spell_power:healing",
@@ -227,7 +227,7 @@
         ]
       },
       "legs": {
-        "armor": 2,
+        "armor": 5,
         "attributes": [
           {
             "attribute": "spell_power:healing",
@@ -242,7 +242,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "spell_power:healing",
@@ -276,7 +276,7 @@
         ]
       },
       "chest": {
-        "armor": 8,
+        "armor": 7,
         "attributes": [
           {
             "attribute": "minecraft:generic.armor_toughness",
@@ -291,7 +291,7 @@
         ]
       },
       "legs": {
-        "armor": 6,
+        "armor": 7,
         "attributes": [
           {
             "attribute": "minecraft:generic.armor_toughness",
@@ -365,7 +365,7 @@
         }
       },
       "chest": {
-        "armor": 8,
+        "armor": 7,
         "attributes": [
           {
             "attribute": "minecraft:generic.attack_damage",
@@ -405,7 +405,7 @@
         }
       },
       "legs": {
-        "armor": 6,
+        "armor": 7,
         "attributes": [
           {
             "attribute": "minecraft:generic.attack_damage",
@@ -489,7 +489,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 2,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "spell_engine:evasion_chance",
@@ -609,7 +609,7 @@
         }
       },
       "feet": {
-        "armor": 2,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "spell_engine:evasion_chance",
@@ -653,7 +653,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 2,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "ranged_weapon:damage",
@@ -668,7 +668,7 @@
         ]
       },
       "chest": {
-        "armor": 4,
+        "armor": 6,
         "attributes": [
           {
             "attribute": "ranged_weapon:damage",
@@ -683,7 +683,7 @@
         ]
       },
       "legs": {
-        "armor": 4,
+        "armor": 5,
         "attributes": [
           {
             "attribute": "ranged_weapon:damage",
@@ -698,7 +698,7 @@
         ]
       },
       "feet": {
-        "armor": 2,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "ranged_weapon:damage",
@@ -717,21 +717,6 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
-        "attributes": [
-          {
-            "attribute": "spell_power:arcane",
-            "value": 0.35,
-            "operation": "ADD_MULTIPLIED_BASE"
-          },
-          {
-            "attribute": "spell_power:critical_damage",
-            "value": 0.08,
-            "operation": "ADD_MULTIPLIED_BASE"
-          }
-        ]
-      },
-      "chest": {
         "armor": 3,
         "attributes": [
           {
@@ -746,8 +731,23 @@
           }
         ]
       },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "spell_power:arcane",
+            "value": 0.35,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:critical_damage",
+            "value": 0.08,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
       "legs": {
-        "armor": 2,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "spell_power:arcane",
@@ -762,7 +762,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "attribute": "spell_power:arcane",
@@ -781,21 +781,6 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 1,
-        "attributes": [
-          {
-            "attribute": "spell_power:fire",
-            "value": 0.35,
-            "operation": "ADD_MULTIPLIED_BASE"
-          },
-          {
-            "attribute": "spell_power:haste",
-            "value": 0.03,
-            "operation": "ADD_MULTIPLIED_BASE"
-          }
-        ]
-      },
-      "chest": {
         "armor": 3,
         "attributes": [
           {
@@ -810,8 +795,23 @@
           }
         ]
       },
+      "chest": {
+        "armor": 4,
+        "attributes": [
+          {
+            "attribute": "spell_power:fire",
+            "value": 0.35,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "spell_power:haste",
+            "value": 0.03,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
       "legs": {
-        "armor": 2,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "spell_power:fire",
@@ -826,7 +826,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 3,
         "attributes": [
           {
             "attribute": "spell_power:fire",

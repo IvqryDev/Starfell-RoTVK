@@ -1,0 +1,9 @@
+{
+  "minecraft:wolf_armor": [
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": 25,
+      "operation": "BASE"
+    }
+  ]
+}

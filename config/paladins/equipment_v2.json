@@ -168,7 +168,7 @@
         ]
       },
       "chest": {
-        "armor": 6,
+        "armor": 5,
         "attributes": [
           {
             "attribute": "spell_power:healing",
@@ -178,7 +178,7 @@
         ]
       },
       "legs": {
-        "armor": 5,
+        "armor": 4,
         "attributes": [
           {
             "attribute": "spell_power:healing",
@@ -212,16 +212,6 @@
         ]
       },
       "chest": {
-        "armor": 8,
-        "attributes": [
-          {
-            "attribute": "spell_power:healing",
-            "value": 1.0,
-            "operation": "ADD_VALUE"
-          }
-        ]
-      },
-      "legs": {
         "armor": 6,
         "attributes": [
           {
@@ -231,8 +221,18 @@
           }
         ]
       },
+      "legs": {
+        "armor": 5,
+        "attributes": [
+          {
+            "attribute": "spell_power:healing",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          }
+        ]
+      },
       "feet": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "attribute": "spell_power:healing",
@@ -261,7 +261,7 @@
         ]
       },
       "chest": {
-        "armor": 8,
+        "armor": 7,
         "attributes": [
           {
             "attribute": "minecraft:generic.armor_toughness",
@@ -291,7 +291,7 @@
         ]
       },
       "feet": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "attribute": "minecraft:generic.armor_toughness",

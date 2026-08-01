@@ -4,12 +4,22 @@
       "attribute": "critical_strike:chance",
       "value": 0.015,
       "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.01,
+      "operation": "MULTIPLY_BASE"
     }
   ],
   "paladins:paladin_armor_legs": [
     {
       "attribute": "critical_strike:chance",
       "value": 0.015,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.03,
       "operation": "MULTIPLY_BASE"
     }
   ],
@@ -18,12 +28,22 @@
       "attribute": "critical_strike:chance",
       "value": 0.015,
       "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.03,
+      "operation": "MULTIPLY_BASE"
     }
   ],
   "paladins:paladin_armor_head": [
     {
       "attribute": "critical_strike:chance",
       "value": 0.015,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.01,
       "operation": "MULTIPLY_BASE"
     }
   ],
@@ -32,12 +52,22 @@
       "attribute": "critical_strike:chance",
       "value": 0.02,
       "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.02,
+      "operation": "MULTIPLY_BASE"
     }
   ],
   "paladins:crusader_armor_legs": [
     {
       "attribute": "critical_strike:chance",
       "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.04,
       "operation": "MULTIPLY_BASE"
     }
   ],
@@ -46,12 +76,22 @@
       "attribute": "critical_strike:chance",
       "value": 0.02,
       "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.04,
+      "operation": "MULTIPLY_BASE"
     }
   ],
   "paladins:crusader_armor_head": [
     {
       "attribute": "critical_strike:chance",
       "value": 0.02,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.02,
       "operation": "MULTIPLY_BASE"
     }
   ],
@@ -60,12 +100,22 @@
       "attribute": "critical_strike:chance",
       "value": 0.03,
       "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.03,
+      "operation": "MULTIPLY_BASE"
     }
   ],
   "paladins:netherite_crusader_armor_legs": [
     {
       "attribute": "critical_strike:chance",
       "value": 0.03,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.05,
       "operation": "MULTIPLY_BASE"
     }
   ],
@@ -74,12 +124,22 @@
       "attribute": "critical_strike:chance",
       "value": 0.03,
       "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.05,
+      "operation": "MULTIPLY_BASE"
     }
   ],
   "paladins:netherite_crusader_armor_head": [
     {
       "attribute": "critical_strike:chance",
       "value": 0.03,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.03,
       "operation": "MULTIPLY_BASE"
     }
   ],
@@ -88,12 +148,22 @@
       "attribute": "critical_strike:chance",
       "value": 0.04,
       "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.035,
+      "operation": "MULTIPLY_BASE"
     }
   ],
   "armory_rpgs:justicar_armor_legs": [
     {
       "attribute": "critical_strike:chance",
       "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.055,
       "operation": "MULTIPLY_BASE"
     }
   ],
@@ -102,12 +172,22 @@
       "attribute": "critical_strike:chance",
       "value": 0.04,
       "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.055,
+      "operation": "MULTIPLY_BASE"
     }
   ],
   "armory_rpgs:justicar_armor_head": [
     {
       "attribute": "critical_strike:chance",
       "value": 0.04,
+      "operation": "MULTIPLY_BASE"
+    },
+    {
+      "attribute": "combat_roll:recharge",
+      "value": -0.035,
       "operation": "MULTIPLY_BASE"
     }
   ]

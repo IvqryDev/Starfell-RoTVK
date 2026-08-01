@@ -324,7 +324,7 @@
       "armor_toughness": 0.0,
       "knockback_resistance": 0.0,
       "head": {
-        "armor": 2,
+        "armor": 3,
         "attributes": [
           {
             "attribute": "spell_engine:evasion_chance",
@@ -444,7 +444,7 @@
         }
       },
       "feet": {
-        "armor": 2,
+        "armor": 3,
         "attributes": [
           {
             "attribute": "spell_engine:evasion_chance",
@@ -518,7 +518,7 @@
         ]
       },
       "feet": {
-        "armor": 1,
+        "armor": 2,
         "attributes": [
           {
             "attribute": "minecraft:generic.attack_damage",
@@ -562,36 +562,6 @@
         }
       },
       "chest": {
-        "armor": 8,
-        "attributes": [
-          {
-            "attribute": "minecraft:generic.attack_damage",
-            "value": 0.05,
-            "operation": "ADD_MULTIPLIED_BASE"
-          },
-          {
-            "attribute": "minecraft:generic.knockback_resistance",
-            "value": 0.1,
-            "operation": "ADD_VALUE"
-          }
-        ],
-        "conditional_attributes": {
-          "required_mod": "critical_strike",
-          "attributes": [
-            {
-              "attribute": "minecraft:generic.attack_damage",
-              "value": 0.05,
-              "operation": "ADD_MULTIPLIED_BASE"
-            },
-            {
-              "attribute": "critical_strike:damage",
-              "value": 0.04,
-              "operation": "ADD_MULTIPLIED_BASE"
-            }
-          ]
-        }
-      },
-      "legs": {
         "armor": 6,
         "attributes": [
           {
@@ -621,8 +591,38 @@
           ]
         }
       },
+      "legs": {
+        "armor": 5,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "ADD_VALUE"
+          }
+        ],
+        "conditional_attributes": {
+          "required_mod": "critical_strike",
+          "attributes": [
+            {
+              "attribute": "minecraft:generic.attack_damage",
+              "value": 0.05,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "critical_strike:damage",
+              "value": 0.04,
+              "operation": "ADD_MULTIPLIED_BASE"
+            }
+          ]
+        }
+      },
       "feet": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "attribute": "minecraft:generic.attack_damage",
@@ -696,46 +696,6 @@
         }
       },
       "chest": {
-        "armor": 8,
-        "attributes": [
-          {
-            "attribute": "minecraft:generic.attack_damage",
-            "value": 0.05,
-            "operation": "ADD_MULTIPLIED_BASE"
-          },
-          {
-            "attribute": "minecraft:generic.armor_toughness",
-            "value": 1.0,
-            "operation": "ADD_VALUE"
-          },
-          {
-            "attribute": "minecraft:generic.knockback_resistance",
-            "value": 0.1,
-            "operation": "ADD_VALUE"
-          }
-        ],
-        "conditional_attributes": {
-          "required_mod": "critical_strike",
-          "attributes": [
-            {
-              "attribute": "minecraft:generic.attack_damage",
-              "value": 0.05,
-              "operation": "ADD_MULTIPLIED_BASE"
-            },
-            {
-              "attribute": "minecraft:generic.armor_toughness",
-              "value": 1.0,
-              "operation": "ADD_VALUE"
-            },
-            {
-              "attribute": "critical_strike:damage",
-              "value": 0.05,
-              "operation": "ADD_MULTIPLIED_BASE"
-            }
-          ]
-        }
-      },
-      "legs": {
         "armor": 6,
         "attributes": [
           {
@@ -775,8 +735,48 @@
           ]
         }
       },
+      "legs": {
+        "armor": 7,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.attack_damage",
+            "value": 0.05,
+            "operation": "ADD_MULTIPLIED_BASE"
+          },
+          {
+            "attribute": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "minecraft:generic.knockback_resistance",
+            "value": 0.1,
+            "operation": "ADD_VALUE"
+          }
+        ],
+        "conditional_attributes": {
+          "required_mod": "critical_strike",
+          "attributes": [
+            {
+              "attribute": "minecraft:generic.attack_damage",
+              "value": 0.05,
+              "operation": "ADD_MULTIPLIED_BASE"
+            },
+            {
+              "attribute": "minecraft:generic.armor_toughness",
+              "value": 1.0,
+              "operation": "ADD_VALUE"
+            },
+            {
+              "attribute": "critical_strike:damage",
+              "value": 0.05,
+              "operation": "ADD_MULTIPLIED_BASE"
+            }
+          ]
+        }
+      },
       "feet": {
-        "armor": 3,
+        "armor": 2,
         "attributes": [
           {
             "attribute": "minecraft:generic.attack_damage",
