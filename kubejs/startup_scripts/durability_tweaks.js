@@ -276,6 +276,8 @@ ItemEvents.modification(event => {
 	maxDura('newworld:ancient_mattock', 5120)
 	maxDura('minecraft:mace', 2560)
 	maxDura('oreganized:scribe', 2560)
+	maxDura('shieldexp:wooden_shield', 128)
+	maxDura('shieldexp:golden_shield', 64)
 	maxDura('shieldexp:iron_shield', 1024)
 	maxDura('shieldexp:diamond_shield', 6174)
 	maxDura('shieldexp:netherite_shield', 1920)

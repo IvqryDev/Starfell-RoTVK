@@ -1,0 +1,19 @@
+{
+    "type": "alloyed:forging_shaped",
+    "pattern": [
+      " g ",
+      "gsg",
+      " g "
+    ],
+    "key": {
+      "g": {
+        "item": "minecraft:gold_ingot"
+      },
+      "s": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "id": "shieldexp:golden_shield"
+    }
+  }

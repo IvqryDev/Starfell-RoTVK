@@ -1,4 +1,7 @@
 {
-  "item.shieldexp.diamond_shield": "First-Age Shield",
-  "item.shieldexp.netherite_shield": "Ancient Metal Shield"
+  "item.shieldexp.wooden_shield": "Oakenshield",
+  "item.shieldexp.golden_shield": "Order Targe",
+  "item.shieldexp.iron_shield": "Iron Buckler",
+  "item.shieldexp.diamond_shield": "Ornamental Shield",
+  "item.shieldexp.netherite_shield": "Ancient Metal Greatshield"
 }

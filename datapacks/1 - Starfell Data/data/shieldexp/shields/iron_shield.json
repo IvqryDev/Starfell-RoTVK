@@ -3,7 +3,7 @@
   "speedFactor": -0.075,
   "parryDamage": 0.40,
   "parryTicks": 4,
-  "stamina": 3,
+  "stamina": 4,
   "blastResistance": 0.20,
   "flatDamage": 4
 }

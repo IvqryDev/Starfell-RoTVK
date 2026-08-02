@@ -1,0 +1,88 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Nekomaster1000, IvqryDev",
+	"textures": {
+		"1": "shieldexp:item/netherite_handle",
+		"2": "shieldexp:item/netherite_shield",
+		"particle": "shieldexp:item/netherite_shield"
+	},
+	"elements": [
+		{
+			"from": [-1, -3, -5],
+			"to": [1, 3, 1],
+			"faces": {
+				"north": {"uv": [10, 1.5, 10.5, 3], "texture": "#1"},
+				"east": {"uv": [8.5, 1.5, 10, 3], "texture": "#1"},
+				"south": {"uv": [8, 1.5, 8.5, 3], "texture": "#1"},
+				"west": {"uv": [6.5, 1.5, 8, 3], "texture": "#1"},
+				"up": {"uv": [8, 0, 8.5, 1.5], "texture": "#1"},
+				"down": {"uv": [8.5, 1.5, 9, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "netherite_shield_0",
+			"from": [-6, -8, 1],
+			"to": [6, 8, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, -8, 1]},
+			"faces": {
+				"north": {"uv": [14, 0, 2, 16], "texture": "#2"},
+				"east": {"uv": [13, 0, 14, 16], "texture": "#2"},
+				"south": {"uv": [2, 0, 14, 16], "texture": "#2"},
+				"west": {"uv": [2, 0, 3, 16], "texture": "#2"},
+				"up": {"uv": [2, 0, 14, 1], "texture": "#2"},
+				"down": {"uv": [2, 15, 14, 16], "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [43, 165, 0],
+			"translation": [-6.5, 12.5, -2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-135, 22.5, -180],
+			"translation": [10.25, 9, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, 0, 170],
+			"translation": [-12.5, 5, -12],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-180, 0, 170],
+			"translation": [7.25, 8.25, -12],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"ground": {
+			"translation": [5, 8, 5],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"gui": {
+			"rotation": [22.5, -45, 0],
+			"translation": [0.75, 2.75, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [-8, 8, -6]
+		}
+	},
+	"groups": [
+		0,
+		{
+			"name": "iron_shield",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "netherite_shield",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [1]
+		}
+	]
+}

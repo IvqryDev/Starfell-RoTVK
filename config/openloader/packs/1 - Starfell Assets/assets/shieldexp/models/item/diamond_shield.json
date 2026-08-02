@@ -1,0 +1,186 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Nekomaster1000, IvqryDev",
+	"textures": {
+		"1": "shieldexp:item/diamond_handle",
+		"2": "shieldexp:item/diamond_shield",
+		"particle": "shieldexp:item/diamond_shield"
+	},
+	"elements": [
+		{
+			"from": [7, 5, -6],
+			"to": [9, 11, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, -1]},
+			"faces": {
+				"north": {"uv": [10, 1.5, 10.5, 3], "texture": "#1"},
+				"east": {"uv": [8.5, 1.5, 10, 3], "texture": "#1"},
+				"south": {"uv": [8, 1.5, 8.5, 3], "texture": "#1"},
+				"west": {"uv": [6.5, 1.5, 8, 3], "texture": "#1"},
+				"up": {"uv": [8, 0, 8.5, 1.5], "texture": "#1"},
+				"down": {"uv": [8.5, 1.5, 9, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "diamond_shield_0",
+			"from": [5, 1, 0],
+			"to": [11, 15, 1],
+			"faces": {
+				"north": {"uv": [11, 1, 5, 15], "texture": "#2"},
+				"east": {"uv": [10, 1, 11, 15], "texture": "#2"},
+				"south": {"uv": [5, 1, 11, 15], "texture": "#2"},
+				"west": {"uv": [5, 1, 6, 15], "texture": "#2"},
+				"up": {"uv": [5, 1, 11, 2], "texture": "#2"},
+				"down": {"uv": [5, 14, 11, 15], "texture": "#2"}
+			}
+		},
+		{
+			"name": "diamond_shield_1",
+			"from": [2, 4, 0],
+			"to": [4, 14, 1],
+			"faces": {
+				"north": {"uv": [4, 2, 2, 12], "texture": "#2"},
+				"east": {"uv": [3, 2, 4, 12], "texture": "#2"},
+				"south": {"uv": [2, 2, 4, 12], "texture": "#2"},
+				"west": {"uv": [2, 2, 3, 12], "texture": "#2"},
+				"up": {"uv": [2, 2, 4, 3], "texture": "#2"},
+				"down": {"uv": [2, 11, 4, 12], "texture": "#2"}
+			}
+		},
+		{
+			"name": "diamond_shield_2",
+			"from": [12, 4, 0],
+			"to": [14, 14, 1],
+			"faces": {
+				"north": {"uv": [14, 2, 12, 12], "texture": "#2"},
+				"east": {"uv": [13, 2, 14, 12], "texture": "#2"},
+				"south": {"uv": [12, 2, 14, 12], "texture": "#2"},
+				"west": {"uv": [12, 2, 13, 12], "texture": "#2"},
+				"up": {"uv": [12, 2, 14, 3], "texture": "#2"},
+				"down": {"uv": [12, 11, 14, 12], "texture": "#2"}
+			}
+		},
+		{
+			"name": "diamond_shield_3",
+			"from": [4, 3, 0],
+			"to": [5, 13, 1],
+			"faces": {
+				"north": {"uv": [5, 3, 4, 13], "texture": "#2"},
+				"east": {"uv": [4, 3, 5, 13], "texture": "#2"},
+				"south": {"uv": [4, 3, 5, 13], "texture": "#2"},
+				"west": {"uv": [4, 3, 5, 13], "texture": "#2"},
+				"up": {"uv": [4, 3, 5, 4], "texture": "#2"},
+				"down": {"uv": [4, 12, 5, 13], "texture": "#2"}
+			}
+		},
+		{
+			"name": "diamond_shield_4",
+			"from": [11, 3, 0],
+			"to": [12, 13, 1],
+			"faces": {
+				"north": {"uv": [12, 3, 11, 13], "texture": "#2"},
+				"east": {"uv": [11, 3, 12, 13], "texture": "#2"},
+				"south": {"uv": [11, 3, 12, 13], "texture": "#2"},
+				"west": {"uv": [11, 3, 12, 13], "texture": "#2"},
+				"up": {"uv": [11, 3, 12, 4], "texture": "#2"},
+				"down": {"uv": [11, 12, 12, 13], "texture": "#2"}
+			}
+		},
+		{
+			"name": "diamond_shield_5",
+			"from": [1, 9, 0],
+			"to": [2, 11, 1],
+			"faces": {
+				"north": {"uv": [2, 5, 1, 7], "texture": "#2"},
+				"east": {"uv": [1, 5, 2, 7], "texture": "#2"},
+				"south": {"uv": [1, 5, 2, 7], "texture": "#2"},
+				"west": {"uv": [1, 5, 2, 7], "texture": "#2"},
+				"up": {"uv": [1, 5, 2, 6], "texture": "#2"},
+				"down": {"uv": [1, 6, 2, 7], "texture": "#2"}
+			}
+		},
+		{
+			"name": "diamond_shield_6",
+			"from": [14, 9, 0],
+			"to": [15, 11, 1],
+			"faces": {
+				"north": {"uv": [15, 5, 14, 7], "texture": "#2"},
+				"east": {"uv": [14, 5, 15, 7], "texture": "#2"},
+				"south": {"uv": [14, 5, 15, 7], "texture": "#2"},
+				"west": {"uv": [14, 5, 15, 7], "texture": "#2"},
+				"up": {"uv": [14, 5, 15, 6], "texture": "#2"},
+				"down": {"uv": [14, 6, 15, 7], "texture": "#2"}
+			}
+		},
+		{
+			"name": "diamond_shield_7",
+			"from": [1, 6, 0],
+			"to": [2, 8, 1],
+			"faces": {
+				"north": {"uv": [2, 8, 1, 10], "texture": "#2"},
+				"east": {"uv": [1, 8, 2, 10], "texture": "#2"},
+				"south": {"uv": [1, 8, 2, 10], "texture": "#2"},
+				"west": {"uv": [1, 8, 2, 10], "texture": "#2"},
+				"up": {"uv": [1, 8, 2, 9], "texture": "#2"},
+				"down": {"uv": [1, 9, 2, 10], "texture": "#2"}
+			}
+		},
+		{
+			"name": "diamond_shield_8",
+			"from": [14, 6, 0],
+			"to": [15, 8, 1],
+			"faces": {
+				"north": {"uv": [15, 8, 14, 10], "texture": "#2"},
+				"east": {"uv": [14, 8, 15, 10], "texture": "#2"},
+				"south": {"uv": [14, 8, 15, 10], "texture": "#2"},
+				"west": {"uv": [14, 8, 15, 10], "texture": "#2"},
+				"up": {"uv": [14, 8, 15, 9], "texture": "#2"},
+				"down": {"uv": [14, 9, 15, 10], "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"overrides": [
+		{"predicate": {"blocking": 1}, "model": "shieldexp:item/diamond_shield_blocking"}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [11, -2, 3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [11, -2, 3]
+		},
+		"firstperson_righthand": {
+			"rotation": [90, -90, 135],
+			"translation": [1, -2.5, -3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [90, -90, 135],
+			"translation": [1, -2.5, -3]
+		},
+		"ground": {
+			"translation": [0, 2, 4.5],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"gui": {
+			"rotation": [22.5, -45, 0],
+			"translation": [-5.25, -2, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0, -7]
+		}
+	},
+	"groups": [
+		0,
+		{
+			"name": "diamond_shield",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+		}
+	]
+}
