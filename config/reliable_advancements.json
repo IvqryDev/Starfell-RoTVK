@@ -5,6 +5,8 @@
   "addToInventory": false,
   "showDebugCoordinates": true,
   "orderTabsAlphabetically": false,
+  "tabSortOrder": [],
+  "unclampedScrolling": false,
   "uiScaling": 100,
   "onlyUseAboveAdvancementTabs": false,
   "discoveryMode": false,

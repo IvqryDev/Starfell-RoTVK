@@ -1807,6 +1807,54 @@
     "rpg_series:trade_with_monk": [
       64,
       499
+    ],
+    "darkerdepths:story/root": [
+      0,
+      60
+    ],
+    "darkerdepths:visited/molten_cavern": [
+      32,
+      13
+    ],
+    "darkerdepths:visited/sandy_catacombs": [
+      32,
+      67
+    ],
+    "darkerdepths:visited/structure/visited_catacombs": [
+      64,
+      81
+    ],
+    "darkerdepths:activities/obtain_forsaken_bronze_scrap": [
+      96,
+      81
+    ],
+    "darkerdepths:visited/glowshroom_forest": [
+      32,
+      108
+    ],
+    "darkerdepths:activities/bottle_void_soul": [
+      64,
+      54
+    ],
+    "darkerdepths:activities/elytra_boosted_by_geyser": [
+      64,
+      27
+    ],
+    "darkerdepths:activities/insert_diamond_into_crystal_husk": [
+      64,
+      0
+    ],
+    "darkerdepths:activities/set_death_anchor": [
+      128,
+      81
+    ],
+    "darkerdepths:activities/obtain_glowshroom_cap": [
+      64,
+      108
+    ],
+    "darkerdepths:activities/use_crystal_melon": [
+      96,
+      0
     ]
   },
   "tab_properties": {
@@ -1961,6 +2009,16 @@
       "background_rules": "[]"
     },
     "starfell:a_divine_mission": {
+      "title": "",
+      "static_background": false,
+      "bg_width": 16,
+      "bg_height": 16,
+      "width": 0,
+      "height": 0,
+      "index": 5,
+      "background_rules": "[]"
+    },
+    "darkerdepths:story/root": {
       "title": "",
       "static_background": false,
       "bg_width": 16,

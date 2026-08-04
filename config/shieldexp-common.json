@@ -38,7 +38,7 @@
   "tooltipStamina": true,
   "tooltipSpeed": false,
   "tooltipParryDamage": true,
-  "tooltipParryWindow": true,
+  "tooltipParryWindow": false,
   "tooltipBlastResistance": false,
   "hudIndicator": false,
   "hudXOffset": 0,

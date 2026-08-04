@@ -1,0 +1,41 @@
+{
+  "block.redomesticate.wayward_lantern": "Wayward Lantern",
+
+  "enchantment.redomesticate.amphibious": "Calming",
+  "enchantment.redomesticate.amphibious.desc": "Attunes your companion to the water enhancing their swimming skills and lung capacity.",
+
+  "enchantment.redomesticate.deflection": "Royal Guard",
+  "enchantment.redomesticate.deflection.desc": "Grants your companion a magic barrier to deflect all physical projectiles; Sister rune to Trickster.",
+
+  "enchantment.redomesticate.frost_fang": "Frostbite",
+  "enchantment.redomesticate.frost_fang.desc": "Imbues your companion's strike with a cryonic essence to slow down enemies.",
+
+  "enchantment.redomesticate.healing_aura": "Iatro",
+  "enchantment.redomesticate.healing_aura.desc": "Allows your companion to heal you and others around them.",
+
+  "enchantment.redomesticate.health_boost": "Vigor",
+  "enchantment.redomesticate.health_boost.desc": "Enhances the stature and vitality of your companion.",
+
+  "enchantment.redomesticate.health_siphon": "Connection",
+  "enchantment.redomesticate.health_siphon.desc": "Transfers all damage your companion takes to you instead.",
+
+  "enchantment.redomesticate.immunity_frame": "Trickster",
+  "enchantment.redomesticate.immunity_frame.desc": "Protects your companion for a time after an attack; Sister rune to Royal Guard.",
+
+  "enchantment.redomesticate.tethered_teleport": "Riftwalker",
+  "enchantment.redomesticate.tethered_teleport.desc": "Grants your companion the ability to walk between worlds.",
+
+  "item.redomesticate.collar_tag": "Collar",
+  "message.redomesticate.command_0": "%s is wandering.",
+  "message.redomesticate.command_1": "%s is staying.",
+  "message.redomesticate.command_2": "%s is following.",
+  "message.redomesticate.drum_command_0": "Ordered %s to wander.",
+  "message.redomesticate.drum_command_1": "Ordered %s to stay.",
+  "message.redomesticate.drum_command_2": "Ordered %s to follow.",
+  "message.redomesticate.enchantments": "Rune Sockets:",
+  "message.redomesticate.goodbye": "%s will not respawn. Goodbye...",
+  "message.redomesticate.remove_respawn": "Removed respawn bed of %s.",
+  "message.redomesticate.respawn": "%s has respawned at its bed.",
+  "message.redomesticate.set_owner": "%s is now the owner of %s.",
+  "message.redomesticate.wayward_lantern_return": "%s has found its way to a nearby Wayward Lantern."
+}
