@@ -3,11 +3,11 @@ forceClientImplementation = false
 #Should space-clicking move all items even if an empty slot was clicked?
 allowBulkTransferAllOnEmptySlot = false
 #Should space-clicking armor in the inventory swap to all matching armor?
-bulkTransferArmorSets = true
+bulkTransferArmorSets = false
 #Should holding shift and moving your mouse over items quick-transfer them without requiring each to be clicked?
 enableShiftDrag = true
 #Should space-clicking an item move all items from that inventory at once?
-enableBulkTransferAll = true
+enableBulkTransferAll = false
 #Should ctrl-clicking only move one item at a time instead of the full stack?
 enableSingleTransfer = true
 #Should shift-ctrl-clicking move all items of the same type at once?
@@ -20,6 +20,6 @@ enableBulkTransferSingle = true
 #Allowed Values: CONSOLIDATE_ONLY, RETAIN_ORDER, ALPHABETICAL, CREATIVE
 inventorySorting = "CREATIVE"
 #Should broken tools automatically be replaced from the inventory?
-enableToolRefill = true
+enableToolRefill = false
 #Should depleted block stacks automatically be replaced from the inventory?
 enableStackRefill = true
