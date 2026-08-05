@@ -1,0 +1,8 @@
+{
+  "enchantment.combat_roll.longfooted" : "Longfooted",
+  "enchantment.combat_roll.longfooted.desc" : "Increases the distance of your rolls",
+  "enchantment.combat_roll.acrobat" : "Dexterity",
+  "enchantment.combat_roll.acrobat.desc" : "Improves acrobatic abilities allowing you to dodge roll more frequently.",
+  "enchantment.combat_roll.multi_roll" : "Multi-Roll",
+  "enchantment.combat_roll.multi_roll.desc" : "Grants extra rolls"
+}

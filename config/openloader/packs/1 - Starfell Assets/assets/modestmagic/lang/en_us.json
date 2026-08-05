@@ -15,5 +15,11 @@
   "item.modestmagic.enchantment_tablet_puncturing": "Rune of The Lancer",
   "item.modestmagic.enchantment_tablet_enduring": "Rune of The Avatar",
   "item.modestmagic.enchantment_tablet_secure": "Rune of The Justicar",
-  "item.modestmagic.enchantment_tablet_heavy": "Mythril Scrap Plating"
+  "item.modestmagic.enchantment_tablet_heavy": "Mythril Scrap Plating",
+
+  "tag.modestmagic.head_armor": "Helmets",
+  "tag.modestmagic.chest_armor": "Chestplates",
+  "tag.modestmagic.leg_armor": "Leggings",
+  "tag.modestmagic.foot_armor": "Boots",
+  "tag.modestmagic.tridents": "Tridents"
 }

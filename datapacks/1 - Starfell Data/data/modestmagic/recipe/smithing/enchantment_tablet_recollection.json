@@ -4,7 +4,7 @@
     "item": "modestmagic:enchantment_tablet_recollection"
   },
   "base": {
-    "tag": "minecraft:enchantable/durability"
+    "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
     "minecraft:thorns",

@@ -4,11 +4,12 @@
     "item": "modestmagic:enchantment_tablet_haunted"
   },
   "base": {
-    "tag": "minecraft:enchantable/durability"
+    "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
     "allurement:alleviating",
     "minecraft:sharpness",
-    "minecraft:multishot"
+    "minecraft:multishot",
+    "redomesticate:health_boost"
   ]
 }

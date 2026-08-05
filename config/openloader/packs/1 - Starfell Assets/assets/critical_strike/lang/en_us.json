@@ -4,9 +4,9 @@
   "effect.critical_strike.chance": "Crucial",
   "effect.critical_strike.chance.description": "Increases the chance to deal critical hits.",
   "effect.critical_strike.damage": "Critical Impact",
-  "effect.critical_strike.damage.description": "Increases the damage dealt by critical hits.",
+  "effect.critical_strike.damage.description": "Increases the severity of your critical strikes.",
   "enchantment.critical_strike.chance": "Technique",
-  "enchantment.critical_strike.chance.description": "Increase chance to deal critical hits.",
+  "enchantment.critical_strike.chance.description": "Improves your ability to land critical strikes.",
   "enchantment.critical_strike.damage": "Impact",
   "enchantment.critical_strike.damage.description": "Increase damage dealt by critical hits.",
   "item.minecraft.lingering_potion.effect.critical_strike_chance": "Lingering Potion of Critical Hit",
@@ -17,5 +17,5 @@
   "item.minecraft.splash_potion.effect.critical_strike_damage": "Splash Potion of Critical Impact",
   "item.minecraft.tipped_arrow.effect.critical_strike_chance": "Arrow of Critical Hit",
   "item.minecraft.tipped_arrow.effect.critical_strike_damage": "Arrow of Critical Impact",
-  "tag.critical_strike.enchantable.weapon": "Enchantable Melee & Ranged Weapons"
+  "tag.critical_strike.enchantable.weapon": "Melee & Ranged Armaments"
 }

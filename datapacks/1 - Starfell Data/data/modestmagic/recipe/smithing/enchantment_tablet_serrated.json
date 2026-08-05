@@ -4,11 +4,12 @@
     "item": "modestmagic:enchantment_tablet_serrated"
   },
   "base": {
-    "tag": "minecraft:enchantable/durability"
+    "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
     "critical_strike:chance",
     "allurement:vengeance",
-    "spell_power:critical_chance"
+    "spell_power:critical_chance",
+    "redomesticate:immunity_frame"
   ]
 }

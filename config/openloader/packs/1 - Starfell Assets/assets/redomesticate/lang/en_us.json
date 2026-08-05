@@ -37,5 +37,7 @@
   "message.redomesticate.remove_respawn": "Removed respawn bed of %s.",
   "message.redomesticate.respawn": "%s has respawned at its bed.",
   "message.redomesticate.set_owner": "%s is now the owner of %s.",
-  "message.redomesticate.wayward_lantern_return": "%s has found its way to a nearby Wayward Lantern."
+  "message.redomesticate.wayward_lantern_return": "%s has found its way to a nearby Wayward Lantern.",
+
+  "tag.redomesticate.collar_tag_key": "Collars"
 }

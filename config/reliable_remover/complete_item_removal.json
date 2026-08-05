@@ -480,14 +480,6 @@
             "minecraft:blaze_rod",
             "minecraft:firework_rocket",
             "minecraft:firework_star",
-            "frame_changer:crying_obsidian_pillar",
-            "frame_changer:crying_chiseled_obsidian",
-            "frame_changer:crying_polished_obsidian",
-            "frame_changer:crying_obsidian_bricks",
-            "frame_changer:obsidian_pillar",
-            "frame_changer:chiseled_obsidian",
-            "frame_changer:polished_obsidian",
-            "frame_changer:obsidian_bricks",
             "brewinandchewin:pizza",
             "brewinandchewin:pizza_slice",
             "minersdelight:vegan_hamburger",
@@ -587,7 +579,19 @@
             "armory_rpgs:smouldering_robe_chest",
             "armory_rpgs:smouldering_robe_legs",
             "armory_rpgs:smouldering_robe_feet",
-            "armory_rpgs:onslaught_armor_legs"
+            "armory_rpgs:onslaught_armor_legs",
+            "undead_unleashed:demon_broth",
+            "block_factorys_bosses:pirate_saber",
+            "minecraft:fermented_spider_eye",
+            "undead_unleashed:knight_sword",
+            "minecraft:leather_horse_armor",
+            "minecraft:iron_horse_armor",
+            "minecraft:golden_horse_armor",
+            "minecraft:diamond_horse_armor",
+            "undead_unleashed:plate_chestplate",
+            "undead_unleashed:plate_helmet",
+            "undead_unleashed:plate_boots",
+            "undead_unleashed:plate_leggings"
         ]
     }
 ]

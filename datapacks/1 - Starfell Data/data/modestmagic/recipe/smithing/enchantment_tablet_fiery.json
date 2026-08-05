@@ -4,10 +4,11 @@
     "item": "modestmagic:enchantment_tablet_fiery"
   },
   "base": {
-    "tag": "minecraft:enchantable/durability"
+    "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
     "minecraft:fire_aspect",
+    "valcon:requite",
     "spell_power:sunfire",
     "spell_power:haste"
   ]

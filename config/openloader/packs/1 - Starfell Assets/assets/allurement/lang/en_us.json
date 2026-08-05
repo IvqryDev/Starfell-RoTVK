@@ -2,13 +2,13 @@
   "death.attack.allurement.shockwave": "%1$s was stomped by %2$s",
   "death.attack.allurement.shockwave.item": "%1$s was stomped by %2$s using %3$s",
   "enchantment.allurement.alleviating": "Soul Siphon",
-  "enchantment.allurement.alleviating.desc": "Heals you upon absorbing a soul.",
+  "enchantment.allurement.alleviating.desc": "Restores an amount of vitality upon absorbing souls.",
   "enchantment.allurement.ascension_curse": "Curse of Ascension",
   "enchantment.allurement.ascension_curse.desc": "Causes the cursed item to float upwards when dropped.",
   "enchantment.allurement.fleeting_curse": "Curse of Fleeting",
   "enchantment.allurement.fleeting_curse.desc": "Causes nearby entities to repel the cursed item when dropped.",
   "enchantment.allurement.launch": "Uppercut",
-  "enchantment.allurement.launch.desc": "Launches the target upwards instead of away.",
+  "enchantment.allurement.launch.desc": "Launches your enemy upwards instead of away.",
   "enchantment.allurement.obedience": "Obedience",
   "enchantment.allurement.obedience.desc": "Prevents animals from roaming.",
   "enchantment.allurement.reeling": "Reeling",
@@ -18,7 +18,7 @@
   "enchantment.allurement.shockwave": "Shockwave",
   "enchantment.allurement.shockwave.desc": "Creates a shockwave when taking fall damage that damages nearby entities.",
   "enchantment.allurement.spread_of_ailments": "Sickening",
-  "enchantment.allurement.spread_of_ailments.desc": "Applies the user's active effects to their arrows.",
+  "enchantment.allurement.spread_of_ailments.desc": "Applies your current effects to fired arrows.",
   "enchantment.allurement.vengeance": "Vengeance",
-  "enchantment.allurement.vengeance.desc": "Stores some incoming damage and applies it to the user's next attack."
+  "enchantment.allurement.vengeance.desc": "Stores some incoming damage and applies it to your next strike."
 }

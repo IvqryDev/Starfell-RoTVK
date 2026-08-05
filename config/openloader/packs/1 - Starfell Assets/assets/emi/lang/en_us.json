@@ -1,0 +1,20 @@
+{
+  "tag.minecraft.enchantable.armor": "Armor",
+  "tag.minecraft.enchantable.bow": "Bows",
+  "tag.minecraft.enchantable.crossbow": "Crossbows",
+  "tag.minecraft.enchantable.durability": "All Equipment",
+  "tag.minecraft.enchantable.equippable": "All Equipment",
+  "tag.minecraft.enchantable.fire_aspect": "Heavy Armaments",
+  "tag.minecraft.enchantable.fishing": "Fishing Equipment",
+  "tag.minecraft.enchantable.head_armor": "Helmets",
+  "tag.minecraft.enchantable.chest_armor": "Chestplates",
+  "tag.minecraft.enchantable.leg_armor": "Leggings",
+  "tag.minecraft.enchantable.foot_armor": "Boots",
+  "tag.minecraft.enchantable.mace": "Maces",
+  "tag.minecraft.enchantable.mining": "Tools",
+  "tag.minecraft.enchantable.mining_loot": "Tools",
+  "tag.minecraft.enchantable.sharp_weapon": "Melee Armaments",
+  "tag.minecraft.enchantable.sword": "Melee Armaments",
+  "tag.minecraft.enchantable.trident": "Tridents",
+  "tag.minecraft.enchantable.weapon": "All Armaments"
+}

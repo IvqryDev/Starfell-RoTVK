@@ -4,11 +4,12 @@
     "item": "modestmagic:enchantment_tablet_everlasting"
   },
   "base": {
-    "tag": "minecraft:enchantable/durability"
+    "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
     "spell_power:spell_power",
     "spell_power:magic_protection",
-    "minecraft:channeling"
+    "minecraft:channeling",
+    "redomesticate:tethered_teleport"
   ]
 }

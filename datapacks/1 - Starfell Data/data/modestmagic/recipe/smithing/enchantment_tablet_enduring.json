@@ -4,11 +4,12 @@
     "item": "modestmagic:enchantment_tablet_enduring"
   },
   "base": {
-    "tag": "minecraft:enchantable/durability"
+    "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
     "allurement:spread_of_ailments",
     "spell_power:energize",
-    "minecraft:loyalty"
+    "minecraft:loyalty",
+    "redomesticate:health_siphon"
   ]
 }

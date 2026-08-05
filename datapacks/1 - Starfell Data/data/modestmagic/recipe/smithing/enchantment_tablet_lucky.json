@@ -4,11 +4,12 @@
     "item": "modestmagic:enchantment_tablet_lucky"
   },
   "base": {
-    "tag": "minecraft:enchantable/durability"
+    "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
     "minecraft:fortune",
     "minecraft:looting",
-    "minecraft:luck_of_the_sea"
+    "minecraft:luck_of_the_sea",
+    "redomesticate:healing_aura"
   ]
 }

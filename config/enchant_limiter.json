@@ -1,5 +1,5 @@
 {
-  "default_limit": 3,
+  "default_limit": 2,
   "apply_to_enchanted_books": false,
   "apply_to_damageable_items": true,
   "query_rarity_from_underlying_item": true,

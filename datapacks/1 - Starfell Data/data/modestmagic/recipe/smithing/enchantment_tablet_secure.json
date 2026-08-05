@@ -4,11 +4,12 @@
     "item": "modestmagic:enchantment_tablet_secure"
   },
   "base": {
-    "tag": "minecraft:enchantable/durability"
+    "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
     "minecraft:protection",
     "minecraft:knockback",
-    "minecraft:density"
+    "minecraft:density",
+    "redomesticate:deflection"
   ]
 }

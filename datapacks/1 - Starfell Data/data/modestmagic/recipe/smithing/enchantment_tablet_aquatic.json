@@ -4,11 +4,12 @@
     "item": "modestmagic:enchantment_tablet_aquatic"
   },
   "base": {
-    "tag": "minecraft:enchantable/durability"
+    "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
     "minecraft:aqua_affinity",
     "minecraft:depth_strider",
-    "minecraft:impaling"
+    "minecraft:impaling",
+    "redomesticate:amphibious"
   ]
 }

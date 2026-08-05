@@ -4,11 +4,12 @@
     "item": "modestmagic:enchantment_tablet_glacial"
   },
   "base": {
-    "tag": "minecraft:enchantable/durability"
+    "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
     "critical_strike:damage",
     "spell_power:critical_damage",
-    "spell_power:soulfrost"
+    "spell_power:soulfrost",
+    "redomesticate:frost_fang"
   ]
 }
