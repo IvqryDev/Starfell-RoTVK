@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = welcomescreen_welcome
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1782312665444
+  last_edited_time = 1785976894986
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:39b911fc-bbbd-48c7-82ce-ecfc9d930c0a-1782312641174] = [groups:][instances:]
+  [loading_requirement_container_meta:a6f7f97a-e154-4c8b-9f50-66d1856f4866-1785970990171] = [groups:][instances:]
 }
 
 customization {
@@ -71,8 +71,8 @@ menu_background {
 }
 
 menu_background {
-  instance_identifier = 5bd24504-a368-4d4a-9642-2f40bf330124-1782311395334
-  background_type = video_mcef
+  instance_identifier = 9bc4f28b-6ff5-48ca-963a-705360762171-1785964891623
+  background_type = video_rinku
   show_background = false
   loop = false
   volume = 1.0
@@ -138,13 +138,6 @@ menu_background {
   mouse_position_requires_hold = false
   opacity_multiplier = 1.0
   show_compile_errors = true
-}
-
-menu_background {
-  instance_identifier = 1570ea5b-0cb0-491d-9ece-9384459e4fdd-1782311395334
-  background_type = drippy_color_background
-  show_background = false
-  color = #FD5757FF
 }
 
 decoration_overlay {
@@ -394,6 +387,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 0
+  auto_sizing_base_gui_width = 0
+  auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = mid-centered
   x = -171
@@ -477,6 +473,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 0
+  auto_sizing_base_gui_width = 0
+  auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = mid-centered
   x = -101
@@ -557,6 +556,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 0
+  auto_sizing_base_gui_width = 0
+  auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = mid-centered
   x = -101
@@ -637,10 +639,13 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 2
+  auto_sizing_base_gui_width = 960
+  auto_sizing_base_gui_height = 540
   sticky_anchor = false
   anchor_point = mid-centered
   x = -101
-  y = 25
+  y = 26
   width = 201
   height = 40
   stay_on_screen = true
@@ -717,6 +722,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 0
+  auto_sizing_base_gui_width = 0
+  auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = mid-centered
   x = -101
@@ -797,6 +805,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 0
+  auto_sizing_base_gui_width = 0
+  auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = mid-centered
   x = -86
@@ -847,7 +858,7 @@ element {
 element {
   interactable = false
   mouse_following = false
-  source = This is a prequel to Starfell: The Second Knight, you play as a demigod created by the gods and Valcons of this world to kill their brethren Umbrocron who has locked himself deep in the abyss, a dimension outside both space and time. He has shattered the key to this realm and hidden the pieces with four shardbearers across this world. You must kill them to reforge the key by all means neseccary and kill Umbrocron. Explore and uncover the lost secrets of this world to help fulfill your mission. Take the blessing of those before you, and may the stars be with you.
+  source = This is a prequel to Starfell: The Second Knight, you play as a demigod-like created by the Valcons of this world to kill a fallen good who has locked himself deep in the abyss, a dimension outside both space and time. He has shattered the key to this realm and hidden the pieces with four shardbearers across this world. You must kill them to reforge the key by all means neseccary and kill Umbrocron. Explore and uncover the lost secrets of this world to help fulfill your mission. Take the blessing of those before you, and may the stars be with you.
   source_mode = direct
   shadow = true
   base_color = #FFFFFFFF
@@ -876,6 +887,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 2
+  auto_sizing_base_gui_width = 960
+  auto_sizing_base_gui_height = 540
   sticky_anchor = false
   anchor_point = mid-centered
   x = -450
@@ -956,6 +970,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 2
+  auto_sizing_base_gui_width = 960
+  auto_sizing_base_gui_height = 540
   sticky_anchor = false
   anchor_point = mid-centered
   x = 171
@@ -1014,6 +1031,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 0
+  auto_sizing_base_gui_width = 0
+  auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = 4f3a7666-651f-4d83-81f7-f880a30bd21d-1766786854259
@@ -1077,6 +1097,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 0
+  auto_sizing_base_gui_width = 0
+  auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = 6fe08ac0-e845-4438-82b0-c35b9b0799f6-1766785947595
@@ -1140,6 +1163,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 0
+  auto_sizing_base_gui_width = 0
+  auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = cb04322c-2b61-48f9-a9f7-dfd472bf001d-1766785535361
@@ -1203,6 +1229,9 @@ element {
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
   auto_sizing_base_screen_height = 1080
+  auto_sizing_base_gui_scale = 0
+  auto_sizing_base_gui_width = 0
+  auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = element
   anchor_point_element = 3323383b-3354-4aef-8323-8bb8ff7fd2d9-1766785684784

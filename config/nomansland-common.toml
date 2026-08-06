@@ -14,7 +14,7 @@
 
 [biomes]
 	#If the generic caves biomes are enabled
-	genericCavesBiomes = false
+	genericCavesBiomes = true
 	#If any custom biomes are enabled
 	biomes = true
 	#If the maple biomes are enabled
@@ -36,7 +36,7 @@
 	#If the bog is enabled
 	bog = true
 	#If the prairie is enabled
-	prairie = false
+	prairie = true
 	#If the lavender field is enabled
 	lavenderField = true
 	#If the blackwater river sub-biome is enabled

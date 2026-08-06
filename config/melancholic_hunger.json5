@@ -1,6 +1,6 @@
 {
 	clientOptions: {
-		hide_hunger_bar: true,
+		hide_hunger_bar: false,
 		highlight_regenerated_hearts: true,
 		regenerated_hearts_texture: "ORIGINAL",
 		regenerated_hearts_overlay_color: -30841,
@@ -10,13 +10,13 @@
 		highlight_restored_hearts: true,
 		restored_hearts_texture: "ORIGINAL",
 		restored_hearts_overlay_color: -8912876,
-		hide_experience_bar: false,
-		show_experience_in_inventory: true,
-		show_experience_on_screens: true,
-		show_experience_on_gain: true,
-		enable_experience_animation: true,
+		hide_experience_bar: true,
+		show_experience_in_inventory: false,
+		show_experience_on_screens: false,
+		show_experience_on_gain: false,
+		enable_experience_animation: false,
 		experience_animation_duration: 150,
-		render_experience_over_background: true
+		render_experience_over_background: false
 	},
 	serverOptions: {
 		disable_hunger: true,
@@ -146,7 +146,7 @@
 			"farmersdelight:stuffed_pumpkin": 4,
 			"farmersdelight:vegetable_noodles": 4
 		},
-		sprinting: "LIMITED_BY_HEALTH",
+		sprinting: "VANILLA",
 		sprinting_health_limit: 6,
 		instant_eating: false,
 		show_food_item_tooltips: true,
