@@ -652,7 +652,7 @@
     "oldClassicWalkBobbing": false,
     "oldClassicWalkArms": false,
     "oldBackwardWalking": false,
-    "oldVerticalBobbing": true,
+    "oldVerticalBobbing": false,
     "oldCreativeCrouch": false,
     "oldRandomDamage": true,
     "oldSneaking": false,
