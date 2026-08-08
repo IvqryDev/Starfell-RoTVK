@@ -49,6 +49,8 @@
 
     "quark:blaze_lantern": "minecraft:shroomlight",
 
-    "minecraft:emerald_block": "minersdelight:cave_carrot_crate"
+    "minecraft:emerald_block": "minersdelight:cave_carrot_crate",
+
+    "nomansland:icicles": "windswept:icicles"
   }
 }
