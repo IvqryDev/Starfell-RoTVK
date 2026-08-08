@@ -1,15 +1,15 @@
 ["Biome Provider"]
 	#If Terrablender and Biolith are installed at the same time, Terrablender is used by default. Set this to false to use Biolith.
 	#If only one is installed, Darker Depths will use whichever is available.
-	prioritize_terrablender = true
+	prioritize_terrablender = false
 
 	["Biome Parameters".Terrablender]
+		#Biome parameters are set to much more lenient values for Terrablender due to regions. To disable the defaults and use the config parameters, set this to false.
+		use_default_biome_params_terrablender = false
 		#Darker Depths Terrablender region weight
 		# Default: 4
 		# Range: > 0
 		weight = 4
-		#Biome parameters are set to much more lenient values for Terrablender due to regions. To disable the defaults and use the config parameters, set this to false.
-		use_default_biome_params_terrablender = true
 
 	#These values will only be used when using biolith unless defaults for Terrablender are turned off.
 	#Climate parameters for the sandy_catacombs biome.
@@ -140,7 +140,7 @@
 
 ["Biome Fog"]
 	#Enable/disable Darker Depths biome fog adjustments:
-	biome_fog = true
+	biome_fog = false
 
 	["Biome Fog"."Glowshroom Forest"]
 		#Min fog distance:
