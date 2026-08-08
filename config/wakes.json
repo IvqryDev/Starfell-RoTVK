@@ -12,7 +12,7 @@
   "paddleStrength": 100,
   "splashStrength": 100,
   "wakeResolution": "SIXTEEN",
-  "wakeOpacity": 1.0,
+  "wakeOpacity": 0.5,
   "blendStrength": 0.5,
   "firstPersonSplashPlane": false,
   "spawnParticles": true,

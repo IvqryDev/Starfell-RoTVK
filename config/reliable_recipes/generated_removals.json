@@ -260,7 +260,10 @@
       "minecraft:redstone_from_smelting_deepslate_redstone_ore",
       "minecraft:coal_from_smelting_coal_ore",
       "minecraft:coal_from_smelting_deepslate_coal_ore",
-      "minecraft:packed_mud"
+      "minecraft:packed_mud",
+      "manual_labour:workstone/cracked_deepslate_bricks",
+      "manual_labour:mortar/mixing/mud",
+      "manual_labour:mortar/mixing/clay"
     ]
   }
 ]
