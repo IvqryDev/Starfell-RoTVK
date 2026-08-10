@@ -6,9 +6,22 @@
     },
     {
       "item": "oreganized:raw_silver"
+    },
+    {
+      "item": "minecraft:raw_iron"
+    },
+    {
+      "item": "windswept:icicles"
+    },
+    {
+      "item": "windswept:icicles"
+    },
+    {
+      "item": "minecraft:raw_iron"
     }
   ],
   "result": {
-    "id": "oreganized:silver_ingot"
+    "id": "oreganized:silver_ingot",
+    "count": 2
   }
 }

@@ -1,0 +1,14 @@
+{
+  "type": "manual_labour:mortar_grinding",
+  "ingredient": {
+    "tag": "starfell:blue_dye_candidates"
+  },
+  "results": [
+    {
+      "result": {
+        "count": 1,
+        "id": "minecraft:blue_dye"
+      }
+    }
+  ]
+}

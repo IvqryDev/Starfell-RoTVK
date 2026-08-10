@@ -1,0 +1,22 @@
+{
+  "type": "manual_labour:workstone",
+  "ingredients": [
+    {
+      "item": "minecraft:glowstone"
+    },
+    {
+      "tag": "manual_labour:hammers"
+    }
+  ],
+  "results": [
+    {
+      "count": 4,
+      "id": "minecraft:glowstone_dust"
+    },
+    {
+      "chance": 0.35,
+      "count": 2,
+      "id": "minecraft:glowstone_dust"
+    }
+  ]
+}

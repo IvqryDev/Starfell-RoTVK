@@ -29,7 +29,9 @@
     "attack_sleeping_villagers": true,
     "fix_experience_loss": true,
     "fix_resource_filter_leak": true,
-    "fix_density_memoization": true
+    "fix_density_memoization": true,
+    "fix_horizon_line": true,
+    "fix_cave_sky": true
   },
   "vanilla_gameplay": {
     "flammable_cobwebs": true,
@@ -38,7 +40,10 @@
   "vanilla_gui": {
     "ctrl_drag_to_crafting_grid": true,
     "chat_message_duration": 200,
-    "disable_creative_inventory": false
+    "disable_creative_inventory": false,
+    "creative_deletion_button": true,
+    "clear_button_x": 148,
+    "clear_button_y": 162
   },
   "vanilla_visual": {
     "nicer_map_colors": true,

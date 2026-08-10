@@ -282,4 +282,5 @@ ItemEvents.modification(event => {
 	maxDura('shieldexp:diamond_shield', 6174)
 	maxDura('shieldexp:netherite_shield', 1920)
 	maxDura('block_factorys_bosses:frozen_fist', 2560)
+	maxDura('manual_labour:flint_hammer', 256)
 })

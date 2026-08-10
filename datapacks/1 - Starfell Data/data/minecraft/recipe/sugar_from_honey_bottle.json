@@ -1,0 +1,12 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:sugar"
+  }
+}

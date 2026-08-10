@@ -1,0 +1,14 @@
+{
+  "type": "manual_labour:mortar_grinding",
+  "ingredient": {
+    "tag": "starfell:pink_dye_candidates"
+  },
+  "results": [
+    {
+      "result": {
+        "count": 1,
+        "id": "minecraft:pink_dye"
+      }
+    }
+  ]
+}

@@ -38,6 +38,36 @@
     },
     {
       "category": "minecraft:campfire_cooking"
+    },
+    {
+      "category": "clayworks:baking"
+    },
+    {
+      "category": "fishermens_trap:fishtrap_fishing"
+    },
+    {
+      "category": "minersdelight:copper_pot_cooking"
+    },
+    {
+      "category": "emi:info"
+    },
+    {
+      "category": "emi_loot:mob_drops"
+    },
+    {
+      "category": "emi_loot:block_drops"
+    },
+    {
+      "category": "emi_loot:gameplay_drops"
+    },
+    {
+      "category": "emi_loot:archaeology_drops"
+    },
+    {
+      "category": "remi:entity_type_tags"
+    },
+    {
+      "category": "remi:block_tags"
     }
   ]
 }

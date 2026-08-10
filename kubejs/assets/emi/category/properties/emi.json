@@ -32,7 +32,7 @@
   "emi:info": {
     "order": 950
   },
-  "emi:tag": {
-    "order": 1000
+  "remi:item_tags": {
+    "order": 9000
   }
 }

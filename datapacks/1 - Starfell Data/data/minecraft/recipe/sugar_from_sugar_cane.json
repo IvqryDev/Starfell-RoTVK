@@ -1,0 +1,14 @@
+{
+  "type": "manual_labour:mortar_grinding",
+  "ingredient":{
+    "item": "minecraft:sugar_cane"
+  },
+  "results": [
+    {
+      "result": {
+        "count": 1,
+        "id": "minecraft:sugar"
+      }
+    }
+  ]
+}

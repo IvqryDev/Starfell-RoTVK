@@ -1,0 +1,22 @@
+{
+  "type": "manual_labour:workstone",
+  "ingredients": [
+    {
+      "tag": "c:ores/redstone"
+    },
+    {
+      "tag": "manual_labour:hammers"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "spelunkery:rough_cinnabar"
+    },
+    {
+      "chance": 0.5,
+      "count": 1,
+      "id": "spelunkery:rough_cinnabar"
+    }
+  ]
+}

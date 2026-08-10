@@ -592,7 +592,16 @@
             "undead_unleashed:plate_helmet",
             "undead_unleashed:plate_boots",
             "undead_unleashed:plate_leggings",
-            "nomansland:icicles"
+            "nomansland:icicles",
+            "manual_labour:iron_hammer",
+            "manual_labour:golden_hammer",
+            "manual_labour:diamond_hammer",
+            "manual_labour:netherite_hammer",
+            "another_furniture:furniture_hammer",
+            "manual_labour:silver_hammer",
+            "manual_labour:necromium_hammer",
+            "manual_labour:electrum_hammer",
+            "undead_unleashed:heavy_plating"
         ]
     }
 ]

@@ -1,0 +1,22 @@
+{
+  "type": "manual_labour:workstone",
+  "ingredients": [
+    {
+      "tag": "c:ores/gold"
+    },
+    {
+      "tag": "manual_labour:hammers"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:raw_gold"
+    },
+    {
+      "chance": 0.35,
+      "count": 1,
+      "id": "minecraft:raw_gold"
+    }
+  ]
+}
