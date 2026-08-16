@@ -601,7 +601,12 @@
             "manual_labour:silver_hammer",
             "manual_labour:necromium_hammer",
             "manual_labour:electrum_hammer",
-            "undead_unleashed:heavy_plating"
+            "undead_unleashed:heavy_plating",
+            "minecraft:golden_shovel",
+            "minecraft:golden_pickaxe",
+            "minecraft:golden_axe",
+            "minecraft:golden_hoe",
+            "minecraft:golden_sword"
         ]
     }
 ]

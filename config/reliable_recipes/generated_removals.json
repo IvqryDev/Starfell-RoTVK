@@ -413,7 +413,10 @@
       "minecraft:cracked_deepslate_bricks",
       "minecraft:cracked_deepslate_tiles",
       "minecraft:cracked_nether_bricks",
-      "minecraft:cracked_polished_blackstone_bricks"
+      "minecraft:cracked_polished_blackstone_bricks",
+      "crafting:repairing/wizards/wizard_robe_chest",
+      "crafting:repairing/wizards/wizard_robe_head",
+      "crafting:repairing/wizards/arcane_robe_head"
     ]
   }
 ]

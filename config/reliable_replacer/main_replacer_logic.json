@@ -51,6 +51,42 @@
 
     "minecraft:emerald_block": "minersdelight:cave_carrot_crate",
 
-    "nomansland:icicles": "windswept:icicles"
+    "nomansland:icicles": "windswept:icicles",
+
+    "spelunkery:andesite_coal_ore": "minecraft:coal_ore",
+    "spelunkery:diorite_coal_ore": "minecraft:coal_ore",
+    "spelunkery:granite_coal_ore": "minecraft:coal_ore",
+    "spelunkery:tuff_coal_ore": "minecraft:deepslate_coal_ore",
+
+    "spelunkery:andesite_iron_ore": "minecraft:iron_ore",
+    "spelunkery:diorite_iron_ore": "minecraft:iron_ore",
+    "spelunkery:granite_iron_ore": "minecraft:iron_ore",
+    "spelunkery:tuff_iron_ore": "minecraft:deepslate_iron_ore",
+
+    "spelunkery:andesite_gold_ore": "minecraft:gold_ore",
+    "spelunkery:diorite_gold_ore": "minecraft:gold_ore",
+    "spelunkery:granite_gold_ore": "minecraft:gold_ore",
+    "spelunkery:tuff_gold_ore": "minecraft:deepslate_gold_ore",
+
+    "spelunkery:andesite_copper_ore": "minecraft:copper_ore",
+    "spelunkery:diorite_copper_ore": "minecraft:copper_ore",
+    "spelunkery:granite_copper_ore": "minecraft:copper_ore",
+    "spelunkery:tuff_copper_ore": "minecraft:deepslate_copper_ore",
+
+    "spelunkery:andesite_lead_ore": "minecraft:andesite",
+    "spelunkery:diorite_lead_ore": "minecraft:diorite",
+    "spelunkery:granite_lead_ore": "minecraft:granite",
+    "spelunkery:tuff_lead_ore": "minecraft:deepslate",
+
+    "spelunkery:andesite_redstone_ore": "minecraft:redstone_ore",
+    "spelunkery:diorite_redstone_ore": "minecraft:redstone_ore",
+    "spelunkery:granite_redstone_ore": "minecraft:redstone_ore",
+    "spelunkery:calcite_redstone_ore": "minecraft:redstone_ore",
+    "spelunkery:tuff_redstone_ore": "minecraft:deepslate_redstone_ore",
+
+    "spelunkery:andesite_silver_ore": "oreganized:silver_ore",
+    "spelunkery:diorite_silver_ore": "oreganized:silver_ore",
+    "spelunkery:granite_silver_ore": "oreganized:silver_ore",
+    "spelunkery:tuff_silver_ore": "oreganized:deepslate_silver_ore"
   }
 }

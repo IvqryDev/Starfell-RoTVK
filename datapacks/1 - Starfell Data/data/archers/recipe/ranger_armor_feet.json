@@ -3,13 +3,17 @@
   "category": "equipment",
   "key": {
     "L": {
-      "item": "nomansland:sturdy_scute"
+      "item": "valcon:ashen_steel_ingot"
     },
     "R": {
+      "item": "minecraft:turtle_scute"
+    },
+    "G": {
       "item": "minecraft:leather"
     }
   },
   "pattern": [
+    "G G",
     "R R",
     "L L"
   ],

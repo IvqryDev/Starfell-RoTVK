@@ -1,5 +1,7 @@
 {
   "enableCreativeModeTabs": false,
+  "creativeTabSidebarTarget": "INDEX",
+  "creativeTabTheme": "SYNCED",
   "syncSelectedCreativeModeTab": false,
   "showCreativeTabNameInSearchbar": false,
   "maxSidebarTabs": 0,
@@ -8,6 +10,10 @@
   ],
   "enableStackGroups": true,
   "enableCreateStackGroupButton": true,
+  "stackGroupsIndex": true,
+  "stackGroupsCraftables": true,
+  "stackGroupsWorkstation": true,
+  "stackGroupsFavorites": false,
   "disabledStackGroups": [
     "minecraft:stairs",
     "minecraft:slabs",
@@ -35,6 +41,7 @@
   "showTitleInsteadOfPageNumbers": false,
   "hidePageButtonWhenOnePage": false,
   "incrementalScrollbarFill": false,
+  "verticalScrollbar": false,
   "searchWidgetAlignWithPanel": false,
   "searchWidgetWidth": 0,
   "searchWidgetLeftOffset": 0,
@@ -43,5 +50,9 @@
   "searchWidgetVerticalPadding": 2,
   "searchWidgetSuggestionTextColor": -8355712,
   "searchWidgetTextColor": -1,
-  "searchWidgetUseVanillaTexture": false
+  "searchWidgetUseVanillaTexture": false,
+  "searchById": false,
+  "searchModPrefix": true,
+  "searchTagPrefix": true,
+  "searchTooltipPrefix": true
 }

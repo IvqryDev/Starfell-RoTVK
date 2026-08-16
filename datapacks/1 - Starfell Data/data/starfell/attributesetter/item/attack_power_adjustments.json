@@ -1,0 +1,197 @@
+{
+  "minecraft:wooden_sword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -1,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:wooden_axe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -1,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:stone_sword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -1,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:stone_axe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -2,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:iron_sword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -1,
+      "operation": "ADDITION"
+    }
+  ],
+  "minecraft:iron_axe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -1,
+      "operation": "ADDITION"
+    }
+  ],
+  "caverns_and_chasms:silver_sword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "caverns_and_chasms:magic_damage",
+      "value": -4,
+      "operation": "ADDITION"
+    }
+  ],
+  "caverns_and_chasms:silver_axe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 3,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "caverns_and_chasms:magic_damage",
+      "value": -4,
+      "operation": "ADDITION"
+    }
+  ],
+  "caverns_and_chasms:silver_pickaxe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "caverns_and_chasms:magic_damage",
+      "value": -2,
+      "operation": "ADDITION"
+    }
+  ],
+  "caverns_and_chasms:silver_hoe": [
+    {
+      "attribute": "caverns_and_chasms:magic_damage",
+      "value": -2,
+      "operation": "ADDITION"
+    }
+  ],
+  "caverns_and_chasms:silver_shovel": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 2,
+      "operation": "ADDITION"
+    },
+    {
+      "attribute": "caverns_and_chasms:magic_damage",
+      "value": -2,
+      "operation": "ADDITION"
+    }
+  ],
+  "archers:golden_spear": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 2,
+      "operation": "ADDITION"
+    }
+  ],
+  "archers:iron_spear": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -0.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "rogues:golden_dagger": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 1.7,
+      "operation": "ADDITION"
+    }
+  ],
+  "rogues:iron_dagger": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -0.3,
+      "operation": "ADDITION"
+    }
+  ],
+  "rogues:golden_sickle": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 2.1,
+      "operation": "ADDITION"
+    }
+  ],
+  "rogues:iron_sickle": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -0.6,
+      "operation": "ADDITION"
+    }
+  ],
+  "rogues:diamond_double_axe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 0.2,
+      "operation": "ADDITION"
+    }
+  ],
+  "rogues:golden_double_axe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 3.2,
+      "operation": "ADDITION"
+    }
+  ],
+  "rogues:iron_double_axe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -0.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "paladins:diamond_claymore": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 0.1,
+      "operation": "ADDITION"
+    }
+  ],
+  "paladins:golden_claymore": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 3.8,
+      "operation": "ADDITION"
+    }
+  ],
+  "paladins:iron_claymore": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -0.3,
+      "operation": "ADDITION"
+    }
+  ],
+  "rogues:golden_glaive": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 2.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "rogues:iron_glaive": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -0.8,
+      "operation": "ADDITION"
+    }
+  ]
+}

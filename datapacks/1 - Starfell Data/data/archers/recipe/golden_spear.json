@@ -3,10 +3,10 @@
   "category": "equipment",
   "key": {
     "#": {
-      "item": "minecraft:stick"
+      "item": "valcon:ironwood_log"
     },
     "P": {
-      "item": "minecraft:gold_ingot"
+      "item": "caverns_and_chasms:silver_ingot"
     }
   },
   "pattern": [

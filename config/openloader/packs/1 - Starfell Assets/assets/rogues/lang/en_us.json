@@ -1,8 +1,8 @@
 {
   "item.rogues.spell_book/rogue": "Savager Handbook",
   "item.rogues.spell_book/warrior": "Legionnaires' Codex",
-  "item.rogues.spell_scroll/rogue": "Savager Skill Scroll",
-  "item.rogues.spell_scroll/warrior": "Legionnaires Skill Scroll",
+  "item.rogues.spell_scroll/rogue": "Flame Ashes",
+  "item.rogues.spell_scroll/warrior": "Flame Ashes",
   "item.rogues.spell_book/rogue.spell_binding.description": "Spell Book of Savagers, using quick weapons and skills to strike enemies from the shadows\n- Strengths: High mobility and melee attack damage\n- Weaknesses: Mediocre defense and limited ranged attacks\n- Equipment: Moderately armored",
   "item.rogues.spell_book/warrior.spell_binding.description": "Spell Book of Legionnaires, using heavy weapons and skills to dominate close combat\n- Strengths: Strong melee attacks with good mobility\n- Weaknesses: Limited ranged attacks and supportive skills\n- Equipment: Heavily armored",
 
@@ -11,33 +11,33 @@
   "item.rogues.warrior_armor_legs": "Warrior Legplates",
   "item.rogues.warrior_armor_feet": "Warrior Greaves",
 
-  "item.rogues.berserker_armor_head": "Ashen Berserker Horned-Helm",
-  "item.rogues.berserker_armor_chest": "Ashen Berserker Breastplate",
-  "item.rogues.berserker_armor_legs": "Ashen Berserker Legplates",
-  "item.rogues.berserker_armor_feet": "Ashen Berserker Greaves",
+  "item.rogues.berserker_armor_head": "Berserker Horned-Helm",
+  "item.rogues.berserker_armor_chest": "Berserker Breastplate",
+  "item.rogues.berserker_armor_legs": "Berserker Legplates",
+  "item.rogues.berserker_armor_feet": "Berserker Greaves",
 
-  "item.rogues.netherite_berserker_armor_head": "Ancient Metal Berserker Horned-Helm",
-  "item.rogues.netherite_berserker_armor_chest": "Ancient Metal Berserker Breastplate",
-  "item.rogues.netherite_berserker_armor_legs": "Ancient Metal Berserker Legplates",
-  "item.rogues.netherite_berserker_armor_feet": "Ancient Metal Berserker Greaves",
+  "item.rogues.netherite_berserker_armor_head": "Champion's Horned-Helm",
+  "item.rogues.netherite_berserker_armor_chest": "Champion's Breastplate",
+  "item.rogues.netherite_berserker_armor_legs": "Champion's Legplates",
+  "item.rogues.netherite_berserker_armor_feet": "Champion's Greaves",
 
-  "item.rogues.netherite_assassin_armor_head": "Ancient Metal Assassin Mask",
-  "item.rogues.netherite_assassin_armor_chest": "Ancient Metal Assassin Tunic",
-  "item.rogues.netherite_assassin_armor_legs": "Ancient Metal Assassin Pants",
-  "item.rogues.netherite_assassin_armor_feet": "Ancient Metal Assassin Boots",
+  "item.rogues.netherite_assassin_armor_head": "Forsaker Mask",
+  "item.rogues.netherite_assassin_armor_chest": "Forsaker Mail",
+  "item.rogues.netherite_assassin_armor_legs": "Forsaker Pants",
+  "item.rogues.netherite_assassin_armor_feet": "Forsaker Boots",
 
-  "item.rogues.golden_dagger": "Gilded Hand Kunai",
-  "item.rogues.golden_sickle": "Gilded Sickle",
-  "item.rogues.golden_double_axe": "Gilded Double Axe",
-  "item.rogues.golden_glaive": "Gilded Glaive",
+  "item.rogues.golden_dagger": "Argent Hand Kunai",
+  "item.rogues.golden_sickle": "Silver Crescent Blade",
+  "item.rogues.golden_double_axe": "Royal War Axe",
+  "item.rogues.golden_glaive": "Argent Glaive",
 
   "item.rogues.diamond_dagger": "Curved Dagger",
   "item.rogues.diamond_sickle": "First-Age Sickle",
-  "item.rogues.diamond_double_axe": "First-Age Battle Axe",
+  "item.rogues.diamond_double_axe": "First-Age Great Axe",
   "item.rogues.diamond_glaive": "First-Age Glaive",
 
   "item.rogues.netherite_dagger": "Ritual Knife",
-  "item.rogues.netherite_sickle": "Ancient Metal Sickle",
-  "item.rogues.netherite_double_axe": "Ancient Metal Double Axe",
-  "item.rogues.netherite_glaive": "Ancient Metal Glaive"
+  "item.rogues.netherite_sickle": "Forsaken Falcate",
+  "item.rogues.netherite_double_axe": "Forsaken Greataxe",
+  "item.rogues.netherite_glaive": "Forsaken Halberd"
 }

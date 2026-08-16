@@ -1,0 +1,21 @@
+{
+  "type": "alloyed:forging_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "caverns_and_chasms:silver_ingot"
+    },
+    "H": {
+      "item": "valcon:ironwood_log"
+    }
+  },
+  "pattern": [
+    "BB",
+    "HB",
+    "H "
+  ],
+  "result": {
+    "count": 1,
+    "id": "caverns_and_chasms:silver_axe"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "config_version": "1.0.4",
-  "config_datetime": "2026-07-30_05-08-59",
+  "config_datetime": "2026-08-11_22-29-09",
   "global": {
     "disable_all_placed_features": false
   },
@@ -86,7 +86,19 @@
       "is_disabled": true
     },
     {
+      "name": "friendsandfoes:buttercup_patch",
+      "is_disabled": true
+    },
+    {
       "name": "oreganized:datura",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:lead_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:lead_ore_extra",
       "is_disabled": true
     },
     {

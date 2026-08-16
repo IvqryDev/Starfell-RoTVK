@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template/zk_ore",
+  "textures": {
+		"block_top": "block/soul_soil",
+		"block": "block/soul_soil",
+		"ore": "block/fantasy_ores/silver_ore"
+  }
+}

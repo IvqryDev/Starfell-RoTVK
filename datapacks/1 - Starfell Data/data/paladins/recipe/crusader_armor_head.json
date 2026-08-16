@@ -3,10 +3,10 @@
   "category": "equipment",
   "key": {
     "G": {
-      "item": "minecraft:gold_ingot"
+      "item": "caverns_and_chasms:silver_ingot"
     },
     "S": {
-      "item": "valcon:ashen_steel_ingot"
+      "item": "valcon:ashen_steel_plating"
     },
     "T": {
       "item": "minecraft:ghast_tear"

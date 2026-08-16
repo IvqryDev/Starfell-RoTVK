@@ -10,12 +10,15 @@
     },
     "L": {
       "item": "minecraft:leather"
+    },
+    "1": {
+      "item": "valcon:iron_plating"
     }
   },
   "pattern": [
     "C C",
-    "III",
-    "LIL"
+    "I1I",
+    "L1L"
   ],
   "result": {
     "count": 1,

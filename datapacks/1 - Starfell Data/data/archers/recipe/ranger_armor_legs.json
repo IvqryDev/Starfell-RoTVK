@@ -2,18 +2,21 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "R": {
-      "item": "nomansland:sturdy_scute"
+    "A": {
+      "item": "valcon:ashen_steel_ingot"
     },
-    "L": {
-      "item": "minecraft:leather"
+    "G": {
+      "item": "valcon:gold_plating"
     },
     "S": {
+      "item": "minecraft:leather"
+    },
+    "R": {
       "item": "minecraft:turtle_scute"
     }
   },
   "pattern": [
-    "SLS",
+    "AGA",
     "R R",
     "S S"
   ],

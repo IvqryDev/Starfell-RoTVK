@@ -5,12 +5,15 @@
     "I": {
       "item": "valcon:ashen_steel_ingot"
     },
+    "A": {
+      "item": "valcon:ashen_steel_plating"
+    },
     "T": {
-      "item": "minecraft:netherite_scrap"
+      "item": "minecraft:gold_ingot"
     }
   },
   "pattern": [
-    "III",
+    "AAA",
     "T T",
     "I I"
   ],

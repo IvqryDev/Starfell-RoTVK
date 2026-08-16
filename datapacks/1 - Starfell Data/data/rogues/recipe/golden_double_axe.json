@@ -3,14 +3,17 @@
   "category": "equipment",
   "key": {
     "M": {
-      "item": "minecraft:gold_ingot"
+      "item": "caverns_and_chasms:silver_ingot"
+    },
+    "T": {
+      "item": "jewelry:tanzanite"
     },
     "S": {
-      "item": "minecraft:stick"
+      "item": "valcon:ironwood_log"
     }
   },
   "pattern": [
-    "MSM",
+    "MTM",
     "MSM",
     " S "
   ],

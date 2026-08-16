@@ -3,13 +3,13 @@
   "category": "equipment",
   "key": {
     "I": {
-      "item": "valcon:ashen_steel_ingot"
+      "item": "valcon:ashen_steel_plating"
     },
     "L": {
       "item": "minecraft:leather"
     },
     "T": {
-      "item": "minecraft:netherite_scrap"
+      "item": "minecraft:gold_ingot"
     }
   },
   "pattern": [

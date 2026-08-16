@@ -1859,6 +1859,10 @@
     "starfell:sword_trick_gun_royal_guard": [
       264,
       64
+    ],
+    "direbats:direbat_picks_up_egg": [
+      32,
+      594
     ]
   },
   "tab_properties": {

@@ -1,6 +1,8 @@
 {
-  "item.caverns_and_chasms.aegis": "Guardian's Shield",
+  "item.caverns_and_chasms.aegis": "Guardian's Greatshield",
   "item.caverns_and_chasms.kunai": "Shuriken",
+
+  "item.caverns_and_chasms.silver_sword": "Silver Broadsword",
 
   "block.caverns_and_chasms.polished_schist": "Polished Tuff",
   "block.caverns_and_chasms.polished_schist_slab": "Polished Tuff Slab",

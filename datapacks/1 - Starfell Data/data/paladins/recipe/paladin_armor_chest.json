@@ -5,14 +5,17 @@
     "C": {
       "item": "minecraft:copper_ingot"
     },
-    "I": {
+    "1": {
       "item": "minecraft:iron_ingot"
+    },
+    "I": {
+      "item": "valcon:iron_plating"
     }
   },
   "pattern": [
     "I I",
     "ICI",
-    "III"
+    "I1I"
   ],
   "result": {
     "count": 1,

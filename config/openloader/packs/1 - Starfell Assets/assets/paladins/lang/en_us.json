@@ -1,8 +1,8 @@
 {
   "item.paladins.spell_book/paladin": "Justicar Libram",
   "item.paladins.spell_book/priest": "Avatar Book",
-  "item.paladins.spell_scroll/paladin": "Justicar Spell Scroll",
-  "item.paladins.spell_scroll/priest": "Avatar Spell Scroll",
+  "item.paladins.spell_scroll/paladin": "Flame Ashes",
+  "item.paladins.spell_scroll/priest": "Flame Ashes",
   "item.paladins.spell_book/paladin.spell_binding.description": "Spell Book of Justicars, using weapons and spells to attack enemies and support allies\n- Strengths: Versatile in battle, able to heal, strike, and defend\n- Weaknesses: Limited ranged attacks and mobility\n- Equipment: Heavily armored",
   "item.paladins.spell_book/priest.spell_binding.description": "Spell Book of Avatars, using holy magic to heal allies and damage enemies\n- Strengths: Supporting and healing allies, destroying undead\n- Weaknesses: Low damage and poor physical defense\n- Equipment: Lightly armored",
 
@@ -11,39 +11,30 @@
   "item.paladins.paladin_armor_legs": "Paladin Legplates",
   "item.paladins.paladin_armor_feet": "Paladin Greaves",
 
-  "item.paladins.crusader_armor_head": "Ashen Crusader Helm",
-  "item.paladins.crusader_armor_chest": "Ashen Crusader Breastplate",
-  "item.paladins.crusader_armor_legs": "Ashen Crusader Legplates",
-  "item.paladins.crusader_armor_feet": "Ashen Crusader Greaves",
+  "item.paladins.crusader_armor_head": "Crusader Helm",
+  "item.paladins.crusader_armor_chest": "Crusader Breastplate",
+  "item.paladins.crusader_armor_legs": "Crusader Legplates",
+  "item.paladins.crusader_armor_feet": "Crusader Greaves",
 
-  "item.paladins.netherite_crusader_armor_head": "Ancient Metal Crusader Helm",
-  "item.paladins.netherite_crusader_armor_chest": "Ancient Metal Crusader Breastplate",
-  "item.paladins.netherite_crusader_armor_legs": "Ancient Metal Crusader Legplates",
-  "item.paladins.netherite_crusader_armor_feet": "Ancient Metal Crusader Greaves",
+  "item.paladins.netherite_crusader_armor_head": "Inquisitor Helm",
+  "item.paladins.netherite_crusader_armor_chest": "Inquisitor Breastplate",
+  "item.paladins.netherite_crusader_armor_legs": "Inquisitor Legplates",
+  "item.paladins.netherite_crusader_armor_feet": "Inquisitor Greaves",
 
-  "item.paladins.netherite_prior_robe_head": "Ancient Metal Prior Collar",
-  "item.paladins.netherite_prior_robe_chest": "Ancient Metal Prior Vestment",
-  "item.paladins.netherite_prior_robe_legs": "Ancient Metal Prior Trousers",
-  "item.paladins.netherite_prior_robe_feet": "Ancient Metal Prior Boots",
+  "item.paladins.netherite_prior_robe_head": "Zealot Collar",
+  "item.paladins.netherite_prior_robe_chest": "Zealot Vestment",
+  "item.paladins.netherite_prior_robe_legs": "Zealot Trousers",
+  "item.paladins.netherite_prior_robe_feet": "Zealot Boots",
 
   "item.paladins.iron_claymore": "Bastard Sword",
   "item.paladins.golden_claymore": "Royal Cudgel",
   "item.paladins.diamond_claymore": "Winded Claymore",
   "item.paladins.netherite_claymore": "Sinister Greatsword",
 
-  "item.paladins.iron_mace": "Iron Morningstar",
-  "item.paladins.golden_mace": "Gilded Morningstar",
-  "item.paladins.diamond_mace": "First-Age Morningstar",
-  "item.paladins.netherite_mace": "Ancient Metal Morningstar",
-
-  "item.paladins.golden_great_hammer": "Gilded Great Hammer",
-  "item.paladins.diamond_great_hammer": "First-Age Great Hammer",
-  "item.paladins.netherite_great_hammer": "Ancient Metal Great Hammer",
-
-  "item.paladins.holy_wand": "Gilded Holy Wand",
-  "item.paladins.holy_staff": "Gilded Holy Staff",
+  "item.paladins.holy_wand": "Argent Holy Wand",
+  "item.paladins.holy_staff": "Argent Holy Staff",
   "item.paladins.diamond_holy_wand": "First-Age Holy Wand",
   "item.paladins.diamond_holy_staff": "First-Age Holy Staff",
-  "item.paladins.netherite_holy_wand": "Ancient Metal Holy Wand",
-  "item.paladins.netherite_holy_staff": "Ancient Metal Holy Staff"
+  "item.paladins.netherite_holy_wand": "Forsaken Holy Wand",
+  "item.paladins.netherite_holy_staff": "Forsaken Holy Staff"
 }

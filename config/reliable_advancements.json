@@ -18,7 +18,7 @@
   "customInventoryButtonTexture": "reliable_advancements:textures/gui/inventory_button.png",
   "customInventoryButtonTextureHovered": "reliable_advancements:textures/gui/inventory_button_highlighted.png",
   "customInventoryButtonIcon": "minecraft:book",
-  "enableEditMode": false,
+  "enableEditMode": true,
   "showTooltipsInEditMode": true,
   "showEditModeButton": true,
   "drawArrows": false,

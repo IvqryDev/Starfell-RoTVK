@@ -3,13 +3,13 @@
   "category": "equipment",
   "key": {
     "L": {
-      "item": "minecraft:ender_pearl"
+      "item": "caverns_and_chasms:silver_ingot"
     },
     "J": {
       "item": "jewelry:tanzanite"
     },
     "W": {
-      "tag": "minecraft:wool"
+      "item": "valcon:royal_fabric"
     }
   },
   "pattern": [

@@ -23,7 +23,24 @@
       "caverns_and_chasms:smooth_tuff_slab",
       "caverns_and_chasms:smooth_tuff_stairs",
       "caverns_and_chasms:smooth_tuff_wall",
-      "caverns_and_chasms:depth_gauge"
+      "caverns_and_chasms:depth_gauge",
+      "caverns_and_chasms:raw_silver_block",
+      "caverns_and_chasms:soul_silver_ore",
+      "caverns_and_chasms:deepslate_silver_ore",
+      "caverns_and_chasms:silver_ore",
+      "caverns_and_chasms:silver_chain",
+      "caverns_and_chasms:silver_bars",
+      "caverns_and_chasms:chiseled_silver_bricks",
+      "caverns_and_chasms:silver_bricks",
+      "caverns_and_chasms:silver_block",
+      "caverns_and_chasms:silver_ingot",
+      "caverns_and_chasms:raw_silver",
+      "caverns_and_chasms:silver_nugget",
+      "caverns_and_chasms:silver_pickaxe",
+      "caverns_and_chasms:silver_sword",
+      "caverns_and_chasms:silver_axe",
+      "caverns_and_chasms:silver_hoe",
+      "caverns_and_chasms:silver_shovel"
     ]
   }
 }

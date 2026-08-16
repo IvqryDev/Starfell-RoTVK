@@ -7,10 +7,13 @@
     },
     "L": {
       "item": "minecraft:chain"
+    },
+    "1": {
+      "item": "valcon:iron_plating"
     }
   },
   "pattern": [
-    "III",
+    "111",
     "L L",
     "I I"
   ],

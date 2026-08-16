@@ -1,0 +1,392 @@
+{
+  "config_version": "1.0.4",
+  "config_datetime": "2026-07-30_05-08-59",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [
+    {
+      "name": "artifacts:underground_campsite",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:false_hope",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_fragile_stone",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_fragile_stone_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_gold_and_silver_lower",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_gold_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_gold_buried_with_silver",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_rhyolite",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_rocky_dirt",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_buried_with_gold",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_extra",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_silver_soul",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_spinel",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_spinel_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:ore_tin",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:patch_cave_growths",
+      "is_disabled": true
+    },
+    {
+      "name": "caverns_and_chasms:patch_cave_growths_deep",
+      "is_disabled": true
+    },
+    {
+      "name": "cookscollection:lemon_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "cookscollection:salt_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:datura",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:purple_datura",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:silver_ore",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:silver_ore_extra",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:sparse_datura",
+      "is_disabled": true
+    },
+    {
+      "name": "oreganized:sparse_purple_datura",
+      "is_disabled": true
+    },
+    {
+      "name": "pigsteel:pigsteel_ore_extra",
+      "is_disabled": true
+    },
+    {
+      "name": "quark:lavender_blossom_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "quark:orange_blossom_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "quark:ore_lapis_extra",
+      "is_disabled": true
+    },
+    {
+      "name": "quark:red_blossom_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "quark:yellow_blossom_placed",
+      "is_disabled": true
+    },
+    {
+      "name": "spelunkery:diamond_ore_lava",
+      "is_disabled": true
+    },
+    {
+      "name": "spelunkery:large_emerald_vein",
+      "is_disabled": true
+    },
+    {
+      "name": "spelunkery:large_lapis_vein",
+      "is_disabled": true
+    },
+    {
+      "name": "spelunkery:magnetite_geode",
+      "is_disabled": true
+    },
+    {
+      "name": "spelunkery:nephrite_geode",
+      "is_disabled": true
+    },
+    {
+      "name": "spelunkery:ore_aquifer",
+      "is_disabled": true
+    },
+    {
+      "name": "spelunkery:quartz_geode",
+      "is_disabled": true
+    },
+    {
+      "name": "spelunkery:spring_water_pool",
+      "is_disabled": true
+    },
+    {
+      "name": "spelunkery:sulfur_patch",
+      "is_disabled": true
+    },
+    {
+      "name": "upgrade_aquatic:beachgrass_dunes",
+      "is_disabled": true
+    },
+    {
+      "name": "upgrade_aquatic:ore_ammonite",
+      "is_disabled": true
+    },
+    {
+      "name": "upgrade_aquatic:patch_pickerelweed",
+      "is_disabled": true
+    },
+    {
+      "name": "upgrade_aquatic:patch_pickerelweed_extra",
+      "is_disabled": true
+    },
+    {
+      "name": "upgrade_aquatic:river_tree",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:arkose",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:bluebells",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:brittlebushes",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:chestnut_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:common_lions_tail",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:desert_lilies",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:dry_moss_patch_large",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:dry_moss_patch_small",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:dry_moss_rock",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:ferns",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:flowering_acacia_checked",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:gelisol_patch_small",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:ginger_patch",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "nomansland:dark_taiga",
+        "minecraft:old_growth_pine_taiga",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:snowy_taiga",
+        "minecraft:taiga",
+        "clifftree:snowy_old_growth_taiga"
+      ],
+      "blacklisted_biomes": [
+        "windswept:pine_barrens",
+        "windswept:snowy_pine_barrens"
+      ]
+    },
+    {
+      "name": "windswept:holly_bush",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:holly_trees_on_snow",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:large_white_rose",
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "nomansland:lavender_field"
+      ],
+      "blacklisted_biomes": [
+        "windswept:lavender_fields",
+        "windswept:lavender_hills"
+      ]
+    },
+    {
+      "name": "windswept:larkspurs",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lavender",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lavender_chestnut_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lavender_fields_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lavender_tall_birch_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lions_tail",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lupine",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:lush_caves_vegetation",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:mega_spruce_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:old_growth_pine_taiga_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:pine_checked",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:pine_fallen_log",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:pine_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:rare_chestnut_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:rare_flowering_acacia_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:rare_holly_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:rare_holly_trees_on_snow",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:rare_yellow_petals",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:sandy_sprouts",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:snowy_gelisol",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:snowy_sprouts",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:spruce_trees_on_snow",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:tall_birch_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:tall_ferns",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:tundra_fallen_log",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:verbena",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:wild_berry_bush_common",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:windswept_savanna_trees",
+      "is_disabled": true
+    },
+    {
+      "name": "windswept:yellow_petals",
+      "is_disabled": true
+    }
+  ]
+}
