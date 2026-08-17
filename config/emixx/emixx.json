@@ -32,6 +32,7 @@
   "stackGroupItemOrder": {},
   "emiOnlyInRecipeBook": false,
   "emiOnlyInRecipeBookState": false,
+  "disableEmiGlobalConfig": false,
   "dragCheatToInventory": true,
   "enableCategorizedTagPages": true,
   "enableEntityTags": true,
