@@ -18,11 +18,11 @@
 	// Stamina points depleted per attack
 	"depletionPerAttack": 0.0,
 	// Stamina points depleted per weapon swing
-	"depletionPerWeaponSwing": 1.5,
+	"depletionPerWeaponSwing": 6.0,
 	// Stamina points depleted per tick while mining
-	"depletionPerMiningTick": 0.0,
+	"depletionPerMiningTick": 1.5,
 	// Stamina points depleted per block broken
-	"depletionPerBlockBroken": 20.0,
+	"depletionPerBlockBroken": 2.0,
 	// Stamina points depleted per tick while using a shield
 	"depletionPerShieldTick": 0.0,
 	// Stamina points depleted per successful shield block
@@ -52,7 +52,7 @@
 	// Do players recover stamina when suffocating?
 	"recoverWhileBreathless": false,
 	// Delay in ticks before starting recovery from exhaustion
-	"recoveryExhaustDelayTicks": 19,
+	"recoveryExhaustDelayTicks": 0,
 	// Delay in ticks before starting recovery after depletion
 	"recoveryDelayTicks": 19,
 	// Delay in ticks before regaining shield use
@@ -114,5 +114,13 @@
 	// Chance Traveling will damage armor each active tick
 	"travelingDamageChance": 0,
 	// Traveling minimum durability
-	"travelingMinimumDurability": 0
+	"travelingMinimumDurability": 0,
+	// Enable Daedelus' Combat Roll compatibility
+	"combatRollCompat": true,
+	// Stamina points depleted per combat roll
+	"depletionPerCombatRoll": 12.0,
+	// Combat Roll cooldown override in ticks (-1 = Default)
+	"combatRollCooldownTicks": 16,
+	// Completely hide the Combat Roll HUD widget
+	"hideCombatRollHud": false
 }
