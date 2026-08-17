@@ -22,6 +22,14 @@ ItemEvents.modifyTooltips(tooltip => {
         tooltip.removeLine(3)
     })
 
+    tooltip.modify("windswept:feather_cloak", tooltip => {
+        tooltip.removeLine(10)
+        tooltip.removeLine(9)
+        tooltip.removeLine(8)
+        tooltip.removeLine(7)
+        tooltip.removeLine(6)
+    })
+
     //Audio Listeners, Love Ya' To Death
     tooltip.add(['artifacts:everlasting_beef'], '§7"Would you rather have..."')
     tooltip.add(['artifacts:eternal_steak'], '§7"The final ingredient, was all of you."')
