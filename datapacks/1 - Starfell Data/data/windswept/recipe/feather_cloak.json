@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "jewelry:tanzanite"
+    },
+    "L": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "pattern": [
+    "L#L",
+    "L  ",
+    " L "
+  ],
+  "result": {
+    "count": 1,
+    "id": "windswept:feather_cloak"
+  }
+}
