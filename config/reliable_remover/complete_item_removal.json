@@ -606,7 +606,18 @@
             "minecraft:golden_pickaxe",
             "minecraft:golden_axe",
             "minecraft:golden_hoe",
-            "minecraft:golden_sword"
+            "minecraft:golden_sword",
+            "manual_labour:waxed_copper_hammer",
+            "manual_labour:copper_hammer",
+            "takesapillage:ravager_horn",
+            "caverns_and_chasms:music_disc_analogue",
+            "caverns_and_chasms:music_disc_epilogue",
+            "manual_labour:waxed_oxidized_copper_hammer",
+            "manual_labour:waxed_weathered_copper_hammer",
+            "manual_labour:waxed_exposed_copper_hammer",
+            "manual_labour:oxidized_copper_hammer",
+            "manual_labour:weathered_copper_hammer",
+            "manual_labour:exposed_copper_hammer"
         ]
     }
 ]
