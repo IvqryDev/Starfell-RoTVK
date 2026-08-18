@@ -24,5 +24,7 @@
   "block.caverns_and_chasms.chiseled_polished_schist": "Chiseled Polished Tuff",
   "block.caverns_and_chasms.chiseled_schist_bricks": "Chiseled Tuff Bricks",
 
-  "tooltip.caverns_and_chasms.altitude": "Fathoms"
+  "tooltip.caverns_and_chasms.altitude": "Fathoms",
+
+  "rarity.caverns_and_chasms_fancy.name": "Mythic"
 }
