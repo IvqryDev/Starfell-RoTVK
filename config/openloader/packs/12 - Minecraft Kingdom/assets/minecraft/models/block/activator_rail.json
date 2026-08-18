@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/rail",
-  "textures": {
-    "0": "minecraft:block/redstone_rail_under",
-    "1": "minecraft:block/rail_upper",
-    "particle": "minecraft:block/redstone_rail_under"
-  }
-}
