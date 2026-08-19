@@ -1,0 +1,13 @@
+name = "Starfell - RoTVK"
+author = "IvqryDev, NineRavens"
+version = "0.3-BETA"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "af3aa61fa520a83a17e3e1f28aaa225d0f11475c23b27ff5ca87aca5a3416c59"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

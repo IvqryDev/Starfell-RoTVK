@@ -39,3 +39,8 @@
 /config/zfastnoise.mixin.properties
 /.cache/
 *.bak
+/mods
+/resourcepacks/
+/shaderpacks/
+*.jar
+*.zip
