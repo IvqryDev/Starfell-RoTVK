@@ -617,7 +617,9 @@
             "manual_labour:waxed_exposed_copper_hammer",
             "manual_labour:oxidized_copper_hammer",
             "manual_labour:weathered_copper_hammer",
-            "manual_labour:exposed_copper_hammer"
+            "manual_labour:exposed_copper_hammer",
+            "spell_engine:spell_binding",
+            "spell_engine:spell_book"
         ]
     }
 ]

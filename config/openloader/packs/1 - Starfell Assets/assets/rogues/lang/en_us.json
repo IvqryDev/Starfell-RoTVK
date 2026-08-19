@@ -1,8 +1,8 @@
 {
   "item.rogues.spell_book/rogue": "Savager Handbook",
   "item.rogues.spell_book/warrior": "Legionnaires' Codex",
-  "item.rogues.spell_scroll/rogue": "Flame Ashes",
-  "item.rogues.spell_scroll/warrior": "Flame Ashes",
+  "item.rogues.spell_scroll/rogue": "Silent Flame Ashes",
+  "item.rogues.spell_scroll/warrior": "Enduring Flame Ashes",
   "item.rogues.spell_book/rogue.spell_binding.description": "Spell Book of Savagers, using quick weapons and skills to strike enemies from the shadows\n- Strengths: High mobility and melee attack damage\n- Weaknesses: Mediocre defense and limited ranged attacks\n- Equipment: Moderately armored",
   "item.rogues.spell_book/warrior.spell_binding.description": "Spell Book of Legionnaires, using heavy weapons and skills to dominate close combat\n- Strengths: Strong melee attacks with good mobility\n- Weaknesses: Limited ranged attacks and supportive skills\n- Equipment: Heavily armored",
 
