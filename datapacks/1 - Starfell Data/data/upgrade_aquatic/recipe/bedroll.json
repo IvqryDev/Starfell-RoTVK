@@ -3,10 +3,10 @@
   "category": "misc",
   "group": "bedroll",
   "key": {
-    "1": {
+    "2": {
       "item": "farmersdelight:canvas"
     },
-    "2": {
+    "1": {
       "item": "minecraft:leather"
     },
     "3": {
