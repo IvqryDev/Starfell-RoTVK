@@ -82,7 +82,8 @@
       "upgrade_aquatic:nautilus_spawn_egg",
       "upgrade_aquatic:embedded_ammonite",
       "upgrade_aquatic:petal_coral",
-      "upgrade_aquatic:petal_coral_fan"
+      "upgrade_aquatic:petal_coral_fan",
+      "upgrade_aquatic:bedroll"
     ]
   }
 }
