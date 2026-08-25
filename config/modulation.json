@@ -9,7 +9,8 @@
     "consume_chains": false
   },
   "passable_foliage": {
-    "enable_passable_foliage": false,
+    "enable_passable_foliage": true,
+    "enable_scaffolding_mode": false,
     "enable_pale_oak_leaves": true,
     "enable_tinted_leaves": true,
     "enable_tinted_needles": true,
@@ -18,18 +19,11 @@
     "max_drag": 0.7,
     "enable_leaf_sounds": true
   },
-  "vanilla_anvil": {
-    "remove_anvil_limit": true,
-    "no_anvil_enchant_cost": true,
-    "no_anvil_repair_cost": true,
-    "no_anvil_rename_cost": true
-  },
   "vanilla_bugfixes": {
     "fix_focus_bug": true,
     "attack_sleeping_villagers": true,
     "fix_experience_loss": true,
     "fix_resource_filter_leak": true,
-    "fix_density_memoization": true,
     "fix_horizon_line": true,
     "fix_cave_sky": true
   },

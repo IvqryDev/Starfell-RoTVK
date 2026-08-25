@@ -341,6 +341,17 @@
       },
       "sync": "immersiveoverlays:compass"
     },
+    "immersiveoverlays:moon": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "immersiveoverlays:moon"
+    },
     "immersiveoverlays:speed": {
       "displacement": {
         "x": 0,
@@ -494,6 +505,17 @@
         "y": "NONE"
       },
       "sync": "naturescompass:natures_compass"
+    },
+    "netherexp:stampede_hunger": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "netherexp:stampede_hunger"
     },
     "nomansland:dialogue": {
       "displacement": {
