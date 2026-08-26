@@ -1,0 +1,10 @@
+Hey! Are you a modpack developer looking at these files to see how I did things? Then there's good news, and bad news.
+Goods news is that you're free to take any of these files or scripts and modify them however you want for your pack! As long as you:
+    - Provide a tiny little credit on your modpack page, OR, make a similar file to this one in your KubeJS or datapack directory crediting me (IvqryDev) for the appropriate scripts or configurations or whatever you'd like to snag.
+    - Don't upload said modpack to Curseforge. I know it might seem weird, but I just don't feel comfortable having any of my work uploaded there anymore. I hope you understand.
+    - Optional, but you could message me on Discord, I'd love to check out your pack or help you with any issues and disclaimers you have regarding my work. My DC username is "ivqrydev", case-sensitive.
+
+The bad news is... A lot of my custom content is done with my core mod, Valcon, that I specifically made for this modpack. KubeJS was mainly for small, tiny tweaks, I switched away from KubeJS for most of my needs because the documentation was very poor and was always too janky for my liking.
+If you're reading this, you should try making your own core mod! It allows for so much more to be done in packdev. But if not, that's alright.
+
+Again, feel free to take any files you want! Just credit me somehow, and don't upload to Curseforge as I said. Happy snooping, and I hope you enjoy the modpack!
