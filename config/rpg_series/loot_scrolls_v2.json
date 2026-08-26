@@ -6,7 +6,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -24,7 +24,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -42,7 +42,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -60,7 +60,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -78,7 +78,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -96,7 +96,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -114,7 +114,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -132,7 +132,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -150,7 +150,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -168,7 +168,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -186,7 +186,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -204,7 +204,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -222,7 +222,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -240,7 +240,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -258,7 +258,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -276,7 +276,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -294,7 +294,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -312,7 +312,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -330,7 +330,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -348,7 +348,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -366,7 +366,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -384,7 +384,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -402,7 +402,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -420,7 +420,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -438,7 +438,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -456,7 +456,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -474,7 +474,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -492,7 +492,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -510,7 +510,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -528,7 +528,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -546,7 +546,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -564,7 +564,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -582,7 +582,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -600,7 +600,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -618,7 +618,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -636,7 +636,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -654,7 +654,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -672,7 +672,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -690,7 +690,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -708,7 +708,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -726,7 +726,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -744,7 +744,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -762,7 +762,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -780,7 +780,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -798,7 +798,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -816,7 +816,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -834,7 +834,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -852,7 +852,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -870,7 +870,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -888,7 +888,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -906,7 +906,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -924,7 +924,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -942,7 +942,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -960,7 +960,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -978,7 +978,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -996,7 +996,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1014,7 +1014,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1032,7 +1032,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1050,7 +1050,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1068,7 +1068,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1086,7 +1086,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1104,7 +1104,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1122,7 +1122,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1140,7 +1140,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1158,7 +1158,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1176,7 +1176,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1194,7 +1194,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1212,7 +1212,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",
@@ -1230,7 +1230,7 @@
       "entries": [
         {
           "id": "spell_engine:spell_scroll",
-          "filters_lenient": true,
+          "filters_lenient": false,
           "weight": 1,
           "spell_bind": {
             "pool": "spell_engine:treasure",

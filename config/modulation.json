@@ -9,7 +9,7 @@
     "consume_chains": false
   },
   "passable_foliage": {
-    "enable_passable_foliage": true,
+    "enable_passable_foliage": false,
     "enable_scaffolding_mode": false,
     "enable_pale_oak_leaves": true,
     "enable_tinted_leaves": true,

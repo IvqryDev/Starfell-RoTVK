@@ -42389,7 +42389,7 @@ file = "kubejs/startup_scripts/consumable_rework.js"
 hash = "84edfb774f3719f1b9a8bb58b160715ac01368f197f786eb969d2e99f50bf628"
 
 [[files]]
-file = "kubejs/startup_scripts/durability_tweaks.js"
+file = "kubejs/startup_scripts/durability_tweaks.js.disabled"
 hash = "80220978e765b46f6a5cbe0625296ba4be9a6a744ed5503358de3cd6d033551f"
 
 [[files]]

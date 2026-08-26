@@ -61,6 +61,11 @@
       "jewelry:gold_ring",
       "jewelry:copper_ring"
     ],
+    "rpg_series:loot_reference/tier_3_treasures": [
+      "minecraft:netherite_ingot",
+      "minecraft:netherite_scrap",
+      "minecraft:nether_star"
+    ],
     "rpg_series:loot_tier/tier_1_armors": [
       "archers:archer_armor_head",
       "archers:archer_armor_chest",
@@ -202,6 +207,12 @@
       "jewelry:netherite_topaz_necklace",
       "jewelry:netherite_sapphire_ring"
     ],
+    "rpg_series:loot_reference/tier_0_armors": [
+      "minecraft:leather_helmet",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_leggings",
+      "minecraft:leather_boots"
+    ],
     "rpg_series:archetype/melee_damage_weapon": [
       "paladins:iron_claymore",
       "paladins:golden_claymore",
@@ -254,13 +265,41 @@
       "wizards:wand_netherite_fire",
       "wizards:wand_netherite_frost"
     ],
+    "rpg_series:loot_reference/tier_1_armors": [
+      "minecraft:turtle_helmet"
+    ],
+    "rpg_series:loot_reference/tier_2_armors": [],
+    "rpg_series:loot_reference/tier_3_weapons": [
+      "minecraft:netherite_sword",
+      "minecraft:mace"
+    ],
+    "rpg_series:loot_reference/tier_2_treasures": [
+      "minecraft:heart_of_the_sea",
+      "minecraft:music_disc_13",
+      "minecraft:music_disc_cat",
+      "minecraft:music_disc_otherside",
+      "minecraft:music_disc_pigstep",
+      "minecraft:music_disc_relic",
+      "minecraft:music_disc_5"
+    ],
     "rpg_series:loot_theme/aether": [],
+    "rpg_series:loot_reference/tier_1_weapons": [
+      "minecraft:iron_sword",
+      "minecraft:iron_axe",
+      "minecraft:bow",
+      "minecraft:crossbow"
+    ],
+    "rpg_series:loot_reference/tier_2_weapons": [
+      "minecraft:diamond_sword",
+      "minecraft:trident"
+    ],
     "rpg_series:loot_theme/dragon": [
       "relics_rpgs:greater_perk_heal_danger",
       "relics_rpgs:greater_proc_spell_trance",
       "relics_rpgs:greater_proc_physical_trance",
       "relics_rpgs:greater_proc_defense_danger"
     ],
+    "rpg_series:loot_reference/golden_weapons": [],
     "rpg_series:loot_tier/tier_1_relics": [
       "relics_rpgs:jewel_figurine_sapphire",
       "relics_rpgs:jewel_figurine_tanzanite",
@@ -323,6 +362,12 @@
       "wizards:staff_netherite_fire",
       "wizards:staff_netherite_frost"
     ],
+    "rpg_series:loot_reference/tier_0_weapons": [
+      "minecraft:wooden_sword",
+      "minecraft:wooden_axe",
+      "minecraft:stone_sword",
+      "minecraft:stone_axe"
+    ],
     "rpg_series:loot_tier/tier_4_weapons": [],
     "rpg_series:loot_theme/golden_weapon": [
       "archers:golden_spear",
@@ -332,6 +377,7 @@
       "rogues:golden_double_axe",
       "rogues:golden_glaive"
     ],
+    "rpg_series:loot_reference/tier_3_armors": [],
     "rpg_series:loot_tier/tier_3_relics": [
       "relics_rpgs:greater_perk_defense_block",
       "relics_rpgs:greater_healing_taken",
@@ -346,6 +392,9 @@
       "relics_rpgs:greater_perk_evasion_attack",
       "relics_rpgs:greater_proc_defense_danger",
       "relics_rpgs:greater_perk_ranged_levitate"
+    ],
+    "rpg_series:loot_reference/tier_1_treasures": [
+      "minecraft:golden_apple"
     ],
     "rpg_series:loot_tier/tier_5_weapons": [
       "arsenal:unique_claymore_2",

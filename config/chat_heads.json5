@@ -8,6 +8,7 @@
 	"drawShadow": true,
 	"nameAliases": {
 		"Dust": "disabled!",
-		"Urn": "disabled!"
+		"Urn": "disabled!",
+		"Inventory": "empty."
 	}
 }
