@@ -1,5 +1,0 @@
-{
-  "inputs": ["nomansland:grass_sprouts"],
-  "output": "newworld:moss_sprouts",
-  "probability": 0.1
-}

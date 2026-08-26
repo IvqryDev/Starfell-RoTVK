@@ -1,0 +1,17 @@
+[
+  {
+    "action": "replace_input",
+    "target": "windswept:elder_feather",
+    "replacement": "minecraft:feather"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:diamond",
+    "replacement": "oreganized:silver_ingot"
+  },
+  {
+    "action": "replace_input",
+    "target": "supplementaries:rope",
+    "replacement": "farmersdelight:rope"
+  }
+]

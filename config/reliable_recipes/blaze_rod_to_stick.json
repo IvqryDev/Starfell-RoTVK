@@ -1,7 +1,0 @@
-[
-  {
-    "action": "replace_input",
-    "target": "minecraft:blaze_rod",
-    "replacement": "minecraft:stick"
-  }
-]

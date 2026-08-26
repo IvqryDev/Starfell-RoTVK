@@ -1,9 +1,0 @@
-{
-  "inputs": [
-    "nomansland:blue_lupine",
-    "nomansland:aconite",
-    "nomansland:starflower"
-  ],
-  "output": "valcon:athelas",
-  "probability": 0.075
-}

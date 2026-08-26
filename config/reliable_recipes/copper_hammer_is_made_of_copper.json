@@ -1,9 +1,0 @@
-[
-  {
-    "action": "set_repair_material",
-    "target": [
-      "manual_labour:flint_hammer"
-    ],
-    "material": "minecraft:copper_ingot"
-  }
-]

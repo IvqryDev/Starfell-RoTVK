@@ -1,0 +1,150 @@
+[
+  {
+    "action": "remove_from_tag",
+    "tag": "minecraft:needs_diamond_tool",
+    "id": [
+      "minecraft:obsidian",
+      "blockbox:polished_obsidian"
+    ]
+  },
+  {
+    "action": "remove_from_tag",
+    "tag": "c:ingots/silver",
+    "id": "oreganized:silver_ingot"
+  },
+  {
+    "action": "remove_from_tag",
+    "tag": "c:ores/silver",
+    "id": [
+      "oreganized:silver_ore",
+      "oreganized:deepslate_silver_ore"
+    ]
+  },
+  {
+    "action": "remove_from_tag",
+    "tag": "c:nuggets/silver",
+    "id": "oreganized:silver_nugget"
+  },
+  {
+    "action": "remove_from_tag",
+    "tag": "c:raw_materials/silver",
+    "id": "oreganized:raw_silver"
+  },
+  {
+    "action": "remove_from_tag",
+    "tag": "nomansland:offering/silver",
+    "id": [
+      "oreganized:silver_ingot",
+      "oreganized:raw_silver",
+      "oreganized:silver_nugget"
+    ]
+  },
+  {
+    "action": "remove_from_tag",
+    "tag": "c:storage_blocks/silver",
+    "id": "oreganized:silver_block"
+  },
+  {
+    "action": "remove_from_tag",
+    "tag": "c:storage_blocks/raw_silver",
+    "id": "oreganized:raw_silver_block"
+  },
+  [
+    {
+      "action": "remove_from_tag",
+      "tag": "minecraft:enchantable/sword",
+      "id": [
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife"
+      ]
+    },
+    {
+      "action": "remove_from_tag",
+      "tag": "minecraft:enchantable/sharp_weapon",
+      "id": [
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife"
+      ]
+    },
+    {
+      "action": "remove_from_tag",
+      "tag": "minecraft:enchantable/weapon",
+      "id": [
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife"
+      ]
+    },
+    {
+      "action": "remove_from_tag",
+      "tag": "minecraft:enchantable/melee",
+      "id": [
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife"
+      ]
+    },
+    {
+      "action": "remove_from_tag",
+      "tag": "lodestone:enchantable/weapon",
+      "id": [
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife"
+      ]
+    },
+    {
+      "action": "remove_from_tag",
+      "tag": "lodestone:enchantable/melee",
+      "id": [
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife"
+      ]
+    },
+    {
+      "action": "remove_from_tag",
+      "tag": "critical_strike:weapon",
+      "id": [
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife"
+      ]
+    },
+    {
+      "action": "remove_from_tag",
+      "tag": "critical_strike:enchantable/weapon",
+      "id": [
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife"
+      ]
+    },
+    {
+      "action": "remove_from_tag",
+      "tag": "spell_engine:handheld",
+      "id": [
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife"
+      ]
+    },
+    {
+      "action": "remove_from_tag",
+      "tag": "minecraft:enchantable/fire_aspect",
+      "id": [
+        "rogues:iron_dagger",
+        "rogues:golden_dagger",
+        "rogues:diamond_dagger",
+        "rogues:netherite_dagger",
+        "arsenal:unique_dagger_sw",
+        "rogues:iron_sickle",
+        "rogues:golden_sickle",
+        "rogues:diamond_sickle",
+        "rogues:netherite_sickle",
+        "arsenal:unique_sickle_sw",
+        "farmersdelight:flint_knife",
+        "farmersdelight:iron_knife",
+        "archers:flint_spear",
+        "archers:iron_spear",
+        "archers:golden_spear",
+        "archers:diamond_spear",
+        "archers:netherite_spear",
+        "arsenal:unique_spear_2"
+      ]
+    }
+  ]
+]

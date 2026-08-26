@@ -1,5 +1,0 @@
-{
-  "action": "remove",
-  "items": ["minecraft:blaze_powder"],
-  "replace_with": "minecraft:fire_charge"
-}

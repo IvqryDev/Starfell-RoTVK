@@ -1,0 +1,89 @@
+[
+  {
+    "retrogen": false,
+    "player_blocks": false,
+    "inputs": ["minecraft:iron_ore"],
+    "output": "oreganized:lead_ore",
+    "probability": 0.1
+  },
+  {
+    "retrogen": false,
+    "player_blocks": false,
+    "inputs": ["minecraft:deepslate_iron_ore"],
+    "output": "oreganized:deepslate_lead_ore",
+    "probability": 0.25
+  },
+  {
+    "inputs": [
+      "nomansland:blue_lupine",
+      "nomansland:aconite",
+      "nomansland:starflower"
+    ],
+    "output": "valcon:athelas",
+    "probability": 0.075
+  },
+  {
+    "inputs": ["nomansland:cave_weeds"],
+    "output": "valcon:ironwood_log",
+    "additional_blocks": [
+      {
+        "output": "valcon:ironwood_log",
+        "x_offset": 0,
+        "y_offset": 1,
+        "z_offset": 0
+      },
+      {
+        "output": "valcon:ironwood_log",
+        "x_offset": 0,
+        "y_offset": 2,
+        "z_offset": 0
+      }
+    ],
+    "probability": 0.025
+  },
+  {
+    "inputs": ["nomansland:cave_weeds"],
+    "output": "valcon:ironwood_log",
+    "additional_blocks": [
+      {
+        "output": "valcon:ironwood_log",
+        "x_offset": 0,
+        "y_offset": 1,
+        "z_offset": 0
+      },
+      {
+        "output": "valcon:ironwood_log",
+        "x_offset": 0,
+        "y_offset": 2,
+        "z_offset": 0
+      },
+      {
+        "output": "valcon:ironwood_log",
+        "x_offset": 0,
+        "y_offset": 3,
+        "z_offset": 0
+      }
+    ],
+    "probability": 0.025
+  },
+  {
+    "inputs": ["nomansland:grass_sprouts"],
+    "output": "newworld:moss_sprouts",
+    "probability": 0.1
+  },
+  {
+    "retrogen": false,
+    "player_blocks": false,
+    "inputs": ["nomansland:silt"],
+    "output": "minecraft:mud",
+    "neighbors": {
+      "up": [
+        "minecraft:water",
+        "minecraft:seagrass",
+        "minecraft:tall_seagrass",
+        "nomansland:reeds",
+        "nomansland:cattail"
+      ]
+    }
+  }
+]

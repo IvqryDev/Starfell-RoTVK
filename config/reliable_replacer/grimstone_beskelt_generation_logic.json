@@ -1,7 +1,0 @@
-{
-  "retrogen": false,
-  "player_blocks": false,
-  "inputs": ["minecraft:deepslate_iron_ore"],
-  "output": "oreganized:deepslate_lead_ore",
-  "probability": 0.25
-}
