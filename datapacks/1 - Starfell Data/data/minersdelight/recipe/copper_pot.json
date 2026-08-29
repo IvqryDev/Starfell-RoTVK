@@ -1,25 +1,16 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "cWc",
         "cFc",
         "ccc"
     ],
     "key": {
-        "W": {
-            "item": "minecraft:wooden_shovel"
-        },
         "c": {
             "item": "minecraft:copper_ingot"
         },
-        "F": [
-            {
-                "item": "minecraft:water_bucket"
-            },
-            {
-                "item": "minersdelight:water_cup"
-            }
-        ]
+        "F": {
+            "item": "minecraft:water_bucket"
+        }
     },
     "result": {
         "id": "minersdelight:copper_pot",
