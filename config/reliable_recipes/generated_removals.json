@@ -418,7 +418,8 @@
       "crafting:repairing/wizards/arcane_robe_head",
       "caverns_and_chasms:silver_ingot_from_smelting_silver_ore",
       "caverns_and_chasms:silver_ingot_from_smelting_deepslate_silver_ore",
-      "caverns_and_chasms:silver_ingot_from_smelting_soul_silver_ore"
+      "caverns_and_chasms:silver_ingot_from_smelting_soul_silver_ore",
+      "manual_labour:mortar/grinding/sand"
     ]
   }
 ]
