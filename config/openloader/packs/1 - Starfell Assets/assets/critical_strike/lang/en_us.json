@@ -1,6 +1,6 @@
 {
-  "attribute.name.critical_strike.chance": "Critical Hit Chance",
-  "attribute.name.critical_strike.damage": "Critical Hit Damage",
+  "attribute.name.critical_strike.chance": "Critical Strike Chance",
+  "attribute.name.critical_strike.damage": "Critical Strike Damage",
   "effect.critical_strike.chance": "Crucial",
   "effect.critical_strike.chance.description": "Increases the chance to deal critical hits.",
   "effect.critical_strike.damage": "Critical Impact",

@@ -185,7 +185,6 @@
   "enchantment.minecraft.fortune": "Prospector",
   "enchantment.minecraft.swift_sneak": "Rogue",
   "item.minecraft.glowstone_dust": "Glowstone Shard",
-  "attribute.name.generic.max_health": "Maximum Vitality",
   "item.minecraft.nether_star": "Evenstar",
   "block.minecraft.ladder": "Ladder",
   "item.minecraft.stone_axe": "Copper Axe",
@@ -342,5 +341,15 @@
   "item.minecraft.golden_apple": "Pomegranate",
   "block.minecraft.furnace": "Kiln",
   "container.furnace": "Kiln",
-  "block.minecraft.obsidian": "Raw Obisidan"
+  "block.minecraft.obsidian": "Raw Obisidan",
+
+  "attribute.name.generic.armor": "Defense",
+  "attribute.name.generic.armor_toughness": "Toughness",
+  "attribute.name.generic.attack_damage": "Attack Power",
+  "attribute.name.generic.max_absorption": "Bonus Vitality",
+  "attribute.name.generic.max_health": "Maximum Vitality",
+  "attribute.name.generic.movement_speed": "Movement Speed",
+  "attribute.name.horse.jump_strength": "Mount Strength",
+  "attribute.name.player.block_break_speed": "Mining Speed",
+  "attribute.name.player.sneaking_speed": "Stealth Speed"
 }
