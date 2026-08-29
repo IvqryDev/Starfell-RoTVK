@@ -128,7 +128,8 @@ ItemEvents.modification(event => {
         "nomansland:salmon_and_pesto_gnocchi",
         "farmersdelight:squid_ink_pasta",
         "farmersdelight:vegetable_noodles",
-        "minecraft:saddle"
+        "minecraft:saddle",
+        "cookscollection:cooking_oil"
         ]
     )
 })
