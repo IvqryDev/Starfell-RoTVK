@@ -139,5 +139,15 @@
   "upgrade.oreganized.electrum_upgrade": "Electrum Upgrade",
   "block.oreganized.lead_bars": "Beskelt Bars",
   "block.oreganized.lead_trapdoor": "Beskelt Trapdoor",
-  "block.oreganized.lead_door": "Beskelt Door"
+  "block.oreganized.lead_door": "Beskelt Door",
+
+  "block.oreganized.silver_bars": "Mythril Bars",
+  "block.oreganized.silver_bulb": "Mythril Bulb",
+  "block.oreganized.silver_door": "Mythril Door",
+  "block.oreganized.silver_trapdoor": "Mythril Trapdoor",
+  "block.oreganized.cut_silver": "Refined Mythril",
+  "block.oreganized.cut_silver_slab": "Refined Mythril Slab",
+  "block.oreganized.vertical_cut_silver_slab": "Vertical Refined Mythril Slab",
+  "block.oreganized.cut_silver_stairs": "Refined Mythril Stairs",
+  "block.oreganized.cut_silver_step": "Refined Mythril Step"
 }
