@@ -145,14 +145,6 @@
     ]
   },
   {
-    "action": "remove_from_tag",
-    "tag": "minecraft:needs_stone_tool",
-    "id": [
-      "minecraft:copper_ore",
-      "minecraft:deepslate_copper_ore"
-    ]
-  },
-  {
     "action": "set_repair_material",
     "target": [
       "manual_labour:flint_hammer"
