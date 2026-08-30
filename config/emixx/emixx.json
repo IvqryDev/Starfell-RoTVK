@@ -33,7 +33,8 @@
     "minecraft:enchanted_books",
     "minecraft:lingering_potions",
     "keeb_struc_fortress:fortress_air_nonreplaceable",
-    "minecraft:swords"
+    "minecraft:swords",
+    "rpg_series:weapon_type/glaive"
   ],
   "stackGroupItemOrder": {},
   "emiOnlyInRecipeBook": false,
