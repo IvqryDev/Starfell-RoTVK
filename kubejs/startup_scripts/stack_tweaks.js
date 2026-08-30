@@ -47,7 +47,6 @@ ItemEvents.modification(event => {
         "minecraft:music_disc_strad",
         "minecraft:music_disc_5",
         "minecraft:music_disc_pigstep",
-        "netherexp:music_disc_buckshot_wonderland",
         "valcon:star_taker_music_disc",
         "valcon:devil_trigger_music_disc",
         "minecraft:music_disc_stal",
