@@ -1,12 +1,12 @@
 name = "Starfell - RoTVK"
-author = "IvqryDev, NineRavens"
+author = "IvqryDev, NineRavens, and Many Contributors"
 version = "0.3-BETA"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "af3aa61fa520a83a17e3e1f28aaa225d0f11475c23b27ff5ca87aca5a3416c59"
+hash = "073d59cc496a7e5a8910efd8b95ddf51841dac2ec4cddb7a04f035d8b9578da9"
 
 [versions]
 minecraft = "1.21.1"
