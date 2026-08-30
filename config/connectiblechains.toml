@@ -1,8 +1,8 @@
 chainHangAmount = 8.0
 maxChainRange = 128
-quality = 8
+quality = 6
 showToolTip = true
 showRangeWarningHud = true
-collisionsEnabled = false
+collisionsEnabled = true
 hangingBlockCollisions = true
 debugDraw = false
