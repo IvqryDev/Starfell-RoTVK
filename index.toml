@@ -46,7 +46,7 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "307a81c5955e06b8167e5571254bc308156d7b5a7acf6f9ffc256760a061bb56"
+hash = "c16bb0b9957a2dcc88138f02c327d9dfbd679da15526c44e2970d551bdb52fe9"
 
 [[files]]
 file = "LICENSE"
@@ -28890,7 +28890,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "a2984a31ce21df84b4d13360280841698b359401f2c70816ae5a361d1c1ecdf4"
+hash = "59dda12be6fe5828bf5f2566bfa243ab1e9746265865a9046575b0a05208950d"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -43141,8 +43141,8 @@ file = "mods/redomesticate-neoforge-1.21.1-1.10.1.jar"
 hash = "34b4145df0c3b27355fe924ad0d49939aebaeb404ea92cc004893f04364dc6ba"
 
 [[files]]
-file = "mods/reliable_advancements-neoforge-1.21.1-6.2.0.jar"
-hash = "4ac0a475bbb2975791dfe40f96b4dc69381628867a67a75aa8ffef9529b50ba3"
+file = "mods/reliable_advancements-neoforge-1.21.1-6.2.1.jar"
+hash = "199161c6d0214c00c412509f44c95cf5864567e451eb9c4287bfb2adf15e29c4"
 
 [[files]]
 file = "mods/reliable_backpacks-neoforge-1.21.1-1.9.0.jar"
@@ -43369,8 +43369,8 @@ file = "mods/usefulspyglass-neoforge-1.21.1-1.0.2.jar"
 hash = "09bf63f22dfb0e9b607e6357d34bab8d574e3046733072ceb9a17861817bfb08"
 
 [[files]]
-file = "mods/valcon-0.8.6.4.jar"
-hash = "26ca6d93916aed9e6be06a5179191d1171d11063ed15325f943e727cb417b7dc"
+file = "mods/valcon-0.9.jar"
+hash = "c8dfa1a008171c9a81c005c78d432b15b2544b590e84c7a87d57d7f9f1515c2b"
 
 [[files]]
 file = "mods/visuality-forge-3.0.0.jar"
