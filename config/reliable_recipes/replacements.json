@@ -13,5 +13,15 @@
     "action": "replace_input",
     "target": "supplementaries:rope",
     "replacement": "farmersdelight:rope"
+  },
+  {
+    "action": "replace_input",
+    "target": "minecraft:netherite_upgrade_smithing_template",
+    "replacement": "modestmagic:stardust"
+  },
+  {
+    "action": "replace_input",
+    "target": "armory_rpgs:epic_armor_upgrade",
+    "replacement": "modestmagic:stardust"
   }
 ]

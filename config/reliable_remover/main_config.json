@@ -824,7 +824,9 @@
             "oreganized:silver_axe",
             "oreganized:silver_hoe",
             "oreganized:silver_sword",
-            "oreganized:silver_mirror"
+            "oreganized:silver_mirror",
+            "minecraft:netherite_upgrade_smithing_template",
+            "armory_rpgs:epic_armor_upgrade"
         ]
     }
 ]
