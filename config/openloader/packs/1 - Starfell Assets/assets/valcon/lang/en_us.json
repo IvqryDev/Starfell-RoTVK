@@ -1,4 +1,73 @@
 {
+  "itemGroup.valcon": "Valcon",
+  "creativetab.valcon.valcon_tab": "Valcon",
+
+  "item.valcon.soulborn_blade": "Soulborn Blade",
+  "item.valcon.soul_steel_ingot": "Soul Steel Ingot",
+  "item.valcon.great_rune_schematic": "Great Rune Schematic",
+  "item.valcon.soul": "Soul",
+  "item.valcon.mythril_core": "Mythril Core",
+  "item.valcon.lembas": "Lembas",
+  "item.valcon.ashen_steel_ingot": "Ashen Steel Ingot",
+  "item.valcon.ashen_steel_handle": "Ashen Steel Handle",
+  "item.valcon.ash": "Ash",
+  "item.valcon.royal_fabric": "Royal Fabric",
+  "item.valcon.ironwood": "Ironwood",
+  "item.valcon.ironwood_bark": "Ironwood Bark",
+
+  "item.valcon.red_queen": "Red Queen",
+  "item.valcon.red_queen.exceed": "Exceed: %s/3",
+
+  "item.valcon.ashen_steel_plating": "Ashen Steel Plating",
+  "item.valcon.gold_plating": "Gold Plating",
+  "item.valcon.iron_plating": "Iron Plating",
+  "item.valcon.silver_plating": "Silver Plating",
+  "item.valcon.mythril_plating": "Mythril Plating",
+
+  "block.valcon.soul_forge": "Soul Forge",
+  "block.valcon.bast_statue": "Bast Statue",
+  "block.valcon.divine_crucible": "Divine Crucible",
+  "block.valcon.athelas": "Athelas",
+  "block.valcon.ironwood_log": "Ironwood Log",
+
+  "painting.valcon.motivation.title": "Motivation",
+  "painting.valcon.motivation.author": "Seren Sonlu",
+
   "tag.valcon.enchantable.betrayal": "Light Armaments",
-  "tag.valcon.enchantable.parryable": "Shields & Light Armaments"
+  "tag.valcon.enchantable.parryable": "Shields & Light Armaments",
+
+  "effect.valcon.rotten": "Rotten",
+  "effect.valcon.crumbling": "Crumbling",
+
+  "enchantment.valcon.flash": "Fatal Flash",
+  "enchantment.valcon.flash.description": "Heightens your reaction speed to extend the parry opening.",
+  "enchantment.valcon.requite": "Requite",
+  "enchantment.valcon.requite.description": "Enhances retaliation ability of the armament to increase parry damage.",
+
+  "item.valcon.star_taker_music_disc": "Music Disc",
+  "item.valcon.star_taker_music_disc.desc": "SociopathicFungusGirl - Star Taker",
+  "item.valcon.devil_trigger_music_disc": "Music Disc",
+  "item.valcon.devil_trigger_music_disc.desc": "Casey Edwards - Devil Trigger",
+
+  "sounds.valcon.soul_forge_use": "Soul Forge Echoes",
+  "sounds.valcon.refresh": "Shuriken Refreshes",
+  "sounds.valcon.rev": "Red Queen Revs",
+  "sounds.valcon.exceed": "Red Queen Exceeds",
+
+  "tooltip.valcon.bast_statue.tooltip": "Grants resistance to players within a 24 block radius.",
+  "tooltip.valcon.soul_forge.tooltip.description": "A magical forge capable of enhancing your equipment to be unbreakable.",
+  "tooltip.valcon.enchanting_guide.tooltip.line": "An ancient tome inscribed with the means to create runes of immense power.",
+  "tooltip.valcon.soul.tooltip": "If you listen closely, you can hear hear whispers of a massacre...",
+  "tooltip.valcon.umbral_shard.tooltip.line0": "The final step in the ritual.",
+  "tooltip.valcon.umbral_shard.tooltip.line1": "Are you ready?",
+
+  "message.valcon.soul_forge.unworthy": "This item is unworthy.",
+  "message.valcon.soul_forge.forge_success": "",
+  "message.valcon.soul_forge.tablet_success": "",
+  "message.valcon.soul_forge.already_infused": "This item already has the power of a great rune...",
+  "message.valcon.soul_forge.already_blessed": "This armament has already been blessed...",
+  "message.valcon.soul_forge.incompatible_tablet": "This great rune is incompatible with this armament...",
+  "message.valcon.soul_forge.refine" : "",
+
+  "message.valcon.pathetic": "You need a stronger tool to mine this!"
 }
