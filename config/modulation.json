@@ -2,6 +2,9 @@
   "figura": {
     "enable_target_selectors": true
   },
+  "farmers_delight": {
+    "stoves_place_unlit": true
+  },
   "reconnectible_chains": {
     "enabled": false,
     "charge_up_ticks": 0,
@@ -28,7 +31,8 @@
     "fix_cave_sky": true,
     "better_pause_freezing": true,
     "colored_crack_particles": true,
-    "ghast_charging": true
+    "ghast_charging": true,
+    "fix_mobs_crossing_rails": false
   },
   "vanilla_gameplay": {
     "flammable_cobwebs": true,
@@ -49,7 +53,12 @@
     "bedrock_impaling": true,
     "nether_cauldron": true,
     "fire_aspect_is_flint_and_steel": true,
-    "no_chest_when_targeted": true
+    "no_chest_when_targeted": true,
+    "disable_path_creation": false,
+    "disable_farmland_creation": false,
+    "disable_ender_pearl_damage": true,
+    "dispenser_shears_pumpkins": false,
+    "water_bottles_on_concrete": false
   },
   "vanilla_gui": {
     "ctrl_drag_to_crafting_grid": true,
@@ -66,7 +75,9 @@
     "waxed_item_icon_overlay": false,
     "extra_item_icon_overlays": false,
     "better_copper_tooltips": false,
-    "legible_signs": true
+    "legible_signs": true,
+    "less_annoying_fire": false,
+    "pixel_consistent_block_drops": false
   },
   "vanilla_walls": {
     "walls_connect_to_fences": true,

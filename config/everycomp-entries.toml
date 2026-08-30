@@ -27,9 +27,6 @@
 			chestnut = true
 			pine = true
 
-		[types.wood_type.netherexp]
-			claret = true
-
 		[types.leaves_type.quark]
 			orange_blossom = false
 			lavender_blossom = false
@@ -86,9 +83,6 @@
 
 		[types.lantern.windswept]
 			ice_lantern = true
-
-		[types.lantern.netherexp]
-			treacherous_lantern = true
 
 		[entries.wood_type.quark]
 			ladder = false
