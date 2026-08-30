@@ -20,9 +20,9 @@
 	// Stamina points depleted per weapon swing
 	"depletionPerWeaponSwing": 6.0,
 	// Stamina points depleted per tick while mining
-	"depletionPerMiningTick": 1.5,
+	"depletionPerMiningTick": 0.0,
 	// Stamina points depleted per block broken
-	"depletionPerBlockBroken": 2.0,
+	"depletionPerBlockBroken": 0.0,
 	// Stamina points depleted per tick while using a shield
 	"depletionPerShieldTick": 0.0,
 	// Stamina points depleted per successful shield block
