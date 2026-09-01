@@ -826,7 +826,10 @@
             "oreganized:silver_sword",
             "oreganized:silver_mirror",
             "minecraft:netherite_upgrade_smithing_template",
-            "armory_rpgs:epic_armor_upgrade"
+            "armory_rpgs:epic_armor_upgrade",
+            "minecraft:anvil",
+            "minecraft:chipped_anvil",
+            "minecraft:damaged_anvil"
         ]
     }
 ]
