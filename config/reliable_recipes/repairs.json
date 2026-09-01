@@ -150,5 +150,10 @@
       "manual_labour:flint_hammer"
     ],
     "material": "minecraft:copper_ingot"
+  },
+  {
+    "action": "set_repair_material",
+    "target": "#minecraft:enchantable/durability",
+    "material": "modestmagic:stardust"
   }
 ]
