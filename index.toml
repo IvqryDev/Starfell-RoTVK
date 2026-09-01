@@ -46,7 +46,7 @@ hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
 
 [[files]]
 file = ".idea/workspace.xml"
-hash = "c16bb0b9957a2dcc88138f02c327d9dfbd679da15526c44e2970d551bdb52fe9"
+hash = "facce9e227e96c7fc0cd3d268a6b206ca63b2e96ce1eadff187cb6984f61c2b9"
 
 [[files]]
 file = "LICENSE"
@@ -87,6 +87,10 @@ hash = "cfd02d1b22417d14a4c6a489b6b01267b4a71c28546a2912a42f788aafabc38d"
 [[files]]
 file = "config/advancement_enhancement_layout.json"
 hash = "7350b110a26be8ee37d44427ca3cd8015676d834f0de9152db444598d3d2cccf"
+
+[[files]]
+file = "config/aiimprovements-common.toml"
+hash = "16eb2dc098fab4a2b7192cb87522640bdd87d39a97ad13ac081aca206f2706b2"
 
 [[files]]
 file = "config/alloyed.toml"
@@ -217,6 +221,10 @@ file = "config/asynclogger/default.toml"
 hash = "dee286337f4d870b63bb0a4c8d9add6385b363f1edd04209e6a74ff9fd7d9d6e"
 
 [[files]]
+file = "config/attributesetter-server.toml"
+hash = "2d440ae2471f09ee9882479a1ddea8139bc59376a3ea8f52739b397c126993e6"
+
+[[files]]
 file = "config/azurelib.json"
 hash = "9f136b36f13fb0f7d0de277ecf6d933914c7dcc3f646136cd09a68e904659109"
 
@@ -342,7 +350,7 @@ hash = "bbeab6c1ad130780272561d91b767919b12e00254347692279b16757d32ac6c4"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "ecdd502de415cbd467fa281ec0c8e4a028adc3e81805343fcacafa0396b60908"
+hash = "e0813672b59de57f2274042bdce5261754f6e9ba9508e652437461e424ae73c3"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
@@ -434,7 +442,7 @@ hash = "e171da2dd84ca7e60aada0fa716b8118bbba6ceeb917314e7fc46a4b64e450c5"
 
 [[files]]
 file = "config/comfortable_campfires.toml"
-hash = "210654ced6575148286a119ed4f75160561ab507fb1cc94874626fe5836b4448"
+hash = "3d2d849db9bd845deb56789c7f6710fdca5f0055b1c310e7fac605b7284e70d3"
 
 [[files]]
 file = "config/configured-client.properties"
@@ -641,6 +649,14 @@ file = "config/cullleaves.json"
 hash = "5cc86b31860112641a33efc4fd088c6caafda0d85c91ea4d41ffa9ed62e96f64"
 
 [[files]]
+file = "config/curios-client.toml"
+hash = "f1e31eed2ff11e1c6eda6517dc8b24dabd5b752ba1f8a3503c5ce750af1fc7b4"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674"
+
+[[files]]
 file = "config/cutthrough-client.toml"
 hash = "16bc1f998738810cae793b1dc272122dde8b246bffa408f227357803e16ba692"
 
@@ -675,6 +691,14 @@ hash = "6b466fd3fa6f9791a5ec657af40eba6a70cb43fc949216be553d31b94b824bcf"
 [[files]]
 file = "config/drippyloadingscreen/options.txt"
 hash = "f68ab328974170aafb68db0837e8fef427087f41292b9f905f007b3c80495e40"
+
+[[files]]
+file = "config/dsurround/dsurround.json"
+hash = "87ce7227b692457b309d3849b9ff59ebb2c8b983d18eca2319f204036e73def3"
+
+[[files]]
+file = "config/dsurround/soundconfig.json"
+hash = "fa64bd86613903b70b20777bbead61ca0d78312fc2e5c164921dd856e8029ddd"
 
 [[files]]
 file = "config/dungeon_difficulty/client_settings.json"
@@ -1029,12 +1053,16 @@ file = "config/endermanoverhaul.jsonc"
 hash = "94d584e93f86976673fc36fd3834f407444a452199fc4bb9adff6ba320c3e881"
 
 [[files]]
+file = "config/enhanced_attack_indicator-client.toml"
+hash = "2e1f5d0965c8330a3ff07b8cb8a57553dad20117dcbdb5b4657881f90467c522"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "24b96b44263a5b8db218d02fe26038619946367041d78d7a8637010e703cd868"
 
 [[files]]
 file = "config/entity_texture_features.json"
-hash = "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2"
+hash = "31fe95449205cf9c0e247ffe0315193bf49a97ae532336eed891c1617e8606f3"
 
 [[files]]
 file = "config/entityculling.json"
@@ -1066,7 +1094,7 @@ hash = "1430e804a192df4287dc057761ebdbc03f86953dcf0a5f643c069c05813de8fb"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "dca131f6a9d51bf95f6f8311d306da8f67c4ed606e6fac6553414e779485d083"
+hash = "307352891adfd6c81ccb799e79bf2d588c81bc4ed93ce1a9011927ff6e998cc1"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -1441,6 +1469,58 @@ file = "config/horseman-server.toml"
 hash = "9825291661c602566ec887c169ca6f9aa4286dbb28c3ad7a3aef0b2ef2987a07"
 
 [[files]]
+file = "config/ichunutil/ichunutil-client.toml"
+hash = "b8e97dd79596924cb27f68e792cc8daa30812a88f10775eb5fbf182f38050fb8"
+
+[[files]]
+file = "config/ichunutil/themes/aztec.json"
+hash = "e649c0232e3b952d3c1cb9739e8823d998a8d8ea7013cf04825f2e7deaba228f"
+
+[[files]]
+file = "config/ichunutil/themes/blue&black.json"
+hash = "737f04c71b43552e74bf0426d7a973d7d55a73659de32673714b9a8a5acc5f62"
+
+[[files]]
+file = "config/ichunutil/themes/blue&orange.json"
+hash = "feb283d9d1f9cc25f4bb1e568649ed3e6537c9a9ee63fea3506c3683948a7e0f"
+
+[[files]]
+file = "config/ichunutil/themes/default.json"
+hash = "9f8d09018b881b6d4c6840c0bc81004840b0b723dde94fc0f224383e17bb8090"
+
+[[files]]
+file = "config/ichunutil/themes/grassgreen.json"
+hash = "1a9600633ee83e932c38442c34720a0ff659b70b4c304522d784a93766db0a9c"
+
+[[files]]
+file = "config/ichunutil/themes/green&black.json"
+hash = "c147b5c7b1af5bb58134c7d6c96c5941fd3d4cbcfef70f58c2cc151ed70bfb67"
+
+[[files]]
+file = "config/ichunutil/themes/lazygray.json"
+hash = "61096ad80c1aa88ae1caaa774b28d3c8f2dd670fcdf861e549f8d3e19c8c31d6"
+
+[[files]]
+file = "config/ichunutil/themes/monogeneric.json"
+hash = "ed1ce4ab67241147f28878514110ed44882fcd8b598a7f7b7d3986119f9aa14f"
+
+[[files]]
+file = "config/ichunutil/themes/nightblack.json"
+hash = "6e3dbd564f58d51ba79465157b2e6214b31910d7fbc07969bd9afbe2c296f65b"
+
+[[files]]
+file = "config/ichunutil/themes/red&black.json"
+hash = "d75c059cca81b4bd6e365614e10db45d3f16247ea0319ccb2b20a0a3f76b45dd"
+
+[[files]]
+file = "config/ichunutil/themes/skyblue.json"
+hash = "1327fd9384d4d487552f153358d3062adfb156b4b69929de32a83426841ec258"
+
+[[files]]
+file = "config/ichunutil/themes/whitelight.json"
+hash = "5369346e99dc684898a20bbf08791a940f55c9e70e4ed0b0fa8af9e04091dc78"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "5986efada30e7f010293f88598f1d36c6011fc270172fdae52c69c91f34ef34b"
 
@@ -1515,6 +1595,10 @@ hash = "b4306cfc19619ad78fad885566aabd12e642956c1bd8a11b533b5f37cd451621"
 [[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/irons_rpg_tweaks-server.toml"
+hash = "6555c2e2b15c572aa451a46bf80a0910f95f5be9e2c340feb4b502100caea9b9"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -1613,6 +1697,10 @@ file = "config/leavesbegone-server.toml"
 hash = "e41e4f60aa1919d031ef42aa5af412ad8198390c3833cab3f617f6392aaf9cfc"
 
 [[files]]
+file = "config/letsleepingdogslie.toml"
+hash = "31cf4681ae12e6c0d3842912f2dbd38e146124bfae5a287b322825f5070df2b0"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "84798d779472e28708e0785676b6738e823fb90a1b56483a7a92b833c5c881ae"
 
@@ -1694,7 +1782,7 @@ hash = "4cfdaa767d242dd192b708a1377c839f6b8d9c05324a2707dfb114c70ccee749"
 
 [[files]]
 file = "config/modulation.json"
-hash = "81890b20058f765b6e868ce5f9f4614620cb430f6533331bde29bb93ab2f8e4e"
+hash = "002a6ae968b4fc289e9a6526e2f52fc83c91becdec8d494de7ad47c888f03932"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -1794,7 +1882,35 @@ hash = "f1c4dff3ba4c295a81f4b27aae08193b495ceeaef9fc4e157a26485802602e53"
 
 [[files]]
 file = "config/obscuria/loot_journal-client.toml"
-hash = "ac3a4677143d66a57af5934c205bd4b5a508262289bbf11a61289715ab108e63"
+hash = "41ebb176298403f684444439dd8a1cfe2131456cd9308dba8a724e1663db0b1f"
+
+[[files]]
+file = "config/obscuria/loot_journal-themes/Classic.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/obscuria/loot_journal-themes/High Contrast.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/obscuria/loot_journal-themes/Minecraft Bedrock.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/obscuria/loot_journal-themes/Minecraft Dungeons.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/obscuria/loot_journal-themes/Minecraft Java.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/obscuria/loot_journal-themes/Minimal.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/obscuria/loot_journal-themes/Tooltip.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/obscuria/maestro-client.toml"
@@ -2686,7 +2802,7 @@ hash = "09176b8317a0daaf76f9d333232e5382285620885b0c0ee8192e788da4d4ae99"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/lang/en_us.json"
-hash = "373b845707672a17fb4feccff5b1a8e22afa9ea39188449329dc14f3dddf6814"
+hash = "3f3aca1280bf2b2674c8d660d20f4fc66c2028e7f56a215196250cf2eb1a3972"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/models/block/anvil.json"
@@ -11882,7 +11998,7 @@ hash = "bb06f112c2dfbc66ef58b8bc5e2a97bacd585c08a3bf44e52e295b39a9704245"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/shieldexp/lang/en_us.json"
-hash = "6e15d302779a54945f403667eac1e00c146f17a9c980c727213e07b051c9cf59"
+hash = "4c8afa8a22f14c8e59eb6b733c124dd31a0c1c9c8cf43628c74ba5065c3ee2a3"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/shieldexp/models/item/diamond_shield.json"
@@ -11966,7 +12082,7 @@ hash = "7d62e257d6632c4f93b5267680e3707d0c79dc0f10e4ae7503ebda0a95da30dd"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/simplest_paxels/lang/en_us.json"
-hash = "00eb9c486008c52b678edf12dfd3d48b770965a707e3f55076ba953286e37755"
+hash = "de960629fc46bbc9943d71f6d0a58cae7d9e14625a4c6a47dc09476263c5388d"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/simplest_paxels/textures/item/diamond_paxel.png"
@@ -12106,7 +12222,7 @@ hash = "57b19928ae98407650f087b7b1d3a2a704f888399042b60b602eb1d7f0582810"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/valcon/lang/en_us.json"
-hash = "ab474bef31e803cb434a958d83205fc12702d049c2e4759c7e7f9bdabfcf450a"
+hash = "4ffbf6b0412d6070583c6bf94c02c566535f79e4256656eadcc7e4777f9f1cfc"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/valcon/textures/gui/slot/talisman.png"
@@ -16837,8 +16953,32 @@ file = "config/openloader/packs/22 - Brush & Juice/assets/farmersdelight/texture
 hash = "67348ad2db206fd5c86e1910c1717d08367eb15e606caa967f7533aeb0cf1d86"
 
 [[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/farmersdelight/textures/item/cake_slice.png"
+hash = "e4e85dd7430368c290124e6e509db8b548bc69b1c2a034cbaf0fa6f7fff07439"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/farmersdelight/textures/item/chicken_sandwich.png"
+hash = "69d854af8cc280fa9bf641c32345ac2116c1d5fa47693e60793de417f5e0812b"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/farmersdelight/textures/item/dog_food.png"
+hash = "6d5d1e95bd4193704dfb6b3ad9d2810772eeaddc8c88c204197679f48ffe9d0f"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/farmersdelight/textures/item/egg_sandwich.png"
+hash = "a6c986dc9b17012832ccc14f13e235cbb6eeccc3f2e05e2ea860eee9b3c67ef5"
+
+[[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/farmersdelight/textures/item/netherite_knife.png"
 hash = "5267d2ff0d04739b2dae5636084ee7b01d695c6f8c20b9ccc0fee5eee09e1768"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/farmersdelight/textures/item/pie_crust.png"
+hash = "3fb06922cf2ab815c0f4f4f853da1ba80deac6249fff2b7009ef1e98e8bdf325"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/farmersdelight/textures/item/pumpkin_pie_slice.png"
+hash = "0ce12ec2f4b097b55ee3bba436b44dd4ecb1810a3c9076aeb24a191787c5fa89"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/farmersdelight/textures/item/straw.png"
@@ -16850,15 +16990,15 @@ hash = "2ffa0cc90b07e9700e06e1eb458d810004894b3425b6806df3279c483474e6e8"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/blockstates/beetroots.json"
-hash = "31baca726cc551fe01a0782c9fc32be7daa78f737e75428fb3757e03174766a5"
+hash = "0131f4cf4987c0a61da006b6a9c76921b73ade91ce2d64ecc6349e8b22b455b3"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/blockstates/carrots.json"
-hash = "b2da3809e525cdb42836eccd1ce46c36c2c71ed44244e7019658a25a8df2452c"
+hash = "824d7fc17266b985783ab981a59274ef506db2a19c2510b7c7867a532206746c"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/blockstates/potatoes.json"
-hash = "2185ac7a378703a4dc0789afde62ea4e01a6d286ef7a4be5d6d45f811ca03298"
+hash = "044560e64add65a7c50ad0d68d0fdb1872241c4ba6051a7d331f68836d1ff8f2"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/blockstates/soul_campfire.json"
@@ -16866,7 +17006,7 @@ hash = "c41dc2ff8b469600b83c406e4c37ef9406fd890a582b56c491fb60f2781c7d9c"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/blockstates/wheat.json"
-hash = "91f4b466470f0a50ecd5b81559f69864bb5a2f1f143516ec93c65485d45a76f0"
+hash = "d931492595bb994869eae548ade207155ad5a44eccaa48f745e765b45367e99c"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/beetroots_stage0.json"
@@ -16894,19 +17034,19 @@ hash = "daebcacb73005d534bfea4b8b7172fbd09be87b0e7c7d64e47568a1b4823b3ef"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/bell_between_walls.json"
-hash = "ef9870bcf3137dbdb410cda5ba237e1cb8efc7545d190dea8424e57da0d041d9"
+hash = "b8884728f09e1b485400631f4dcfae9f30f4b576822b32e90d3c0b8c684347df"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/bell_ceiling.json"
-hash = "ea1314301a8326a840820a5ef2edc84a83c6f6976873ef5386baf70877a223f6"
+hash = "ea0e908778262d9e52de62167c4c634f2fe878d4ea6ccaaa03503ee493954d18"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/bell_floor.json"
-hash = "c6203ff4d62220fe2215a087888a3f11817890a3fe363f1e556b4cb7835b0587"
+hash = "5044025ddd33ec64cebfac3177d92bcf3ddd06219ab142e4ee8a482a43aa3492"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/bell_wall.json"
-hash = "7291b12f46285a45c99395baea7399a03600655e8b39571b36327ad73c39853d"
+hash = "443bdf2b5b42d5d4fe4318457b8ea3e539c764213cac859146b0472eceb1cff5"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/bookshelf.json"
@@ -16934,7 +17074,7 @@ hash = "dd4910defaf5b23b56be1a340d644ec75660632c66974049e1c483f708d225f8"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/comparator.json"
-hash = "dcb227884b4fb8e6273d91cd2f98b0615d4e05c28d6c09a9dc851de78f1c93b5"
+hash = "d60d99632315031bf786ca898012bbff2a4536f7ff8ceaf9c55f31139c29c70f"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/comparator_on.json"
@@ -16970,31 +17110,31 @@ hash = "4752593d221c5a3ec46cf1aed4665b4474c25d8ae1cdbf7f58f85f41064ba073"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/flower_pot.json"
-hash = "a66b22af872f298772d77757d8495f31487d0cadca2c37e65c928c9ca9b05af4"
+hash = "29eb63a53fd960d1af3815f545037cde87480d67c36c64fdf0eb7c8edbeb6313"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/flower_pot_cross.json"
-hash = "6ff7d49c8938852faf26fcc00e5ccc8e298cff317f906034a07aec482fe71355"
+hash = "a36781d4f89103c5d76efb02fc8da13cbe96037dfd37a0aac52de036157f3253"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/flower_pot_cross_emissive.json"
-hash = "38dabb42b96f3b4ee15be7945745bb9bd3fe804ea805dae0d5dd0ddd315bfd1b"
+hash = "0569833f5bf98db53b8b0cd874a3516312bca2ad9b4a3114c7cfdc253ebe5d2d"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/glow_item_frame.json"
-hash = "9a175dc0ccfcca0c8131d04cb4c9b479041d48b2be2f18d4d841a94222565655"
+hash = "4464855d6c6a920aaa0923beea891424afdcf9d2fbd4241c17b93fb5f92742f4"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/item_frame.json"
-hash = "b8f4d8ff1b08ca0406b4e73032b352b35bf06929895d94ff20f330b3d339a3bb"
+hash = "1c6fa90dc701bf3a538bfcab90b6b1058ee75f17aab109210f3efbf5f89aeb52"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/lever.json"
-hash = "c8ee1896e4e12f3fb840e8d19db283c49419aa13c9824508d26bcef2e9f8f9c7"
+hash = "bd2156e1104f474cb128c44d945e575cf2daa8e41ad4d6759be63ac649f080d0"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/lever_on.json"
-hash = "8c0444d628a097b0232b7ee5c55fabc7f02663897b08fba39f36015417d9652b"
+hash = "3333a938c1d73dc84d29564f8e4be5e65003b455ffbd3cdd3c120b855fbe4c01"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/piston_head.json"
@@ -17077,24 +17217,28 @@ file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block
 hash = "a1edef71ca22162ca9df5e85cb1882600f3bb2561069864ed53aacb8c7cdd178"
 
 [[files]]
-file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/soul_campfire.json"
-hash = "86e3637a54d6779f78bb3aba185395ddc16ee4698b05450fc744bf82656a8ff5"
-
-[[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/soul_campfire_unlit.json"
 hash = "31122848e2dedf614c270dfb48aed3c38b0a1c68fe4bc67f70e1bd8559f56d05"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/sticky_piston.json"
-hash = "613737b413f564dc2b645bc28217093b3fca599647c0e56ee9ad23a15c915fed"
+hash = "0cc695a59ef8639e8f3302956fbbedcfbae016d6189e9baeb7f3f88e2dd6e8ab"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/sticky_piston_inventory.json"
-hash = "79666ed2c183b4dd9311cb53afeaa3d2cf740e989aff4f7c7a539d44a688a155"
+hash = "fdfa48df6f64cc2d684b3ac7862f237fc1f241319a3dd4c0191563aa5d7d738f"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/template_anvil.json"
-hash = "195c369c99f2279d24ed6e0423295d3ad961857e6cbcbc0996036440cae3d5c4"
+hash = "be53fae78e8057d44bfea37040a0814156b7137e31fd97fce968ea2963c5fcdf"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/template_campfire.json"
+hash = "2292f7e447ed15b40b399a307af16e709138a1ca196c195f837a8198fde6f7fc"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/template_campfire_off.json"
+hash = "e049d3282f708dd7e7769774a992c52e3ad32d76f9858f392cd64795771576cc"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/template_crop_cross.json"
@@ -17117,6 +17261,10 @@ file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block
 hash = "db48a52eaf1bf6e3c5e8a2199aa18bc9f5df4fa641cf44902c1550b4211ad4b0"
 
 [[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/template_item_frame.json"
+hash = "d057edd3cd3cdbd4f25439d031bedf849fb0fc8bf27fb6ce36b4a6f4833ca2b3"
+
+[[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/template_redstone_torch.json"
 hash = "f7b7532af6b7ee5f0feaffda224b2358e890685748261fcca7726aec70817b93"
 
@@ -17126,7 +17274,7 @@ hash = "e35b501d6df44c1d37f0eb866ec9dfe306a1951d88eda94f3aa1028273b9e19a"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tinted_flower_pot_cross.json"
-hash = "feaf2817c353f4ced0e217918fdba76ad11b3ffc8485be8f15b334a96d2441ad"
+hash = "5da45a5b2374a2d3f60fcd37ff215838b5067d23d93c172a30dc1fa0a79d2ec5"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tnt.json"
@@ -17142,7 +17290,7 @@ hash = "c03d146e04b044a221cec41238ac6be53d8d35d7f32d2cb8c82680a735b5c444"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tripwire_attached_ns.json"
-hash = "d8af990adaf202b85d8c457fb316d4e70816081164e13a0641e3172df781af32"
+hash = "f228425eda753cd1d447ec0d203cdfe9bbb8c1e44551a32195ed2817c115a1e5"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tripwire_attached_nse.json"
@@ -17154,19 +17302,19 @@ hash = "55cbebe57f233c3c85c8715cf058b6cb76fd06e5a34bb9765a3f9110356ad192"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tripwire_hook.json"
-hash = "cfccdf46d95cbed210ca287b7f075af515505d5ab98047cb69de3538e1a5ea9f"
+hash = "47fcb22cece6b72cb9e0f15dfc6de4bf6aa4eec2948f815edfe825b4fb6e49d9"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tripwire_hook_attached.json"
-hash = "eee5767045caa2b0d3ae53f23bb912f1263185104eceecb37fc42c09e9e22718"
+hash = "c2a7c6bb48e91e2f6539bb679063ffc8e4288be9fc90516e2f4f5f645abd143d"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tripwire_hook_attached_on.json"
-hash = "0aafa529e5163a22e6c6006553d713f70c8c3c62ac189f55ba6ddbebd901f7d1"
+hash = "fdb0cd86a4bf8a6aa6a5c3499484befc78a8f450af1cd1a81750d16730e15dda"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tripwire_hook_on.json"
-hash = "ba30d43b75d3da899d160241273ec2f3791ee504507daf7183bc78e5d2f78aa3"
+hash = "94b6a28adde0eee03414067c5db0323f00ce623a1b5c50cf02073fce7fb5c8eb"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tripwire_n.json"
@@ -17178,7 +17326,7 @@ hash = "c03d146e04b044a221cec41238ac6be53d8d35d7f32d2cb8c82680a735b5c444"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tripwire_ns.json"
-hash = "d8af990adaf202b85d8c457fb316d4e70816081164e13a0641e3172df781af32"
+hash = "f228425eda753cd1d447ec0d203cdfe9bbb8c1e44551a32195ed2817c115a1e5"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/tripwire_nse.json"
@@ -17237,8 +17385,8 @@ file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/item/
 hash = "6100d46b0bc901a35cf977a1253b3447ab4f0ab6caf9c8c273013084c9c11f07"
 
 [[files]]
-file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/particles/note.json"
-hash = "2a7ae7ebe449ae590a4cb190e9fdb7f9e7e7324a7300cc7e9e171522e9f751f8"
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/item/tripwire_hook.json"
+hash = "0e32bebf7484ff6ffd9cfc9834e1cfa70ef21f3d324206cdc50cd691c7bde47d"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/anvil.png"
@@ -17246,15 +17394,15 @@ hash = "856074bc0e737b241ba277039f7505dbf7f600c6358c94946a6d0749a4d785c3"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/anvil_top.png"
-hash = "5a7fa21cfee0076c57e956b79be8155ed8c18676bd9317b09f8af7088f158b58"
+hash = "58848af1ba447a95ffd16d33d6056e45e02e752fee675581e30d0f9534089ec5"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/barrel_top.png"
-hash = "428b668703ccf4fbc3a19a09f202bd80c658829fef7e5f1017f0dd0d37e6685a"
+hash = "74f3ad05547b1a81b076ecb2d7a1d7d5fd7fae23660203b7a64f27a66f987dbf"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/barrel_top_open.png"
-hash = "08c35bddc9c9f1533fb5ee233fb8423e061a34157b3a602757f12fcff0604e0f"
+hash = "7a5b59ff37ea7b4d901db9ef06d6bd74dfee3b7cbaea0ca1f7238fa9cac5eae0"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/beetroots_stage0.png"
@@ -17282,7 +17430,7 @@ hash = "60c98401fe5e53ebb6f14b27f70bcd5b47096c385c5bea775150cb7797d67912"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/bell_bottom.png"
-hash = "26437060a6d674aa7770f7a9c3a1c571700f6a05e1f2a0388e198f8f2485ad5c"
+hash = "a35f6727c48a819d812fc40988085355ff7d9a6c00a965dafd99bcb1c8ecb448"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/bell_stand.png"
@@ -17334,7 +17482,7 @@ hash = "5082b95c5fde483381882964a3aa7e2c891e2b69fe13da80030c455215bec28b"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/chipped_anvil_top.png"
-hash = "aee0da7ed56ac53098635641382b50129b4ae31cdb1e0167fe1bcd2b779cbe84"
+hash = "5ac3222d478ed6771c81c81a3fa8bf421675d5a8165151e57ff32157955f7c7e"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/chiseled_bookshelf_empty.png"
@@ -17378,15 +17526,27 @@ hash = "0d9a47ad00eb0d1b0bc1f731040096bfea6eade1eae6ef204be1a256fb7fe854"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/damaged_anvil_top.png"
-hash = "07d7cd2dd4b4f5321e323a2a6049fd438984d8de647714bc92d5db728ad20b28"
+hash = "c84bc257db59a7b30148eff3daa1f181ce55d8694d43e427b3d505e1bd04e7fc"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/dirt_path_side.png"
+hash = "57f0b803e98728fcee99ba33cc067589413cc063d6b113b3a7b33b2d064e25e5"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/end_portal_frame_eye.png"
 hash = "17dba7b3807c2a97e05134433b0960ae821468a49ea77c8c01e497f44c12c077"
 
 [[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/farmland_moist_side.png"
+hash = "b37aab535ce3ee02481ee59108b726d293b99c807e72375c012ee16e94f1e7a1"
+
+[[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/flower_pot.png"
 hash = "251a2f4caf862ed07db24623497baed0f8c5c03520ae8abe80d21c397ca9edcc"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/glow_item_frame.png"
+hash = "2669cf40d37d38e2d7fceeebd0c0adb61796244017eff12fc5ce8e46420df93e"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/glowing_item_frame.png"
@@ -17394,15 +17554,15 @@ hash = "1a213fd8a58aa4f94d53eb89595f02566ac6950d35cebde281053bc829b71d11"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/item_frame.png"
-hash = "9745babe2beced5967edc43c5831b5c0185a70d60a3bcc0dc79b3b2febb4ad8c"
+hash = "3b04c9224b30a65a2cabdb3e2702a9aed13a116369134e4da72d8452543b7df9"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/jukebox_side.png"
-hash = "1d5634ab4ff9af774d3d5a90cf740dcad24caf4256858b0847a1b72d58fba8cd"
+hash = "e611008456ea1fe60113be7c318b5108c33adcac104fe9dc29c96e9ee896e8cd"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/jukebox_top.png"
-hash = "c558b834bf2109a578d3e9cd10feb78c8adf7746f023a1da65d979534a7c7232"
+hash = "cbc7808bcc265e7d1d3a208593a2c1999df886ab04527085c8967af2c65a3821"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/lever.png"
@@ -17410,7 +17570,7 @@ hash = "9a6de65e5a6e3a9c4bb798c107678f2b3f6fc33fd5264650c854f764a84bfe00"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/note_block.png"
-hash = "1d5634ab4ff9af774d3d5a90cf740dcad24caf4256858b0847a1b72d58fba8cd"
+hash = "4471aaf50fea4b2c9837ce1a9c61c866aedc96c34a5c81b8351484e9c32dba61"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/block/piston_arm.png"
@@ -17605,6 +17765,14 @@ file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/env
 hash = "73eeb8a7d46a343d8336a7624ddb465c3e6fb1858604f2c4e6115b5eb28f54a3"
 
 [[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/environment/rain.png"
+hash = "56a2938df910fb7ea2344768b5fc69eaba70c073a7e1a2406e39c342d1ba1f53"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/environment/snow.png"
+hash = "47598e3cd525557af7453f55b1eab3f9d143e99a1fdfc2a42f34652bfe82d14c"
+
+[[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/environment/sun.png"
 hash = "2e169a3a29004295bcd172f338847702ee427b1dcf0b48d625008916a8e45088"
 
@@ -17621,8 +17789,12 @@ file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/ite
 hash = "60c98401fe5e53ebb6f14b27f70bcd5b47096c385c5bea775150cb7797d67912"
 
 [[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/blaze_powder.png"
+hash = "6fa4d5e635d4a75b9291a36b172ff99624b24ecf5880286e3c847169e413493a"
+
+[[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/bread.png"
-hash = "ad9618fcc3265a45d7287002a5036848080b9c0507c05f4f02f99640ac1bd87f"
+hash = "10405d3af7084e14e9aaea87f105203ab27cbeb4cdaf191e7f9b0ab994168150"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/cobweb.png"
@@ -17682,11 +17854,15 @@ hash = "5cb877c89a1bbc9ea457090ddaf826ad47912830971c1346cf25c72fd8266f69"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/ominous_trial_key.png"
-hash = "2eb68ac9ee266f314c376e964bde7417fe9f1995fced8f466ed3b50c4762e971"
+hash = "76556790e255129b13a77093cb346424289b645a604a5b70e579feac3df39955"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/painting.png"
 hash = "f8ac1987b9f0846cbb9ae4c63ce0af51965132a1aea2c095c729bfa7b2ad979d"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/prismarine_crystals.png"
+hash = "0c7d12ca70311da7faeff542d3b7726de1e1e13617ba2bc0224c7844024e3e22"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/spectral_arrow.png"
@@ -17705,8 +17881,16 @@ file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/ite
 hash = "e6ce9df45062f5093115c22dcf0e979922f74d7f4506a5b01371f44a9c1606fe"
 
 [[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/totem_of_undying.png"
+hash = "796ec6017c87214ad6b4082c752d7d3cfeeeb545ebdca651706d9bdcf4fa9730"
+
+[[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/trial_key.png"
-hash = "f08ab77cc48f3731b8789640e4d665bc21aebc452ef441d31a84ab5dd9be9c0f"
+hash = "db991637a606284aa0e8a5851fc6567ee4a82957d55e22d95988913dc8d94820"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/tripwire_hook.png"
+hash = "23ab9e0b06adcf7ba1d4fb334f9e7332edc7feefcfad4a6c9cd4115d8f00d892"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/textures/item/wheat.png"
@@ -17753,6 +17937,14 @@ file = "config/openloader/packs/22 - Brush & Juice/assets/mixed_litter/textures/
 hash = "f91d60dfe23ac6ac1be1876a8cc518f16221de06e9d05f9af5481269797bba50"
 
 [[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/nomansland/textures/block/extinguished_soul_torch.png"
+hash = "278b144720ecde1bbb1203fcfb7814febaefa079175645bb2fc44e02bf95d50f"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/nomansland/textures/block/extinguished_torch.png"
+hash = "8ee643998dfe82fad286de7fc6a3275280d5cfad137b0814367a9210eae3a39b"
+
+[[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/nomansland/textures/block/storage/apple_crate_bottom.png"
 hash = "21b6811cde7c4c6edbfa1c5b03ad8dc7b275b9c756a30059a912a7f48a24596e"
 
@@ -17789,8 +17981,84 @@ file = "config/openloader/packs/22 - Brush & Juice/assets/nomansland/textures/bl
 hash = "a983ecdfbf7322da56ee0eaadd92e8526edd5cef21fe22e57a3a4c4665ca9f07"
 
 [[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/quark/textures/item/dyed_glow_item_frame.png"
+hash = "7d326a3bcdf37c89930bf570713ce7ea86c2857ce2e18be6ec615c88976970fa"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/quark/textures/item/dyed_item_frame.png"
+hash = "70ef39d29cd1b47d4947d2cfd8dc1a5bbd13db2c26388f25c1491c04969aeeb5"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/quark/textures/item/dyed_item_frame_overlay.png"
+hash = "30d36d57f4a294c7d51b5fbef0801c5afe2399050df6cfcde6eb1be6665d399d"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/supplementaries/textures/item/key.png"
+hash = "08dd660e1ebb9e736b45b72f182cf87060f935e79c8072d210092b75564e45cb"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/supplementaries/textures/item/quiver_full.png"
+hash = "f144c799180655af24f00aaf5eeefb9cb881da45fdaa56508b63c61dafdd4da6"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/supplementaries/textures/item/quiver_model.png"
+hash = "d45ffb82c4fd03d17ab72203c1d3a01f27929fab4e51b071a98347af851141be"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/supplementaries/textures/item/quiver_model_overlay.png"
+hash = "f8357efe422b4b97017d42ff5542485bc8688c179be4513065a3020c642ed6f0"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/supplementaries/textures/item/quiver_model_overlay_dyed.png"
+hash = "d43e8a2366b067d7d4674e9dfee6add568aab418cc68fce6e560cea9427bf279"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/supplementaries/textures/item/quiver_overlay.png"
+hash = "57f8e9130be29048ecf5f76a52d0a8141e6e3d3df4fb6910172c0ac22c1e28ff"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/supplementaries/textures/item/quiver_overlay_dyed.png"
+hash = "7878e593e474167ae098db0075e0d7474379af29327ec614cfd8c59b3e32df07"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/tolerable_creepers/textures/particle/spore_0.png"
+hash = "35a92926cdfea799deba0a29bca9e4cc91edbc1d844b80b89915300c699921d8"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/tolerable_creepers/textures/particle/spore_1.png"
+hash = "5bfe404c30038bf91ec2247b183dcb7c00c6ddcaa5b5c87da57cf024f7160d34"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/tolerable_creepers/textures/particle/spore_2.png"
+hash = "572c628e0e75a27014c63497cfde1e332e0e225c060be4eb991b21158f3d1a47"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/tolerable_creepers/textures/particle/spore_3.png"
+hash = "2e86a8f9f48a65adadd96c0fc3b0f5848fea917b4f59889dac4ee1403feeba8b"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/tolerable_creepers/textures/particle/spore_4.png"
+hash = "9c2020c6323a4d9067d582daa44dcffb92e1ee11d08803b53f804730c4b45a29"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/tolerable_creepers/textures/particle/spore_5.png"
+hash = "d9f2b3cd8abf5796386c197f3d444b8c1b737193f3e85113c3719d28b7922118"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/tolerable_creepers/textures/particle/spore_6.png"
+hash = "c08f3431bfcce9fa62fb18da0d37ae0fa7fcc5f5b4076db2a84d9d25e6c2417f"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/tolerable_creepers/textures/particle/spore_7.png"
+hash = "a253de3ac79bc76d7b45a2ce53d945925d77de4082f3def60bc13e3388efe57e"
+
+[[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/visuality/textures/particle/bone.png"
-hash = "887bcdc7ede1dba3f0cbe879e864f9f38c10144b6d1db202602aab0152704e22"
+hash = "7c0b04c6637c65276599d3321c0b370fae1bd33d4374479bd1e28cb0f7bd1f32"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/visuality/textures/particle/emerald.png"
+hash = "de81930605506e75dee1955040713d981212ad293bc8e3eb2b7a97f744077485"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/pack.mcmeta"
@@ -28450,7 +28718,7 @@ hash = "18bb4bac8bf47499a99702cc1edcc2f70903524e365290a200b4c0cdadc9c6b2"
 
 [[files]]
 file = "config/raised.json"
-hash = "f3e402b9b03826d56bc20b164e04f7f946d372352ec5ca676987b90ffabec4df"
+hash = "27e137536fa80204233bd7aeeca8b56e0670bc132a1911043f446f9b3d25b6cc"
 
 [[files]]
 file = "config/recreative/custom_tabs/combat_and_equipment.json"
@@ -28666,11 +28934,11 @@ hash = "3f1da852ad3548c7ce39dc6b996865eab2d5b443d7b47dd89a3e1b41ade37972"
 
 [[files]]
 file = "config/reliable_recipes/repairs.json"
-hash = "a76018b61911265d5cb9aaaf4e849448634d2ebf4f2e6e40a4eb4bb5730376af"
+hash = "0bb17e45e302317f43b928dadec2daaad06549dd784cbf63a7f6a55fa43d8149"
 
 [[files]]
 file = "config/reliable_recipes/replacements.json"
-hash = "d06734a9b70675f7910f8916fceda52a2904ff8f0eb9c11736c96cfb391549b3"
+hash = "cdeb01f032ee62c282c1e7a3279fcbe11b56c0067f581949fc2effb9c203551b"
 
 [[files]]
 file = "config/reliable_recipes/tags.json"
@@ -28678,11 +28946,15 @@ hash = "f441ac679276169c2eafda9385f5d47bdd32fe721039a032eeeb437880809f67"
 
 [[files]]
 file = "config/reliable_remover.json"
-hash = "aecf9279adc987e4323d62a7a7aa26f78da57b049377b39839f70351e011bcb3"
+hash = "a2715f271d780371a3e753acdad5fe847887356cb7c22962084bd61f91898a95"
+
+[[files]]
+file = "config/reliable_remover/equipment.json"
+hash = "de79b9f01128d6cdf7c80cf53df52f3412652f39f415ed13b091af4fb0a6fe80"
 
 [[files]]
 file = "config/reliable_remover/main_config.json"
-hash = "d6a98cd9ddd674e74ff77e44544852eab66588a492b8f28eb59f45aaef8af6a2"
+hash = "88fc736375ff18040e0eda99d409b861031869dc3e06bca7bb57b89592a376e3"
 
 [[files]]
 file = "config/reliable_remover/progression.json"
@@ -28697,8 +28969,12 @@ file = "config/reliable_replacer.json"
 hash = "edc895152a7d7023fbfde32e4e6f3cc6f224a15228a3c37e649bdbac6130e9dc"
 
 [[files]]
+file = "config/reliable_replacer/advanced_config.json"
+hash = "2e073cdfd456e1fe476ec5ce1df7d9eda04d289b8ce545b143220b3c1f972d50"
+
+[[files]]
 file = "config/reliable_replacer/main_config.json"
-hash = "4d13a1487055091073faaeccec499632a4a51a26be6091c38a8f1ab2e352d04b"
+hash = "78433427cdb16d3e80cf37c5cadfaa3d1f28639489ff43bde1a2a7f833eb5ba5"
 
 [[files]]
 file = "config/reliable_replacer/psuedo_features.json"
@@ -28745,6 +29021,10 @@ file = "config/rogues/villages.json"
 hash = "df238509966b714649d6c7166fa102ea68863d265e6762bafa89577943842dc6"
 
 [[files]]
+file = "config/royalvariations.toml"
+hash = "11baf918c09062c9feac7d8c9471d8a5de3d8b7c48aeb4af69397802f1ae70dd"
+
+[[files]]
 file = "config/rpg_series/loot_equipment_v2.json"
 hash = "afa4495ba44d59a173cc0894a37c24cd645c755081c4be33ad37efdc28ea3147"
 
@@ -28762,7 +29042,7 @@ hash = "7408b455bd5eba761a6d67fb2d829f11f1f121e159af4f67cfd3a76e5b88fa8b"
 
 [[files]]
 file = "config/rpg_series/tag_cache.json"
-hash = "68d9355b68dc964f705340f92346f703b93efa3f8b6a60fa291581639cb2be59"
+hash = "0adb2e96d75b100c029a5478e403fd63711a2d1ab2f681698d98f67935dc279b"
 
 [[files]]
 file = "config/runiclib.json"
@@ -28786,7 +29066,7 @@ hash = "342488056355e8ebe6c48abe84c35fdba1902e2dd76878ee88d842eec7c4647a"
 
 [[files]]
 file = "config/sawmill-common.toml"
-hash = "99273470773331b95dc013da80e1ead50eaf6cd24566da63880f907a940847c1"
+hash = "556d3f9c456c99add4389300099b5e0972665774c70b12b48ef3a714420c156a"
 
 [[files]]
 file = "config/scholar-client.toml"
@@ -28890,7 +29170,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "59dda12be6fe5828bf5f2566bfa243ab1e9746265865a9046575b0a05208950d"
+hash = "46e6161ea5d3bcd39d6107ac8cdf8b8fe9f09a89e001dd18e918dd1b2f62d103"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -28958,7 +29238,7 @@ hash = "9156386036ef5f35e20dce7f278c39029dccab8d548a78966f1abd2aabf3e638"
 
 [[files]]
 file = "config/sounds/world.json"
-hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
+hash = "4c745616ce9cec659525072234b2aa235a596616957a751b74a817e2e4914e90"
 
 [[files]]
 file = "config/spell_engine/client.json5"
@@ -29006,7 +29286,7 @@ hash = "abdeb7de0c32dce00c58cf1c36706143a30d12d17bbb070b447111e4258bf411"
 
 [[files]]
 file = "config/staminafortweakers.json5"
-hash = "d0960c6f63368a68c0a8ef4616b63a1dee9d58121a64b7042c0526f895fb867f"
+hash = "dfea8bc7260a24414c2dacb38f0464a98a015bdd8f1554b644549f9b65620b92"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -29313,6 +29593,10 @@ file = "config/wakes.json"
 hash = "beeeafee7f799c9ceaa371d45863f60a468de596721b7e2a36e5556256f4d1af"
 
 [[files]]
+file = "config/waterdripsound.json"
+hash = "6c19f3678260f19ee94795be0ccf28ec0f1a9c9aa5cb6dc07090d99f2505c71c"
+
+[[files]]
 file = "config/waystones-common.toml"
 hash = "2e03fbcdd049e5db1a638681e4e65bd1ee8e78d7360ba10dad834a0100e076bb"
 
@@ -29326,7 +29610,7 @@ hash = "86061aeaa531953c4bbdd96610bca2c54d41c5cba9c8b91e67ce77b340071c1e"
 
 [[files]]
 file = "config/wilderflowers.toml"
-hash = "539d89abc169965f13b546dfca91fe79c1b43269666b2488f7ccfe68417ba440"
+hash = "6de18f222128b45a484b31df896f110579cca48b2fe2d96f075ae791e1e28aed"
 
 [[files]]
 file = "config/windswept-client.toml"
@@ -31639,6 +31923,10 @@ hash = "9a0928a60ac84dbe59541d385853175d353091f0a7e4476cbe2d5897510f816e"
 [[files]]
 file = "datapacks/1 - Starfell Data/data/minecraft/recipe/shield.json"
 hash = "a324ec199e0049ada9dcf4afc6738a74d846c9207e08560088fa81e456e8fdca"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/minecraft/recipe/smithing_table.json"
+hash = "010955fb42ce3b0bc8339765fb676414b18b2ea495610d0aed31afb95f25de21"
 
 [[files]]
 file = "datapacks/1 - Starfell Data/data/minecraft/recipe/soul_lantern.json"
@@ -37853,6 +38141,10 @@ file = "datapacks/1 - Starfell Data/data/starfell/attributesetter/item/stargazer
 hash = "9b8976d9fa1cd9104f832915e0494ef6d0911bef4a183bdd7ddcfc189443cea8"
 
 [[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/attributesetter/item/test.json"
+hash = "a8803c6596b79e846ac9aa964b63f057b75bd9b4c488d480bf8444551e924396"
+
+[[files]]
 file = "datapacks/1 - Starfell Data/data/starfell/recipe/grinding/black_dye.json"
 hash = "1fb88b0688f57bcc8155170ec6b75792888ae90bd3b35f68dea2150b389fd7cf"
 
@@ -42334,7 +42626,11 @@ hash = "890966690ab81244b150dcc396b5954b3f99f15076821c879f52a60075be865f"
 
 [[files]]
 file = "kubejs/startup_scripts/stack_tweaks.js"
-hash = "78657349f69c1d770f5d0befef85e085ee2aefb3f1da4f99231aaa9a48d77f0c"
+hash = "d47ee9f497feed1a771527dff95f411b0aefd04d86cb71be4bab1cdc47d9b0b5"
+
+[[files]]
+file = "mods/AI-Improvements-1.21-0.5.3.jar"
+hash = "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e"
 
 [[files]]
 file = "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
@@ -42401,6 +42697,10 @@ file = "mods/CutThrough-v21.1.0-1.21.1-NeoForge.jar"
 hash = "9b01eb578d8ba1e6fd463e7cc5fad33c484e5cef1ffd9ed77ef9c02424c40801"
 
 [[files]]
+file = "mods/Drip Sounds-0.5.2+1.21.8-NeoForge.jar"
+hash = "b5d831c16a54ffefa4022f2d56f174a8508e334cfb3b31f91b318deaa9f8c180"
+
+[[files]]
 file = "mods/ElysiumAPI-1.21.1-2.0.1.jar"
 hash = "5deb92540de983319693e8022ad9389052f31f60c81440bfca29bcc8000a6759"
 
@@ -42445,8 +42745,12 @@ file = "mods/Ixeris-4.6.5+1.21.1-neoforge.jar"
 hash = "1b61562c86cb0e9cfbbaaddd2e4ad5b20f9ba4fcc20d2cc42aa75b4e1e3b92d7"
 
 [[files]]
-file = "mods/Jadens-Nether-Expansion-2.4.1.jar"
+file = "mods/Jadens-Nether-Expansion-2.4.1.jar.disabled"
 hash = "3077fde34f60edd4fe181c88d58fc8c5a89017de670018f9e5da5c774edbf26e"
+
+[[files]]
+file = "mods/LetSleepingDogsLie-1.21-NeoForge-1.3.0.jar"
+hash = "f5e1da7681acdc81a3eab8917190185ecf1889701436de3980145ec93c1e51f5"
 
 [[files]]
 file = "mods/Necronomicon-NeoForge-1.6.0+1.21.jar"
@@ -42465,10 +42769,6 @@ file = "mods/Oreganized 1.21.1-5.2.0.jar"
 hash = "5eb9c5199a65212ee1a2a6be831053c58237b3422796f3816212691276ac7504"
 
 [[files]]
-file = "mods/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
-hash = "b49535698de9c7b5a879c8ec99175771d87d5261d5cc4c6152ba1fa51fc5676a"
-
-[[files]]
 file = "mods/Platform-neoforge-1.21.1-1.3.3.jar"
 hash = "2d7175e43943d22cbb4f8d4533f0ad620f87a3ac12c77a4f15c3a35d965c4f18"
 
@@ -42481,8 +42781,8 @@ file = "mods/Prism-1.21.1-neoforge-1.0.11.jar"
 hash = "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
 
 [[files]]
-file = "mods/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar"
-hash = "00069866c4c6bb67ee5192d1b425d46e6a1601dc598e61bd10b67ba5fa8b029c"
+file = "mods/PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar"
+hash = "535c853ca57316f73051be2a18a9b3c27e5456fc9c5db098192372744b261931"
 
 [[files]]
 file = "mods/Quark-4.1-482.jar"
@@ -42511,6 +42811,10 @@ hash = "05b3405eb6bf8709411f81588adc102705e9bde0bb8e21f3b87f1a2339a345d8"
 [[files]]
 file = "mods/Stony Cliffs FML v1.1.2.jar"
 hash = "f07a2db60d1e3dea51bd640fae23277df64239a09b45e919be0a47a31bec72c3"
+
+[[files]]
+file = "mods/StrikeAfterSwing-Universal-1.0.0.jar"
+hash = "db3db2623d77405670640f93097e6b810a1f0696f7130a4ee8bd6c44b0706e77"
 
 [[files]]
 file = "mods/SubtleEffects-neoforge-1.21.1-1.14.3.jar"
@@ -42597,8 +42901,8 @@ file = "mods/arsenal-neoforge-1.4.3+1.21.1.jar"
 hash = "4bb8b24627fc8511915199c2b3c84bca640f93448cad348c01b6bdb6b6f0994b"
 
 [[files]]
-file = "mods/artifacts-neoforge-13.2.3.jar"
-hash = "5841434f9ac404de3d3fdd05880f699b41d4388c4047aba4eccc70e356892e48"
+file = "mods/artifacts-neoforge-13.2.4.jar"
+hash = "90d2e377eded7712595d449e63e0b7cc9486551c2f108ba045cfc4aa3c16da3b"
 
 [[files]]
 file = "mods/astrocraft_lite-neoforge-1.21-1.2.jar"
@@ -42609,8 +42913,8 @@ file = "mods/asynclogger-2.2.2+1.21.1-neoforge.jar"
 hash = "233d79db772f54d0d01761b65d88e21342dbdab6694504df5121a1b0fe04b83a"
 
 [[files]]
-file = "mods/attributesetter-2.2.1-neoforge.jar"
-hash = "796c55ccd604968ac64fa1d5d99bc11fa9ecb6dc52a15cb69c4027aa064c45bb"
+file = "mods/attributesetter-2.3-neoforge.jar"
+hash = "95e1bdc1620e4a006b7cbde795447fdf4b8b1fcddfc6fd128295c6c5a03b1750"
 
 [[files]]
 file = "mods/azurelibarmor-neo-1.21.1-3.1.3.jar"
@@ -42627,6 +42931,10 @@ hash = "490fa5fcb7ca83a9b5a84e33c2832298db99d189131001b9277a1de7fdc0bf91"
 [[files]]
 file = "mods/better-clouds-1.13.6+1.21.1-neoforge.jar"
 hash = "cfe160f9c28dc055eb41ab7e5ec3862d8e0ec78ea94c8d371d7d5d1e967efee8"
+
+[[files]]
+file = "mods/betterbiomeblend-neoforge-1.21.1-1.4.1.jar"
+hash = "700a7045279e5704f50fb451f7d9c455e37a20101639d533af77303b69fd4a9a"
 
 [[files]]
 file = "mods/betterdays-1.21.1-3.3.6.3-NEOFORGE.jar"
@@ -42781,6 +43089,10 @@ file = "mods/durabilitytooltip-1.1.6-neoforge-mc1.21.jar"
 hash = "4a2353159c6039d8ce090f7d399ae421e648fdacb7f29a18c67b58886b36f32c"
 
 [[files]]
+file = "mods/dynamicsurroundings-neoforge-1.21.1-0.4.2.jar"
+hash = "dae59dceb749957fcd9cb589e0cab5ef60f2e6422002dd490ba3111b6eb4eaff"
+
+[[files]]
 file = "mods/easybuilding-neoforge-1.21.1-v1.1.jar"
 hash = "67bbb526ab5e94fe0f0ae7cd20e33474ad2fc021f715cc13b73e2eb40b6b3038"
 
@@ -42801,16 +43113,16 @@ file = "mods/enchdesc-neoforge-1.21.1-21.1.11.jar"
 hash = "868d3eab3305d96dd3ecf510d18a7aa7444e2aea168695cf4aff23a96bec975f"
 
 [[files]]
-file = "mods/entity_model_features-3.2.4-1.21-neoforge.jar"
-hash = "84c22f2be06ee6bfab265a443e075225878bba9f408843030dc6de3152e9dedb"
+file = "mods/entity_model_features-3.3.1-1.21-neoforge.jar"
+hash = "caa8369505c3698109e261049d3f1e0a4aa41260cacbdf04c2377fa13fc0c3de"
 
 [[files]]
 file = "mods/entity_pin_cushions-neoforge-1.21-1.0.jar"
 hash = "00a80f962030ed24510f7edde345aaf488b09cea11f9424265cbb0c2967005eb"
 
 [[files]]
-file = "mods/entity_texture_features_1.21-neoforge-7.1.jar"
-hash = "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
+file = "mods/entity_texture_features-7.2-1.21-neoforge.jar"
+hash = "74e0beb9967145bcd9e13d81bb446857b83829f0127941e9a1538a58ef23ef97"
 
 [[files]]
 file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
@@ -42901,6 +43213,10 @@ file = "mods/hominid-1.3.4.jar"
 hash = "6708c968c1c33b6eaa1854eec0f39ebec307ba2cfe11dccf4f93f013fd38e75e"
 
 [[files]]
+file = "mods/iChunUtil-1.21-NeoForge-1.0.3.jar"
+hash = "02e238386407958b19eb53a5a1812258e191cd813071639348ba6d76eee52792"
+
+[[files]]
 file = "mods/immersivehotbar-1.1.2-neoforge-1.21-1.21.1.jar"
 hash = "bb36d5d89f0363cd89d2bcaf575dd715d5e05c98d5b54af9d617332d716f9ecb"
 
@@ -42925,6 +43241,10 @@ file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
 hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
 
 [[files]]
+file = "mods/irons_rpg_tweaks-2.2.3.jar"
+hash = "7c222f57fe985b8315e73c2b20282c5b13d7da1f4800d2786b85f7c851155c00"
+
+[[files]]
 file = "mods/jewelry-neoforge-2.3.3+1.21.1.jar"
 hash = "497cf8482935dbbbea9bc9f915687ead985b0cd59ceb4910d0cace6ee9fcf911"
 
@@ -42941,8 +43261,8 @@ file = "mods/kubejs-neoforge-2101.7.2-build.374.jar"
 hash = "2351c858ccaf4eea1f4125a55cd9583a729dee65cfd04c5fbaa702a2ac2fb084"
 
 [[files]]
-file = "mods/lambdynamiclights-4.8.10+1.21.1.jar"
-hash = "94e955443ce3817f798c74cbbbb4973e7b55c8b6dec12808b9378e74376b2eb9"
+file = "mods/lambdynamiclights-4.8.11+1.21.1.jar"
+hash = "913b0358b1031828f1e060ea0ee361232dc2a1c82464f488a0a920739ce7c763"
 
 [[files]]
 file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
@@ -42955,6 +43275,10 @@ hash = "f9bed6228565d69166ac85edbe6159e28674a687562964e5424a8c8a477d20c0"
 [[files]]
 file = "mods/lodestone-1.21.1-1.8.2.jar"
 hash = "cc961af6a77391628378c1c838e521415fa895062b13def493d27234ca527f3e"
+
+[[files]]
+file = "mods/loot_journal-neoforge-1.21.1-6.2.1.jar"
+hash = "9f4651a900f0b98e2a82780df2565ee29298c9de64d5874f380dc1f4d1841ac5"
 
 [[files]]
 file = "mods/lukis-ancient-cities-v1.2.jar"
@@ -42981,8 +43305,8 @@ file = "mods/mannequins-3.0.0-rc.1.jar"
 hash = "e89947097ce5a3a94b91b6d2f664257210f9b4195a31c0f8dce6755e023093a5"
 
 [[files]]
-file = "mods/manual_labour-1.21.1-2.3.3.jar"
-hash = "0ed54fbd2aeb26a3c978185e33b10926e20488e26970371062a6886553354fae"
+file = "mods/manual_labour-1.21.1-2.3.5.jar"
+hash = "890c41641c91279ee56dac763944e5f5d72e0c5037dc087961adff70d4fef2aa"
 
 [[files]]
 file = "mods/mcqoy-0.4.1+neo-1.21.jar"
@@ -43055,6 +43379,10 @@ hash = "d6a5a0304e4349bd2b23c98c429141bf0edc72dcd90997c1cdc6491add71f582"
 [[files]]
 file = "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
 hash = "a8705202193813de291195ad6bbd03101c4ddc1ab2878aadb018ab92f903999f"
+
+[[files]]
+file = "mods/obe+1.21.1-neoforge-1.1.41-patch.2.jar"
+hash = "e41f70214536b560e068ccbb9855b19f309cf5b27c818fb60721d63aa2fddb9d"
 
 [[files]]
 file = "mods/obscure_tooltips-neoforge-1.21.1-4.2.4.jar"
@@ -43153,8 +43481,8 @@ file = "mods/reliable_gliders-neoforge-1.21.1-1.4.1.jar"
 hash = "fc07a9d7c0fa390a943221b98642510e6ad6d73a8ba1cedd39b43f06e3edc660"
 
 [[files]]
-file = "mods/reliable_recipes-neoforge-1.21.1-3.1.5.jar"
-hash = "bc39ff7953f15f4effb452451cf9b2e72489fed711ad8bd6399a9473775f3d12"
+file = "mods/reliable_recipes-neoforge-1.21.1-3.1.6.jar"
+hash = "2c545a4b786715bca3e7400d6201741f93be3bd8a8d76bd8901c5b243b2dbce9"
 
 [[files]]
 file = "mods/reliable_remover-neoforge-1.21.1-2.12.1.jar"
@@ -43169,8 +43497,8 @@ file = "mods/relics-neoforge-1.3.0+1.21.1.jar"
 hash = "55a7f34891e88a9d5371ede19a575da5bedea5770d7be0f552cddfb50e63c879"
 
 [[files]]
-file = "mods/remi-neoforge-1.21.1-4.6.3.jar"
-hash = "2c88e9151a2162ec1d8973735af59f8e293b109d1f632877db92748d5001bc8d"
+file = "mods/remi-neoforge-1.21.1-4.6.4.jar"
+hash = "f9a14892aa98bbe73daeba1a68b59035f800c3165707b7cd1d2471382f152c30"
 
 [[files]]
 file = "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar"
@@ -43209,8 +43537,8 @@ file = "mods/savepoint-1.1.0+1.21.1.jar"
 hash = "cb38b9b101225797d33a047a1f90adf076525cb7b3a5e1d4767cbb3850fa06eb"
 
 [[files]]
-file = "mods/sawmill-1.21-1.8.0-neoforge.jar"
-hash = "9394d371c54c0ab2d94cd282ca8d1b99290051be5018454812b9ef2f7ad32a0b"
+file = "mods/sawmill-1.21-1.8.1-neoforge.jar"
+hash = "081ed7b7811ccee556c7a475f770dc894b1845e6cbfe3181057c010894fea648"
 
 [[files]]
 file = "mods/scholar-neoforge-1.21.1-1.2.5.jar"
@@ -43267,6 +43595,10 @@ hash = "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
 [[files]]
 file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
 hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
+
+[[files]]
+file = "mods/soundattract-6.3.8d.jar"
+hash = "5113583e6758a0c137175021055d4400a6bd1b30a9c3d9e59f3a9c441042d360"
 
 [[files]]
 file = "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar"
@@ -43442,7 +43774,7 @@ hash = "15e52583245fc78416a6034f3226495f8e1a8dc9138f659a3e9303c4fdf57c27"
 
 [[files]]
 file = "resourcepacks/Brush & Juice.zip"
-hash = "267fbcfc572386f3ff6147ac3732f7998b5a00bfb24f4276a0db75b3b7facec7"
+hash = "a6cc8cd40c1937e75c617b2541bbccf425f378b605715df0363a936bdbe12328"
 
 [[files]]
 file = "resourcepacks/Detail-Brush-1.8-1.20.2+.zip"
