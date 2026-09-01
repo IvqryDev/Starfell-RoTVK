@@ -11,7 +11,7 @@
   "removeItemsFromStorage": true,
   "removeItemsFromInfoTabs": true,
   "removeItemsFromTrades": true,
-  "removeMobEquipment": false,
+  "removeMobEquipment": true,
   "removeCnmChildren": true,
   "enableEmiRemoval": false,
   "showEmiToast": false,
