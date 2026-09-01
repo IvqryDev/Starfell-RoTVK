@@ -187,6 +187,17 @@
       },
       "sync": "create:value_settings"
     },
+    "dsurround:layer/overlaymanager": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "dsurround:layer/overlaymanager"
+    },
     "enderscape:debug": {
       "displacement": {
         "x": 0,
@@ -384,6 +395,17 @@
         "y": "NONE"
       },
       "sync": "immersiveoverlays:wind"
+    },
+    "loot_journal:pickup_component": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "loot_journal:pickup_component"
     },
     "minecraft:bossbar": {
       "displacement": {
