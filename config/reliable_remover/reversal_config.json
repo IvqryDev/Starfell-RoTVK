@@ -8,6 +8,46 @@
   },
   {
     "action": "remove",
+    "mod": "naturalist",
+    "not": {
+      "items": [
+        "naturalist:catfish",
+        "naturalist:catfish_bucket",
+        "naturalist:fat",
+        "naturalist:plush_bear",
+        "naturalist:hide",
+        "naturalist:fur",
+        "naturalist:alligator_egg",
+        "naturalist:duck_egg",
+        "naturalist:glow_goop",
+        "naturalist:jungle_scorpion_spawn_egg",
+        "naturalist:firefly_spawn_egg",
+        "naturalist:giant_isopod_spawn_egg",
+        "naturalist:lion_spawn_egg",
+        "naturalist:elephant_spawn_egg",
+        "naturalist:desert_scorpion_spawn_egg",
+        "naturalist:catfish_spawn_egg",
+        "naturalist:boar_spawn_egg",
+        "naturalist:vulture_spawn_egg",
+        "naturalist:whale_spawn_egg",
+        "naturalist:rhino_spawn_egg",
+        "naturalist:mole_spawn_egg",
+        "naturalist:capybara_spawn_egg",
+        "naturalist:duck_spawn_egg",
+        "naturalist:alligator_spawn_egg",
+        "naturalist:bear_spawn_egg",
+        "naturalist:bird_spawn_egg",
+        "naturalist:bushmeat",
+        "naturalist:cooked_bushmeat",
+        "naturalist:capture_net",
+        "naturalist:cooked_duck",
+        "naturalist:duck",
+        "naturalist:cooked_catfish"
+      ]
+    }
+  },
+  {
+    "action": "remove",
     "mod": "caverns_and_chasms",
     "not": {
       "items": [
