@@ -44,9 +44,9 @@
 	#Enable datapack-based configuration.
 	enableDataDriven = true
 	#Internal schema version for config migrations. Do not change.
-	# Default: 17
+	# Default: 18
 	# Range: > 0
-	configSchemaVersion = 17
+	configSchemaVersion = 18
 	#Enable mobs fleeing after being hurt by unseen attacker.
 	enableFleeFromUnseenAttackerGoal = true
 

@@ -70,6 +70,6 @@
     "enableWeatherFog": false
   },
   "otherOptions": {
-    "playRandomSoundOnStartup": true
+    "playRandomSoundOnStartup": false
   }
 }
