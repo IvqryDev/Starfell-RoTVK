@@ -234,6 +234,16 @@
     },
     {
         "action": "remove",
+        "items": ["minersdelight:moss"],
+        "replace_with": "ecologics:surface_moss"
+    },
+    {
+        "action": "remove",
+        "items": ["ecologics:penguin_feather"],
+        "replace_with": "minecraft:feather"
+    },
+    {
+        "action": "remove",
         "items": [
             "blockbox:lapis_lazuli_brick_stairs",
             "blockbox:lapis_lazuli_brick_slab",
@@ -868,7 +878,27 @@
             "armory_rpgs:epic_armor_upgrade",
             "minecraft:anvil",
             "minecraft:chipped_anvil",
-            "minecraft:damaged_anvil"
+            "minecraft:damaged_anvil",
+            "ecologics:walnut_sapling",
+            "ecologics:walnut_leaves",
+            "ecologics:walnut_sign",
+            "ecologics:walnut_hanging_sign",
+            "ecologics:walnut",
+            "ecologics:ice_bricks",
+            "ecologics:snow_bricks",
+            "ecologics:walnut_button",
+            "ecologics:walnut_pressure_plate",
+            "ecologics:walnut_chest_boat",
+            "ecologics:walnut_boat",
+            "ecologics:walnut_trapdoor",
+            "ecologics:walnut_door",
+            "ecologics:walnut_fence_gate",
+            "ecologics:walnut_fence",
+            "ecologics:walnut_planks",
+            "ecologics:stripped_walnut_log",
+            "ecologics:walnut_log",
+            "ecologics:seashell_block",
+            "ecologics:seashell_tiles"
         ]
     }
 ]
