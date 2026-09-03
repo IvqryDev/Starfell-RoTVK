@@ -85,5 +85,10 @@
         "nomansland:cattail"
       ]
     }
+  },
+  {
+    "inputs": ["nomansland:seashells"],
+    "output": "ecologics:seashell",
+    "randomize_properties": ["facing"]
   }
 ]
