@@ -27,6 +27,12 @@
 			chestnut = true
 			pine = true
 
+		[types.wood_type.ecologics]
+			flowering_azalea = true
+			azalea = true
+			coconut = true
+			walnut = true
+
 		[types.leaves_type.quark]
 			orange_blossom = false
 			lavender_blossom = false
@@ -66,6 +72,10 @@
 			chestnut = true
 			pine = true
 			flowering_acacia = true
+
+		[types.leaves_type.ecologics]
+			coconut = true
+			walnut = true
 
 		[types.cake.nomansland]
 			fruit_cake = true
