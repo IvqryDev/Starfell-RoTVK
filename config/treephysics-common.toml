@@ -14,7 +14,7 @@ drop_items_on_despawn = false
 #treephysics.config.rooted_dirt_generation.tooltip
 rooted_dirt_generation = true
 #treephysics.config.remove_rooted_dirt.tooltip
-remove_rooted_dirt = false
+remove_rooted_dirt = true
 #treephysics.config.drop_hanging_roots.tooltip
 drop_hanging_roots = true
 #treephysics.config.rootless_tree_detection.tooltip
