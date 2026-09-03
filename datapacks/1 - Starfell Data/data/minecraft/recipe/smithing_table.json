@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_trapdoor",
+  "key": {
+    "1": [
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "valcon:iron_plating"
+      }
+    ],
+    "2": {
+      "item": "minecraft:leather"
+    },
+    "3": {
+      "tag": "minecraft:logs"
+    },
+    "4": {
+      "item": "minecraft:flint"
+    }
+  },
+  "pattern": [
+    "121",
+    "343",
+    "343"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:smithing_table"
+  }
+}
