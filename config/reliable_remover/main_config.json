@@ -204,46 +204,6 @@
     },
     {
         "action": "remove",
-        "items": ["minecraft:blaze_powder"],
-        "replace_with": "minecraft:fire_charge"
-    },
-    {
-        "action": "remove",
-        "items": ["minecraft:rabbit_hide"],
-        "replace_with": "naturalist:hide"
-    },
-    {
-        "action": "remove",
-        "items": ["naturalist:duck"],
-        "replace_with": "minecraft:chicken"
-    },
-    {
-        "action": "remove",
-        "items": ["naturalist:cooked_duck"],
-        "replace_with": "minecraft:cooked_chicken"
-    },
-    {
-        "action": "remove",
-        "items": ["naturalist:bushmeat"],
-        "replace_with": "minecraft:porkchop"
-    },
-    {
-        "action": "remove",
-        "items": ["naturalist:cooked_bushmeat"],
-        "replace_with": "minecraft:cooked_porkchop"
-    },
-    {
-        "action": "remove",
-        "items": ["minersdelight:moss"],
-        "replace_with": "ecologics:surface_moss"
-    },
-    {
-        "action": "remove",
-        "items": ["ecologics:penguin_feather"],
-        "replace_with": "minecraft:feather"
-    },
-    {
-        "action": "remove",
         "items": [
             "blockbox:lapis_lazuli_brick_stairs",
             "blockbox:lapis_lazuli_brick_slab",
