@@ -22,6 +22,17 @@
       },
       "sync": "artifacts:helium_flamingo_charge"
     },
+    "bagus_lib:dialog": {
+      "displacement": {
+        "x": 0,
+        "y": 0
+      },
+      "direction": {
+        "x": "NONE",
+        "y": "NONE"
+      },
+      "sync": "bagus_lib:dialog"
+    },
     "brewinandchewin:food_offset": {
       "displacement": {
         "x": 0,
