@@ -1,0 +1,29 @@
+{
+  "ecologics:squirrel": [
+    { "operation": "REMOVE" }
+  ],
+  "minecraft:villager": [
+    { "operation": "REMOVE" }
+  ],
+  "minecraft:zombie_villager": [
+    { "operation": "REMOVE" }
+  ],
+  "minecraft:wandering_trader": [
+    { "operation": "REMOVE" }
+  ],
+  "minecraft:trader_llama": [
+    { "operation": "REMOVE" }
+  ],
+  "minecraft:zombie_horse": [
+    { "operation": "REMOVE" }
+  ],
+  "minecraft:skeleton_hors": [
+    { "operation": "REMOVE" }
+  ],
+  "minecraft:donkey": [
+    { "operation": "REMOVE" }
+  ],
+  "minecraft:mule": [
+    { "operation": "REMOVE" }
+  ]
+}
