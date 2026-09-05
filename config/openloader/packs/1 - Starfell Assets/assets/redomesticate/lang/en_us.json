@@ -25,6 +25,9 @@
   "enchantment.redomesticate.tethered_teleport": "Riftwalker",
   "enchantment.redomesticate.tethered_teleport.desc": "Grants your companion the ability to walk between worlds.",
 
+  "enchantment.redomesticate.linked_inventory": "Bond",
+  "enchantment.redomesticate.linked_inventory.desc": "Your companion will pick up items and bring them back to you.",
+
   "item.redomesticate.collar_tag": "Collar",
   "message.redomesticate.command_0": "%s is wandering.",
   "message.redomesticate.command_1": "%s is staying.",

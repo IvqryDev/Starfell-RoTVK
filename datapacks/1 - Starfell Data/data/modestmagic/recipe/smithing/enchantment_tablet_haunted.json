@@ -7,7 +7,7 @@
     "tag": "valcon:enchantable/great_rune_applicable"
   },
   "enchantments": [
-    "allurement:alleviating",
+    "staminafortweakers:traveling",
     "minecraft:sharpness",
     "minecraft:multishot",
     "redomesticate:health_boost"

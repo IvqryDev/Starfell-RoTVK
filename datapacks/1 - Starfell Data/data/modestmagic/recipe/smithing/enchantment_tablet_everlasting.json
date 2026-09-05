@@ -10,6 +10,6 @@
     "spell_power:spell_power",
     "spell_power:magic_protection",
     "minecraft:channeling",
-    "redomesticate:tethered_teleport"
+    "redomesticate:linked_inventory"
   ]
 }
