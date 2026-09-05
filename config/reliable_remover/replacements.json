@@ -38,5 +38,15 @@
     "action": "remove",
     "items": ["ecologics:penguin_feather"],
     "replace_with": "minecraft:feather"
+  },
+  {
+    "action": "remove",
+    "items": ["hunters_return:boomerang"],
+    "replace_with": "shieldexp:wooden_shield"
+  },
+  {
+    "action": "remove",
+    "items": ["hunters_return:mini_crossbow"],
+    "replace_with": "farmersdelight:flint_knife"
   }
 ]
