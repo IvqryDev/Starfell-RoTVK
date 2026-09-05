@@ -39,3 +39,5 @@
 /config/zfastnoise.mixin.properties
 /.cache/
 *.bak
+*.iml
+/.idea/
