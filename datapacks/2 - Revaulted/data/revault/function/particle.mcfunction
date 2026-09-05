@@ -1,1 +1,0 @@
-$particle minecraft:smoke ~ ~0.5 ~ 0 0 0 .001 20 normal @p[nbt={UUID:$(Owner)}]
