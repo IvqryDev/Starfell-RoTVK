@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "nomansland:block/maple/maple_cabinet_top",
+    "side": "nomansland:block/maple/maple_bookshelf_alt"
+  }
+}

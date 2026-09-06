@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "farmersdelight:block/mangrove_cabinet_top",
+    "side": "nomansland:block/vanilla_woods/mangrove_bookshelf_alt"
+  }
+}

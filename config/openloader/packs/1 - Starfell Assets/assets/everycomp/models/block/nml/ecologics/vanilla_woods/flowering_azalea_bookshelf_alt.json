@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "everycomp:block/fd/ecologics/flowering_azalea_cabinet_top",
+    "side": "everycomp:block/nml/ecologics/vanilla_woods/flowering_azalea_bookshelf_alt"
+  }
+}

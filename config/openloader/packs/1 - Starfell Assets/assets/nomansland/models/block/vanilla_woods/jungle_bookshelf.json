@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "farmersdelight:block/jungle_cabinet_top",
+    "side": "nomansland:block/vanilla_woods/jungle_bookshelf"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column",
   "textures": {
-    "end": "minecraft:block/bookshelf_top",
+    "end": "farmersdelight:block/oak_cabinet_top",
     "side": "minecraft:block/bookshelf"
   }
 }

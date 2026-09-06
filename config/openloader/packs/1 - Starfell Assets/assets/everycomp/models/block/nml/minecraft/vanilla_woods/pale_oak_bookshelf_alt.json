@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "everycomp:block/fd/minecraft/pale_oak_cabinet_top",
+    "side": "everycomp:block/nml/minecraft/vanilla_woods/pale_oak_bookshelf_alt"
+  }
+}
