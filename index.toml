@@ -54,7 +54,7 @@ hash = "ba64ded5eeaaf855dacd30305b98bb7f6f8402dfb62db34f1b4ceecba05833bc"
 
 [[files]]
 file = "config/amendments-client.toml"
-hash = "8432928da6af43f6b80428a570b6e9e4f61b16299dcb4d8e0bd867e774e14e5f"
+hash = "a1dc186da52ea081a7f622db3ff17eecdb34389373c1e4b980361810d78cad82"
 
 [[files]]
 file = "config/amendments-common.toml"
@@ -278,7 +278,7 @@ hash = "bbeab6c1ad130780272561d91b767919b12e00254347692279b16757d32ac6c4"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "e0813672b59de57f2274042bdce5261754f6e9ba9508e652437461e424ae73c3"
+hash = "ecdd502de415cbd467fa281ec0c8e4a028adc3e81805343fcacafa0396b60908"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
@@ -359,6 +359,10 @@ hash = "0366d18b8127778b2c8b620061cc6cf4cbf60cfdb462e8852c6cfe3a23db0416"
 [[files]]
 file = "config/combat_roll/server.json5"
 hash = "86ba93ee99b072165dfd24bcdbea2b74354ffb2337690eddabb3e72b2fc30149"
+
+[[files]]
+file = "config/comfortable_campfires.toml"
+hash = "7104e0bb7e6e2eca2cde46fdfbf07bb9f4cbdf0daaabbf642d6b1c53ad081d50"
 
 [[files]]
 file = "config/companion-common.yaml"
@@ -985,6 +989,10 @@ file = "config/everycomp-hazardous.toml"
 hash = "690479feb778b02366b4def6f58586dca088b9472065a0a9d373101d66698ccd"
 
 [[files]]
+file = "config/experience_obliterator.json"
+hash = "b4019c10d8ce3af89170e4c8d423e382922f4588b2e0cbcf5a871fb6eff2e163"
+
+[[files]]
 file = "config/explosiveenhancement.toml"
 hash = "4c0c96b045ba1ffad6c410e0cc98a779a1a3a67221211c079971ffc4dadbaac5"
 
@@ -1598,7 +1606,7 @@ hash = "5ded9a920b11f1d4cab63993bc52dad330c6c2f2172356b964953e502c655937"
 
 [[files]]
 file = "config/melancholic_hunger.json5"
-hash = "4f8cd7cf0a19b3210bdaabf9692f578a61f227ec8ae13d57e0096f7d7e8a3b3d"
+hash = "3a61ae194dff8fb42dba0c32258ed1c18af86f27662e2599b33d21bd27f42c89"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -1731,6 +1739,10 @@ hash = "73164ca0ee4162295bc48bd0dc2c573b77344bb57d7d7e51f19c3aeabcf60137"
 [[files]]
 file = "config/notenoughanimations.json"
 hash = "71cbee90fc65ac63bafd8a112456759dbfeb66ce4b1c0135bbc6012f22591149"
+
+[[files]]
+file = "config/obe.json"
+hash = "243c8d7510ec9c94f1d84cd77c70d12d3cbb8b5d1cdbcae7aa2c05f26f7b5089"
 
 [[files]]
 file = "config/obscuria/cache/aquamirae-keepsakes.json"
@@ -1870,7 +1882,7 @@ hash = "9823f127616334b811128c07881a3f560e13db51512e4d938f7374019240fbce"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/archers/textures/item/archer_scroll.png"
-hash = "bb06f112c2dfbc66ef58b8bc5e2a97bacd585c08a3bf44e52e295b39a9704245"
+hash = "19310829f5e7f4df6a25b6e7bea599004fca6545b6e90a98990c3464c875096d"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/archers/textures/item/auto_fire_hook.png"
@@ -2207,6 +2219,70 @@ hash = "3e5bcc1f7fa1d8165cb078351e53256e6e487dc786e13d08e564c37692fef770"
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/lang/en_us.json"
 hash = "a9fed756fa79274962969979b2254e1673a40f62fd8f5885c1b0d3f3cf55d0e5"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/block/nml/ecologics/vanilla_woods/azalea_bookshelf.json"
+hash = "667946d70f85aea16ec16bad2dad9ca0677ce56369f0de8da80d7515bb0bacb2"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/block/nml/ecologics/vanilla_woods/azalea_bookshelf_alt.json"
+hash = "678f4ff64646ba9fe127806ca7950ac56b824190962ad55de1f996352aab614c"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/block/nml/ecologics/vanilla_woods/coconut_bookshelf.json"
+hash = "2de89d2f6bbe61c89dabd276831e43ef2df5dc49472927e22587a0e5c7cd47ba"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/block/nml/ecologics/vanilla_woods/coconut_bookshelf_alt.json"
+hash = "0b71438dc79f15a07d2bfe45cff5ce441cc12cc810123d65ad73f73a034623a3"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/block/nml/ecologics/vanilla_woods/flowering_azalea_bookshelf.json"
+hash = "cb619880f6897ad7909f849839736362c654636812188e81ee2ac4c05f689f19"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/block/nml/ecologics/vanilla_woods/flowering_azalea_bookshelf_alt.json"
+hash = "8be5613e12ae56f6e5a502649174a44bb3c232de8210a1dd1572307f363672a4"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/block/nml/minecraft/vanilla_woods/pale_oak_bookshelf.json"
+hash = "5455978cfd0e679d7dde723ecb6064f5aed5743af7386a66af569dc7c62e85c2"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/block/nml/minecraft/vanilla_woods/pale_oak_bookshelf_alt.json"
+hash = "948b52d5a1120cdab6149958e3f22fb1a8716768c1feecb7b219be519a4bca14"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/azalea_bookshelf.png"
+hash = "542ce5a64d560fca04c98b1e9f34d0597e463fb8b163b8219fe09906d9c80e03"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/azalea_bookshelf_alt.png"
+hash = "49d94b2b93a914d5905088166c054c955613b7cffc0bd244704cf340a7b3e650"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/coconut_bookshelf.png"
+hash = "63af9ffbf5681f21e875dbd3275be797d9ae24d7ea781d09b3bc4ac48e88e46a"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/coconut_bookshelf_alt.png"
+hash = "72f03bed5fbc3414cdeae486aa4a20d8717ac1b3fc779609c3eb0b2e224f1a55"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/flowering_azalea_bookshelf.png"
+hash = "61a75b9d4f09a046c6762b382faad65467a9e512e7c6521b7efd9692dc49ff69"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/flowering_azalea_bookshelf_alt.png"
+hash = "61a75b9d4f09a046c6762b382faad65467a9e512e7c6521b7efd9692dc49ff69"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/minecraft/vanilla_woods/pale_oak_bookshelf.png"
+hash = "abf96138e1b2cb42a2d34127fdd32e18648a0892eea17ba993a7a20f95fcb0a9"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/minecraft/vanilla_woods/pale_oak_bookshelf_alt.png"
+hash = "f2b8e693aa21e4803fc0e9e85105b4c9f034400b4b86402fcf1a0c05d4c6f774"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/explorerscompass/lang/en_us.json"
@@ -2843,10 +2919,6 @@ hash = "9e54bc4cf7b652b7eea9f59db189c0c8944d3e31518ff18798342719df0d2c49"
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/models/block/cactus_age_15_5.json"
 hash = "273ccbab98583a6eb227a16c2d4c7af2c6c70cd253d54b748d93f6cae59d5116"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/models/block/calibrated_sculk_sensor.json"
-hash = "994c333d87ce86d765dc83181c765c5884f1b886aa1c720f729caf2e18e19a6e"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/models/block/campfire_off.json"
@@ -5639,10 +5711,6 @@ hash = "962cc7048fa294d794ad08ee8421e613535ad52f73813d3e28cb7f4a9562136a"
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/textures/block/cactus_top_age_15_5.png"
 hash = "b2f33f99bf0574bc57bb355f11764745a895f739aba08e26fe5bda4df0cc9a18"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/textures/block/calibrated_sculk_sensor_top_e.png"
-hash = "4993004d80195c04c430b5e615d091d17803e35b8212b4087ae57b340bb0c0b9"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/textures/block/campfire_fire_e.png"
@@ -11593,12 +11661,128 @@ file = "config/openloader/packs/1 - Starfell Assets/assets/newworld/lang/en_us.j
 hash = "add834d44a340c16d095949dc45bb67f4c53b287265d46e1210b589157486e72"
 
 [[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/newworld/models/block/fir_bookshelf.json"
+hash = "beea34fa406132c5fa0ce4715e47a14dd92810f2d0e3e09ac65095c9da013685"
+
+[[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/newworld/textures/item/ancient_mattock.png"
 hash = "eac5d2567cd2b25491310ef1f32acf9b5a044fb2f8e66decd9b306d60a017b39"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/lang/en_us.json"
 hash = "7018cf0e55b91ebeae63244b164dc7394f8825d4b5e10e639f901e7bf2d270fd"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/maple/maple_bookshelf.json"
+hash = "e0af519ec57bd1ade46aa76cae63e0c20b033b51b583c046f14bae24e473d54e"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/maple/maple_bookshelf_alt.json"
+hash = "4f5191b0b6fc480afb5b822b91d2bd61a8e75bf9e7b036b05a1bef024bc1872c"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/pine/pine_bookshelf.json"
+hash = "01a877982141a891609074fab8b251f998ebb5b61a42a3f95b388daf9f51a3be"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/pine/pine_bookshelf_alt.json"
+hash = "91bdae03328047fa779d4c16cd9c418caa12d10095a1cf07483efa5d23dbf7d8"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/acacia_bookshelf.json"
+hash = "5362a2807493272feeb2b35b6f3e899629ff056d6ea76c4635a07c019c83e104"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/acacia_bookshelf_alt.json"
+hash = "98b8655ca0e77b51fb9e5a5a04f53a794900a213e01e2dbfb5ef9a2918b5170d"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/bamboo_bookshelf.json"
+hash = "bbd1796c1de4221b8d8cfd8f8df4955c7ccc102c3d40751bf655f0046b1597e5"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/bamboo_bookshelf_alt.json"
+hash = "203828fb9b73436f62bf72cf78ab3af33fc3c864a6529f772e71d1acec65bddb"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/birch_bookshelf.json"
+hash = "0865c971f98a1b6182d4bcc36c8aec192770e01947f0d52e3288551fbdbabb4c"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/birch_bookshelf_alt.json"
+hash = "37edff85045d0a18650035b94261afc48020630d5e6172a2576b93de9d71f13e"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/cherry_bookshelf.json"
+hash = "e57f568948500314f9328f53f5c40e4d704b3f0236c567c527f99c1037220bd0"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/cherry_bookshelf_alt.json"
+hash = "2879ff6363745c73afdbf511048ef8ffb3e45a51985c9c6a404f37aafcc877a7"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/crimson_bookshelf.json"
+hash = "cae990e8992a4b70d708e16fea8cdf4f037e9a5de900637b756771cbe89096dd"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/crimson_bookshelf_alt.json"
+hash = "2e8fded794cea59b650c140997bade409e0040ee252b073358c5d02afb1b4fad"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/dark_oak_bookshelf.json"
+hash = "4072b5ca52856d862338360d6e5c8482570c43455b73194ef076510ddcf2d1e0"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/dark_oak_bookshelf_alt.json"
+hash = "514b9b174bffdead2ce52ed8fc8ead3d172cba90c83c7ab6a3f80f9410409f2b"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/jungle_bookshelf.json"
+hash = "d25a90ab463a4720b21813abb2ab9ce5bdcfccff3ed2f3ad31a4895afd118a2a"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/jungle_bookshelf_alt.json"
+hash = "801169a168b62a7d7c980bd3211a486138b5d669fa9842ca3468f9c192c3376f"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/mangrove_bookshelf.json"
+hash = "8f2bad55d7bdf4ed6d10f46efca75d125f3adf726b7d5486e124d34aaceff588"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/mangrove_bookshelf_alt.json"
+hash = "1cfb1153b826c77566fa86c3d4a409d6702fcae660ec2fbed8660ed087cac1ca"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/spruce_bookshelf.json"
+hash = "c2fbbd7440a5679d8cf61f84c7173187bd6b3210a5a96aaeecfc000cdfdb9e4f"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/spruce_bookshelf_alt.json"
+hash = "567ae676f7b69db9ccc9c0cded2a9cb74217b9f6b7b316cd1d3c1f64b4f8c246"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/warped_bookshelf.json"
+hash = "1eee3e13bd79319fc1199a1f80ca2ba7274560b7a2742f642c44431e47124de1"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/vanilla_woods/warped_bookshelf_alt.json"
+hash = "bad87fc17f63c67dffc7d1d008f4928cfdda7a7bc0c24ca5d84268c0874c1da6"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/walnut/walnut_bookshelf.json"
+hash = "c48c66c3b31f621b91d7b5fcd176172a8d20d67442af657671d8bc9e0a5326a7"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/walnut/walnut_bookshelf_alt.json"
+hash = "a8974e312c3d4ceaf4f50929e47e92f6854d05d5a0416a5206a9d2d36efb93a7"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/willow/willow_bookshelf.json"
+hash = "65ad137181aa57693dd4e4908dfdd1ac6b18522938610a90a1136df7f9c64a79"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/models/block/willow/willow_bookshelf_alt.json"
+hash = "c73caecea14ee3de7ce5cade3d7b5fbc3d89a024382fc3fa852683eec3e18326"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/nomansland/textures/item/billhook_bass.png"
@@ -11614,7 +11798,7 @@ hash = "99085d8adf3349aa017e298fdb17c83a266ef4290fe065923179061faee1783c"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/lang/en_us.json"
-hash = "b53de760e2479dbae30fbb98421edbe21aaf63c7e79ba980b2da90184747ad8f"
+hash = "8355eea82a0d86d57dc1d08e5631ba43461ab48e05b08474de256d66e880f384"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/block/cut_silver.png"
@@ -11701,14 +11885,6 @@ file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/i
 hash = "9feee9ab2086e9349abc2e0e804d83927d757b8633df7e81fdf1df729bff6456"
 
 [[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/electrum_ingot.png"
-hash = "56d540b241ae4af51624645709d6b90e7bc5a79f9fd67bafc7e1f97ca065c24d"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/electrum_nugget.png"
-hash = "13257a57182be8cf34d51c03dcc20c3341bcc8bc60109d3b26ebc5acbb925812"
-
-[[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/lead_bolt.png"
 hash = "e614ef8f1a968375eb75bfe28d8b85f3d95f02a4aef59b15a95394ef54ec2058"
 
@@ -11721,10 +11897,6 @@ file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/i
 hash = "1553dc532f9bf44bb20bf896da702edc85c6123d91bcd0a01e0e7c3794b6e107"
 
 [[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/lead_ingot_old.png"
-hash = "5e5af0c81b13debdaa0fb66d5727ff3246206171b667498b2ce56332ddf4db41"
-
-[[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/raw_silver.png"
 hash = "4ae7f6bf7431cbe57a7cc6bb7ace0980c3c3c0edfe1cc3b057c8c6b90ed903ee"
 
@@ -11733,48 +11905,12 @@ file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/i
 hash = "d3ef4e2e22496a9b0a335251c1edc3ec19fe9070c79702ff0a5781ec9396d724"
 
 [[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/shrapnel_bomb_minecart.png"
-hash = "0ab98dbb67b05934b1ba72ce66c85b218aac1683ae25d7bc527d2e4f713423c7"
-
-[[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_door.png"
 hash = "a0851ece2f53d8a8736b873b1bd9767efa9eb3d00fcb44a876db9fc596b65906"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_ingot.png"
 hash = "23a1caf2a273f423ec260964bc4490773ba9c66b38aec57637abbec36f9d4d36"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_mirror.png"
-hash = "3401d263263ecabf30b0840fc5101bdaafad3312f4178dd25b802a2d9a231b18"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_mirror_level_1.png"
-hash = "85ba057607cff8ece334d2f19f98aeff946d4bcfe2ddd387d1ba2495a3c113e7"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_mirror_level_2.png"
-hash = "6b9a5c65cf12b4f939309a6b8c444a197957388d8028c1c7717b1bfecfd75aab"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_mirror_level_3.png"
-hash = "265a5c3f76b7cd622540f16844a7631355ee4c8072270dcdd8793054796135ed"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_mirror_level_4.png"
-hash = "22feda684ccf71f4e57be605c3b07a436b89b69ac1a4288ed5b17a22bf9fb7f5"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_mirror_level_5.png"
-hash = "39c1397ca792c63eba1b2d2f968763956ea27136af9f397dc7a6c0eb9276c541"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_mirror_level_6.png"
-hash = "35d17df558b05a6cf121de9704c6864ee900545f73548d06d8dd2739ddedee8e"
-
-[[files]]
-file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_mirror_level_7.png"
-hash = "580927f64c4a077f220e2353d0a8c28f3020a582ced63f150d71452e9cb2b592"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/oreganized/textures/item/silver_nugget.png"
@@ -11786,11 +11922,11 @@ hash = "83a30d6cc777d6bd9848b2762c0d59f4b36adf778ab2f99ebd3d275471b4a428"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/paladins/textures/item/paladin_scroll.png"
-hash = "bb06f112c2dfbc66ef58b8bc5e2a97bacd585c08a3bf44e52e295b39a9704245"
+hash = "be9e4b383660888e66d0696de949f141bf23406044f03fc540fab507bb9432a2"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/paladins/textures/item/priest_scroll.png"
-hash = "bb06f112c2dfbc66ef58b8bc5e2a97bacd585c08a3bf44e52e295b39a9704245"
+hash = "c75bdb33a4001175d5b71a2dc6c24b7748622df325ccc0072a5519a6d4d452bf"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/piglinproliferation/models/item/buckler.json"
@@ -11862,7 +11998,7 @@ hash = "cb0458a096a511c5f54f092775ea992dcbbb9b53499dfaa9640625a0ff356bcf"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/rogues/textures/item/rogue_scroll.png"
-hash = "bb06f112c2dfbc66ef58b8bc5e2a97bacd585c08a3bf44e52e295b39a9704245"
+hash = "7e7bdeb5cf0e4d7f125b6e3cd9e25d97c1c744068e3ec1060e39b0c67da830ea"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/rogues/textures/item/warrior_scroll.png"
@@ -12174,15 +12310,15 @@ hash = "02e879a57110670ec283e799e7ca728afc46327ce8659c445f4b0b1350fe0a40"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/wizards/textures/item/arcane_scroll.png"
-hash = "bb06f112c2dfbc66ef58b8bc5e2a97bacd585c08a3bf44e52e295b39a9704245"
+hash = "7b111180f47b9ccc89595832df689e4c4f1c1d63bc45cdcddf6ac74cbf5e68a2"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/wizards/textures/item/fire_scroll.png"
-hash = "bb06f112c2dfbc66ef58b8bc5e2a97bacd585c08a3bf44e52e295b39a9704245"
+hash = "404c8fb65f3f2e4f74974ea5e5b1ec3d28803aec00d840c904b101238f5ec951"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/wizards/textures/item/frost_scroll.png"
-hash = "bb06f112c2dfbc66ef58b8bc5e2a97bacd585c08a3bf44e52e295b39a9704245"
+hash = "b7c91cb4fdccd3ac2091ae4e321089498dec34c7a59c181b02ffa65c8f243da0"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/woodworks/lang/en_us.json"
@@ -16918,7 +17054,7 @@ hash = "443bdf2b5b42d5d4fe4318457b8ea3e539c764213cac859146b0472eceb1cff5"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/bookshelf.json"
-hash = "8dc0471c8e9985e69bdf72579daf2a7238f07375f823afb19f3c5645634e3e57"
+hash = "1cf472e6e43975de9ccc2ff32ab5b48095f56bb70dd6e1533fdfb95d0d0cd46a"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/minecraft/models/block/carrots_stage0.json"
@@ -28433,6 +28569,10 @@ file = "config/oreganized-common.toml"
 hash = "2494306cfd6b234b0103a8e59c5de95f38cdcaad828407afe575748ac7a72993"
 
 [[files]]
+file = "config/packdev_toolkit.json"
+hash = "7328a1dee725ae3151c6bb6cafcd4672a219a232355f3f01857fcafd01a74b98"
+
+[[files]]
 file = "config/paladins/effects.json"
 hash = "13c4c940f30700c71e8b10a28d8fa795f1a9bbf9bd964b50053438f75d5d6eb9"
 
@@ -28981,6 +29121,18 @@ file = "config/soaring_phantoms/config.toml"
 hash = "aa7923a2430024106ae22741feea33daa2537768fc7102e6e2d26315b0b8686c"
 
 [[files]]
+file = "config/sodium-fingerprint.json"
+hash = "ae4cf0a56f485f8a1effc0e7ac537a45271f731b504a35fffac521ced694f073"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "25ef7095aebfd3408d96caa315ede1c63389422248f4fdd72f5732cc49a8579d"
+
+[[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
 hash = "cb08fad009eefaaf888bb4324c351ac426a49fb0db7cb75c4fddbcdcf8d8f414"
 
@@ -29375,6 +29527,10 @@ hash = "d240e0c3d507eda5d8c5f28ea30dd6cd2ee02534be272009776a1960fe1642b0"
 [[files]]
 file = "config/trains_tweaks/Zzz.toml"
 hash = "f348e949ce33519ac1c7124b6bece09247c661d64f3f9bc7702b5e0ec8ff7f17"
+
+[[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
 
 [[files]]
 file = "config/travelerstitles-neoforge-1_21.toml"
@@ -38521,1231 +38677,1143 @@ file = "datapacks/1 - Starfell Data/pack.mcmeta"
 hash = "261136434779a98585c26f637615c26d5544483c0291443c3b6bacd6b8cd13db"
 
 [[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/base_floor.nbt"
-hash = "130a73c7883f9fad6dd2400491c950efd69b39b0f09511e60bdbc7e5caaf1e0c"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/base_roof.nbt"
-hash = "caa1255a82f425401496c5c35522af2dcd05bc93870d731ed617aa37f336a587"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/bridge_end.nbt"
-hash = "8dc85308a1fa08246d22a4306a266fac68cd071cdee59cf0d1f8a8d02c6d380e"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/bridge_gentle_stairs.nbt"
-hash = "4a4b52f214cb4a257fcc951cff639ad39d9bdb86b10da2d88b8928fd69685138"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/bridge_piece.nbt"
-hash = "6209f1c975c300799ea2e60013f19ce99042b653481a5f67ffb6ba19847e18cc"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/bridge_steep_stairs.nbt"
-hash = "5d8c2c82c912ed4c7708b67c18a634113cee52a5ea055de9b81117399be8eb52"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/fat_tower_base.nbt"
-hash = "eadb0634f10552322ce8077194723cbac4a3a88bb8cf60567f79c614919da8fc"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/fat_tower_middle.nbt"
-hash = "189425c4f9a19b319ad5db71cfeb89403eec3e77cf47d650231b383c3635498b"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/fat_tower_top.nbt"
-hash = "7cea40cc1b49f4bc9715973d5afa065c607b46940431b0ce3ca96a67fd656548"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/second_floor_1.nbt"
-hash = "543a2bf81c4034bb70f40f0b19a3959a13bc3f4adbc16098a34d9e02d223e2a0"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/second_floor_2.nbt"
-hash = "37094ad6879ff7f9116246814f9cee0cc3ad132af156a6dc879423129a1613aa"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/second_roof.nbt"
-hash = "145dd9b5a72f6945a63209700c8698d422e88fa30e371316fc4b424ed903e68a"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/ship.nbt"
-hash = "1c9e750df3fd8cf4381ffaa47cb029dd96b636734decd8adec7eaca44f0c85eb"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/third_floor_1.nbt"
-hash = "268d2753c5954a0152179e2abfa7dc3a74649356da3e9b50bfab4b699fcd72cd"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/third_floor_2.nbt"
-hash = "de80567410ea9d9024bb90b79888f7a603498b081170087e40d9fa718b8db57c"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/third_roof.nbt"
-hash = "32f9932694cda22d70bb193735a375fc494d51a53280d8ccdcdde0670377874d"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/tower_base.nbt"
-hash = "b56772f7542ff0758d9196a5b4cabddb75778d587fedca93440bcf201711ade2"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/tower_floor.nbt"
-hash = "fd31747f4eacc41d25b0d27772771063b221bb62d43c2631db062d441ab26c97"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/tower_piece.nbt"
-hash = "223b69f5ec9ad7327ed1acdbc28d8a6733ea8d1f6d0c6cd07192c9871081b6b1"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/data/minecraft/structure/end_city/tower_top.nbt"
-hash = "b44628492e1db358063bbc13e2425b1d67c36e396c862fc25f8de44bec1a2b33"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/pack.mcmeta"
-hash = "54c79b08f10614b925e7c2e949162e3b6faf262e9ff8d0a5b0f84ee2ecc8cfa0"
-
-[[files]]
-file = "datapacks/11 - Better End Cities/pack.png"
-hash = "8ba58dd1100359845adba82af9bf320e45b88e78e5b99b29e2d511ffc13111f2"
-
-[[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/adapter_bridge_double.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/adapter_bridge_double.nbt"
 hash = "0db7e8eb8f1f67fe34a81779671f0fef29536c8c25d2a9fcfa543a7685f50578"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/adapter.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/adapter.nbt"
 hash = "2329e44abb82238afebfb263c8d341e55b0327efda45d9fa3ad874699e1c0a12"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/basic.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/basic.nbt"
 hash = "f0d0606322bda125dbd70717fd82563dc20720710f10f4dd4e56b20ffdd9cb83"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/broken.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/broken.nbt"
 hash = "231b44dda921a99e4cc1dbd0ba28bf59d1aafba65c2850f9f4eb212ea1652ad2"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/cap_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/cap_01.nbt"
 hash = "35070094631958a41a4593aacbb30940e90b1360b8bde808ae23e5952fcc8f80"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/cap_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/cap_02.nbt"
 hash = "121fbe3fc34babe5cc047fa53a0256044a8c97ccc365547caaaf51174b419d86"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/end.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/end.nbt"
 hash = "4aa86bf1acc9e1f10d30640f7fbf4d90f8e6f8db6a150ec7a1d6739e9b5852de"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/end_cap.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/end_cap.nbt"
 hash = "516162f3af855920a0a0ac11a9af3348c98665de5e5326b2fed856b426c1f1e5"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/end_fallback.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/end_fallback.nbt"
 hash = "e38de03138db07831eb5ca2e0bd294899d6fe47126ea1f9058f580f4a57838bb"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/end_long.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/end_long.nbt"
 hash = "8efb331777ee3729204f44079c9320c8a77337aff2ead4e006efd1cb77af151d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/end_thin.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/end_thin.nbt"
 hash = "1bb47b88eb2afb5c337967150d861bccb3c1ba98a68372bc7ba9d32bcaf4e57e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/junction_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/junction_01.nbt"
 hash = "d044d42aea162850bdec7d89916b5d7659d29078acd0e2cf009453c2bf2b8733"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/junction_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/junction_02.nbt"
 hash = "6dcb721431f33bebbf2cd04e0ef20557896b355a1fbf1f51f4186d0ed9bf299f"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/junction_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/junction_03.nbt"
 hash = "fc4f563801ed2603e8d7aad301308cdcca8f3ef27207610e17557976a1e4fd0b"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/stair_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/bridges/stair_01.nbt"
 hash = "d25f8d4923dda03f34f0075d9af7709185565bc246cc14677a864f593c338b40"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_base_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_base_01.nbt"
 hash = "c2d81fc83adfd2c8700e6cf50484f1f51de5bbc34556f4cdc697fef18e316c03"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_base_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_base_02.nbt"
 hash = "cf3d8b18db36e896b443e0fe4f75342adb5a172a651077f9616d5c2fead30d61"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_base_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_base_03.nbt"
 hash = "83ea870b85fd260ec8611d194223bf0e56cf72ae8cc558beab7617436baae9c3"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_01.nbt"
 hash = "ae36bab1bc30da6f3da87e3a9e13b5d5ad5af41a82a40ec48dc575d665a3b88b"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_02.nbt"
 hash = "955b29ed60e3a4022cdcce7336adb9bde3446ec732516b3e4e41a33b1c61af91"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_03.nbt"
 hash = "3289a062da7ed346ea0be1ccee3efb8db4786e24e71ef5a6df0496b115f9264f"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_04.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_04.nbt"
 hash = "8330c8b3c2eac410144e261f0e6a5261616103a65e6325d890276cb156676a5a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_05.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_05.nbt"
 hash = "b7fce6af265fe4ef399a7b7f19c754fb90ef782605e2ba79a3c7967a3b332044"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_06.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_06.nbt"
 hash = "b55765631479071f15a82c080837815926a266dfa354d89aeb7e2c42e098411a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_fallback_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_fallback_01.nbt"
 hash = "9ac2b3dd1a3104f31e69793bd00946595be2a891b68f69b83831370407460a48"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_foundation_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_corner_foundation_01.nbt"
 hash = "d9305b4921f231d281903391764042ed90cb79402c24c25f320cb3706dd06a92"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_01.nbt"
 hash = "67f0c333215ba3dc8b8029b976129acd94fea6f4b998083e474ff15a2f3394dc"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_02.nbt"
 hash = "8081249fabc3c626fc5d7737c1a3a39bf59837dd25c39caeda292920010facc5"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_03.nbt"
 hash = "bcaae44cb72c78f331f01b2ba218eaaffc9f6a64c43f9ac719cadb0dd6bdface"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_04.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_04.nbt"
 hash = "af352962402bc7fb838019aa14b22c0e0378b7c57f0379fbdb12bb6ba8efc332"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_05.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_05.nbt"
 hash = "58f0fb88ed0b844ad584078403fee011ede7912c7f6e13a5a62e4b8a44c123d3"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_fallback_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_fallback_01.nbt"
 hash = "2410bc54e1c9d03d79d41993e82d941f0dee4d52c32d068bf086fa3a6d2686ec"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_foundation_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_cross_foundation_01.nbt"
 hash = "8c5d15eb801cd93dc3e47acdcd2f617788381cbef4805d04177e32253048e5fe"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_fallback_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_fallback_01.nbt"
 hash = "5ef9e55e6e09929c3c5aa626fd726ddaf7858c9ea5e3ab407683cfbab2ddc43c"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_fallback_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_fallback_02.nbt"
 hash = "4e5546586a027e14cd125048d02b788400db6c355dfebbd44364d01ad16b6306"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_fallback_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_fallback_03.nbt"
 hash = "a7ca3237e9a1ecbebc83bce8c073798172f6dc7f9aae02baf6292d5e6e591b69"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_fallback_delay.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_fallback_delay.nbt"
 hash = "bb94ff6f2b7530faa4c224fa87c2d718d5dccec1cd237c923b6b5b07454c7b7e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_fallback_thin.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_fallback_thin.nbt"
 hash = "68ccef84339e70f50fc3461479d95ffff0de6149cc7ecba3df8656f47e50ee76"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_foundation_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_foundation_01.nbt"
 hash = "ccdcd2ffed9f856ec8ac0aa985a037b962a191e59c258fbc488edf91383c441a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_full.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_full.nbt"
 hash = "a68f6acd55e1ae60da0db9a565179773b8d78b364cc13b4975cb02977123616c"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hanging_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hanging_01.nbt"
 hash = "00d566030d4c715022e231354d2c7473c3a40724f4d04a28eca00121d00721a9"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hanging_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hanging_02.nbt"
 hash = "9c75ce6b186c1ca3cce641c5b99803b81245a2bca71e77093c45e1464e9ba1c6"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hanging_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hanging_03.nbt"
 hash = "db79900c25b197aae2bdacbd233acf5ab558520fbda832728ace50deee65a039"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hollow_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hollow_01.nbt"
 hash = "753014d94be1e8f15e4d440a312d903df935ae7607ed9744682acafc4022cb69"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hollow_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hollow_02.nbt"
 hash = "9c2c4a58960e44e3f577d9345eda7a12ff31dde5d883dab33aecaf0adbbf0cc5"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hollow_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hollow_03.nbt"
 hash = "569f446030dedf8fc06cdf051d7e084f79f34026d5d6d00ae6093af09e7f1788"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hollow_04.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hollow_04.nbt"
 hash = "eb574ef383f85aa19461ae4c0b5e763b64aeaef946397f3b1e1a9262733721bd"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hollow_05.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_hollow_05.nbt"
 hash = "cd3e1b0b2f7c93a87eda61a79432309aea80c6f2189dd7afbd7a624482b54871"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_thin.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_thin.nbt"
 hash = "d67346085eb54f416294766d5dc8d3a9bb892626c70d7953b2c031c2ca200d33"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_thin_delay.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_thin_delay.nbt"
 hash = "02febd266f96a9e74bc08b6cff1fd64a154713fcc33dd9c6f17db69a7531737c"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_worn_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_worn_01.nbt"
 hash = "829249489fe366db857ecd36ddb6741a6934b991e78e3bb97b48767aa3fd6258"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_worn_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_worn_02.nbt"
 hash = "529106aa22b4d07fd580d0f6710d169993b0ef0e29c7139af37bcce498ef9889"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_worn_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_worn_03.nbt"
 hash = "a96dd5abb6c10c47c4cb8fcd08f0f254a0942c28911ba038c08e3ee51038673a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_worn_04.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_worn_04.nbt"
 hash = "cfee7b0ba270c1294e2ff711f8a0cc7c2522f275a993d2cdf4ea0db16984e68d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_worn_05.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/columns/pillar_worn_05.nbt"
 hash = "ab2171459a944a180b8681c76aef415e0a00ffbecd0268ded2b03c9741cb582a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/basic_cross.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/basic_cross.nbt"
 hash = "1803b747678a7b0dc3b71305f6a1153b2de720fc08fcc91a454e1aaa596f5cf1"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/basic_line.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/basic_line.nbt"
 hash = "3ecb53eb798f50db19fee892fbdf9332954d044d9cafc0383f2942885aeae933"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/basic_stair.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/basic_stair.nbt"
 hash = "0b1a05bf28b0247b72d0e38223f193074b674c4fefb026c4239d070349674fc9"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/basic_turn.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/basic_turn.nbt"
 hash = "6154710494a342fdeb79be13dbcfd621d288e2d3bd64764cbabe52bddae37877"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_051.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_051.nbt"
 hash = "1c0d5856350b76a2b49dc3fe3a8ed3135a1cfe04bc994773f4741430a4ddb49d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_07a.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_07a.nbt"
 hash = "d174b3572ff4b446610072b18c8a190817e84c9767d28b85ef8894c5d40acd0d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_0b2.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_0b2.nbt"
 hash = "ba78e0b7a84a8a46b7241edaa2c9fb26fb0f70b69fbdd2c37bb2ce59fd883856"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_112.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_112.nbt"
 hash = "e2c055a33742e9753860d718cd03b301506da490b671f313c2cd63ca4de71538"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_142.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_142.nbt"
 hash = "d2bcd4e774cbb1db2abee0994097e31b11484b3e1985a39f91e1a122f9ba4799"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_193.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_193.nbt"
 hash = "291343185d2f14de2f32cd5a041e1b074f6c50b61ad0992e3820ad7387c56c8e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_1b1.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_1b1.nbt"
 hash = "e4c97c663d8610cb5087f0a9e551807238f64a1d2ee63ea024351d8fd20b7676"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_1d2.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/builder_1d2.nbt"
 hash = "a49ca8b0cf7d1e007036557720282e4f4a2fef4aeb552954317f494ff05201e6"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/lava_042.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/lava_042.nbt"
 hash = "0215141e4b980e7e99073aecc7333d68e3a32cc2a2dee7b9c83faac12ee29c4c"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/lava_111.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/lava_111.nbt"
 hash = "f0a6d280ccc847142bb1fd2d03e393b3e955d12654044e4f5592a3e0a69dd669"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/lava_1b1.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/lava_1b1.nbt"
 hash = "82a37215ad2466082b5f6548597a8074f9f1a0a74d555902f6aeb6c0ea93c41a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/path_cross.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/path_cross.nbt"
 hash = "cfbca94e0b6e7fa2d61eddc92eb97dcd6a301a83337bfc15e073eeaa77c052a4"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/wart_042.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/wart_042.nbt"
 hash = "97d5b3319784d4cba831b6bb43b8d184763a10931f12d8914e0dd579c9442f8a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/wart_1b1.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/complex/wart_1b1.nbt"
 hash = "6f781e125396b69fc1181f03ca3a14c9861ae4541a39e34f9b277fe526e9cd3a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/blocker.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/blocker.nbt"
 hash = "65b4ecbeb46e667bbf740dc27d4f855853f357c6c84e83dc4a5c8406604a5bd3"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/connect/bounds.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/connect/bounds.nbt"
 hash = "eb51987b85eb9e0fd526bbadca9feb984d7fcb9b1ade7cee2934f15f90c8a280"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/connect/checked.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/connect/checked.nbt"
 hash = "c8dd01e6e7fb1e05db01f066dd913aa3c721f7f48d30db50f9f8c834053ecbe7"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fallback_slice_large.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fallback_slice_large.nbt"
 hash = "b0f5b7e26a0614e22a691a1731e8b7da9dac1cfe1f27f9ea1f7a85bacd231ddd"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fallback_slice_small.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fallback_slice_small.nbt"
 hash = "1fbf352e0cb6f829cf1a3c4da641dab9f5133d183f94bdb12aed7d425729930e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fountain/cap.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fountain/cap.nbt"
 hash = "0445e712897ab4dbb0a50ee19f3d7646b46360ce0ecaa9436acbd1ebebfe5d0b"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fountain/pools.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fountain/pools.nbt"
 hash = "fd253b2732bd608be3ecfc71b02c76f229757b2353aff3236641e682afd2e589"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fountain/steps.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fountain/steps.nbt"
 hash = "8f50b4b58bb57731f619657133c5122f0ce2038df907f01cfc910a708f7446ff"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fountain/tower.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/fountain/tower.nbt"
 hash = "247e211e45bfc0c67c67ed37d294c8364eeaacd74f11e7050fe3de42001596eb"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/frieze_bridge_stair.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/frieze_bridge_stair.nbt"
 hash = "d45f1110dc6bdff4f095979be9a58c873979b904b82d7b2dc07cf505bd5b9a52"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/frieze_complex_stair.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/frieze_complex_stair.nbt"
 hash = "19503fcef1c05b1282820b7e3129108c58d5a837a5b8c6f24944d60cfd06ba23"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/frieze_wart_stair.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/frieze_wart_stair.nbt"
 hash = "3ef8c586d0717c59947c51c858d4375e62a9ae119466f4203ce624761457db8d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/log.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/log.nbt"
 hash = "45ca20b2ecf3f94b01b6ad57ebd22f284373a084767ec51f142791f2597b3817"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/log_below.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/log_below.nbt"
 hash = "880d37c3821756572aaeda5b07d1daebb4cf07ef0cb9e80dcd6ea0e8478a03ad"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/pillar_capital.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/pillar_capital.nbt"
 hash = "cbb2beb8149c6d2cd6aab7f0e2c6f81f442d474f14d92291d7ea507596f265cc"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/pillar_capital_delay.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/pillar_capital_delay.nbt"
 hash = "f06a604a82ee8d0469b9e8ba2e727ba8640a108dab0f1870ad423aa569184c38"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/pillar_capital_fallback.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/pillar_capital_fallback.nbt"
 hash = "5fd376c0dfba6faaa069fe0d715074a96a292bf678e5ff65a651355f26c42e42"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/pillar_capital_fallback_small.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/pillar_capital_fallback_small.nbt"
 hash = "f367e2cc411126b6582f56fb3546e54303d6b4da8b83a9c6e44961850c991ea9"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/window_cull.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/window_cull.nbt"
 hash = "dcb055ef0529a442eeea5ad9328d28899e609d1309b0a506b1825de114646184"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/window_cull_delay.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/window_cull_delay.nbt"
 hash = "3a0b93152fc7c2a0a72489a78f24b93a64b0f0e29b41bcf85cec86d5d1a5a625"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/window_cull_fallback.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/decor/window_cull_fallback.nbt"
 hash = "fba5a58d801d8ac14792daff26a83b54dcdb7f423318eaceb170cd1654f9b51d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/external/lower.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/external/lower.nbt"
 hash = "fe27b3a52cac6183594361d25874e5f449f7dfeafc9a0181ed9b4f987130127e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/external/upper.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/external/upper.nbt"
 hash = "a8d1f15aadef628298ebe6277043ac3965566080a5f43cd2a761339f3c0f2434"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/balcony.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/balcony.nbt"
 hash = "cc1c8f4e4189aaa773bd788aa75e2ca461cf17d053dde2a0582027dc56a73bc8"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/basic_cross.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/basic_cross.nbt"
 hash = "a0849657b87d29518e8cad1f38f971020b10067894ea7ceaf482f4f25d9ab17a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/basic_line.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/basic_line.nbt"
 hash = "85a9b9b69cec21890dd98f4fa378c440c6b41854a3d6a7a019abb2ea2ac4bd9e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/basic_stair.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/basic_stair.nbt"
 hash = "fe71abee357f6468bb761aa1010b1df0905e113aaa5e343958434bd3be4bcce0"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/basic_turn.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/basic_turn.nbt"
 hash = "647ccc514231fe383d8a1762292d20188240ccede40db0d752559b552c1d2d2f"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/bridge_gate.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/bridge_gate.nbt"
 hash = "7739420b01ce6f089c71c00a732e856225a09a733319ac8655e45f32b256e9cb"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/bridge_hall.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/bridge_hall.nbt"
 hash = "778c9ca49e7ce0ce6b36a39c6f30168e3c1a6e2d2a4d916ed0fff0e576c07b02"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/bridge_long.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/bridge_long.nbt"
 hash = "ba688c83a2b625013ca042e5c8283e8cf70aa66ce39f97f7e1d92c4b42fc3030"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/bridge_stair.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/bridge_stair.nbt"
 hash = "06393d640c25ace1c9579c6024d8e6302ee19a56e568d6bd277dca65a2d17865"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/complex_branch.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/complex_branch.nbt"
 hash = "944a98e67727ce10700e72fa04be6a512972b79970db8ccf58161bf9cda08f59"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/complex_connect.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/complex_connect.nbt"
 hash = "e996e906476fffef7e46264ec1ca5e59ba2ac7f59d308cba81d6a1ef0c93a728"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/complex_separate.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/complex_separate.nbt"
 hash = "01d4dea82a072007f7a20252426d930d1b5d5230c738ac3bc33e38f2bb0173d6"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/complex_stair.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/complex_stair.nbt"
 hash = "a686f56354bbd979d8f0b0d19a5309f2bb35d747823db4bf002a4e10ef17d087"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/complex_tower.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/complex_tower.nbt"
 hash = "2d159f9e2749a74d10c8e7cbc555544e5f1b983c3022b20bfb43213d91af11fd"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/branch_line.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/branch_line.nbt"
 hash = "7a767f4a29e18121fc753750ebe938963d2dfb881384b71925e719460189af2c"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/branch_split.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/branch_split.nbt"
 hash = "5200b5416e37e1850952a025a9a7c46dc4ef4409e6fca35740639b367e8f0ac1"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/branch_turn.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/branch_turn.nbt"
 hash = "e96c388dcd8b3e0ba1d98f23f7f3ebebe4cdc26475b7f3bc4c28bf5d6192dec0"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/bridge.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/bridge.nbt"
 hash = "3e14b9b75d1a8f81f735dac548aa9d7c4c0078b8b63ce9b9f0e6633141d9f6fc"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/end_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/end_01.nbt"
 hash = "15a5d8652b97f769474e3ddd770d754433c19307f1c8f62fcd04f392398383de"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/end_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/end_02.nbt"
 hash = "8be539ec79ac6c8d9833e55fe67e1b9c2285016aebb7f83a842162afdecab31c"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/end_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/end_03.nbt"
 hash = "d1f2e3e6105bf21448242386a24a5c22b692c9fc0b99e5c5f0703656e26ec43f"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/junction_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/junction_01.nbt"
 hash = "d2d1ca71278ddd97bf9ff6a7c24b06888deeddbd407bfbd34793c0c372f38c44"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/junction_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/junction_02.nbt"
 hash = "4136783151e4303c15805aab81218c001aaf012c3cf14a765362d586337edb85"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/junction_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/junction_03.nbt"
 hash = "73311f72b7f300dba6026e246a27b746d3e7539c5b135ab84606e25929bca612"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/line.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/line.nbt"
 hash = "a7dae3782569e4751aa0c74bf976a715ffa5917055c98fe4d9ec1ce885dfe040"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/separate_turn.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/separate_turn.nbt"
 hash = "b45b9ba642bf3d146438549e400c26c6663b6273675e91a761f95a9eaba8bfc0"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/stair.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/stair.nbt"
 hash = "e0f2927635a9aa1d28885cc40574a19cc30ce9a8dfb24d90e41ce04551a796f4"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/walk_line.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/double/walk_line.nbt"
 hash = "38df91b16a0d2108861b65cc2384482375bc5798db21f2f638b04d53ec993cf0"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/end/brazier.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/end/brazier.nbt"
 hash = "303d8b053b23d6e898f6dfc531c319b3f4c991da1135a94b3dabde7e4a033093"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/end/broken.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/end/broken.nbt"
 hash = "5c752d1f9de1eba6e906db559d39633b4c81bc224b344c370f30c3aba0de2a82"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/end/cap.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/end/cap.nbt"
 hash = "db65dfda0166d4d209e4ec24ef9687a76382a52c178d7e65bf4d821bf60f7c13"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/end/extended.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/end/extended.nbt"
 hash = "89411cb31133248c9d0db63931ea61d1b6a24cc4e54fc3ebab4f16ab7914ad48"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/end/gate.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/end/gate.nbt"
 hash = "ca149ed806219c8e6956943ee8d22d28594af135833d0d318afc53f6accb84e8"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/balcony_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/balcony_01.nbt"
 hash = "99464410df1da1a2494d1fd5f80695030c4c3ab23e095345107d854f8184d310"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/balcony_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/balcony_02.nbt"
 hash = "14944047db85158ec050909441ef0d4f1b3a28592f404e33b076eb8dfce0cb9e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/balcony_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/balcony_03.nbt"
 hash = "88677556d341bfe169e40f86c1de088a9c51c100f352d09d419cf3cb590c2c2c"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/end_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/end_01.nbt"
 hash = "d1cb54ad4ce56eff2acbe3aee8b03079f4598dd29ff59a7113bfe16b61c4ba44"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/end_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/end_02.nbt"
 hash = "458b58e5645986eb1e77efcfe653452f01d1425a380a0e64be1462b462d341d4"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/end_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/end_03.nbt"
 hash = "2a73b9c9248a51911e2bd0fbb16b78efd563f7e72e3548850cc0a3b86f588bd2"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/end_04.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/end_04.nbt"
 hash = "93e98bdd8cd4e3b853c3ed35945d09bccb993b9a1f47274eb16cbbbd508c59ad"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/stair_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/stair_01.nbt"
 hash = "1e08487decc7ccbe09538caa2906908d4914f5c2f8bcc02b7325120187fe903f"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/stair_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/stair_02.nbt"
 hash = "a7cec855a3d031df6bd2602620d6407216fd8106d00af649d9339d7f825a4ff3"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/stair_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/lower/stair_03.nbt"
 hash = "25bc680f44a19db45bd3226d2773bb2d35b6f34cc26e20c0da28f19976935996"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/spire.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/spire.nbt"
 hash = "73a09362e61ee78e13237e4f740a7070c00e94269ca20c10e3b6bcb61c0221ab"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/stairs/balcony_a.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/stairs/balcony_a.nbt"
 hash = "6cf4c7a090feaaccbb0bd09cbd75cfc5ac5be22847d45dda37c862ab3b7d8f8f"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/stairs/balcony_b.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/stairs/balcony_b.nbt"
 hash = "65b5d925817cd33de2815167f31ce432017b9c9af37e1cace1498aa470495407"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/stairs/cap.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/stairs/cap.nbt"
 hash = "137fa8cfce2f70df694cbddfb5abf6a34870709a26f18a42287a7c2f828bcafc"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/stairs/staircase_down.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/stairs/staircase_down.nbt"
 hash = "f88fe997ee597a548e89e403af6012ca081b28b6516f21933d5c3a6a1f61277d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/stairs/staircase_up.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/stairs/staircase_up.nbt"
 hash = "a99dd9f78ded2dc5f4929f3f7314910566b12f586da7a9462ff708affcc4f951"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/gate_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/gate_01.nbt"
 hash = "247d5b488b439631b50588ab6681754c0b0f34f088df4dafe0dc9fbc649e9034"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/gate_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/gate_02.nbt"
 hash = "4ae08070f5897826658dd69af29f21759a2ac83d57652d1be971b9b53aae868b"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/separate_line.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/separate_line.nbt"
 hash = "aa96178148855c25b3582254038f0ac4434c05eceb3813c19475271b3fb4ae03"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/walk_01.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/walk_01.nbt"
 hash = "367d51f4551d72a9e90521eda8ec98fcf5da0518b2b85ccb3b0d041adc6acae8"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/walk_02.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/walk_02.nbt"
 hash = "96c964bf9de6576fa8cd0e7afdc63e730a9e0ea907673aa8ca297d3bf0d62cae"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/walk_03.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/upper/walk_03.nbt"
 hash = "022f56bf6f1e46ab98b6d230b45802b62515ac233e750c6c7332a47b1b78d199"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/wart_branch.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/wart_branch.nbt"
 hash = "f320de1f9fd2626777c799ada5c8260e377a4f959d0970b3b16dd89f69948a9a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/wart_line.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/wart_line.nbt"
 hash = "79990a1b4f4aec60d8edca9b8e0fbdf0dda1652dd733c5bb1ac9acb2be5c8d8c"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/wart_stair.nbt"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/structure/nether_fortress/rooms/wart_stair.nbt"
 hash = "8e2fd1a30ee75ff37989acf4fd5dbb403568c2a472d3f8f2ecb0175f19e09201"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/column_base.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/column_base.json"
 hash = "17ffdb98c34ee93e1ec6c6fd616dd18ee6c651866606710e2b45ad4640011609"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/column_replaceable.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/column_replaceable.json"
 hash = "e7cc2a1b651c4a24b60c7b682215c9e6d8509a19a254317e2d1e42a9fc239cf6"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/fortress_air_nonreplaceable.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/fortress_air_nonreplaceable.json"
 hash = "899fa559d7777b35b92324872bb38b9e9a2425f0adefb4fb1af048051b1ca5f3"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/fortress_lootblock.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/fortress_lootblock.json"
 hash = "04f87838cf140c810cb19f69c5b9418b58fb6e76efc10eed5ab2b6941b5c0e02"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/fortress_nocarve.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/fortress_nocarve.json"
 hash = "1ae54abb8024f482efb05df95caed907815030caee0214ee9e798db501f6e006"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/foundation.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/foundation.json"
 hash = "c9bb14ed53ad3b05e1498830a57326d6ed2070ecf53031aa48310f6e644a59db"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/iron_chain.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/iron_chain.json"
 hash = "4bdedb71b90eee7b009d451e34577edb71549098385a12d6b5ccc3ca08e524c1"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/valid_lava_base.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/tags/block/valid_lava_base.json"
 hash = "01ea411ed6178d31161cc8635996add8ab7d540e6a095de745a9c57bc7d9d9e3"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/backfill.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/backfill.json"
 hash = "c5c5d5becd8b2b1fc6d952a8595d3fe2d1948bc95321d05ff5185d137f4969d4"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/base_lava.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/base_lava.json"
 hash = "76f3ef7db3c4a864ce7139dfa36348a832540a731e75a2a47448911b7215540b"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/base_medium.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/base_medium.json"
 hash = "4245237b656137bfe40f8885fa1bbe79e48bf3e0e86c81f6aaeb9b2c57992eca"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/base_short.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/base_short.json"
 hash = "044e7c8077fbc02d6e20350afc80cefbb7d616dccb5a1c59b15516d02a15ee1a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/base_tall.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/base_tall.json"
 hash = "94201c2bcd7ce900671a375593ee91dba960783961413d3ae3bac606e311c62e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/cap_medium.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/cap_medium.json"
 hash = "28db25b52f842c33af9827000c495d58d59ad8e608614be0789713b89c643714"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/cap_short.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/cap_short.json"
 hash = "83a1363a1b22092411bc0b0cdc93cca6f887050c0786f2ace97baad7cded7530"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/cap_tall.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/cap_tall.json"
 hash = "2b659e018bc66ba7727f32c84231f539a8839128c11929dcfb0f69ef463dcac6"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/full.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/full.json"
 hash = "45248f1e8a3b8025205744a95b9bca4f97aaca9591455f17d442f8ab3cf18011"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/lava.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/lava.json"
 hash = "3a656f26a894fb56cd84a5a16471df46f93e9160b5a76edbc2ae9f55389aca2e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/worn.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/columns/worn.json"
 hash = "b276ceae0b4817c17cd1ff59507cf96487804aa42674b0bb11fce54567e54d34"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/decor/air_carver.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/decor/air_carver.json"
 hash = "7293a436de0a373de197f49adbc7958a117fc8a0e78df6a302b6375c923b3c20"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/decor/lava_carver.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/decor/lava_carver.json"
 hash = "e7b0aad2a9bae74a38550d21aeea23c9d2529989c2079a6aadf626c868dc09bc"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/decor/lava_casing.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/decor/lava_casing.json"
 hash = "e107e65d4c372958ac045f17207e557a48b34911460ffefb5989f5b8eb000bb5"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/decor/soul_sand_patch.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/configured_feature/decor/soul_sand_patch.json"
 hash = "b336b23cf007c8f29347716352c60ee763e0b682c2044e2445efaf42b1257312"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/backfill.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/backfill.json"
 hash = "2b49b51200db0b96884d21fee17611fbed3d70ea70df9adf8622f75fd1438471"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/base_lava.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/base_lava.json"
 hash = "689081651276ac29f5164fc84f75467091600be07cf744d3f24fa74e59b6a14e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/base_medium.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/base_medium.json"
 hash = "5761c2f36dea40948589764ec6d3b98653246a3b744d70d0dfb1de37c5c7630a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/base_short.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/base_short.json"
 hash = "1ecb6b94d00d635a03670d66b6e1c09baca95249c4c069ee8af1a9f440310999"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/base_tall.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/base_tall.json"
 hash = "bd38991e6a6ddd8365f188b4ccd5bc01422cbaba38f93104368a69c8cfdec146"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/cap_medium.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/cap_medium.json"
 hash = "e2e1012a261a68e451b03912f42f9c4605a1404fbcbba651e4cb32a68c4a6913"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/cap_short.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/cap_short.json"
 hash = "a74472c852bb0865ed8885e66efad1941f9e326c2bfe4c63419386690a9f4492"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/cap_tall.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/cap_tall.json"
 hash = "000bfc455c1eb287eb71291459da425ff853b697853f3e7826537ae4bb4df500"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/full.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/full.json"
 hash = "13112abd470965bb79335f8133c27a97c10c9dc54a4ebf4014253a08e2ff454f"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/lava.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/lava.json"
 hash = "73f03c027ce8507fef6d03d571fa83064423e2e23c4a4e6aabcabcad1cc5dfda"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/worn.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/columns/worn.json"
 hash = "4cbec90fb7d2c2802e9aae1a9749fcdb583abc0f499461136cbf2bdeccd7994f"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/decor/air_carver.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/decor/air_carver.json"
 hash = "5212d1c1c5102ffb29554b69d68408e4274d8d939b6785b4b823bf85ce885213"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/decor/connect_check.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/decor/connect_check.json"
 hash = "fc44c1d68b7514310a8e5fe1b18f73e2643b2e755f8af1cf7f63c99b34f5c7ea"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/decor/lava_spring.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/decor/lava_spring.json"
 hash = "56b206ef8f321f38cb2a2fdb00ea967ea07fc1e5f00d383c8fd9e1ff6a137871"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/decor/soul_sand_patch.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/decor/soul_sand_patch.json"
 hash = "82d36dd917cce14071c84608ed35e9803144653b041cff6f092c3da65727a68b"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/decor/updater.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/placed_feature/decor/updater.json"
 hash = "776be444fe6f8ff947699b382d0751c2c42bf99ee78d6be2c86456d6e74e7906"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/processor_list/fallback.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/processor_list/fallback.json"
 hash = "dcaad1ad390beefad4b3094bb1bb47ee01da5af54ad9469348bf1c8e4a7c48bd"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/processor_list/nether_fortress.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/processor_list/nether_fortress.json"
 hash = "ea05d997c1e6d05ce2d5653917f6b7b788fd189717fc0da4d41a8043d2544275"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/air_carver.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/air_carver.json"
 hash = "9177a399e150bd105a69ad0298d27de04c089d14ed4a27160a62a6f77846d460"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/end.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/end.json"
 hash = "eb7e35ad2a955ea48c6e7b61bda009cace590dd082a33305d37bffd37e6f0030"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/end_hall.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/end_hall.json"
 hash = "e410788bca1406144314c82fa021c9bdccbe8f0702993c68efa62684d5b131df"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/exit.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/exit.json"
 hash = "b986f8813f2d9d6859a5999b02333d98e53ef7d9dcf77c6dc036de9e8a35de4d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/fallback.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/fallback.json"
 hash = "4461f09d55771f3ece2c85d40b92ceae3675d5989e47044a232eb3e9959bc1cb"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/hall.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/hall.json"
 hash = "3f04bf77eafe47087882eade87fd62e80ba4ba5a476b109893a090bc97d94809"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/junction.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/junction.json"
 hash = "f48b55fa9e71140d7bb4de4e9c5a4f606238b39a76ea2f2a956b5642f9f63ef7"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/main.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/main.json"
 hash = "a198c0f2165dbc6ae6a6d8a79a9f4c571d157f172803460ef491a16bc86751de"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/secure.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/secure.json"
 hash = "6707229f2bfe53f4617ce27998095799fa4e4bdc9a55fddbc068366ec2bfb57d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/start.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/bridges/start.json"
 hash = "10bf9f1fae03f97b888de1f1a9c9a59573b060b054acf7c4d5e29688d46b8602"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/backfill.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/backfill.json"
 hash = "ee3c954708d225f2c206c53fbb2b4e345ccd871e9f8ab1f0e8916f36b8077545"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/base_huge.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/base_huge.json"
 hash = "ee5a7ab8d1246a7aaded5070714c27fa8d44edd690b48c5a0a931d0baf985963"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/base_large.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/base_large.json"
 hash = "ac07b39edc0ac5b9d6f8abcb19e89a62e5668d5421ca798a6444ad4baca61be7"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/base_medium.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/base_medium.json"
 hash = "e41a1150788474c7261f77acd5c7ff19c191c780142f17fa0c254c2505f9bd09"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/base_small.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/base_small.json"
 hash = "86ff015474cb69988b83b80b989223f18a1c292a6d6b0a67e35fb539e6e0b8a6"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/base_tiny.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/base_tiny.json"
 hash = "824701aa60f6a3752ab95abcbec1a7c4cd8bed206e2c90b49e7465c90ada8bf9"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/fallback_worn.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/fallback_worn.json"
 hash = "11be31d9965d449399b1d922c952122d69604349fc154d7a4e5f45d6fcc69ab7"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/foundation.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/foundation.json"
 hash = "0eeeda82e883be12a04615e54a42da576e16ae6f498ebda1ed9be99e9333eedd"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/full.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/full.json"
 hash = "a49e7df6b6cda314f82cf5262af6ae07e1a99aafc48cb4f556b20c28838b3d93"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hanging_huge.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hanging_huge.json"
 hash = "fe670c5212ec81edb1119240b2fa542f7518e686e642fd841908414554c9888d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hanging_large.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hanging_large.json"
 hash = "b20c1e3f3fc6386e0280190350a404088e1d2387f1293b9b62b2178e5b59df44"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hanging_medium.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hanging_medium.json"
 hash = "c49a40e78f21735b813080d33e86ec7393ae71cd6ac6afd4039ea07a52423dc7"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hanging_small.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hanging_small.json"
 hash = "895190d91fe63f724dfaa02bf2a80ea0591a1294ea8eae9f2277667382aa52d6"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hanging_tiny.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hanging_tiny.json"
 hash = "70125a5982d5769b51f0cebe2732c1e510532f91b0310b52c326f9acbc970b83"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_high_big.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_high_big.json"
 hash = "4c07f134e8f0f23d7782249258b24298053f9aa7746a3de56ebe99499278b461"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_high_medium.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_high_medium.json"
 hash = "301440335e86456832922a1d4f34d11e6fd7b4b2c0ee2c2e8b40800c9f4cc1b1"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_high_small.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_high_small.json"
 hash = "df9047e6213913e81840fc6070282f3d4d9a690d379576eb83a3dfdc5155cf4a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_low_big.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_low_big.json"
 hash = "2fe4cd7b32c1c496e35e2f8e52397023f750f4b31fbdab043a398fb3022de22e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_low_medium.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_low_medium.json"
 hash = "cdc0dda9ed54551483c5900d00274cbaf256413187dfaf0aa36c855369bed2c1"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_low_small.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_low_small.json"
 hash = "e5c77fe72cb928e21579895f13b5ce84838818152ecfa0e3dbf346a82b0e201c"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_wide_big.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_wide_big.json"
 hash = "4b81aa324432b169d8131d1f7ad9a7b5374ef087ee45c461b55ecaac180f7cee"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_wide_medium.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_wide_medium.json"
 hash = "7651c8e1bd5ff872557b090b0513048d80abe301ed5ab4b668da3806f8de27ef"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_wide_small.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/hollow_wide_small.json"
 hash = "6e1a81182afa57d687f1a82b04bdeba24ff0d11a67feb9d71c0598943ff888ad"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/lava.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/lava.json"
 hash = "c302784665fae94a113c310a4df4f513ba61b2b49d4ce4fd6d91cfa51553d2b0"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/worn.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/columns/worn.json"
 hash = "a94fd88b07c4c5d31e0a2c7348e78184fdc7ea98f2bee95c974750888473925d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/blocker_path.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/blocker_path.json"
 hash = "50845bb33f5051ee5837def0c5ab72969dfb7537f07750c7bfbdc44721fb0343"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_011.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_011.json"
 hash = "ff89c45c82a4c2a5b8ea3bae5c5331566f98d64ea3d58165e0a90ca30f9978c4"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_012.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_012.json"
 hash = "1bb4e85a7099cbefd344e8724ab6e135405b0df7782c5170fd910dc52583748b"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_022.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_022.json"
 hash = "a12c60db7234a84ad3606ecae58b734ac822ae5332118bdd46a09a05f66d0931"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_030.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_030.json"
 hash = "38d54b46b9b1021bd5a98e1ea9c0fd4cb3a22542428e5885c778c9548d1342fd"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_042.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_042.json"
 hash = "85468ecb19a2f90b575e6e5863e5a6140100d25a2420adeb8c3b35684751a644"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_050.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_050.json"
 hash = "2f8a59672f1d17b94ae088b9da40bf0d9566c2fcf343b63e7335dd0521d6120a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_080.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_080.json"
 hash = "b204b8d3ce0c4a319efe47f8f85af820d649ba3e9abf8a5b00e82665b437524f"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_090.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_090.json"
 hash = "535dedb75650172754f35e9617d05923324de012ac6756c7c45b981c79e55767"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_092.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_092.json"
 hash = "92f22bdf57e111378ff12d923d8ba5ca11967da7777c2e57284f405a0290e9e1"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_101.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_101.json"
 hash = "578cbbd72ab805b94c0ff40001b8d34d527c218e9ae44627a4fad4972cafb931"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_110.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_110.json"
 hash = "98003f1f213139860ee7e05d4faeadc796a94523eda3bf7ebf5b61c90263e7a1"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_111.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_111.json"
 hash = "7c6817895f3dfac12588131a0ee8f70ab5dc662934341e6c092f6976d833c60d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_140.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_140.json"
 hash = "fdbec5692a5e58e795bb0d263b7e52afeacf1cdac07b4432b1d458658cd1459a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_180.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_180.json"
 hash = "07608f10f3d8ad86512bfdcc3b19747ec809b6eee1b6f4c6871aec387f94bbc6"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_basic.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/complex/builder_basic.json"
 hash = "bb06fb678ec7a3bd728e797cc1360955953e053206215c7298444752c7d67553"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/decor.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/decor.json"
 hash = "c37f5268a0331da7367aa1263ba2b2e488876e849e4094ab411b7db82ff6efe7"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/decor/connect.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/decor/connect.json"
 hash = "f7698f17f6db135caaeaa6c15421ff1cdfde425b204cbaadc67940bf7d2cdfdc"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/decor/fountain.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/decor/fountain.json"
 hash = "31eb8bb6a82dcc5341ad6143fb1ec224bdf5baba3d1d6c35e7eceb091cb44586"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/decor_internal.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/decor_internal.json"
 hash = "01e30f408dc209baedc2aa9603e9b7e2045113e4de123047d3a8141d91d871c8"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/fallback.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/fallback.json"
 hash = "90c43a4162c435f231b62b111a1d750dae84c7e2b1d5ce61397de42e919dc766"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/fallback_internal.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/fallback_internal.json"
 hash = "00849af7da597f55b33dcaf4aaf844ecc714b3583bdd4011613bf1586ba2289d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/lava_spring.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/lava_spring.json"
 hash = "eb629ffff3f372ddc91187f6668e38eb89539f8135363ba85bd16a5aa8887c23"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/base.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/base.json"
 hash = "130f051e2f472f66e95bc49bc08d1ffbcd6665907b66fe89ae9b7103117b8c38"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/cap.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/cap.json"
 hash = "88fa9c90ed6bc549282f4646a0df65989bb0c5b3028c63c6829726f1b78a32d1"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/corner.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/corner.json"
 hash = "fa8ed922d7fca06270acb1fb6b1970b1af34e0545fb33c18d4f046f34ac9d95b"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/cross.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/cross.json"
 hash = "ede7e67bb95357731d81ecaddffb83ce2ffd1a3760eca61520445a0e2a9d44e4"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/delay.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/delay.json"
 hash = "642dec2c9331ca72bddcc0fb9bc0475701e82847b7aa60ed36520a7389685230"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/delay_fallback.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/delay_fallback.json"
 hash = "57983ddf2892af3ee40c78d9367b0cb836e2f92f3bb17a0deaaa12029104cb76"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/end.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/end.json"
 hash = "b65764edc98e2cb62e89c5faac038b903c11563e53bd2853b233c79d6a2e617d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/foundation.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/foundation.json"
 hash = "2b56f4c055b6c8b731a1efc9eba1d1ea1b00a0efe63ff0c1c9f9659bba46c31a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/foundation_corner.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/foundation_corner.json"
 hash = "e5323460a01d963c5fc713a9db5f87fb4194ce0b6aa909dda9f18f89a25b0826"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/foundation_cross.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/foundation_cross.json"
 hash = "d505fd7c559d8ad867e1f3c4077f664d14c06b9d985dc2cc3c297a60c47a5ff3"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/full.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/full.json"
 hash = "1fdf8df818f7813b9fea1482854259da8da35ab2b3b8087e69332c136f197dea"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/full_end.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/full_end.json"
 hash = "9e88d09c6311ef58cceaf087da0a9f5ca0554e63cba60bb3b041faf988ba59be"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/thin.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/pillars/thin.json"
 hash = "a870db4b7aced6c6459a72f744a2a527a893a36e9803133daf5a294d013e278d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/bridge.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/bridge.json"
 hash = "2346d7bf80abab9495023e4b0c3e34db4bbcc07a8b0df4b518fd87187826c891"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/branch.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/branch.json"
 hash = "f30362c4186efc2d0325a78c0579f71e7a7cf22bd17774fd896944c79f3e803c"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/connect.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/connect.json"
 hash = "f01cbc1da95a52e916e03869a966a3292d2e948eb7c9a5da5104581dae05c3da"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/end.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/end.json"
 hash = "80a5ab8e16185c72404eeb721da8a5b0ee21e21b541a82b0ec065949c7e4b27a"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/hall.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/hall.json"
 hash = "7929008e0234744de7c76683a0d68ee1ec54e075eaaf4b2c09f3d45224048379"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/main.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/main.json"
 hash = "508fe4edf977055bd401a24079141a286178aaaa41d55e998d532b36dd38578b"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/separate.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/separate.json"
 hash = "42ef6d61e805397d8e1ec7cf8803247863e79e0cc830fa62bcf424d4e4b7bce8"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/stair.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/stair.json"
 hash = "e82a4b853b3c61553bbe3fcc77e5dda12d44a09fb8ee1cfb4750c5ec04396827"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/walk.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/double/walk.json"
 hash = "ae7a019e45c1dca61fe5d09550a14d69e2c3717f44fc4b1cd3b7d16e5959ed30"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/end.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/end.json"
 hash = "649c61d722c0932ff8cb2e563de00a27df467fe3b865d26f9052a428a7c0d392"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/exit.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/exit.json"
 hash = "a05d6ab60d2961396a87d7703a759c403c77f1b4d51ce542dcd6cb19918e8fbe"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/hall.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/hall.json"
 hash = "ea78b38e574ca4564bda665db153a3de34375f2d55a5d56e5cf87e83e5d963bf"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/main.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/main.json"
 hash = "cbcd4beb71a078ecfb14b5bb349962c6a5a036071a13b3a5dc18f78752f16165"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/stairs.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/stairs.json"
 hash = "95fbf7927fe4208652aa726a6733943bd89e58ace9e27cf68e4626bd1744f79f"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/wart.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/rooms/wart.json"
 hash = "840bb313d23106ddc1f731ddaf1b9f70e140df0b5bd070935e425908772c0e9e"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/starts.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/keeb_struc_fortress/worldgen/template_pool/starts.json"
 hash = "6b73808f7520a48af1fa22dd9b8fec4152c5511ce6bf3b2b3c1c69df2599cda1"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/data/minecraft/worldgen/structure/fortress.json"
+file = "datapacks/2 - Vanilla Nether Fortress/data/minecraft/worldgen/structure/fortress.json"
 hash = "582a3441dcb09fac3fa69fdb93871c559c05090f30e46f2d44db8efd3889bc1d"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/pack.mcmeta"
+file = "datapacks/2 - Vanilla Nether Fortress/pack.mcmeta"
 hash = "aae619f5af324ecbb55d156060c5e948c4b9b200f371790f6f6ddcc1b0120853"
 
 [[files]]
-file = "datapacks/12 - Vanilla Nether Fortress/pack.png"
+file = "datapacks/2 - Vanilla Nether Fortress/pack.png"
 hash = "9f80d790af5521952d9f97a3411c8905b3b1a55890abc3c452fdc35b4b83366d"
 
 [[files]]
@@ -40349,172 +40417,172 @@ file = "datapacks/3 - Withering Heights/spyglass.json"
 hash = "d49ed0a1fafe5328c1afaa08b4a8fca2a2a3daf197180b6636ce01c60320651c"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/configured_feature/blackstone_disk.json"
-hash = "0c807f2fed56f248544dc37ce26f8f480ac944b2921d3b40048aaf54c9270b87"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/base_floor.nbt"
+hash = "130a73c7883f9fad6dd2400491c950efd69b39b0f09511e60bdbc7e5caaf1e0c"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/configured_feature/enormous_netherrack_pillar.json"
-hash = "07246d7738fd04969ed5bed74f656088ec81b3dd50d3bd66469ac8abd50e2379"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/base_roof.nbt"
+hash = "caa1255a82f425401496c5c35522af2dcd05bc93870d731ed617aa37f336a587"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/configured_feature/large_ceiling_netherrack_pillar.json"
-hash = "f469e139ae45cd9f3e08ae10286c6767a7210e6b04928ac7e6d3c8c1d85222d9"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/bridge_end.nbt"
+hash = "8dc85308a1fa08246d22a4306a266fac68cd071cdee59cf0d1f8a8d02c6d380e"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/configured_feature/large_netherrack_pillar.json"
-hash = "5f58280d4980f141858b511fbf4e8c7dbbae93ca0be15950dd3154a367798a8c"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/bridge_gentle_stairs.nbt"
+hash = "4a4b52f214cb4a257fcc951cff639ad39d9bdb86b10da2d88b8928fd69685138"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/configured_feature/large_netherrack_pillar_lava.json"
-hash = "1b56c94b220f77ff39b6857c327f52da13342bc6ed644bf662f8772bbbc0133c"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/bridge_piece.nbt"
+hash = "6209f1c975c300799ea2e60013f19ce99042b653481a5f67ffb6ba19847e18cc"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/configured_feature/medium_blackstone_pillar.json"
-hash = "9a7bc0b1f2484ca77024f22adbc79357adcd7170dabd14d0acc6bdee21333e65"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/bridge_steep_stairs.nbt"
+hash = "5d8c2c82c912ed4c7708b67c18a634113cee52a5ea055de9b81117399be8eb52"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/configured_feature/nether_rock.json"
-hash = "8b9a778596ec88c66382db0cdbbbc2e455a2b1dd8237c09a88fde8de4408ff59"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/fat_tower_base.nbt"
+hash = "eadb0634f10552322ce8077194723cbac4a3a88bb8cf60567f79c614919da8fc"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/configured_feature/small_netherrack_pillar.json"
-hash = "bedb76a31e863b448303b75f95818f2be62b2385eb0c1ab405a0c07977dae633"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/fat_tower_middle.nbt"
+hash = "189425c4f9a19b319ad5db71cfeb89403eec3e77cf47d650231b383c3635498b"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/configured_feature/tall_crimson_fungus.json"
-hash = "a8cfe37ecbaa3c20646f68846e6832e7362927276f184d01e61af92dc533c406"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/fat_tower_top.nbt"
+hash = "7cea40cc1b49f4bc9715973d5afa065c607b46940431b0ce3ca96a67fd656548"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/configured_feature/tall_warped_fungus.json"
-hash = "0d1dc42182101905ee45c31243babec520c7a13ccf492a81e53cd6b4e3b525a8"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/second_floor_1.nbt"
+hash = "543a2bf81c4034bb70f40f0b19a3959a13bc3f4adbc16098a34d9e02d223e2a0"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/crimson_forest/rocks.json"
-hash = "4354943120cf19af8651af133a0523de0f465ccc1a4751c06230e54cf900ddab"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/second_floor_2.nbt"
+hash = "37094ad6879ff7f9116246814f9cee0cc3ad132af156a6dc879423129a1613aa"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/crimson_forest/stems.json"
-hash = "c8e05bc44487cddf3c36225ea853801a1601edb8f82d9aa58b856619596cf236"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/second_roof.nbt"
+hash = "145dd9b5a72f6945a63209700c8698d422e88fa30e371316fc4b424ed903e68a"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/crimson_forest/tall_fungi.json"
-hash = "10e6b1f6cc558fb25b3c08420ae871a44f0224bec9c0d9d8d1787c2ced8f59fa"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/ship.nbt"
+hash = "1c9e750df3fd8cf4381ffaa47cb029dd96b636734decd8adec7eaca44f0c85eb"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/crimson_forest/vegetation.json"
-hash = "9c9ba5efbdf4cb4cecb1cd64d2cb9a364ac7a895841441c25169e5d6bb65d0ab"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/third_floor_1.nbt"
+hash = "268d2753c5954a0152179e2abfa7dc3a74649356da3e9b50bfab4b699fcd72cd"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/nether_wastes/blackstone_lakes.json"
-hash = "3a3e79333a4d13b5969988160b9b8b6cb47e9959fa3e2bac3df64845ee8c4689"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/third_floor_2.nbt"
+hash = "de80567410ea9d9024bb90b79888f7a603498b081170087e40d9fa718b8db57c"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/nether_wastes/ceiling_pillars.json"
-hash = "e73f154a3177b841c03d9e82d28d75f79f1ed0501088a7c63b71e35cdfd8ceaa"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/third_roof.nbt"
+hash = "32f9932694cda22d70bb193735a375fc494d51a53280d8ccdcdde0670377874d"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/nether_wastes/fire.json"
-hash = "4bb6fb86f8ae4f28b59c7473c09433925c22ac14347744a006ab801a23afa1f5"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/tower_base.nbt"
+hash = "b56772f7542ff0758d9196a5b4cabddb75778d587fedca93440bcf201711ade2"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/nether_wastes/magma_lakes.json"
-hash = "4078c6c0d332fe28c0abc1a56570a39767448886b66820ee3b0497107cfca93a"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/tower_floor.nbt"
+hash = "fd31747f4eacc41d25b0d27772771063b221bb62d43c2631db062d441ab26c97"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/nether_wastes/netherrack_lakes.json"
-hash = "8ccaca709dc0b9e02a03b0c0e0cdce0902ed5d37814b0381297c8984ada7d1eb"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/tower_piece.nbt"
+hash = "223b69f5ec9ad7327ed1acdbc28d8a6733ea8d1f6d0c6cd07192c9871081b6b1"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/nether_wastes/surface_pillars.json"
-hash = "6c591e9f09d84847ca00bedbec3010a1cb965c595c73f650e31e0b0ee8e96eb7"
+file = "datapacks/4 - Better End Cities/data/minecraft/structure/end_city/tower_top.nbt"
+hash = "b44628492e1db358063bbc13e2425b1d67c36e396c862fc25f8de44bec1a2b33"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/warped_forest/rocks.json"
-hash = "4354943120cf19af8651af133a0523de0f465ccc1a4751c06230e54cf900ddab"
+file = "datapacks/4 - Better End Cities/pack.mcmeta"
+hash = "54c79b08f10614b925e7c2e949162e3b6faf262e9ff8d0a5b0f84ee2ecc8cfa0"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/warped_forest/stems.json"
-hash = "a174966caabee3868386183dfa3f53ead975b8026d4750b8fc9e047ec2ecb534"
+file = "datapacks/4 - Better End Cities/pack.png"
+hash = "8ba58dd1100359845adba82af9bf320e45b88e78e5b99b29e2d511ffc13111f2"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/warped_forest/tall_fungi.json"
-hash = "8d9267f3918bfb478dda1ca9910dabf5e096117ad148f390cdf08251b10e7377"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/admin/uninstall.mcfunction"
+hash = "c8cd90ec4d3b85da531ae0a5c8b58366aaa5580e09498b28db6571ce2431f84a"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/placed_feature/minecraft/warped_forest/vegetation.json"
-hash = "4bacb96883dc66d14d94a24908429022bd2055c6297b1161c0bac478121a03d8"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/dragonmusic_disable.mcfunction"
+hash = "53d577bd49a36512a989262535f4739ec00da969af0c13875fd685e395fa1f17"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/structure/crimson_tower.json"
-hash = "6fe69255fce6c713f9681e61196cb968757c30315cf61146baa7d418ca87b5f3"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/dragonmusic_enable.mcfunction"
+hash = "66cc7a78b85effa4013b17c50870bfa171adfb3e96c30ee1c6f3c346a0fee573"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/structure/netherrack_spiral.json"
-hash = "521245d3ca3cfd6df1244e80064325daf323d4364c74565e9eab1c873919091c"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/enabledisable.mcfunction"
+hash = "9fdccd73c672209e79a609e3e501e3e2349fad3e9d4d5c1f2e4895d247fba9b7"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/structure/warped_tower.json"
-hash = "8ed00f674c9f0cf5f7705dc4381dfef329cb03ef2b3adbe18443b63dc615ba50"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/ender_dragon_check.mcfunction"
+hash = "7ba499bd48c9b3e4bdf66dc2d84ea8d5c11368f1715ccce32191342b8e5de395"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/structure_set/netherrack_spirals.json"
-hash = "1aab948641315bc178f68dbfa1ec9a0bcd310eb43d1085f8a8db857ccbc1c16f"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/ender_dragon_play.mcfunction"
+hash = "3f4a86a81e8c6a6644e16215a77e4b529f2fe4b81bd24c6c58f1a2a708e3d153"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/structure_set/towers.json"
-hash = "420e5335aa5766454ee150595597d5e4f33717f1442addb040a8ea6c5dac186a"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/ender_dragon_stop.mcfunction"
+hash = "643a7043471a5aaf6c9099f969785751bc269d1db9a47e8f5d01df29190ed046"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/template_pool/crimson_tower/base/bottom.json"
-hash = "9a92ba2240e69ce6a98fa8a9a557c18d4666d7418bd44e751a2ca9a7e3ad8d69"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/load.mcfunction"
+hash = "f519089e1b327bedc733581266bca2fda6a2656aa5ab8a101042ebfe1922d958"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/template_pool/crimson_tower/base/top.json"
-hash = "a4afaa39be3a360a0ecb2c52defbf7b69519d1ff2ba58d4a9df021649767eec0"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/loop_per_second.mcfunction"
+hash = "eb19ae8ec59e19d05a7502303764337b7a81da111d28ba57657b089bc3205487"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/template_pool/crimson_tower/interior.json"
-hash = "a90d73960cc551c9fb87c0938e44c04d64d02f17a22d820fd9cb194e8c49e9db"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/wither_check.mcfunction"
+hash = "56d029638dbf40a767c28e34b2ee1fe113f6a7bfae180691f622b02de7e1bb60"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/template_pool/netherrack_spiral/base.json"
-hash = "899c507796d53a33b6d6e4299840d278071fa937c1e81b0858cdebf50e11de7c"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/wither_play.mcfunction"
+hash = "6d44e5e2a2fe50ece084f747820472c1a97aaf570b500e1f2fa98f92662e5477"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/template_pool/netherrack_spiral/top.json"
-hash = "d284d046be78ee4740af4d3d5404b4deb3d45adc92ad6a94451b987f6d0ec8aa"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/wither_stop.mcfunction"
+hash = "8affbe78daee3794c8794c3d35f70ba93e45965b7f93789ae3d9ebc9fb46963a"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/template_pool/warped_tower/base/bottom.json"
-hash = "8ec79b9b0030bcdb8f3e210bacedb7e7c7608066c5b3194db108103cca68f253"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/withermusic_disable.mcfunction"
+hash = "33978861094b4dbcbf640c456fa0392b8abe06f9ead1718c97f1091cd7a9bb89"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/template_pool/warped_tower/base/top.json"
-hash = "72835123e74380fc201c22f22c12c23df2c7ce72cb977322c7a2b198a249bcf0"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/function/withermusic_enable.mcfunction"
+hash = "a7d929a04c89f6f98bb2c819dba0bce24a9887fa7a07dfb4cedfa85e5274e57f"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/hearths/worldgen/template_pool/warped_tower/interior.json"
-hash = "a024610a361fc6e8b9dcf3965ad2859db635aa86322c572cc09722506418c65d"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/predicate/end_island.json"
+hash = "3b85060a8fc84f0894f232e9ec4e5f3c3aa0229c84ca61b46fc5dbc2c22a13a5"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/minecraft/worldgen/biome/crimson_forest.json"
-hash = "05a2fa2b81f3b45058c5ada2a33be78c08a810204141f46c566f06455af35e3d"
+file = "datapacks/5 - Boss Music Edit/data/boss_music_mod/predicate/ender_dragon/stop_music.json"
+hash = "cf1ec410268773c43e3c156a5be3aed2e986a35ec1b166dc33fb272a43185dec"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/minecraft/worldgen/biome/nether_wastes.json"
-hash = "35d21bf426086d95dfdd81482df3cb371d752d31647a7616e5a7a3ef8a585f32"
+file = "datapacks/5 - Boss Music Edit/data/minecraft/tags/function/load.json"
+hash = "6d1b25c935a209f72780d11768ebc233baf7b43173e407846afa68b25cf779d7"
 
 [[files]]
-file = "datapacks/5 - Hearths/data/minecraft/worldgen/biome/warped_forest.json"
-hash = "fd06da94fa8c5bb3f4489d648291acdbc7d0f89b5d3edd5145919611513beeaa"
+file = "datapacks/5 - Boss Music Edit/data/minecraft/tags/functions/load.json"
+hash = "6d1b25c935a209f72780d11768ebc233baf7b43173e407846afa68b25cf779d7"
 
 [[files]]
-file = "datapacks/5 - Hearths/pack.mcmeta"
-hash = "92edb505000a52c216bdc58b919cf1c4b4cf48507b70f0d405d83fba8673fb6c"
+file = "datapacks/5 - Boss Music Edit/pack.mcmeta"
+hash = "c0f578f2fefcfa785bd35e0f916c0e4a3739bbf811c57341d3a91184651ea1c5"
 
 [[files]]
-file = "datapacks/5 - Hearths/pack.png"
-hash = "ced401fd7ce43ae5dd80de95835823c55a1ea7540db66da37798775edf8965c3"
+file = "datapacks/5 - Boss Music Edit/pack.png"
+hash = "72e74a247a38cba3b78fa411c71c40689f46df615c9f3243c91e0536bdb6bcf5"
 
 [[files]]
 file = "datapacks/6 - Daycounter/data/minecraft/tags/function/load.json"
@@ -41733,86 +41801,6 @@ file = "datapacks/7 - True Ending/pack.png"
 hash = "92529771dee24e4653180ded9d2a9a20258a5b02c0b8396ca22ba734de422b37"
 
 [[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/admin/uninstall.mcfunction"
-hash = "c8cd90ec4d3b85da531ae0a5c8b58366aaa5580e09498b28db6571ce2431f84a"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/dragonmusic_disable.mcfunction"
-hash = "53d577bd49a36512a989262535f4739ec00da969af0c13875fd685e395fa1f17"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/dragonmusic_enable.mcfunction"
-hash = "66cc7a78b85effa4013b17c50870bfa171adfb3e96c30ee1c6f3c346a0fee573"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/enabledisable.mcfunction"
-hash = "9fdccd73c672209e79a609e3e501e3e2349fad3e9d4d5c1f2e4895d247fba9b7"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/ender_dragon_check.mcfunction"
-hash = "7ba499bd48c9b3e4bdf66dc2d84ea8d5c11368f1715ccce32191342b8e5de395"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/ender_dragon_play.mcfunction"
-hash = "3f4a86a81e8c6a6644e16215a77e4b529f2fe4b81bd24c6c58f1a2a708e3d153"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/ender_dragon_stop.mcfunction"
-hash = "643a7043471a5aaf6c9099f969785751bc269d1db9a47e8f5d01df29190ed046"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/load.mcfunction"
-hash = "f519089e1b327bedc733581266bca2fda6a2656aa5ab8a101042ebfe1922d958"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/loop_per_second.mcfunction"
-hash = "eb19ae8ec59e19d05a7502303764337b7a81da111d28ba57657b089bc3205487"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/wither_check.mcfunction"
-hash = "56d029638dbf40a767c28e34b2ee1fe113f6a7bfae180691f622b02de7e1bb60"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/wither_play.mcfunction"
-hash = "6d44e5e2a2fe50ece084f747820472c1a97aaf570b500e1f2fa98f92662e5477"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/wither_stop.mcfunction"
-hash = "8affbe78daee3794c8794c3d35f70ba93e45965b7f93789ae3d9ebc9fb46963a"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/withermusic_disable.mcfunction"
-hash = "33978861094b4dbcbf640c456fa0392b8abe06f9ead1718c97f1091cd7a9bb89"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/function/withermusic_enable.mcfunction"
-hash = "a7d929a04c89f6f98bb2c819dba0bce24a9887fa7a07dfb4cedfa85e5274e57f"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/predicate/end_island.json"
-hash = "3b85060a8fc84f0894f232e9ec4e5f3c3aa0229c84ca61b46fc5dbc2c22a13a5"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/boss_music_mod/predicate/ender_dragon/stop_music.json"
-hash = "cf1ec410268773c43e3c156a5be3aed2e986a35ec1b166dc33fb272a43185dec"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/minecraft/tags/function/load.json"
-hash = "6d1b25c935a209f72780d11768ebc233baf7b43173e407846afa68b25cf779d7"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/data/minecraft/tags/functions/load.json"
-hash = "6d1b25c935a209f72780d11768ebc233baf7b43173e407846afa68b25cf779d7"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/pack.mcmeta"
-hash = "c0f578f2fefcfa785bd35e0f916c0e4a3739bbf811c57341d3a91184651ea1c5"
-
-[[files]]
-file = "datapacks/8 - Boss Music Edit/pack.png"
-hash = "72e74a247a38cba3b78fa411c71c40689f46df615c9f3243c91e0536bdb6bcf5"
-
-[[files]]
 file = "figura/avatars/The Knight/avatar.json"
 hash = "4c60e5480aad75930c87901d1626f4ab37eb8671fc376d663349ee079fd4f428"
 
@@ -42085,8 +42073,8 @@ file = "mods/Prism-1.21.1-neoforge-1.0.11.jar"
 hash = "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
 
 [[files]]
-file = "mods/PuzzlesLib-v21.1.56-mc1.21.1-NeoForge.jar"
-hash = "535c853ca57316f73051be2a18a9b3c27e5456fc9c5db098192372744b261931"
+file = "mods/PuzzlesLib-v21.1.59-mc1.21.1-NeoForge.jar"
+hash = "a0cec5aada45c4e8a4ba46cd159f9db8e468bc30a49d8cb45b39b2269447c72f"
 
 [[files]]
 file = "mods/Quark-4.1-482.jar"
@@ -42177,8 +42165,8 @@ file = "mods/allurement-1.21.1-5.0.2.jar"
 hash = "54c08bb3c81b32278a7a95bfdfe7c4260b9c91e48c20bda5723eb23fc47936f0"
 
 [[files]]
-file = "mods/amendments-1.21-2.1.9-neoforge.jar"
-hash = "28647bef2397e69953237e883333f80ca4d3e93feec714eff71c67350c389b9b"
+file = "mods/amendments-1.21-2.1.10-neoforge.jar"
+hash = "a2cbc46342c5f466f3b6e244f8820aa01f9d8381586b2c008b72fb77ae56045e"
 
 [[files]]
 file = "mods/another_furniture-neoforge-4.0.2.jar"
@@ -42269,8 +42257,8 @@ file = "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar"
 hash = "9e230bd509e7aeb3af4c08125db0340734c0179d83483649a16e45c0ea085e8c"
 
 [[files]]
-file = "mods/blueprint-1.21.1-8.1.1.jar"
-hash = "6a60d361d6aaf61273b65036958a646ff05d9ecb22fc706074a7e886e55ec190"
+file = "mods/blueprint-1.21.1-8.2.0.jar"
+hash = "698b2e901e371202a583c1057fa50bb7b2415a359263b37dc8e62d3b73ea8a74"
 
 [[files]]
 file = "mods/bookshelf-neoforge-1.21.1-21.1.81.jar"
@@ -42357,8 +42345,8 @@ file = "mods/cookscollection-0.5.6.jar"
 hash = "4b21ee7a5da5470d0d651e9fd925b347da3346acbc97a4ea6bfd8e2e8a91a9bc"
 
 [[files]]
-file = "mods/coolrain-1.21.1-NeoForge-1.0.1.jar"
-hash = "16601370ae4ff30af749b69d6da2f11079a4c187aba1775568a13f8c03932d3a"
+file = "mods/coolrain-1.21.1-NeoForge-1.0.2.jar"
+hash = "8c2c6070b41509b68a5b32fe0881a9d21393bd737d58aa6b45c7d96e2ae66fec"
 
 [[files]]
 file = "mods/critical_strike-neoforge-1.0.4+1.21.1.jar"
@@ -42593,8 +42581,8 @@ file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
 hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
 
 [[files]]
-file = "mods/lithostitched-1.8.0+beta4-neoforge-21.1.jar"
-hash = "f9bed6228565d69166ac85edbe6159e28674a687562964e5424a8c8a477d20c0"
+file = "mods/lithostitched-1.8.0+beta6-neoforge-21.1.jar"
+hash = "df6ad6f061435fd1795bfe3af627e4cebb25b977b7cbbc088bbad0174109d571"
 
 [[files]]
 file = "mods/lodestone-1.21.1-1.8.2.jar"
@@ -42669,12 +42657,12 @@ file = "mods/modestmagic-neoforge-1.21.1-1.3.3.jar"
 hash = "fd827cc69b234355f5c00957144d5e9bb1bac87a24aaa91dfd41f2c4d78f0922"
 
 [[files]]
-file = "mods/modulation-neoforge-1.21.1-3.3.1.jar"
-hash = "82eb08e9c538f7177e5963e584b0e7bd71a6410481b83bad1256edccd5cb4cb3"
+file = "mods/modulation-neoforge-1.21.1-3.3.2.jar"
+hash = "6a04cb1066dfadb458e5828f228c0fc1d6e60172381b6d8cc6a504f93266469a"
 
 [[files]]
-file = "mods/moonlight-1.21.1-3.6.1-neoforge.jar"
-hash = "db3e2fe22f3432fbd3f61dcb895a0c38644c99621f96bf51421089d7dd801ed5"
+file = "mods/moonlight-1.21.1-3.6.3-neoforge.jar"
+hash = "1b0e1c5ed5774d8e1e80b294e3f63953f962aba74f6df4ea8422d65007c64201"
 
 [[files]]
 file = "mods/mru-1.0.33+1.21.1-neoforge.jar"
@@ -42715,6 +42703,10 @@ hash = "9f09e566b7b33f4b2d2be410eccb1e971c4bc8a0d31e837b5adf5c6b37b2751f"
 [[files]]
 file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
 hash = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
+
+[[files]]
+file = "mods/packdev_toolkit-neoforge-1.21.1-1.3.4.jar"
+hash = "1e683e134631e633b6a6308ad60d55653dd69e061dc7f803585bb1af86d03694"
 
 [[files]]
 file = "mods/paladins-neoforge-3.0.5+1.21.1.jar"
@@ -42805,8 +42797,8 @@ file = "mods/reliable_gliders-neoforge-1.21.1-1.4.1.jar"
 hash = "fc07a9d7c0fa390a943221b98642510e6ad6d73a8ba1cedd39b43f06e3edc660"
 
 [[files]]
-file = "mods/reliable_recipes-neoforge-1.21.1-3.1.7.jar"
-hash = "c8bc59739a4092188cb8e96718c0873cb4d6068acc9d0a2eb3f5acb8604ccb69"
+file = "mods/reliable_recipes-neoforge-1.21.1-3.1.8.jar"
+hash = "942794d210f0c883ee38d46a86dac540649f061a0f166dde3929a3ed97f1cb81"
 
 [[files]]
 file = "mods/reliable_remover-neoforge-1.21.1-2.12.1.jar"
@@ -42997,10 +42989,6 @@ file = "mods/toomanyrecipeviewers-0.9.0+mc.21.1.jar"
 hash = "f9e4ad2912bb67ce5a22aab2d9b07b5babeda476ab9b233bb494782bd7c020fa"
 
 [[files]]
-file = "mods/trains_tweaks-neoforge-1.21.1-1.0.2.jar"
-hash = "1404d495f13f3e63d348bd44b984fed4e0b1c34e85dd45bb2e402e07fb569339"
-
-[[files]]
 file = "mods/treephysics-neoforge-1.21.1-2.4.jar"
 hash = "d53b43e65e4a22070ea630c313284fe4857340b14c182adda8d44bc9946807e7"
 
@@ -43067,6 +43055,38 @@ hash = "36ee58475c46c56e76c199eebe48dc95aacaa1133512617dcc46053339c2fb5d"
 [[files]]
 file = "mods/zipline-neoforge-1.21.1-1.5.1.jar"
 hash = "6cd6f07469f6590973962875c54838dc4ad0c2d9ab31c4cd12f67bb80f2ed56a"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/azalea_bookshelf.png"
+hash = "542ce5a64d560fca04c98b1e9f34d0597e463fb8b163b8219fe09906d9c80e03"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/azalea_bookshelf_alt.png"
+hash = "49d94b2b93a914d5905088166c054c955613b7cffc0bd244704cf340a7b3e650"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/coconut_bookshelf.png"
+hash = "63af9ffbf5681f21e875dbd3275be797d9ae24d7ea781d09b3bc4ac48e88e46a"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/coconut_bookshelf_alt.png"
+hash = "72f03bed5fbc3414cdeae486aa4a20d8717ac1b3fc779609c3eb0b2e224f1a55"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/flowering_azalea_bookshelf.png"
+hash = "61a75b9d4f09a046c6762b382faad65467a9e512e7c6521b7efd9692dc49ff69"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/flowering_azalea_bookshelf_alt.png"
+hash = "61a75b9d4f09a046c6762b382faad65467a9e512e7c6521b7efd9692dc49ff69"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/minecraft/vanilla_woods/pale_oak_bookshelf.png"
+hash = "abf96138e1b2cb42a2d34127fdd32e18648a0892eea17ba993a7a20f95fcb0a9"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/minecraft/vanilla_woods/pale_oak_bookshelf_alt.png"
+hash = "f2b8e693aa21e4803fc0e9e85105b4c9f034400b4b86402fcf1a0c05d4c6f774"
 
 [[files]]
 file = "resourcepacks/Antique_Atlas_4_Compat_v1.4.zip"
