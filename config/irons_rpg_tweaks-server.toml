@@ -1,19 +1,19 @@
 [Damage-Module]
-	#If specified, these entity types or type tags will be blacklisted from skipping i-frames upon dealing damage
-	entityIframeBlacklist = ["minecraft:player"]
 	#Whether a player is allowed to swing if the minimumAttackStrength threshold is not met. Default: true
-	allowNonMinStrengthAttacks = false
-	#In order to prevent spam attacks, a minimum threshold of attack strength can be set before an attack can deal damage. Default: 0.75
-	minimumAttackStrength = 0.85
+	allowNonMinStrengthAttacks = true
 	#The purpose of the damage module is to remove the invulnerability ticks after an entity is damaged to better suit gameplay where entities are going to be ignoring too much damage if left unchecked. Disabling will nullify every feature listed under this module.
 	damageModuleEnabled = true
 	#Invulnerability Tick (I-Frame) count. Default: 0
 	invulnerabilityTickCount = 0
 	#If specified, these damage types will be able to deal damage on the same tick as a mechanism to bypass auto tick detection
 	damageTypeSameTickWhitelist = []
+	#If specified, these entity types or type tags will be blacklisted from skipping i-frames upon dealing damage
+	entityIframeBlacklist = []
 	#Additional handling for player's interactions with reduced i-frames. "ALL" means there is no additional handling, "ONLY_LIVING" means only living attacks ignore player i-frames (may help with unforeseen damage like potions), and "NONE" means player's damage ticks are unaffected by the damage module.
 	#Allowed Values: ALL, ONLY_LIVING, NONE
 	playerDamageMode = "ALL"
+	#In order to prevent spam attacks, a minimum threshold of attack strength can be set before an attack can deal damage. Default: 0.75
+	minimumAttackStrength = 0.75
 	#Global multiplier to all knockback. Default: 1.0
 	globalKnockbackMultiplier = 1.0
 	#Enable Combat Snapshot Inspired Changes (experimental): Attack cooldown no longer affects damage, but instead affects weapon reach
