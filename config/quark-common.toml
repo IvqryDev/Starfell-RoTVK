@@ -332,7 +332,7 @@
 	"Ancient Tomes" = false
 	"Beacon Redirection" = true
 	"Bottled Cloud" = false
-	"Color Runes" = true
+	"Color Runes" = false
 	"Endermosh Music Disc" = false
 	"Parrot Eggs" = false
 	"Pathfinder Maps" = true
@@ -1351,7 +1351,7 @@
 	Shiba = true
 	Stonelings = true
 	Toretoise = true
-	Wraith = true
+	Wraith = false
 
 	[mobs.crabs]
 		"Enable Brewing" = true
