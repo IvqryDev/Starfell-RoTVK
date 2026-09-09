@@ -419,7 +419,9 @@
       "caverns_and_chasms:silver_ingot_from_smelting_silver_ore",
       "caverns_and_chasms:silver_ingot_from_smelting_deepslate_silver_ore",
       "caverns_and_chasms:silver_ingot_from_smelting_soul_silver_ore",
-      "manual_labour:mortar/grinding/sand"
+      "manual_labour:mortar/grinding/sand",
+      "hunters_return:mini_crossbow",
+      "hunters_return:boomerang"
     ]
   }
 ]
