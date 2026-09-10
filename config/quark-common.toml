@@ -612,7 +612,7 @@
 		"Display Baked Enchantments In Tooltip" = false
 		"Italic Tooltip" = false
 		#Enchantments other than Gold's Fortune/Looting to bake into items. Format is "item+enchant@level", such as "minecraft:stick+minecraft:sharpness@10".
-		"Item Enchantments" = []
+		"Item Enchantments" = ["netherexp:shotgun_fist+netherexp:counterforce@1"]
 
 	[tweaks.grab_chickens]
 		"Needs No Helmet" = true
@@ -2009,3 +2009,5 @@
 		"Destroy Lost Items" = true
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
 		"Allow Anyone To Collect" = false
+		#Set this to true to make the totem drop everything when punched once
+		"Drop All Items On Hit" = false

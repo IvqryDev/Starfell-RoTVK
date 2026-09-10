@@ -70,6 +70,9 @@
     "spelunkery:tuff_silver_ore": "oreganized:deepslate_silver_ore",
     "minecraft:anvil": "manual_labour:mortar",
     "minecraft:chipped_anvil": "manual_labour:mortar",
-    "minecraft:damaged_anvil": "manual_labour:mortar"
+    "minecraft:damaged_anvil": "manual_labour:mortar",
+    "netherexp:blotted_netherrack": "netherexp:smooth_netherrack",
+    "netherexp:quartz_crystal": "nomansland:quartzite_cluster",
+    "netherexp:quartz_crystal_block": "nomansland:quartzite"
   }
 }

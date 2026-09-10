@@ -65,7 +65,15 @@
       "everycomp:af/ecologics/coconut_table",
       "everycomp:af/ecologics/coconut_chair",
       "everycomp:af/ecologics/coconut_bench",
-      "everycomp:nml/ecologics/coconut_bookshelf"
+      "everycomp:nml/ecologics/coconut_bookshelf",
+      "everycomp:af/netherexp/claret_chair",
+      "everycomp:af/netherexp/claret_shelf",
+      "everycomp:af/netherexp/claret_table",
+      "everycomp:af/netherexp/claret_bench",
+      "everycomp:af/netherexp/claret_drawer",
+      "everycomp:fd/netherexp/claret_cabinet",
+      "everycomp:nml/netherexp/trimmed_claret_planks",
+      "everycomp:nml/netherexp/claret_bookshelf"
     ]
   }
 }

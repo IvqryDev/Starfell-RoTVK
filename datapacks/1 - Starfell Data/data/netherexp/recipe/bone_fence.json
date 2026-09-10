@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#x#",
+    "#x#"
+  ],
+  "key": {
+    "#": {
+      "item": "netherexp:bone_pike"
+    },
+    "x": {
+      "item": "naturalist:hide"
+    }
+  },
+  "result": {
+    "count": 4,
+    "id": "netherexp:bone_fence"
+  }
+}

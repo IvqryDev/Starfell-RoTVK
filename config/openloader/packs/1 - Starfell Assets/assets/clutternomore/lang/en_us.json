@@ -51,5 +51,8 @@
   "block.clutternomore.pigsteel.vertical_waxed_zombified_cut_pigsteel_slab": "Oxidized Vertical Cut Adamantite Slab",
 
   "block.clutternomore.oreganized.cut_silver_step": "Refined Mythril Step",
-  "block.clutternomore.oreganized.vertical_cut_silver_slab": "Vertical Refined Mythril Slab"
+  "block.clutternomore.oreganized.vertical_cut_silver_slab": "Vertical Refined Mythril Slab",
+
+  "block.clutternomore.netherexp.vertical_rusty_cut_netherite_slab": "Vertical Cut Ashen Steel Slab",
+  "block.clutternomore.netherexp.rusty_cut_netherite_step": "Cut Ashen Steel Step"
 }

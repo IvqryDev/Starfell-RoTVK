@@ -1243,5 +1243,120 @@
       ]
     }
   },
-  "regex_injectors": {}
+  "regex_injectors": {},
+  "fallback": {
+    "rolls_multiplier": 1.0,
+    "tables": "~:chests/",
+    "blacklist": [],
+    "entries": [
+      {
+        "reference": "#rpg_series:loot_reference/tier_1_weapons",
+        "rolls": 0.25,
+        "bonus_rolls": 0.2,
+        "items": [
+          {
+            "id": "spell_engine:spell_scroll",
+            "weight": 1,
+            "spell_bind": {
+              "pool": "spell_engine:treasure",
+              "tier_min": 1,
+              "tier_max": 2,
+              "count_min": 1,
+              "count_max": 1
+            }
+          }
+        ]
+      },
+      {
+        "reference": "#rpg_series:loot_reference/tier_1_armors",
+        "rolls": 0.25,
+        "bonus_rolls": 0.2,
+        "items": [
+          {
+            "id": "spell_engine:spell_scroll",
+            "weight": 1,
+            "spell_bind": {
+              "pool": "spell_engine:treasure",
+              "tier_min": 1,
+              "tier_max": 2,
+              "count_min": 1,
+              "count_max": 1
+            }
+          }
+        ]
+      },
+      {
+        "reference": "#rpg_series:loot_reference/tier_2_weapons",
+        "rolls": 0.25,
+        "bonus_rolls": 0.2,
+        "items": [
+          {
+            "id": "spell_engine:spell_scroll",
+            "weight": 1,
+            "spell_bind": {
+              "pool": "spell_engine:treasure",
+              "tier_min": 2,
+              "tier_max": 3,
+              "count_min": 1,
+              "count_max": 1
+            }
+          }
+        ]
+      },
+      {
+        "reference": "#rpg_series:loot_reference/tier_2_armors",
+        "rolls": 0.25,
+        "bonus_rolls": 0.2,
+        "items": [
+          {
+            "id": "spell_engine:spell_scroll",
+            "weight": 1,
+            "spell_bind": {
+              "pool": "spell_engine:treasure",
+              "tier_min": 2,
+              "tier_max": 3,
+              "count_min": 1,
+              "count_max": 1
+            }
+          }
+        ]
+      },
+      {
+        "reference": "#rpg_series:loot_reference/tier_3_weapons",
+        "rolls": 0.25,
+        "bonus_rolls": 0.2,
+        "items": [
+          {
+            "id": "spell_engine:spell_scroll",
+            "weight": 1,
+            "spell_bind": {
+              "pool": "spell_engine:treasure",
+              "tier_min": 3,
+              "tier_max": 4,
+              "count_min": 1,
+              "count_max": 1
+            }
+          }
+        ]
+      },
+      {
+        "reference": "#rpg_series:loot_reference/tier_3_armors",
+        "rolls": 0.25,
+        "bonus_rolls": 0.2,
+        "items": [
+          {
+            "id": "spell_engine:spell_scroll",
+            "weight": 1,
+            "spell_bind": {
+              "pool": "spell_engine:treasure",
+              "tier_min": 3,
+              "tier_max": 4,
+              "count_min": 1,
+              "count_max": 1
+            }
+          }
+        ]
+      }
+    ]
+  }
 }

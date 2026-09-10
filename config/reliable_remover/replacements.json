@@ -48,5 +48,15 @@
     "action": "remove",
     "items": ["hunters_return:mini_crossbow"],
     "replace_with": "farmersdelight:flint_knife"
+  },
+  {
+    "action": "remove",
+    "items": ["netherexp:hogham"],
+    "replace_with": "farmersdelight:ham"
+  },
+  {
+    "action": "remove",
+    "items": ["netherexp:cooked_hogham"],
+    "replace_with": "farmersdelight:cooked_ham"
   }
 ]

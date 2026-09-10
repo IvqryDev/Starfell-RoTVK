@@ -351,5 +351,6 @@
   "attribute.name.player.block_break_speed": "Mining Speed",
   "attribute.name.player.sneaking_speed": "Stealth Speed",
 
-  "block.minecraft.smithing_table": "Tinkering Station"
+  "block.minecraft.smithing_table": "Tinkering Station",
+  "block.minecraft.shroomlight": "Lightspore Clump"
 }

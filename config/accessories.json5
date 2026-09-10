@@ -62,6 +62,10 @@
 		{
 			"slotType": "spell_book",
 			"amount": 3
+		},
+		{
+			"slotType": "charm",
+			"amount": -1
 		}
 	]
 }

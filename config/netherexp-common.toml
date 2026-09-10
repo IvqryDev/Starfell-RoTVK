@@ -161,35 +161,35 @@
 	#Enchantments can influence the final total of bullets fired
 	# Default: 0.35
 	# Range: 0.0 ~ 1.7976931348623157E308
-	shotgunSelfRecoil = 0.3
+	shotgunSelfRecoil = 1.2
 	#The amount of additional self-recoil gained from hitting a target point-blank
 	# Default: 0.45
 	# Range: 0.0 ~ 1.7976931348623157E308
-	pointBlankSelfRecoilBonus = 0.45
+	pointBlankSelfRecoilBonus = 0.25
 	#How close you need to be to a target in blocks to get a point-blank self recoil bonus
 	# Default: 2.5
 	# Range: 0.0 ~ 1.7976931348623157E308
-	pointBlankSelfRecoilDistance = 2.5
+	pointBlankSelfRecoilDistance = 2.0
 	#The base amount of shotgun pellets fired from a shotgun-fist
 	#Enchantments can influence the final total of bullets fired
 	# Default: 25
 	# Range: > 0
-	shotgunFistBullets = 25
+	shotgunFistBullets = 1
 	#The base amount of ticks the shotgun-fist will go into cooldown upon firing
 	#Enchantments can influence the final total of cooldown
 	# Default: 40
 	# Range: > 0
-	shotgunFistCooldown = 40
+	shotgunFistCooldown = 20
 	#The base amount of shotgun pellets fired from a pump-charge shotgun
 	#Enchantments and pumps can influence the final total of bullets fired
 	# Default: 10
 	# Range: > 0
-	pumpChargeShotgunBullets = 10
+	pumpChargeShotgunBullets = 8
 	#The base amount of ticks the pump-charge shotgun will go into cooldown upon firing
 	#Enchantments can influence the final total of cooldown
 	# Default: 15
 	# Range: > 0
-	pumpChargeShotgunCooldown = 40
+	pumpChargeShotgunCooldown = 5
 	#The number of will o' wisps that can be stored in a single stack
 	# Default: 64
 	# Range: 1 ~ 99
@@ -202,12 +202,12 @@
 	#When a counterforce shotgun is used it'll grant you immunity frames for the specified number of ticks
 	# Default: 20
 	# Range: > 0
-	counterforce_iframes = 20
+	counterforce_iframes = 8
 	#When enabled almost all types of potions can be stacked to 16 like in the combat snapshots
 	stackablePotions = false
 	#Removes the soul speed enchantment from the game, everywhere.
 	#This will not retroactively remove pre-existing items with the enchantment
-	removeSoulSpeedEnchantment = true
+	removeSoulSpeedEnchantment = false
 
 #Entity Settings
 [entitySettings]
@@ -322,7 +322,7 @@
 	#The chance for vessels to unleash apparitions upon death
 	# Default: 0.25
 	# Range: 0.0 ~ 1.0
-	vesselUnleashingOdds = 0.25
+	vesselUnleashingOdds = 0.3
 	#The chance for stampedes to unleash apparitions upon death
 	# Default: 0.5
 	# Range: 0.0 ~ 1.0
@@ -330,7 +330,7 @@
 	#The chance for banshees to unleash apparitions upon death
 	# Default: 0.15
 	# Range: 0.0 ~ 1.0
-	bansheeUnleashingOdds = 0.15
+	bansheeUnleashingOdds = 0.2
 	#Stampedes will shed stridite upon running over any entity
 	# Default: 0.1
 	# Range: 0.0 ~ 1.0
@@ -342,7 +342,7 @@
 	#The maximum number of stridite that can be shed by a stampede
 	# Default: 5
 	# Range: > 0
-	maxStampedeStriditeDrops = 5
+	maxStampedeStriditeDrops = 4
 	#Whether you can use ghast tears to petrify ecto slabs
 	ectoSlabPetrifyWithGhastTear = true
 	#The amount of disturbance needed to shatter a petrified stack
@@ -447,21 +447,21 @@
 	#Maximum stack size for non-petrified ecto slabs
 	# Default: 4
 	# Range: 1 ~ 16
-	ectoSlabMaxStackSize = 4
+	ectoSlabMaxStackSize = 5
 	#How long the ecto slab can stay underground in ticks
 	# Default: 80
 	# Range: > 0
-	ectoSlabMaxDigTime = 80
+	ectoSlabMaxDigTime = 100
 	#The chance for ecto slabs to unleash apparitions upon death
 	# Default: 0.05
 	# Range: 0.0 ~ 1.0
-	ectoSlabUnleashingOdds = 0.05
+	ectoSlabUnleashingOdds = 0.1
 	#Magma Cube textures will scale with the model and conform to pixel consistency
 	pixelConsistentMagmaCubes = true
 	#The chance for a stampede to be befriended when fed favorite foods; higher numbers make befriending harder
 	# Default: 8
 	# Range: > 0
-	stampedeBefriendingOdds = 8
+	stampedeBefriendingOdds = 0
 
 #World Settings
 [worldSettings]
@@ -510,7 +510,7 @@
 		#Generates soul swirls in the soul sand valley floor and ceiling
 		soulSwirls = true
 		#Generates blotted netherrack patches all throughout the nether
-		blottedNetherrack = true
+		blottedNetherrack = false
 		#Generates siltmarram on silt beaches and coves with a different variant based on the biome's moisture
 		siltmarram = true
 		#Generates large netherrack speleothem all throughout the nether
@@ -669,9 +669,9 @@
 	#Removes the ripple effect from soul glass entirely and leaves just the frosted glass effect for people who find the distortion uneasy
 	noSoulGlassRipple = false
 	#Improves the brewing stand's particles
-	improvedBrewingStandParticles = true
+	improvedBrewingStandParticles = false
 	#Adds a particle effect around the player after drinking from a potion or antidote similar to Minecraft Dungeons
-	potionConsumptionParticles = true
+	potionConsumptionParticles = false
 	#Improves the nether portal's particles
 	improvedNetherPortalParticles = true
 	#Gives every nether biome a custom lightmap that compliments its environment
@@ -685,7 +685,7 @@
 	#Cierge of Treachery will produce red haze and sparkle particles
 	ciergeOfTreacheryParticles = true
 	#Replaces all flame particles with animated ones from Minecraft: Dungeons
-	dungeonsFlameParticles = true
+	dungeonsFlameParticles = false
 	#Replaces the ugly fire texture when mobs are burning with particles based on Minecraft: Dungeons
 	improvedBurnParticles = true
 	#Mobs on fire will pulse a glow corresponding to the fire type they are on
@@ -696,7 +696,7 @@
 	#Ectoplasm will slowly start to deal freezing damage when submerged
 	ectoplasmFreezes = true
 	#Ectoplasm will rust all netherite upon contact
-	ectoplasmRustsNetherite = true
+	ectoplasmRustsNetherite = false
 	#Silver weapons will deal multiplied damage to possessed and ghost mobs
 	# Default: 1.8
 	# Range: 4.9E-324 ~ 1.7976931348623157E308
@@ -708,4 +708,4 @@
 	#Silver armor and weapons will inflict possessed and ghost mobs with slowness
 	silverInflictsParanormalSlowness = true
 	#Pretty self-explanatory; When running beta builds of JNE, a pop-up will appear on screen warning you upon joining worlds
-	showBetaWarningPopUp = true
+	showBetaWarningPopUp = false
