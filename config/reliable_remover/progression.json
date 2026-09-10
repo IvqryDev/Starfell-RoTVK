@@ -79,7 +79,7 @@
       "minecraft:efficiency",
       "minecraft:quick_charge",
       "minecraft:lure",
-      "minecraft:soul_speed",
+      "minecraft:soul_speed"
     ],
     "advancements": ["starfell:those_before_you"]
   },
