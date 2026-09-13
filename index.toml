@@ -30,7 +30,11 @@ hash = "0ad76b302372166644662d1e706b2413e88ac5cbde2b886fa63b0dfc6538ce0a"
 
 [[files]]
 file = "config/accessories.json5"
-hash = "a6b029550d643fb6f73e4a53d10abb6506fd2025f8abe592e0110e9caa71698d"
+hash = "5018cbf13845883fdd4e3913897c85a34d31ec9283b9b573bf2eaed4fcd0341b"
+
+[[files]]
+file = "config/accessories_compat.json5"
+hash = "f121e63f366d1aaa0f2a7bbe030d9f9e5473aeaa72eb2898493fd0292703f233"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
@@ -182,7 +186,7 @@ hash = "77ed029caba2ca132c3f96ece3ca5647600613afa91717d7ceb3733ca8e23634"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "9dd067eaed1950f78bd890f8c578044ed0b0394f1c52d4d2cd8fa91754a2f5e9"
+hash = "d06fa1867c066b5bfbb668e85cd527b3b4cb099221bb59539c3d23efc3de37c7"
 
 [[files]]
 file = "config/betterdays-client.toml"
@@ -278,7 +282,7 @@ hash = "bbeab6c1ad130780272561d91b767919b12e00254347692279b16757d32ac6c4"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "ecdd502de415cbd467fa281ec0c8e4a028adc3e81805343fcacafa0396b60908"
+hash = "0633ccd994e12f881772d6a80d0c5c3772e71d4078bddac1cbfd59d54d63be34"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
@@ -557,6 +561,18 @@ file = "config/cullleaves.json"
 hash = "5cc86b31860112641a33efc4fd088c6caafda0d85c91ea4d41ffa9ed62e96f64"
 
 [[files]]
+file = "config/curios-client.toml"
+hash = "d1cc43a945b115ab9e471db5cc30ce55794e99390b996ca4bb8abbd4a8c321cd"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "3c34cf9f7918c6a9ec15b14a87aa4570a751c1688f8ac01cb2e9acfb9392a734"
+
+[[files]]
 file = "config/cutthrough-client.toml"
 hash = "16bc1f998738810cae793b1dc272122dde8b246bffa408f227357803e16ba692"
 
@@ -610,7 +626,7 @@ hash = "cfca6912a1b9aae544acf579acd636742a13ae6725ec559449aff5a203be3467"
 
 [[files]]
 file = "config/durabilitytooltip-common.toml"
-hash = "903630b0d1c7c21d688404d315904672dac17fbea06383d3f23b9e7ab57df516"
+hash = "3c93f216dbabd40e0b3e24b4459bd31c6425ba3988a23182eaa5fec432a2628f"
 
 [[files]]
 file = "config/easybuilding-client.toml"
@@ -982,7 +998,7 @@ hash = "1430e804a192df4287dc057761ebdbc03f86953dcf0a5f643c069c05813de8fb"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "b5c94b279ededa420b8fa643f5c5e12197176b3633075627d6f7fabfe10e657f"
+hash = "4b79e5364368fb693b40e00f7b50f2a0bc1fae9342296664ba436ec28b4c122c"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -990,7 +1006,7 @@ hash = "690479feb778b02366b4def6f58586dca088b9472065a0a9d373101d66698ccd"
 
 [[files]]
 file = "config/experience_obliterator.json"
-hash = "b4019c10d8ce3af89170e4c8d423e382922f4588b2e0cbcf5a871fb6eff2e163"
+hash = "4cfd30a529ec07192cee4bc205fbe5c9fd891c9a70995836eddf3b5ed6572944"
 
 [[files]]
 file = "config/explosiveenhancement.toml"
@@ -1230,31 +1246,31 @@ hash = "124a9d6b09323a41b472e3894c55eeacddee6eaa63e2a0492b9dfda03055261d"
 
 [[files]]
 file = "config/featurify.json"
+hash = "59876eb106438e5a71175b4349551e55c80c336344de5557a95717d38dae05c6"
+
+[[files]]
+file = "config/featurify/featurify_backup_2026-09-13_13-49-28.json"
 hash = "0c1e8f513d4b84f544fb793ac184b4e4d5749d18c207a8d1a784d3c9cbd718f2"
 
 [[files]]
-file = "config/featurify/featurify_backup_2026-07-29_16-56-21.json"
-hash = "e62eff7d1122866a75721f24983cc430e23c5ea891052ad99fc66a6ce7251dd5"
+file = "config/featurify/featurify_backup_2026-09-13_13-50-16.json"
+hash = "bf7c18bab8d2eef5751d26423ec9ce8ed817a4cbac1c18c68b08a4741e72ae15"
 
 [[files]]
-file = "config/featurify/featurify_backup_2026-07-30_04-20-56.json"
-hash = "32da9bfd875c0a0c3693b364340218d791550b7cbecab2276c011b769f828823"
+file = "config/featurify/featurify_backup_2026-09-13_13-50-36.json"
+hash = "61129c347677c921db5c43e333e1549429c46a0e4dda24e9e6cf50227fc05565"
 
 [[files]]
-file = "config/featurify/featurify_backup_2026-07-30_05-08-59.json"
-hash = "a3cb6f40372bbf76e12fdeff7d4285d76b73783babc37aacfe13619bc3f4ae49"
+file = "config/featurify/featurify_backup_2026-09-13_13-51-31.json"
+hash = "44fd806edf659d07470c169957f2387ae6d0f018ba10e842c91a031f355091b8"
 
 [[files]]
-file = "config/featurify/featurify_backup_2026-08-11_22-29-09.json"
-hash = "41de9d5d5623afea2d74f3f8dcddb8a7dcaac270d816bace2bb4e3e90af21b63"
-
-[[files]]
-file = "config/featurify/featurify_backup_2026-09-03_16-24-07.json"
-hash = "37d6317bf7ca4a84b52a1171d14908cd69f4f54d720788d35d9ac17c76af6bc6"
+file = "config/featurify/featurify_backup_2026-09-13_13-52-44.json"
+hash = "9b966dd93361db9fe6dc0f919685f5b1ff0db557c3cce68b037b501098fc46dd"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
-hash = "19fb61e7f13abbaa2a3054976d40ce314f5826f5c8f7fd279417a0244bad45b3"
+hash = "b6c85cb392f799ed932ffe8d6051f48a283a0df3f8674acf4f8d89341836e686"
 
 [[files]]
 file = "config/figura.json"
@@ -1278,7 +1294,7 @@ hash = "9a8019a2819cf8f27a30c0788b458ed7e9b6d749faea23d8feafa0424c4bb568"
 
 [[files]]
 file = "config/fml.toml"
-hash = "a8240a02c5e24d4c63e1113255955b104e82659568f78a099380fe58a396cdc9"
+hash = "0ea1cd797a20ca1a3ec539b70beda16b65d1cba02977cae2e2380876da8c17fe"
 
 [[files]]
 file = "config/fog/config.json"
@@ -1406,7 +1422,7 @@ hash = "5986efada30e7f010293f88598f1d36c6011fc270172fdae52c69c91f34ef34b"
 
 [[files]]
 file = "config/immersive-hotbar.json5"
-hash = "3c2a912f72b74e2fac5adde2b5ca9a943914a75fab67e558679c7c28c8bb9b72"
+hash = "0890b8d028120b2db33d63e5004f0d278256bd9bbb8deab7bce06770a2843d76"
 
 [[files]]
 file = "config/immersiveoverlays.json"
@@ -1477,8 +1493,12 @@ file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
+file = "config/irons_jewelry-server.toml"
+hash = "6b03f588d0bee8356f40f9c8c92be34fb67f0f307df7cd9ffbb527ed22d86e38"
+
+[[files]]
 file = "config/irons_rpg_tweaks-server.toml"
-hash = "6555c2e2b15c572aa451a46bf80a0910f95f5be9e2c340feb4b502100caea9b9"
+hash = "c56aeae0064f121c2103f31ed2d6747b68aa159ffa3081dc3489c996bd0b4fcb"
 
 [[files]]
 file = "config/item_descriptions.toml"
@@ -1582,7 +1602,7 @@ hash = "31cf4681ae12e6c0d3842912f2dbd38e146124bfae5a287b322825f5070df2b0"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "84798d779472e28708e0785676b6738e823fb90a1b56483a7a92b833c5c881ae"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "config/lithostitched.json"
@@ -1638,7 +1658,7 @@ hash = "cbd78c279e725045596be0de7132bed98920aa044528439d18e37091d324b077"
 
 [[files]]
 file = "config/modernfix-common.toml"
-hash = "ee24e2b1bc100942a1c605f996255742cd6a5bb3662877aa906bc301100ccf27"
+hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -1658,7 +1678,7 @@ hash = "4cfdaa767d242dd192b708a1377c839f6b8d9c05324a2707dfb114c70ccee749"
 
 [[files]]
 file = "config/modulation.json"
-hash = "002a6ae968b4fc289e9a6526e2f52fc83c91becdec8d494de7ad47c888f03932"
+hash = "39a3def4aba38df2be7e688586693bacc7b271940f7a07fc2a48ab2271cd8ef5"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -1706,7 +1726,7 @@ hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 
 [[files]]
 file = "config/netherexp-common.toml"
-hash = "64f731b01d075a59876f1a5d9a90d4d0f93084b0c597a043508b78ef90f92921"
+hash = "5e5e2a7dfca020efd019d9a845855a6381d1d3d3add6ac148019327119570b1f"
 
 [[files]]
 file = "config/netherexp-startup.toml"
@@ -1806,7 +1826,7 @@ hash = "49dec1eb913a3f63adf9d834c9515b824cf697752b80ffcfc36807eec9a7ac8b"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/accessories/lang/en_us.json"
-hash = "032cc775df58cfa909e5c0adec079a1e1de1fad20bfc398f1f2943e0144fcf56"
+hash = "c5ffdeae836a932b36eb11d710a35bf5ec345fbf866d1b65ae21802c8db1fa43"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/alloyed/blockstates/forge.json"
@@ -2178,7 +2198,7 @@ hash = "dcd30d3b433da79860121caf5c0284f3d0bbd2cae10ba22bd9a3b264204aae6c"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/clutternomore/lang/en_us.json"
-hash = "cbf84db6ef5bc0455e696bee801c8df676c758b28c3f0a3b8a78a94fca575a79"
+hash = "deeb76fd6ec8ccd07c923bd9bd04fca4d1fd7f402aa8d0e57de8d895de9b86df"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/combat_roll/lang/en_us.json"
@@ -2253,6 +2273,14 @@ file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/bloc
 hash = "948b52d5a1120cdab6149958e3f22fb1a8716768c1feecb7b219be519a4bca14"
 
 [[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/block/nml/netherexp/vanilla_woods/claret_bookshelf.json"
+hash = "cfe22426dabe3f086a67dbec12b970b845ca2d232d291012d545c174e8e8c47f"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/models/block/nml/netherexp/vanilla_woods/claret_bookshelf_alt.json"
+hash = "f800000137185f73453433d01a2af5876db81c6e2ab087377e712385a0b77251"
+
+[[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/azalea_bookshelf.png"
 hash = "542ce5a64d560fca04c98b1e9f34d0597e463fb8b163b8219fe09906d9c80e03"
 
@@ -2283,6 +2311,14 @@ hash = "abf96138e1b2cb42a2d34127fdd32e18648a0892eea17ba993a7a20f95fcb0a9"
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/minecraft/vanilla_woods/pale_oak_bookshelf_alt.png"
 hash = "f2b8e693aa21e4803fc0e9e85105b4c9f034400b4b86402fcf1a0c05d4c6f774"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/netherexp/vanilla_woods/claret_bookshelf.png"
+hash = "6448e8a9f0816d3552b2b4a01631adddec96996abda681abae0412ec8c0274d7"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/everycomp/textures/block/nml/netherexp/vanilla_woods/claret_bookshelf_alt.png"
+hash = "aed6a4ae48bf2cf206f48addecc0754f0c1d3ee7591fa70c39045e4ea1b78ad6"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/explorerscompass/lang/en_us.json"
@@ -2502,11 +2538,27 @@ hash = "4892c95d4485b931b44b20233a46d987844d280eed3e3f09a751e47d3c05af6f"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/heart_crystals/lang/en_us.json"
-hash = "b859c576f3cc54a5df51c55f68ba27e8a73976fa8539bef2348d0edfb00e1794"
+hash = "250659868313fde7545065b4ce2d29c9f55e38da7c2b47628c0c78bc339ee0ca"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/heart_crystals/models/block/heart_lantern.json"
 hash = "25a5b158c144c9c6a0f20b0e4f7c96151ab44c144f582fb65b299807ed525bf4"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/heart_crystals/textures/block/heart_crystal.png"
+hash = "5a10f091f63253952b8156c24dce7e56ba696d23fe1729a5d018e96444f80586"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/heart_crystals/textures/block/heart_crystal_shard.png"
+hash = "5709b051e74b9edbd78345933afd4aa15a3106f554bea050638610807c32a634"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/heart_crystals/textures/item/heart_crystal.png"
+hash = "c1ea56d4d61c8ea972f85c747fe6fbe8c5528cac32d67d3397d998f82024b1a7"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/heart_crystals/textures/item/heart_crystal_shard.png"
+hash = "b1e2c92edb44e2718135ae9cdcefb9e43edd9bb4212be3cedb2654c871ca02ed"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/hominid/lang/en_us.json"
@@ -2517,8 +2569,44 @@ file = "config/openloader/packs/1 - Starfell Assets/assets/hominid/textures/item
 hash = "830920423ba1c46c1e1439a29e6235c1869052595eac00dd2ac47cdb0b10a526"
 
 [[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/irons_jewelry/textures/item/garnet.png"
+hash = "af988318e498ee3a315b51d39900aaf90aa24575b182f252575dca89b921253b"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/irons_jewelry/textures/item/jewelcrafting_guide.png"
+hash = "d821e1dfb713ee1b13de76dcc8e667e1044cfdc4fc8a8e319f9d5c4e8919aa46"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/irons_jewelry/textures/item/moonstone.png"
+hash = "f21b2377dd2c4bc60902386a0ace0d51ba2ecf9fc37af4510d0ed4d993b02763"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/irons_jewelry/textures/item/onyx.png"
+hash = "a96557a7d726c1fe58bd89429d6799d141e9dd0b4c2a712d77d165493acf1ed2"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/irons_jewelry/textures/item/peridot.png"
+hash = "9435b7b8f1082f2fd66ca48e2fa0c6b19c8f8e7fd8b0d44187bf626198b418cb"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/irons_jewelry/textures/item/recipe.png"
+hash = "acaf0af975f47975bf4f803571e2fea4d2ba4c5d6cba23d8fbe718fc20b050a3"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/irons_jewelry/textures/item/ruby.png"
+hash = "2eb91a94f5c958092ec8540c8c04887f490fbcd318564fde20567c90a3ad4087"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/irons_jewelry/textures/item/sapphire.png"
+hash = "9d913691ebeb52bda35a000ae4ada608f240b581c670978a3a907fe43b7e633b"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/irons_jewelry/textures/item/topaz.png"
+hash = "2462fbf964d7f6489b3bdaec69ccd25ca9ff9c9ea51eab4481f74f93e368fd18"
+
+[[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/jewelry/lang/en_us.json"
-hash = "908bf4e58fe3b6a94520a86c9cc7cf8022776c59f95256a239ffa89ddfb54297"
+hash = "28666208dd6d5ce303af9934bd48ed21ce669415418982c1886eb8d2528717d1"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/jewelry/textures/block/deepslate_gem_vein_end.png"
@@ -2734,7 +2822,7 @@ hash = "09176b8317a0daaf76f9d333232e5382285620885b0c0ee8192e788da4d4ae99"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/lang/en_us.json"
-hash = "3f3aca1280bf2b2674c8d660d20f4fc66c2028e7f56a215196250cf2eb1a3972"
+hash = "5a36500efac7e67514252e4c4e8ce8b464b48de5d301eef60259db3efbdf2bc8"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/models/block/anvil.json"
@@ -8650,7 +8738,7 @@ hash = "e97e8e8027c0553bbba43d9b88ebc493b38910add52e3e05c59281494c9e8be7"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/textures/item/iron_ingot.png"
-hash = "c7d6115b06e02c09387c17ca60179a3c9e5a0f5cd49aa79285e2aaef148aa023"
+hash = "ea9e53dd83f3bc1c49e54a2eee6344232e19eb167a2c997b24d4380ff62e7ec2"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/minecraft/textures/item/iron_nugget.png"
@@ -11654,7 +11742,31 @@ hash = "093ef7206d616e257bb0941c37598d562f0cd5b0afb488262b2ed335c8501511"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/netherexp/lang/en_us.json"
-hash = "a5581602a539a1d84a383abdfaa752f3d54f1c0b49c05c4022f538fefcb55f7a"
+hash = "d44dddd02aa962bf7aa93b64bed2a46242804fc48b01c0231aa812a407dd7e24"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/netherexp/textures/block/rusty_cut_netherite_block.png"
+hash = "f48d26c32bf8dadbb3549aab60afd79eedbc216c47f521da915f82cc13db872d"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/netherexp/textures/block/rusty_cut_netherite_pillar.png"
+hash = "a5ca06606929eee84506818acd96e923b356a08eb3cede8d104dacc467c3873c"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/netherexp/textures/block/rusty_cut_netherite_pillar_top.png"
+hash = "704468b0f7daca33460af26e7dbbf3e3849c712bcfca6b42054f0538c817b005"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/netherexp/textures/block/rusty_netherite_bar.png"
+hash = "d50174955edd7750d50be01c1075aa1b72f935d8c7ec68295e015d8b44732591"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/netherexp/textures/block/rusty_netherite_grate.png"
+hash = "741fae7617c8900429aec5364a97f2a9ea3fb10b8f7ad03a0ea65a3a692346a1"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/netherexp/textures/block/rusty_netherite_plated_block.png"
+hash = "d20ddf26a86b7f23fc6dfb62c182578b1e94bab62bef91bf42071f04594ddd34"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/newworld/lang/en_us.json"
@@ -12125,12 +12237,120 @@ file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/This Folder 
 hash = "768632bde38e8ece2e641342192c753245ea5c42a8bb80ca812149defae7f5d9"
 
 [[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/lang/en_us.json"
+hash = "5a70c237f69f353b3ab7ae68062451a6a084aeb427a05cfe3dd74c2a925d5349"
+
+[[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/stack_groups/bookshelves.json"
 hash = "bcae88103c2f1ce44289f88c55a61de8a1c7bf480b6825b193799bf01cb11181"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/stack_groups/cabinets.json"
 hash = "80a3b64dc900beb540f0242fb6752b17acfc16e74083c105ec8ba55008906ecc"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/anima_quartz.png"
+hash = "db0a3a87a92cb36394d10eff33e5c6d5c55cd75994050ef1868622064ba1a5d1"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/ashen.png"
+hash = "2fb2fe6ab7081442a201609dd00fba78126598cda6bfc9051bf6730d5f6c6d5f"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/beskelt.png"
+hash = "d5367916fb6211535acd607bf4799643ea6b8719dca65763df323add202d4d73"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/citrine.png"
+hash = "2b7846c4dd52a1ee6c1adc314c006106f9c75f86bb99172d2788d0f230aa17e1"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/copper.png"
+hash = "115cfea93aebb409fec4e37e47624563cb3ac6b35d2f32f4e98dad652d717977"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/gold.png"
+hash = "d9f174a1474509e3ea1ef97c55eaadbac7ddf4a54b0a24344022ae76bc9b4440"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/iron.png"
+hash = "65297c90b21380d8eb7b31293f30d3c71107e81eaf78e246c93e8ed81b101abf"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/jade.png"
+hash = "f9633a1a8b374f2f6f0797f2ab7dd589776a69f42bb922535d401381252c5c49"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/mythril.png"
+hash = "1b0ab6d4fd39b22b58e8bb939d6f4686a87a07cf43b14f5230b814ad03eeb206"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/ruby.png"
+hash = "4077116c5228d160195e28d14be82654baf22274314f6c0f76122efba56edd9c"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/sapphire.png"
+hash = "6d1e54f142899d73afd3dd142f8f6820e243cc80cce3ef9c1f1a7930d62d0032"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/silver.png"
+hash = "fe4b4163f725991f96930aaa9c23d98735e66f1e7bb8d1fc5d8843c7a7bb462e"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/tanzanite.png"
+hash = "a9e94a26e9b1b92213d30fbc3cfb00f9e8e86ff5182fd29add9b538168263b9f"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/palettes/topaz.png"
+hash = "83291eb814b0130a53d961b3a2d2e683bce84608ad175b1f44d33f4c78b1bcba"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/necklace/major_necklace_base.png"
+hash = "4c351c172428e049b1f8bd79a5a87ed78c183ebb64df3d7857056b3927fafd24"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/necklace/major_necklace_gem.png"
+hash = "6a6c94f431d111eb6a594ee2e1a775f4235019cc8f85243e77e581814c35bb73"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/necklace/minor_necklace_base.png"
+hash = "bf1a3eb21374d6a5d614ba71cc81f2833ae85a734e62c8041becc9aff7bdd41a"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/necklace/minor_necklace_gem.png"
+hash = "0aa43130245577d3576c5ad321b0ddb57c96d6fcff29945d846af0ad4e242d4a"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/necklace/standard_necklace_base.png"
+hash = "4fdc394b50c779a34ca060dd49c52443c834ba54aa9d07a67659edaa5d004340"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/necklace/standard_necklace_gem.png"
+hash = "b8888241be016e05fd34f2d31e80a8c6ac96f5eca719299e8db3d464f29c4843"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/ring/major_ring_base.png"
+hash = "b1a1c23371357137a86f8571b921719fe30f57fd215f0a01820d5beac61dddfd"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/ring/major_ring_gem.png"
+hash = "d29b6e04c9c28d5c00d68f696eb9a4909b5ea3ece83b7deb77c0c8788de4efe8"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/ring/minor_ring_base.png"
+hash = "97876049d05845bee549658e5139bbad8bdf4c8dd199e783b7f0f5dbba3dae77"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/ring/minor_ring_gem.png"
+hash = "83b19e299c8d7da503d4f04fafd4566ea4cc7919964914a29c6c464146ec06c8"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/ring/standard_ring_base.png"
+hash = "47bb8274abb57802cf927925e9bcd7c4d3b0c36568e1a6b59f7450311ebe88ec"
+
+[[files]]
+file = "config/openloader/packs/1 - Starfell Assets/assets/starfell/textures/talismans/ring/standard_ring_gem.png"
+hash = "6a8cc6f93870ba52d7690d9ec28ec774b267ddc490013cfbaff46526ef064e93"
 
 [[files]]
 file = "config/openloader/packs/1 - Starfell Assets/assets/supplementaries/lang/en_gb.json"
@@ -13125,6 +13345,10 @@ file = "config/openloader/packs/11 - Fantasy Ores/assets/caverns_and_chasms/mode
 hash = "acf87439d97dde3d05776a11b1f9cce3365af9b141e1299a581cac0696975889"
 
 [[files]]
+file = "config/openloader/packs/11 - Fantasy Ores/assets/jewelry/models/block/deepslate_gem_vein.json"
+hash = "c3e3ad936927cf828a693f59f97c024b17a73505fa023a3f8ef6f34fd7134edc"
+
+[[files]]
 file = "config/openloader/packs/11 - Fantasy Ores/assets/minecraft/models/block/ancient_debris.json"
 hash = "c9d3c5eb95e8db6d214215949bcf97ac6e2d9d4f42b85d6fd03a4072d4134c01"
 
@@ -13203,6 +13427,10 @@ hash = "40e275eae90742c096a533da6baafe8d53dedefc2c50bcb0901e2cc34254fa6e"
 [[files]]
 file = "config/openloader/packs/11 - Fantasy Ores/assets/minecraft/models/block/redstone_ore.json"
 hash = "6f140e4749ec7e6bb02770651d4d602099b934114578a210ed8c7639df11212d"
+
+[[files]]
+file = "config/openloader/packs/11 - Fantasy Ores/assets/minecraft/models/block/template/custom_gemstone.json"
+hash = "37b9378b9f5d6c020cc74ea2c8ec6eaee512c45dcf19d230208b49a0d26b693b"
 
 [[files]]
 file = "config/openloader/packs/11 - Fantasy Ores/assets/minecraft/models/block/template/zk_block.json"
@@ -13363,6 +13591,10 @@ hash = "90c93ee50d0b0561f9162895b7673e722bfd6e4c2411aced65a06f1b38445045"
 [[files]]
 file = "config/openloader/packs/11 - Fantasy Ores/assets/minecraft/textures/block/fantasy_ores/emerald_ore.png"
 hash = "03f617e724eac1fcfe086c2525af91c71b7dd351f51bbf023e59777f1ffe6d13"
+
+[[files]]
+file = "config/openloader/packs/11 - Fantasy Ores/assets/minecraft/textures/block/fantasy_ores/gemstone.png"
+hash = "62563ae921f26ea1546dda2fa31cf64dbdb740e72c89a0caea885232153c186a"
 
 [[files]]
 file = "config/openloader/packs/11 - Fantasy Ores/assets/minecraft/textures/block/fantasy_ores/gilded_gold_ore.png"
@@ -16881,6 +17113,34 @@ file = "config/openloader/packs/21 - Bagel's Texture Tweaks/assets/minecraft/tex
 hash = "397bc61ce0c783ccc5d01ffa1f9bfcbfaa5ee83b451194902d61a504930fe0cd"
 
 [[files]]
+file = "config/openloader/packs/21 - Bagel's Texture Tweaks/assets/netherexp/models/block/treacherous_hanging_lantern.json"
+hash = "594f652c777c6c8e594d458475cdccfae5ca4959df6784d7e882f55612e52303"
+
+[[files]]
+file = "config/openloader/packs/21 - Bagel's Texture Tweaks/assets/netherexp/models/block/treacherous_lantern.json"
+hash = "09dafe94ce1774ccbe6efb9cea9a6b34ccb21531255d602390be0277e50e5410"
+
+[[files]]
+file = "config/openloader/packs/21 - Bagel's Texture Tweaks/assets/netherexp/models/item/treacherous_torch.json"
+hash = "99491d656a921d2683f4d3d7acb83435c348a2503a8ef61919b8d8d6bf01b013"
+
+[[files]]
+file = "config/openloader/packs/21 - Bagel's Texture Tweaks/assets/netherexp/textures/block/treacherous_lantern.png"
+hash = "794069eba0dffe246f3f1134dc2f223f6b8087d7181343838c552c40643df2ab"
+
+[[files]]
+file = "config/openloader/packs/21 - Bagel's Texture Tweaks/assets/netherexp/textures/block/treacherous_lantern.png.mcmeta"
+hash = "185af7da4feef57ba069ee673910c9e6a6611914ae96432a4a8f54fab9b602e3"
+
+[[files]]
+file = "config/openloader/packs/21 - Bagel's Texture Tweaks/assets/netherexp/textures/item/treacherous_lantern.png"
+hash = "7b6b1e38e0b1516218f10fd90bdcb82c03abe8c95e67c8277543730c0d33f92b"
+
+[[files]]
+file = "config/openloader/packs/21 - Bagel's Texture Tweaks/assets/netherexp/textures/item/treacherous_torch.png"
+hash = "7e191dad5c9832ae552fe82ba517397ec132e63002a01444ef175237beff8f16"
+
+[[files]]
 file = "config/openloader/packs/21 - Bagel's Texture Tweaks/assets/nomansland/models/item/sconce_soul_torch.json"
 hash = "4d12d31436231249537ffd2a598c41e5831b27227caab41de995817891a5c121"
 
@@ -17915,6 +18175,10 @@ hash = "33915d1c18ceac6172a31122fa79e0c56cb72eb534dd648bddb8f91c7e4f102e"
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/mixed_litter/textures/entity/squid.png"
 hash = "f91d60dfe23ac6ac1be1876a8cc518f16221de06e9d05f9af5481269797bba50"
+
+[[files]]
+file = "config/openloader/packs/22 - Brush & Juice/assets/netherexp/textures/block/treacherous_torch.png"
+hash = "2dd94d4a27b99914522915a690b6fc4e84dec77672b91524321ce64d197ff350"
 
 [[files]]
 file = "config/openloader/packs/22 - Brush & Juice/assets/nomansland/textures/block/extinguished_soul_torch.png"
@@ -20041,16 +20305,8 @@ file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gu
 hash = "6a2bcbf3be376bf9af627edc0e9f8c56c6f4d296393c2e77c287b781b60d3e9a"
 
 [[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/accessories_panel.png"
-hash = "14e2e855520e2f7230143c9742c078d5d6a7b4619ac756383b830452c87b29d9"
-
-[[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/container/accessories_inventory.png"
 hash = "852690e39c15d649bd01fc11fc195e64ed377ba880b42f9cbdbeb6e19ffd1131"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/container/horizontal_tabs.png"
-hash = "a643f07ffef39d6db7e511c8547055c620ae1e47ba9d2869c1c46b8914ad14a7"
 
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/container/horizontal_tabs_small.png"
@@ -20085,36 +20341,8 @@ file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gu
 hash = "6d7d972f8c85e2cefd07c958efa17cd820f42041a630bacf00df0cf8f2386a4c"
 
 [[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/new_gui_image_crop.png"
-hash = "743e166d55d19366dad6efa24bf19ebabbd9f3ed5a4f9a01c648b4089bb03f2b"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/original_gui_image_crop.png"
-hash = "d1d24916633eed07ad689c37f3d80471f77eab29acd9c4e0904244b97f0be0d6"
-
-[[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/reset_icon.png"
 hash = "9ef5cc01cb9efd41fe07dfaaa7ba4d877250686c60f0b6ea3c92e4ab84e77a2e"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/anklet.png"
-hash = "9556f888a04dc5859e0ddea3e7303d32bd23492acf4af8ce753ac85726a9b2df"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/back.png"
-hash = "4fbc11ea49d7a84cf3de84337fbf685ee4bfc4b2edb68af039c46c50a0eefe6c"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/belt.png"
-hash = "158d2c5c198b0dfa6a609d3d634945f384029dd37509f184c5a0859f039d817d"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/cape.png"
-hash = "cc037a29d717def7ce0ba56bb297070c79e0e36464e61d3a57bbfe703d9d31c0"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/charm.png"
-hash = "aeddbda885854fc3a0053204f77cf65791435611b002e04f356f9917134244e4"
 
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/cosmetic.png"
@@ -20125,36 +20353,8 @@ file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gu
 hash = "38be5a9fb712cb81d81245d38f669df298b6e8490018f0617986489249ce0494"
 
 [[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/face.png"
-hash = "383bbdc24214f0068ac45cdb9fcd727a73830105649f2931c46aad82146d6c96"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/hand.png"
-hash = "d7b1dcfce3ab52d3b3e7863c8fb0cfa0658b3eaeafe54df5d5855f89ff7305d3"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/hat.png"
-hash = "ac2c0df648768e334835887a16262e14e21a9c3499206ba5d331eee4ccb52208"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/necklace.png"
-hash = "cdc6e53829ca91c5d147a7fe1b28892617853478b605a588e9d363a713abb6b3"
-
-[[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/ring.png"
-hash = "e267ebacb87e7bc998eedea024bfbaf09fa4350bc383127262780f5937a7dc76"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/shoes.png"
-hash = "ed803fe3f7fa9a060353d86a59f42a165191cc4c15f3d524e84d5322850468ab"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/socks.png"
-hash = "3a60aba9a96c0cc47b97a097541739a1026e430a165d4756644f64c1f4078c53"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot/wrist.png"
-hash = "61635158d7665ecb1416ec476930f10aabbf736902151d56bc0e817cc8de88d4"
+hash = "ab8d48e69846fd57f569a21d51936e56c80dccd2cacd65dfdb145bc4c61d34d7"
 
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/slot_frame.png"
@@ -20273,124 +20473,8 @@ file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gu
 hash = "4a332285cf3cdad6034ebff3523e23745fa1a6295e943ff0f4fbb8fe7ef4d8d5"
 
 [[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/all_arrow_directions.png"
-hash = "738161c2f070470e9ad0f831e7791a97a86bfd81f8cad24169b6e7b60ac969e6"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/cosmetic_rainbow_icon.png"
-hash = "a121e4c2904944b7ed4b9c6ed60a994c367fb4401b74e69fb0775c1f8490d0d7"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/button.png"
-hash = "a37b368e13c9df2a52ad5ce1e319b6d3c3693d6feb6c5ca0baaa1f4dad928090"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/button_toggle_rounded.png"
-hash = "b2fcec66660c91206beec20deae055a47e620f92bbb0ed77b020675685efbbba"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/charm_icon.png"
-hash = "f90bac1838be79f2d868504a6f376d69cb65c8c4359daef99cf7929227b58ae2"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/crafting_grid.png"
-hash = "b4468dbaae9b3f6baf35edfdd041e274ff777d17b112df89584439eef4fc1f7a"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/entity_view/full_armor.png"
-hash = "60c712bd68bdeb69e97a053513c1bfeb3a29da2fdcdf4fec2e9268ccb9ba306c"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/entity_view/single_armor.png"
-hash = "dddff01b2150146ca9cfdd9d2a4c5f8fdb1eeefd45e5fe795e47e3ce62776bc8"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/entity_view/single_armor_saddle.png"
-hash = "fcf5decd9d7738cec4bd447b692b8ae4c37fa55529b2ccee679971f75b133842"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/inset.png"
-hash = "fa6be4949e1e9a64973cf45e49c4d4d027ae9d9225e262ba5b23f3edb93af1d7"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/panel.png"
-hash = "e3876054f9fbad5e95d1ebb5f649fc20b160c0f07c17dccdfc17ea33539b8850"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/player_inv/with_crafting.png"
-hash = "51dd0e3087d840c27119c73cf36d2d461df796c83f50e359a16e93d995f507ed"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/player_inv/without_crafting.png"
-hash = "0991198638426fcb5622235a37396b2a6a642a3638934bba8b0963ef6221c669"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/scrollbar.png"
-hash = "457ff64e3698b2c728dc0332812f870960efb9f66af4afc855a84f2cbb19eb22"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/slot.png"
-hash = "8b483e526d0a53e8ea8cfad15771801248f18eebb6d5ee538995d430b944e9f8"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/dark/toggle_background.png"
-hash = "7c8abe4827ddf1c66913bd1a1d69dc02ff8a3a91f075456c8c86b25b54ad8f23"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/button.png"
-hash = "1e06c60d34f36efbc3828cbc0ca32b5513244f84dad41750d045801ffbe20a50"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/button_toggle_rounded.png"
-hash = "1cc0760c9917242ababc967d9c732402be8362601ef7e223b9fbc5c6e38ab148"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/charm_icon.png"
-hash = "0f58eceb8027bac481bd71f3c8953eb088ce9cffa0c15c733241f103510a1a05"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/crafting_grid.png"
-hash = "3b408af0e2432d815a5497580a1179d75bd73a6f23ef9d09589cef80d80ef9c9"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/entity_view/full_armor.png"
-hash = "2b49883853d895f6e73397dc5d8162d5c245596bd5eebb5e9b594427222706e7"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/entity_view/single_armor.png"
-hash = "4a57c46ec616aacdb66b878ed38422eea8c751b59c3dc75cd713d9c4210537ff"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/entity_view/single_armor_saddled.png"
-hash = "0c29ed05d3aafa8fe5274de018dcd8f3cf3e303524e6024cd276792ed554712f"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/inset.png"
-hash = "b90112d4e2a6794cfc70ee5c114d8c122c3b83c335a15b657521d592a16da661"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/panel.png"
-hash = "3dded3461a02ed6e3433a4aec178f41e9eaeb82450603e10e3b0fcce9ce80295"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/player_inv/with_crafting.png"
-hash = "86eca735a618de3d08f6892cd4c248c446ad6e320831285546bdcf97af0c53c4"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/player_inv/without_crafting.png"
-hash = "32a317986918202defb2c99d759c575603dc846dedcb453a63d8f4539bcc4923"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/scrollbar.png"
-hash = "19c3768dc02823925c26f848f48a6e2a017897d76bb68f5ed15a07f82baf5183"
-
-[[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/slot.png"
 hash = "216fcafd46f19c272bfc49dbdec15321b0050482f0f54b9b1e50f533d4156ed7"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/accessories/textures/gui/theme/light/toggle_background.png"
-hash = "8b3498d522c06e9c8a701a4028802a261a0306baa7c43fe0a306f605ef8fcd1f"
 
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/alloyed/textures/gui/forge_gui.png"
@@ -20843,6 +20927,22 @@ hash = "efabd3b8b0210e6e4af93f21a32dfc4cc40ebac6674bd8a3e58f2a46013f0ffd"
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/fishermens_trap/textures/item/empty_slot_bait.png"
 hash = "3ed973db2883600d68aea89d6bf48cef0fb9da8cf10d2945ec324dd434f55050"
+
+[[files]]
+file = "config/openloader/packs/3 - Mandala's GUI/assets/irons_jewelry/lang/en_us.json"
+hash = "2405e48eae449eab58c04f3d61b344e5968c958f9a78e2efdd8255e3cf4b5de5"
+
+[[files]]
+file = "config/openloader/packs/3 - Mandala's GUI/assets/irons_jewelry/textures/gui/jewelcrafting_station.png"
+hash = "c5ef039cf343d3d0ac40b6345fade447305f296aca6e5c0a1336361aa979a9c0"
+
+[[files]]
+file = "config/openloader/packs/3 - Mandala's GUI/assets/irons_jewelry/textures/gui/sprites/jewelcrafting_station/scroller.png"
+hash = "b9469d103277b14ada7177845dd5e811dbd80503df0f88e8278f3b1564090e2a"
+
+[[files]]
+file = "config/openloader/packs/3 - Mandala's GUI/assets/irons_jewelry/textures/gui/sprites/jewelcrafting_station/scroller_disabled.png"
+hash = "c6346e589cc31f22d32b722dc8d3c54c96c445f73e98847f060b0dc2b44e6426"
 
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/mannequins/textures/gui/container/mannequin.png"
@@ -22986,7 +23086,7 @@ hash = "c96eb850ec9214b6c7bb235076c57012b829c417d2672ad571b916a3d21153e3"
 
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/lang/en_us.json"
-hash = "58f68c0608ca8e1ad1fb362ec31de52824b2cc527483c446c57de510da117aed"
+hash = "22a4ddc29a6fe098b5589f4ac785af15b46f696bb0d219dbdacaa53fd4d35d04"
 
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/models/block/spell_binding.json"
@@ -23023,22 +23123,6 @@ hash = "5dab1a610b6730da3bff5178c6ad1503b753838d68d2de534a6b18a8f39c0496"
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/gui/slot/.comment"
 hash = "7b36c5b4056d01881e730fd2c2ccad61723a2517a35a7c833a01ee1acf1653b3"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/gui/slot/spell_book.png"
-hash = "9d90510a5106bdfae81792fd45b99eb22ec9dd6c3bf39fb538ca30f6df020449"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/gui/slot/spell_quiver.png"
-hash = "4c01ce239c2d0784de3d3128aedb83ea8b175cb92e4f8e3b5447b1b68431bc76"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/gui/slot/spell_scroll.png"
-hash = "2241dce0502c8005418035f1a78070f458bf6a540de4c31115410464f857c8a5"
-
-[[files]]
-file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/gui/slot/spell_trinket.png"
-hash = "a4f42877e7a9f2ddd688ef9062360e36f386f0bd49dac6a3937f395d1b406f09"
 
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/gui/spell_binding.png"
@@ -23087,6 +23171,22 @@ hash = "e53e5d520cbc14b296e70d7d6cf024027411b59c05ae567318234ce8aee57298"
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/item/spell_scroll.png"
 hash = "e53e5d520cbc14b296e70d7d6cf024027411b59c05ae567318234ce8aee57298"
+
+[[files]]
+file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/slot/spell_book.png"
+hash = "9d90510a5106bdfae81792fd45b99eb22ec9dd6c3bf39fb538ca30f6df020449"
+
+[[files]]
+file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/slot/spell_quiver.png"
+hash = "90490d8915f86a9d37979fbe8c72e4e98485c41b0960b77e3f8f31b782c20488"
+
+[[files]]
+file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/slot/spell_scroll.png"
+hash = "2241dce0502c8005418035f1a78070f458bf6a540de4c31115410464f857c8a5"
+
+[[files]]
+file = "config/openloader/packs/3 - Mandala's GUI/assets/spell_engine/textures/slot/spell_trinket.png"
+hash = "a4f42877e7a9f2ddd688ef9062360e36f386f0bd49dac6a3937f395d1b406f09"
 
 [[files]]
 file = "config/openloader/packs/3 - Mandala's GUI/assets/starterkit/textures/gui/container/inventory.png"
@@ -28566,7 +28666,7 @@ hash = "acccc5227c6bbf37ba7c1ba5fcc13e62dfcdf21ad60bdd2a0c39614325882a8d"
 
 [[files]]
 file = "config/oreganized-common.toml"
-hash = "2494306cfd6b234b0103a8e59c5de95f38cdcaad828407afe575748ac7a72993"
+hash = "256b75861b1e49e7349c7880397c6348588bf82c2b72cb5aba3aea1a044f5e00"
 
 [[files]]
 file = "config/packdev_toolkit.json"
@@ -28674,7 +28774,7 @@ hash = "548156b84adda7e833d8f8d0cc5dd82dff1ba23a93011c4770ad548f1b9c82b0"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "d1993046a0642ec1bae4ae3b9b86a9f7e6eaac804837cf44f5c41bec7bf3f0d9"
+hash = "d0f80b9dffaca1e370df482f1484ce0a9e616f2d0e83d63eee62d9812dcab5da"
 
 [[files]]
 file = "config/questlog-client.toml"
@@ -28821,6 +28921,10 @@ file = "config/reliable_advancements_edits/data/starfell/advancement/one_rune_to
 hash = "d0f945b8d78db62faa74669d0713ec9b0def85837df73dcb562a5e86ac8e2b38"
 
 [[files]]
+file = "config/reliable_advancements_edits/data/starfell/advancement/oven_or_of_out.json"
+hash = "1e4f72988525c6bf101d307e42583c1bf4004dd8868c47a3cac42182bee1fa99"
+
+[[files]]
 file = "config/reliable_advancements_edits/data/starfell/advancement/re_ignition.json"
 hash = "7b4fe61ee4ac32a6d088f9e2ce3ec041be317f9ef5bd683346507f05e7a7b836"
 
@@ -28886,11 +28990,11 @@ hash = "a5377ea01ac1f6873cc503b7d4ab1d5f80453f58a53138e2ee0f5235258d2dac"
 
 [[files]]
 file = "config/reliable_advancements_edits/tabs.json"
-hash = "b4a421d290954d69beb00b1098cb28a9708f8edff62a9d11c32a1b3c6e22f6a4"
+hash = "8546f48e13994d7e8b83182274973894ddba4ff0023a5a16cdcbabff6129f793"
 
 [[files]]
 file = "config/reliable_advancements_layout.json"
-hash = "70b2212051206003041500627c904d09ce9e00872cff96a8a7273e3e096ef027"
+hash = "74062c539484ea2dd158470d133ac8aa320ebbd9bdcf435b4b4342313afc4049"
 
 [[files]]
 file = "config/reliable_backpacks.json"
@@ -28906,7 +29010,7 @@ hash = "ab6f81836c91cbe470b88ed987d6fc06078749fea4c5afbab656a714271e7a5d"
 
 [[files]]
 file = "config/reliable_recipes/generated_removals.json"
-hash = "3f1da852ad3548c7ce39dc6b996865eab2d5b443d7b47dd89a3e1b41ade37972"
+hash = "19ba38be86983c38e522548cfcfcc9ee2ac268038ec754a541342249116e4a49"
 
 [[files]]
 file = "config/reliable_recipes/repairs.json"
@@ -28918,7 +29022,7 @@ hash = "cdeb01f032ee62c282c1e7a3279fcbe11b56c0067f581949fc2effb9c203551b"
 
 [[files]]
 file = "config/reliable_recipes/tags.json"
-hash = "f441ac679276169c2eafda9385f5d47bdd32fe721039a032eeeb437880809f67"
+hash = "48fe7f2aef31190105ea6e42a6d3e71dc5add823dd3938c30752e207af60597c"
 
 [[files]]
 file = "config/reliable_remover.json"
@@ -28926,23 +29030,23 @@ hash = "a2715f271d780371a3e753acdad5fe847887356cb7c22962084bd61f91898a95"
 
 [[files]]
 file = "config/reliable_remover/compatibility.json"
-hash = "4231c0eee207a5505d97bdc45cf4145bbda008b454b91502686413a8be70fce7"
+hash = "81dff0b1df029247bc0ff302527a5573f6231671c4ba69286e4ca650af7bddbe"
 
 [[files]]
 file = "config/reliable_remover/main_config.json"
-hash = "d948dc1346f0cc0397105f1571c6bccecde465ad3305c9df543ae8677600dea4"
+hash = "86df69196c9b86c15fe329b865c72f560f3383f406325d013b19c0b1c4417e45"
 
 [[files]]
 file = "config/reliable_remover/progression.json"
-hash = "552a6dd6cbb964d8841d0a8ee99be256706a7a44e2aebc33f3b13a2afff4cd93"
+hash = "9eca61bda63336f0d8a81b80c6b4e563720392b50a29efcc4b8d07821ee640f1"
 
 [[files]]
 file = "config/reliable_remover/replacements.json"
-hash = "832410d5100897c72b01486ae06f94aec56ee1d006f69375e32d09ab4d429ee2"
+hash = "4ebb99c26db1811fe8d9b242d26c979386fb93d2050ca75822b1d979a7a70bae"
 
 [[files]]
 file = "config/reliable_remover/reversal_config.json"
-hash = "0586002f94a4dd86b1a9785bf63c71b0b09d73a0b6068f248ebe6dfe77e24aad"
+hash = "c54aa5bfea00904d563ec51748b992b17a1f422c9dcf0791bbcd6108e06829c0"
 
 [[files]]
 file = "config/reliable_replacer.json"
@@ -28954,11 +29058,11 @@ hash = "2e073cdfd456e1fe476ec5ce1df7d9eda04d289b8ce545b143220b3c1f972d50"
 
 [[files]]
 file = "config/reliable_replacer/main_config.json"
-hash = "78433427cdb16d3e80cf37c5cadfaa3d1f28639489ff43bde1a2a7f833eb5ba5"
+hash = "e5bf0d4d1234745289a2a55755ae0584f4e5664433eeaf8936e49eba6aa084d9"
 
 [[files]]
 file = "config/reliable_replacer/psuedo_features.json"
-hash = "3b934aaa8352ab31462b771af2488bd8c9df6cd416036b9be26e8b9806a2a566"
+hash = "5d207e9ed56d7b9e906844d38bf60c69704ea5a52bda7f95f4ea8e0c27b23efa"
 
 [[files]]
 file = "config/relics/effects.json"
@@ -28967,6 +29071,10 @@ hash = "1e80120dc9ff72a3637579a4c746ee162225736b905e890549a9339e0d8945d0"
 [[files]]
 file = "config/relics/items_v2.json"
 hash = "cc80ca2615224f24d2151377505d1fa8d685ca8cf46f35074e4b8e41104c2093"
+
+[[files]]
+file = "config/remi/remi.json"
+hash = "76e5e6568977d0f470be839121fe4a749238397392085525e6798e50af9fffd2"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -29002,7 +29110,7 @@ hash = "df238509966b714649d6c7166fa102ea68863d265e6762bafa89577943842dc6"
 
 [[files]]
 file = "config/rpg_series/loot_equipment_v2.json"
-hash = "afa4495ba44d59a173cc0894a37c24cd645c755081c4be33ad37efdc28ea3147"
+hash = "7762f901ce7f1abac613bb3a91588bdb92f88ce0eea995206c1d3c399441656a"
 
 [[files]]
 file = "config/rpg_series/loot_fallback_report.json"
@@ -29014,11 +29122,11 @@ hash = "51f36c3c2db1bdaf778cc7b10481b9b2ced1ae0e45e3373e6b1cd97ad133a963"
 
 [[files]]
 file = "config/rpg_series/loot_scrolls_v2.json"
-hash = "7408b455bd5eba761a6d67fb2d829f11f1f121e159af4f67cfd3a76e5b88fa8b"
+hash = "f9446c58aa8e7adfa4bac60cafd5087850b491a5e3f2d89d5b4d1eadc9f918ac"
 
 [[files]]
 file = "config/rpg_series/tag_cache.json"
-hash = "0adb2e96d75b100c029a5478e403fd63711a2d1ab2f681698d98f67935dc279b"
+hash = "65faca57a4e7ec1289eb7075727bdb04d35d94bb92b34f0ac3b3c703e49e2f06"
 
 [[files]]
 file = "config/runiclib.json"
@@ -29130,7 +29238,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "25ef7095aebfd3408d96caa315ede1c63389422248f4fdd72f5732cc49a8579d"
+hash = "b118c461ae8339e29bbc62c5c740ae907cb3c4fd83c2c255a332f5e8d37625be"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
@@ -29142,7 +29250,7 @@ hash = "bc029afc200ba2fba522a27245d65c8e5db0f20cd0eddd5873a316054d962923"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "eb642e07692a5391c39fec92a0de88d0d7854fdcbf138288eb3dd8e415baa6fb"
+hash = "add81183d22c22da8d631b2e96eb1a5f75423ecf22cf144713e90711ea85d684"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -29210,7 +29318,7 @@ hash = "4c745616ce9cec659525072234b2aa235a596616957a751b74a817e2e4914e90"
 
 [[files]]
 file = "config/spell_engine/client.json5"
-hash = "0e55702f5a4ebb6ed14c6ded1f40895da67a646a14166e6356957ff87b1fccbd"
+hash = "f0ce14561ef32db923fb3a86918e6c760e52e581d8f1d5115ef36df909109ec9"
 
 [[files]]
 file = "config/spell_engine/elemental_weaknesses.json"
@@ -29222,7 +29330,7 @@ hash = "bdf125ba4802ad8584094e5ab248d3a738157c351e8a4c258d7801bfb0cf7909"
 
 [[files]]
 file = "config/spell_engine/server.json5"
-hash = "f9ee40d28c75e342d1d51bbbcfd2fa1a82fed1d1357650bee6fc54b22b2c8fd5"
+hash = "218aca26eb4541568640405e9973382dac438e06d18eea690862b5daa7dd729a"
 
 [[files]]
 file = "config/spell_engine/spell_container_templates.json"
@@ -29343,6 +29451,10 @@ hash = "d53f4c37a8d1d28b4bd8b72205bcc4f9f5a50c6b57dc2efbe0c6d5331071186c"
 [[files]]
 file = "config/stormiespiders/stormiespiders.json"
 hash = "c8c24b97720a02ec698726cac1147910dce5b685ce1b36c5050d442cdca4a4e7"
+
+[[files]]
+file = "config/structure_layout_optimizer.jsonc"
+hash = "5a9058652bc0b88b8810e0b94eba0e1a90cbff2472845c53a7e67442682a1579"
 
 [[files]]
 file = "config/structurify.json"
@@ -29730,11 +29842,11 @@ hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
 
 [[files]]
 file = "datapacks/1 - Starfell Data/data/accessories/tags/item/necklace.json"
-hash = "8c8af09bcf97aaee7f8c90a56559f83c833b23205574b896abae833657ecafa5"
+hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
 
 [[files]]
 file = "datapacks/1 - Starfell Data/data/accessories/tags/item/ring.json"
-hash = "33975eff3c2c6cf9000bce7825e1256f756eb8a353be7e9b7011bb4298f97a65"
+hash = "63ed442362a2624404c491a2b15cee57717204a59f3ac537f4f5a09d9881e5df"
 
 [[files]]
 file = "datapacks/1 - Starfell Data/data/accessories/tags/item/shoes.json"
@@ -31157,6 +31269,154 @@ file = "datapacks/1 - Starfell Data/data/homind/recipe/horrible_flesh.json"
 hash = "c9276bd60b747f708a45b63d5e28aea2892e77036693dfea4669f71c357a6428"
 
 [[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/amethyst.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/copper.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/garnet.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/gold.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/iron.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/lapis.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/moonstone.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/netherite.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/onyx.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/peridot.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/ruby.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/sapphire.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/silver.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/material/topaz.json"
+hash = "b107dd2e0eb462ba227aef7807f2a38bf5f1121bf4a5f48b40e55af160ef56a1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/amulet_of_protection.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/bane_ring.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/barbed_band.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/gemset_ring.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/haggler_ring.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/improved_gemset_ring.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/piglin_signet_ring.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/rhinestone_amulet.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/sharpshooter_loop.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/simple_amulet.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/simple_band.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/simple_chain.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/stalwart_ring.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/superior_gemset_ring.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/irons_jewelry/pattern/tearstone_ring.json"
+hash = "5fd60eef8a56b3e27b82be8439cb1c43c950b5c3e5bbed53387a3a359648f76f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/loot_table/modifiers/generic_gem_loot.json"
+hash = "b8498edddbf4fb63a6486b2d31614aee331ac5422f97548edd1f5c1e2eddff85"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/loot_table/modifiers/generic_pattern_loot.json"
+hash = "82524acfff8b28b6e515f2ada00b5afcf4dd23eb6271376ed3b26a9d21832180"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/loot_table/modifiers/nether_pattern_loot.json"
+hash = "3f35f5e93dbfce56d94d52fbcc18b4256104410de6eab7bc3c74866983829a9a"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/loot_table/modifiers/nether_treasure_pattern_loot.json"
+hash = "1f5b0ee6337bbaaa134dc4a68a03f0ef4371e5b785d3ee97c442c895ac40f496"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/tags/irons_jewelry/material/gem.json"
+hash = "a39be4db549ead9f45d1826e05ebeac82fd8ff29c7d7d89afd5c64db49acacc9"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/tags/irons_jewelry/material/metal.json"
+hash = "13d687d0ab1cee80917e024131632fea383159a6ae68e4a77d42eac81a868e35"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/tags/irons_jewelry/pattern/high_quality_lootable.json"
+hash = "941d944aee298d8ecef483bdda5f2cbcbf0610e292fe3addcdc175c4e2fdbed6"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/irons_jewelry/tags/irons_jewelry/pattern/nether_lootable.json"
+hash = "bff70820dbe36cf3b45c290747341c39ab3b99b9e874e2f4a1496a253efcf05a"
+
+[[files]]
 file = "datapacks/1 - Starfell Data/data/jewelry/loot_table/chests/jewelry_shop.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -31379,6 +31639,10 @@ hash = "13a16dc5625cc36a6188484b40504b1f8e25492e72632aa1a76ae43f7bd72a49"
 [[files]]
 file = "datapacks/1 - Starfell Data/data/minecraft/loot_table/blocks/moss_block.json"
 hash = "4b59c961400595e04ccdc9e6abbd4e66bb64bb9707d31ff4ac003edaa8d1bbf5"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/minecraft/loot_table/blocks/shroomlight.json"
+hash = "189e32fd9978c844e8c512e05839347065c3386c477ead623a5f803edf8c523d"
 
 [[files]]
 file = "datapacks/1 - Starfell Data/data/minecraft/loot_table/chests/ancient_city.json"
@@ -32578,7 +32842,7 @@ hash = "694547848d81d7afee750dea53b4ae07ec6a61f3b027cf92a9ad32d518944b8b"
 
 [[files]]
 file = "datapacks/1 - Starfell Data/data/modestmagic/recipe/smithing/enchantment_tablet_everlasting.json"
-hash = "94530b04b5dfcd455be96bbe774e69c295903f4f81b8aa9e28ea7899e6668273"
+hash = "895baa057d0f46be26b90e7168f7557c75320011cc68f1faca2066df5938e86d"
 
 [[files]]
 file = "datapacks/1 - Starfell Data/data/modestmagic/recipe/smithing/enchantment_tablet_fiery.json"
@@ -32631,6 +32895,26 @@ hash = "14bea43e0a232f02a5711bf480fe0bfb621018c65c5799fac50c3580b42ea0ce"
 [[files]]
 file = "datapacks/1 - Starfell Data/data/naturescompass/recipe/natures_compass.json"
 hash = "ada5eae3b81dcf003043104d2b66922a89d6f44fab4159267b1b528c0e0e039f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/netherexp/loot_table/blocks/shroomnight.json"
+hash = "a7aaad24e1a783e99612e561daefa4f8f9df59e1fa930973ef2a51d5121dda83"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/netherexp/recipe/bone_fence.json"
+hash = "7eac0819f42034813f73513fad844d9fc8cfe20ff20feb3c6398a625b632a381"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/netherexp/recipe/bone_pike.json"
+hash = "546c8ee43b95963d585bb104440ec81af2b783995f1236f534d09add202a504d"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/netherexp/recipe/shroomlight.json"
+hash = "18bf8baef394d377f8a68f0108d4f4a7d98acd9d615539374a252be023ad4393"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/netherexp/recipe/shroomnight.json"
+hash = "6fff16de85f920e72b261db0ff4b96f158a5463c9c48b585d3e54863db07b707"
 
 [[files]]
 file = "datapacks/1 - Starfell Data/data/newworld/recipe/ancient_mattock_smithing.json"
@@ -38229,6 +38513,138 @@ file = "datapacks/1 - Starfell Data/data/starfell/attributesetter/item/stargazer
 hash = "9b8976d9fa1cd9104f832915e0494ef6d0911bef4a183bdd7ddcfc189443cea8"
 
 [[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/list.txt"
+hash = "2bab179c768a4d7af860968c26bc7bd025412cde59518a69be32f3727f2c560d"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/anima_quartz_gem.json"
+hash = "ca37f3d46970acd037a0795061a5b73ae724046636289cf15a869118aca047d1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/ashen_base.json"
+hash = "02b2c134491deaaab0f0a9288a15ee1f317b200be305df1fc68fc9c1fa17920f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/beskelt_base.json"
+hash = "6c3ddac18e782db6b91419e84c85fdebbd379811e7f765a155b57dc00bb48207"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/citrine_gem.json"
+hash = "b0c9a547bcf6da112dc0a846519ad73a31211fac8aab7bb8496a60140f2c4c29"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/copper_base.json"
+hash = "48b6900037f4add0adf05a732db6b2b34392b9422e5c16d4ff121868482966b4"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/gold_base.json"
+hash = "7c0980edddce7f662cab7b9500984fabe293b505311263d93df06b11ed421d67"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/iron_base.json"
+hash = "b125b129bddc66bfc6c63d5a284ab96ff17d53ab8668e484e47b2fc1b523fcc1"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/jade_gem.json"
+hash = "e31f2b08aada732674da5de2031ce3ea3846e230a9395b201e87527cf6a96ed4"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/mythril_base.json"
+hash = "5513be73f516ed6d354fb950b335fe152d854f574cbc4d52bf322544b0700c77"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/ruby_gem.json"
+hash = "6af36776414b87800d9fcb38272003dafa6078ddfbbdfdd46b2182f24a64b2d7"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/sapphire_gem.json"
+hash = "900a65b32c36197e1525b91c34a049fcfdf404f0c5692fb779e046355a147fd0"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/silver_base.json"
+hash = "e655e0f4e73efa7a31337b196517858491da01e9b6e5529dee777864f039c0ff"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/tanzanite_gem.json"
+hash = "f1592ba3572c287d9c9059d718563cc9e6c2a9f06a8b461cd779c6f026072e17"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/material/topaz_gem.json"
+hash = "278347ff635076335e05adc0af01843fdc131e08853c623e4eb264f68329c1c9"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/necklace/major_necklace_base.json"
+hash = "df990695f20d11dc8c5df12bb7361c13a098ba5346ada07dcba1b10b9eecd6cd"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/necklace/major_necklace_gem.json"
+hash = "43e44b496ea852e6583852c39fc464df905a28900557f0f86bbee2247e247c0e"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/necklace/minor_necklace_base.json"
+hash = "ffa32ee01272b35270a23d3100848a40a0c9922d1e29581abb4a5d35ba821e58"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/necklace/minor_necklace_gem.json"
+hash = "b6f6c2dcba84a21525dc490943b999695d7577d609db4b4059bb2106012defab"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/necklace/standard_necklace_base.json"
+hash = "05f82b3caccccafba0d6f9d6945779da5991f87f788d20eec2fb3e395204b94d"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/necklace/standard_necklace_gem.json"
+hash = "6fe93c3c2b8ead0f133585be9a1383d86a0b393c0a3fe77ddf58ac430e031c86"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/ring/major_ring_base.json"
+hash = "492e96c12be23b56f61bc7245d92c36686098f71a188f0d2588daf412d2b1884"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/ring/major_ring_gem.json"
+hash = "be24894cb8a893590307807ba86eaa6ea1a3c8ea1ff7b02980178b796f426caa"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/ring/minor_ring_base.json"
+hash = "cc65b7ebc780c32eb43758d143d70ba33d0b5f34ed19f33971932930df8c8b2d"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/ring/minor_ring_gem.json"
+hash = "ae97978f324aea838b84739694765675ed02d3277f7355aa22316cab96a56c63"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/ring/standard_ring_base.json"
+hash = "6f8c39f1c42673e9775296e749521ba8f1bd340660c4ffcbf44902fa3f0ea7bc"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/part/ring/standard_ring_gem.json"
+hash = "f66af82ed3e2e8006bd5be448db543805eb6212b4ef9d3ce0de85a8acb9f422f"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/pattern/necklace/major_necklace.json"
+hash = "7d3b483f930d0dcc8d79c521c2a71499d7f25207be4caf590d5a9c9e473c1919"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/pattern/necklace/minor_necklace.json"
+hash = "efcf507aa9779ee692c191c3d63c51d18464ffafba2d9500b9a6bb5f8da8680b"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/pattern/necklace/standard_necklace.json"
+hash = "f695b655c43675ec9494d4aef92af34575e11abb2fc202561bc8ef9b65b5cdfa"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/pattern/ring/major_ring.json"
+hash = "dbe323d6f71485ada4fd7327b98f6fa771184a9fb30bbf67d5c5a32100795c85"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/pattern/ring/minor_ring.json"
+hash = "6af76007e71c0ed568cd7d0288a779ba275f89c507ee725c821cf039aa1c77b7"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/irons_jewelry/pattern/ring/standard_ring.json"
+hash = "71733cb365d01d3e6b0ba6025e0af6f12dfd1572e722833dc2ddcec23a7d39af"
+
+[[files]]
 file = "datapacks/1 - Starfell Data/data/starfell/recipe/grinding/black_dye.json"
 hash = "1fb88b0688f57bcc8155170ec6b75792888ae90bd3b35f68dea2150b389fd7cf"
 
@@ -38309,6 +38725,10 @@ file = "datapacks/1 - Starfell Data/data/starfell/recipe/workstone/cracked_cobbl
 hash = "1a2421beaed0db75850d86966b8165f93ad57176a75098d2ab2c13d0964c682c"
 
 [[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/shape_map/guns.json"
+hash = "a2e835bb6070b646dcadbe92326c77192e1f8337d72cee192fb5e1226c6f2ddf"
+
+[[files]]
 file = "datapacks/1 - Starfell Data/data/starfell/tags/item/black_dye_candidates.json"
 hash = "b40b0a9faf1611fec551c25d24e4713801571a61fb99a7b77a467f20e780b391"
 
@@ -38347,6 +38767,26 @@ hash = "48742606036c1661add203d357a31bada58f6db8a37e17614358c5017c0d86b4"
 [[files]]
 file = "datapacks/1 - Starfell Data/data/starfell/tags/item/magenta_dye_candidates.json"
 hash = "4070f96fca0b2f8f81f08c272b8c729dedb663b4d4122bfbf0c81d063d2dbe2c"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/tags/item/material/ashen.json"
+hash = "cb37b1600425bac506031d35b293be0bfccc6ac9bf1a560b2c337353d61a17e2"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/tags/item/material/gold.json"
+hash = "f89b2a81d813fc768a24fa2bf644064ae4819547f89ccb57849d9eeb61cff7fe"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/tags/item/material/iron.json"
+hash = "fcafeafdf15cf652d27bb2ff76c512a8bd9a05a317237a78ade1ae0d0dd6d04a"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/tags/item/material/mythril.json"
+hash = "61c88a22e2890cdd41b321c5a7b33e8438da16b478762fedb5d140ff6c067c24"
+
+[[files]]
+file = "datapacks/1 - Starfell Data/data/starfell/tags/item/material/silver.json"
+hash = "3045b2b1bcc62365c93bd5fa186b74f682315c891320ec805856e1bb670e2bba"
 
 [[files]]
 file = "datapacks/1 - Starfell Data/data/starfell/tags/item/orange_dye_candidates.json"
@@ -41858,7 +42298,7 @@ hash = "ff5f47180d441eff74ecd59f0b549abd69c925d951a58c7866987cd8c2bf9d0e"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/filters/hide_categories.json"
-hash = "bb519d0a1a91149c7228fdd4d7039a85c1cdee73a8984a47be6243fc4c7c559e"
+hash = "de4a4a63f4d30616821531ceed45d3346bbb0e37bde496942a7ecb0ca077e561"
 
 [[files]]
 file = "kubejs/assets/emi/recipe/filters/hide_repairing.json"
@@ -41882,7 +42322,7 @@ hash = "a3ad9f51927450b788a9fdd908a8da30574f70dfff8a90cb116ad44cf98c3ebe"
 
 [[files]]
 file = "kubejs/client_scripts/tooltip_tweaks.js"
-hash = "334f381b4cdcb5481a6c3893c4b70474d2bffb8139a53b0962103303318d15dd"
+hash = "04c6f5df2b373bbc7019d60588b75864c55f54a93455acd3c4913a033922bbcd"
 
 [[files]]
 file = "kubejs/config/client.json"
@@ -41914,19 +42354,15 @@ hash = "f1ede25b2ca4b48c4887f6fea74528cb9365d331390a9cf46bd8b1049b114fd2"
 
 [[files]]
 file = "kubejs/startup_scripts/rarity_tweaks.js"
-hash = "890966690ab81244b150dcc396b5954b3f99f15076821c879f52a60075be865f"
+hash = "7fbdf1aa3bf8d7cd3d199a2820419898519e99680bddbe5d212dc3cbfc13c64c"
 
 [[files]]
 file = "kubejs/startup_scripts/stack_tweaks.js"
-hash = "d47ee9f497feed1a771527dff95f411b0aefd04d86cb71be4bab1cdc47d9b0b5"
+hash = "f6efcd8f9bc7e17254060d54560bf67f107b62c5d31e9898d3c28cfbbbcc0ce3"
 
 [[files]]
 file = "mods/AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar"
 hash = "07ee6fd24d8427ee079e2e376095b0ac92450b0153331f1575f8195e2c9cf90b"
-
-[[files]]
-file = "mods/Amplified_Nether_26.2_v1.2.16.jar"
-hash = "fc49dc7f0b9e4cef665e60a97f29b5589025fb9e19b13222d9767e178093eaed"
 
 [[files]]
 file = "mods/BadOptimizations-2.4.1-1.21.1.jar"
@@ -41957,10 +42393,6 @@ file = "mods/Clavis-NEOFORGE-0.2.13+1.21.1.jar"
 hash = "e939109015d5aaae6a50346f33fdd554baf50564f275aae67053a7f3d9504650"
 
 [[files]]
-file = "mods/CliffTree-3.1.5-1.21.1_backport.jar"
-hash = "9a6c69aa278240d005f19903ffc7b849c89dbeff5a2b293c379b586618503bc8"
-
-[[files]]
 file = "mods/Companion-1.21.1-NeoForge-6.2.2.jar"
 hash = "3ded9328040862fd893545788d24368210c183a1942cb55c747caa074bde6d03"
 
@@ -41981,8 +42413,8 @@ file = "mods/CraterLib-Neoforge-1.21-3.1.2.jar"
 hash = "2625398ddeb3ad6d9b16fd85f0f72f6a3bc4e58755966ff0085b8947c9bc6ad0"
 
 [[files]]
-file = "mods/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar"
-hash = "016eaec4445863874b51130a146346f1d862b92f1c4168333fbc219aa1e5d328"
+file = "mods/CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar"
+hash = "3fe2144fc608978203681f5c787dd75034879baf135372cc2302d6218ea75932"
 
 [[files]]
 file = "mods/CutThrough-v21.1.0-1.21.1-NeoForge.jar"
@@ -42033,16 +42465,12 @@ file = "mods/Ixeris-4.6.5+1.21.1-neoforge.jar"
 hash = "1b61562c86cb0e9cfbbaaddd2e4ad5b20f9ba4fcc20d2cc42aa75b4e1e3b92d7"
 
 [[files]]
-file = "mods/Jadens-Nether-Expansion-2.4.1.jar.disabled"
+file = "mods/Jadens-Nether-Expansion-2.4.1.jar"
 hash = "3077fde34f60edd4fe181c88d58fc8c5a89017de670018f9e5da5c774edbf26e"
 
 [[files]]
 file = "mods/Kiwi-1.21.1-NeoForge-15.8.7.jar"
 hash = "f1222ac3773b2814d40ee6e77129bb27a29d82ec76d7a878ba23d3f5f9f8a392"
-
-[[files]]
-file = "mods/LetSleepingDogsLie-1.21-NeoForge-1.3.0.jar"
-hash = "f5e1da7681acdc81a3eab8917190185ecf1889701436de3980145ec93c1e51f5"
 
 [[files]]
 file = "mods/Necronomicon-NeoForge-1.6.0+1.21.jar"
@@ -42073,12 +42501,12 @@ file = "mods/Prism-1.21.1-neoforge-1.0.11.jar"
 hash = "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
 
 [[files]]
-file = "mods/PuzzlesLib-v21.1.59-mc1.21.1-NeoForge.jar"
-hash = "a0cec5aada45c4e8a4ba46cd159f9db8e468bc30a49d8cb45b39b2269447c72f"
+file = "mods/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar"
+hash = "179bcaafb812618834ba82e7f29b15eaee8894f74fb96152a51cfc22ad4f45c4"
 
 [[files]]
-file = "mods/Quark-4.1-482.jar"
-hash = "0f69ce0d31caa4f31e1fa4959541120121e27c652cd2d954839af6b5162f0c70"
+file = "mods/Quark-4.1-484.jar"
+hash = "8ca631451d0ea89573faa89fc09f266ef7707e5fa230893e1ae30982f13bc891"
 
 [[files]]
 file = "mods/QuarkOddities-1.21.1.jar"
@@ -42157,6 +42585,10 @@ file = "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar"
 hash = "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
 
 [[files]]
+file = "mods/accessories_compat_layer-neoforge-0.1.12+1.21.1.jar"
+hash = "d9b673ebc4766a59663e4cc73d50e0ff3a371334e599c7890941e6e0bdd286ae"
+
+[[files]]
 file = "mods/alloyed-3.0.11+1.21.1-neoforge.jar"
 hash = "3ff34081660b905a9f20e0afba4243abad0844ba4e1788112418e4d8f0d9103f"
 
@@ -42177,20 +42609,24 @@ file = "mods/antique-atlas-3.1.2+1.21.jar"
 hash = "868cca6e9bcee4e439e863cbb053fc1a9c0ea10e405c5d6062b2021042ff08ac"
 
 [[files]]
-file = "mods/archers-neoforge-3.0.3+1.21.1.jar"
-hash = "9bb3bcd7e8a633f555f35952b1fdd692cf0ba41c8dcd0103b73b319e3d62a1a5"
+file = "mods/archers-neoforge-3.1.1+1.21.1.jar"
+hash = "e49a164fa54eae3a14ff93afd4ed7fd5b0e043532985c6608f5b17d1fcbbbac7"
 
 [[files]]
 file = "mods/architectury-13.0.11-neoforge.jar"
 hash = "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
 
 [[files]]
-file = "mods/armory-neoforge-1.4.4+1.21.1.jar"
-hash = "63bd5ec85f740f2e9de5e7319bc131edfa35a5ed8c65da1b7e2db271fae0573c"
+file = "mods/armor_model_api-neoforge-1.1.0+1.21.1.jar"
+hash = "f3776a0bea29ec48774cf510b98bb3874e41e5edb3dc88bef1a3ff53a57ebccb"
 
 [[files]]
-file = "mods/arsenal-neoforge-1.4.3+1.21.1.jar"
-hash = "4bb8b24627fc8511915199c2b3c84bca640f93448cad348c01b6bdb6b6f0994b"
+file = "mods/armory-neoforge-1.5.2+1.21.1.jar"
+hash = "a5761d15b87b1e7b286fb4dd7c965623173147f89e457a5a3803e5646d51e478"
+
+[[files]]
+file = "mods/arsenal-neoforge-1.5.0+1.21.1.jar"
+hash = "6f70f8c6e1753ac2171c0ac52577ce0258f2dfbc1606dcceb4cd8a7cad81e0f2"
 
 [[files]]
 file = "mods/artifacts-neoforge-13.2.5.jar"
@@ -42205,12 +42641,12 @@ file = "mods/asynclogger-2.2.2+1.21.1-neoforge.jar"
 hash = "233d79db772f54d0d01761b65d88e21342dbdab6694504df5121a1b0fe04b83a"
 
 [[files]]
-file = "mods/attributesetter-2.3-neoforge.jar"
-hash = "95e1bdc1620e4a006b7cbde795447fdf4b8b1fcddfc6fd128295c6c5a03b1750"
+file = "mods/atlas_api-1.21.1-1.2.0.jar"
+hash = "42f213c8fc8db43e307dd5b0b726acb2b044548258bcac6c3f666a953688cc64"
 
 [[files]]
-file = "mods/azurelibarmor-neo-1.21.1-3.1.3.jar"
-hash = "7d95ea861c06ed99ee75d1da9a6a7a61b5d8fdd8f476a0df5e8d76b84796dcd0"
+file = "mods/attributesetter-2.3-neoforge.jar"
+hash = "95e1bdc1620e4a006b7cbde795447fdf4b8b1fcddfc6fd128295c6c5a03b1750"
 
 [[files]]
 file = "mods/badpackets-neo-0.8.2.jar"
@@ -42225,8 +42661,12 @@ file = "mods/balm-neoforge-1.21.1-21.0.65.jar"
 hash = "490fa5fcb7ca83a9b5a84e33c2832298db99d189131001b9277a1de7fdc0bf91"
 
 [[files]]
-file = "mods/better-clouds-1.13.6+1.21.1-neoforge.jar"
-hash = "cfe160f9c28dc055eb41ab7e5ec3862d8e0ec78ea94c8d371d7d5d1e967efee8"
+file = "mods/better-advanced-tooltips-2101.1.0-build.5.jar"
+hash = "0f76d46f2f18eb67e67c7974170d7b27deb66473396461c8dc50d6949de1449b"
+
+[[files]]
+file = "mods/better-clouds-1.13.7+1.21.1-neoforge.jar"
+hash = "2f7edfd0fc254bdfb2e2b38fd5604fb354dd1b46357f220266a057c3152116d6"
 
 [[files]]
 file = "mods/betterbiomeblend-neoforge-1.21.1-1.4.1.jar"
@@ -42305,6 +42745,10 @@ file = "mods/clickthrough-plus-neoforge-3.5.0+1.21.1.jar"
 hash = "5c0537499f5ec0caebc471dbe8fa2bda7b5d095b2f7fea3d95405fad9052d061"
 
 [[files]]
+file = "mods/clifftree-3.3-neoforge-1.21.1-backport.jar"
+hash = "8398d7add4cbe3748ff0b59c5dacf67e442bc0f66eb8866836ef40306376e670"
+
+[[files]]
 file = "mods/cloth-config-15.0.140-neoforge.jar"
 hash = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
 
@@ -42341,8 +42785,8 @@ file = "mods/continuity-3.0.0+1.21.neoforge.jar"
 hash = "4cc0a4a09ae09c64bb567e42381652b700f9cade5067a75e83115662cc475f0a"
 
 [[files]]
-file = "mods/cookscollection-0.5.6.jar"
-hash = "4b21ee7a5da5470d0d651e9fd925b347da3346acbc97a4ea6bfd8e2e8a91a9bc"
+file = "mods/cookscollection-0.5.7.jar"
+hash = "446d91a62fe5c7b7ef443a79ca1cc5c70981bee0569fcdd0b27875c981be7d33"
 
 [[files]]
 file = "mods/coolrain-1.21.1-NeoForge-1.0.2.jar"
@@ -42359,6 +42803,10 @@ hash = "5e3d3f9bb3d5868529a05912a6dac187e70ba36e5c4f1bc5673e5d269eaa9fb0"
 [[files]]
 file = "mods/crumbling_kunai-1.2.hotfix.jar"
 hash = "ebdd68c32a9812e0d072973a5bdc21a8c65f76470022f571f6823778833e44aa"
+
+[[files]]
+file = "mods/curios-neoforge-9.5.1+1.21.1.jar"
+hash = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
 
 [[files]]
 file = "mods/dark_loading_screen-neoforge-1.21.1-1.0.1.jar"
@@ -42381,16 +42829,12 @@ file = "mods/dungeon_difficulty-neoforge-3.8.0+1.21.1.jar"
 hash = "27ec328894caab377cc07c9cb28fffc45868e2da1a7d4020a5a9407f30c5173a"
 
 [[files]]
-file = "mods/durabilitytooltip-1.1.6-neoforge-mc1.21.jar"
-hash = "4a2353159c6039d8ce090f7d399ae421e648fdacb7f29a18c67b58886b36f32c"
+file = "mods/durabilitytooltip-1.2.0-neoforge-mc1.21.jar"
+hash = "db7fe3561c81f36715306c16b9b79539c9f207482226f10f60210ef9d21a7e7e"
 
 [[files]]
 file = "mods/dynamicsurroundings-neoforge-1.21.1-0.4.2.jar"
 hash = "dae59dceb749957fcd9cb589e0cab5ef60f2e6422002dd490ba3111b6eb4eaff"
-
-[[files]]
-file = "mods/easybuilding-neoforge-1.21.1-v1.1.jar"
-hash = "67bbb526ab5e94fe0f0ae7cd20e33474ad2fc021f715cc13b73e2eb40b6b3038"
 
 [[files]]
 file = "mods/ecologics-1.21.1-2.3.7.jar"
@@ -42457,8 +42901,8 @@ file = "mods/fancymenu_neoforge_3.9.12_MC_1.21.1.jar"
 hash = "fd0f446c22bb42a0a3ac5cbdcb614abcba5a70f99e2a0cda6556a8efad2859a5"
 
 [[files]]
-file = "mods/featurify-neoforge-2.0.9+mc1.21.1.jar"
-hash = "47ee864c7899908d668b4f86a2821ad0bbe4930a2610fde3424ae20e49d68d9e"
+file = "mods/featurify-neoforge-2.0.13+mc1.21.1.jar"
+hash = "06b6477658eb6426107bbd30cf5c0139433e8c9aa1c5d17bbe600d40c3b3ed18"
 
 [[files]]
 file = "mods/ferritecore-7.0.3-neoforge.jar"
@@ -42525,12 +42969,8 @@ file = "mods/hunters_return-1.21.1-20.12.0.jar"
 hash = "adfc73392123c72ef03ef4694130aad173293c5bb66b9085606e11251bd094c1"
 
 [[files]]
-file = "mods/iChunUtil-1.21-NeoForge-1.0.3.jar"
-hash = "02e238386407958b19eb53a5a1812258e191cd813071639348ba6d76eee52792"
-
-[[files]]
-file = "mods/immersivehotbar-1.2.1-neoforge-1.21-1.21.1.jar"
-hash = "096f2e35bed58d5dd4ad8e4d685d1eb360f9284637eccc371a46ef4e53ae400d"
+file = "mods/immersivehotbar-1.2.2-neoforge-1.21-1.21.1.jar"
+hash = "5d04dbe575da867d5a9b005f1838b16a14efc53124ba3446defb621c3db1e9d0"
 
 [[files]]
 file = "mods/immersiveoverlays-1.8.3+1.21.1-neoforge.jar"
@@ -42553,12 +42993,20 @@ file = "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
 hash = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
 
 [[files]]
+file = "mods/irons_jewelry-1.21.1-2.0.2.jar"
+hash = "7413dd081598337133e55dd7c42ac3adff5213bceb56f10da6cfb5b52d57958e"
+
+[[files]]
+file = "mods/irons_lib-1.21.1-2.1.0.jar"
+hash = "3d0ad1003d6edeaad2500b9922267b4192d2c603cdd846fda339b168f4deff72"
+
+[[files]]
 file = "mods/irons_rpg_tweaks-2.2.3.jar"
 hash = "7c222f57fe985b8315e73c2b20282c5b13d7da1f4800d2786b85f7c851155c00"
 
 [[files]]
-file = "mods/jewelry-neoforge-2.3.3+1.21.1.jar"
-hash = "497cf8482935dbbbea9bc9f915687ead985b0cd59ceb4910d0cace6ee9fcf911"
+file = "mods/jewelry-neoforge-2.4.0+1.21.1.jar"
+hash = "3217765ddf5e590dbe8b9b54b4725eb45beb87bad55e7ff248669242578e26af"
 
 [[files]]
 file = "mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
@@ -42569,8 +43017,8 @@ file = "mods/kotlinforforge-5.12.0-all.jar"
 hash = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
 
 [[files]]
-file = "mods/kubejs-neoforge-2101.7.2-build.374.jar"
-hash = "2351c858ccaf4eea1f4125a55cd9583a729dee65cfd04c5fbaa702a2ac2fb084"
+file = "mods/kubejs-neoforge-2101.7.2-build.377.jar"
+hash = "df9a8458b1f83fed06ba54684977911795a5153a462b81a610895f5b1f2f0cbf"
 
 [[files]]
 file = "mods/lambdynamiclights-4.8.11+1.21.1.jar"
@@ -42625,8 +43073,8 @@ file = "mods/mcqoy-0.4.1+neo-1.21.jar"
 hash = "5e5ae5d9eb18ec94dede5d5a9d00303708316be939f23cfe4722dfbf5bdb73ef"
 
 [[files]]
-file = "mods/melancholic_hunger-2.0.3-1.21.1-neoforge.jar"
-hash = "4ca2482b1533b4cb360c63023eca443803039dbdaa23e2b0327dcd635f94389b"
+file = "mods/melancholic_hunger-2.0.5-1.21.1-neoforge.jar"
+hash = "305fe5dc56ef4d6abbf3adbe253cb36763f540d49e2ab465d1e090c43181f242"
 
 [[files]]
 file = "mods/melody_neoforge_1.0.10_MC_1.21.jar"
@@ -42635,10 +43083,6 @@ hash = "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
 [[files]]
 file = "mods/midnightlib-neoforge-1.9.3+1.21.1.jar"
 hash = "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703"
-
-[[files]]
-file = "mods/milky_way-1.21.1-3.0.0.jar"
-hash = "c5a6d8d83e54ea81c44b9b0c7002511a3e78f33a213952cbe94b9b1514d8756b"
 
 [[files]]
 file = "mods/minersdelight-1.21.1-1.4.5.jar"
@@ -42653,20 +43097,20 @@ file = "mods/modernworldcreation_neoforge_2.0.1_MC_1.21.1.jar"
 hash = "aba9de9a28879bc59333aa05f1b53e1233c9eca5a91ab1c4c55cc63674842a43"
 
 [[files]]
-file = "mods/modestmagic-neoforge-1.21.1-1.3.3.jar"
-hash = "fd827cc69b234355f5c00957144d5e9bb1bac87a24aaa91dfd41f2c4d78f0922"
+file = "mods/modestmagic-neoforge-1.21.1-1.4.1.jar"
+hash = "398e3348dcf9fa761fe3b5fdf995425f51141ef66b97d5b73db916fd6b0b98fd"
 
 [[files]]
-file = "mods/modulation-neoforge-1.21.1-3.3.2.jar"
-hash = "6a04cb1066dfadb458e5828f228c0fc1d6e60172381b6d8cc6a504f93266469a"
+file = "mods/modulation-neoforge-1.21.1-3.4.4.jar"
+hash = "4b2e796cb0d569240e15b10192efd265ffc55aa81b4b0c2351999c2e0d3a474b"
 
 [[files]]
-file = "mods/moonlight-1.21.1-3.6.3-neoforge.jar"
-hash = "1b0e1c5ed5774d8e1e80b294e3f63953f962aba74f6df4ea8422d65007c64201"
+file = "mods/moonlight-1.21.1-3.6.4-neoforge.jar"
+hash = "0d14c4a6494875dd99de52ac630bd78cd72a561dfa73ac58456baf3705ce1a56"
 
 [[files]]
-file = "mods/mru-1.0.33+1.21.1-neoforge.jar"
-hash = "07a208f46626ab6db1061c15e549022a87a5c9f4457e355edf09d4538e8e37b0"
+file = "mods/mru-1.0.40+1.21.1-neoforge.jar"
+hash = "d13f2d4dd2b8c2ca4a65a5a163fc043d5e3e341f15b2fc906cb256dc8e2e4bb5"
 
 [[files]]
 file = "mods/naturalist-2.0.3-neoforge-1.21.1.jar"
@@ -42709,8 +43153,8 @@ file = "mods/packdev_toolkit-neoforge-1.21.1-1.3.4.jar"
 hash = "1e683e134631e633b6a6308ad60d55653dd69e061dc7f803585bb1af86d03694"
 
 [[files]]
-file = "mods/paladins-neoforge-3.0.5+1.21.1.jar"
-hash = "1593bcabf3ff3c14a336bc0a677bbeaa0d1a249eb231d478df43bb9c6bb277fd"
+file = "mods/paladins-neoforge-3.1.1+1.21.1.jar"
+hash = "4db39abff682d1e707bdc0892e42cc1f8ed371da3b0b77f6b4cf2fc042bdb6a2"
 
 [[files]]
 file = "mods/particle_core-0.3.3+1.21+neoforge.jar"
@@ -42741,8 +43185,8 @@ file = "mods/player-animation-lib-forge-2.0.4+1.21.1.jar"
 hash = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
 
 [[files]]
-file = "mods/polytone-1.21-4.2.0-neoforge.jar"
-hash = "55250f757a3747e08aa32f739e6db48eef4417cd618959b223caf9961d424e1a"
+file = "mods/polytone-1.21-4.4.0-neoforge.jar"
+hash = "537998e90dbfdf056d590262da7a3a185d8a17af28a868dc2f494267841e91d8"
 
 [[files]]
 file = "mods/portfolio-1.21.1-1.6.0-neoforge.jar"
@@ -42765,8 +43209,8 @@ file = "mods/puffish_skills-0.19.0-1.21-neoforge.jar"
 hash = "6dcacba36cc157d7b9889764521564162e06636c65b4b189e67a68684636dfa6"
 
 [[files]]
-file = "mods/questlog-neoforge-1.21.1-3.3.2.jar"
-hash = "95f01af8ff5883b506dc15198674724d6611dbd1abc9db50d29450aa9b6299e2"
+file = "mods/questlog-neoforge-1.21.1-3.4.0.jar"
+hash = "04ddde9764462d04c1c774bf8c247ee7ad5a531bda48716306cda9145a6183e5"
 
 [[files]]
 file = "mods/quick-pack-neoforge-1.5.0+1.21.1.jar"
@@ -42785,12 +43229,12 @@ file = "mods/redomesticate-neoforge-1.21.1-1.10.1.jar"
 hash = "34b4145df0c3b27355fe924ad0d49939aebaeb404ea92cc004893f04364dc6ba"
 
 [[files]]
-file = "mods/reliable_advancements-neoforge-1.21.1-6.2.2.jar"
-hash = "68fe8c8da5a56efbedf77742103b7ba32e096073423feb8c3a651e327adab0c3"
+file = "mods/reliable_advancements-neoforge-1.21.1-6.2.4.jar"
+hash = "3d5a1fffb7cba6aadbac5f1a19779315572a287f11fb4909b4598715caf75d23"
 
 [[files]]
-file = "mods/reliable_backpacks-neoforge-1.21.1-1.9.0.jar"
-hash = "219f7553c30bbe8e3989e324c1b9e8ce075aa512f59a9b1954188e1ee74aac3c"
+file = "mods/reliable_backpacks-neoforge-1.21.1-1.9.1.jar"
+hash = "77d3c3c1f6dbc0ca5c1dd884cc8cc5da0511952ae5db178357f0c91b135dcfda"
 
 [[files]]
 file = "mods/reliable_gliders-neoforge-1.21.1-1.4.1.jar"
@@ -42801,20 +43245,20 @@ file = "mods/reliable_recipes-neoforge-1.21.1-3.1.8.jar"
 hash = "942794d210f0c883ee38d46a86dac540649f061a0f166dde3929a3ed97f1cb81"
 
 [[files]]
-file = "mods/reliable_remover-neoforge-1.21.1-2.12.1.jar"
-hash = "9d3d23f4c46c542daf88d2ecc785c7bec128cd80946d06024d02a14012a62dbb"
+file = "mods/reliable_remover-neoforge-1.21.1-3.1.1.jar"
+hash = "cf1f7bec74548587da543f3d6693b4bba37f070aea5c148de9ce460086846fbc"
 
 [[files]]
 file = "mods/reliable_replacer-neoforge-1.21.1-1.7.1.jar"
 hash = "7a1df342460d2537f1ac9c4a3a1d129ad390b132e36184e17e0b6f833fcf3ec4"
 
 [[files]]
-file = "mods/relics-neoforge-1.3.0+1.21.1.jar"
-hash = "55a7f34891e88a9d5371ede19a575da5bedea5770d7be0f552cddfb50e63c879"
+file = "mods/relics-neoforge-1.4.0+1.21.1.jar"
+hash = "25a4671e5a40ad4e050ce33773c3929b4842b672be3b09a752113e821855c577"
 
 [[files]]
-file = "mods/remi-neoforge-1.21.1-4.6.8.jar"
-hash = "686e6c6861dcc68c1713ac9a6b580c3381e4a4067e78e388fc90388e7d09cfd9"
+file = "mods/remi-neoforge-1.21.1-4.7.1.jar"
+hash = "af009119e7176e8795a5504dc301eeaca6ea75fcb9123b20cc6910a213fbfe76"
 
 [[files]]
 file = "mods/resourcefulconfig-neoforge-1.21-3.0.11.jar"
@@ -42833,8 +43277,12 @@ file = "mods/rhino-2101.2.7-build.85.jar"
 hash = "e0e9b0e78edd380440266c0f4ea8d489dac851ef075a4566a66a6dae2f7bbb66"
 
 [[files]]
-file = "mods/rogues-neoforge-3.0.4+1.21.1.jar"
-hash = "b696ad2825f2c147e5585da0d7e9f64a4e821e17b5ac13b3793599cded6cdb8a"
+file = "mods/rhino-2101.2.8-build.91.jar"
+hash = "1d53d962aa4dac54bcbb4f998c1845980cf194318f1d6b1580ea6ac15cce5ef3"
+
+[[files]]
+file = "mods/rogues-neoforge-3.1.1+1.21.1.jar"
+hash = "d3af832dc1059e42bc0a0c9c0e9cc8f1011286f1d098ef03d05407d7c9477484"
 
 [[files]]
 file = "mods/runes-neoforge-1.3.2+1.21.1.jar"
@@ -42881,20 +43329,16 @@ file = "mods/shield_api-neoforge-2.2.0.jar"
 hash = "adbd8facfcaf318956d670ff3f0341c0d8e15e136ae9c00749a255e25a9c0194"
 
 [[files]]
-file = "mods/shieldexp-neoforge-1.21.1-1.4.1.jar"
-hash = "473e21856abbf1d37edce8310f9c1e894064a8e9b0b0086e2f12810ce5709364"
-
-[[files]]
-file = "mods/shine-2.0.2+1.21.1-neoforge.jar.disabled"
-hash = "98443d25d3183646c56afa2978d8c9355a8357df8d18339e087745ec595cad37"
+file = "mods/shieldexp-neoforge-1.21.1-1.4.2.jar"
+hash = "cfa4df73f9fc204527c304744deb5398bb242a527cd89a4d3240ab1bd0ea35af"
 
 [[files]]
 file = "mods/simplest_paxels-1.21.1-1.0.6.jar"
 hash = "b216656d4a5a281a8f9f7ba5a32c1c290608e1d9245733779ca904678271ff64"
 
 [[files]]
-file = "mods/skill_tree-neoforge-1.5.3+1.21.1.jar"
-hash = "c86ae79dc177f3461fb4a21ff56b67d054ec35fc86345aa66ccb0497288ae0dd"
+file = "mods/skill_tree-neoforge-1.6.0+1.21.1.jar"
+hash = "6403a34061edd82fc966102041bc1c0639b4dbb106441eaf171746ea59856f5d"
 
 [[files]]
 file = "mods/smoothskies-2.10.4+1.21.1-neoforge.jar"
@@ -42913,24 +43357,20 @@ file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
 hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
 
 [[files]]
-file = "mods/soundattract-6.3.8d.jar"
-hash = "5113583e6758a0c137175021055d4400a6bd1b30a9c3d9e59f3a9c441042d360"
-
-[[files]]
 file = "mods/sounds-2.4.22+lts+1.21.1-neoforge.jar"
 hash = "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7"
 
 [[files]]
-file = "mods/spell_engine-neoforge-1.9.16+1.21.1.jar"
-hash = "9d478c45e27fbf5dad6e95012945886dd953f211b3cdb6a5d7656f101c529e2c"
+file = "mods/spell_engine-neoforge-1.10.5+1.21.1.jar"
+hash = "08a2b0c5cdf3cdf723e71dbe113e7055aeb491c6e6a77bcce7982a67ce9d84b5"
 
 [[files]]
 file = "mods/spell_power-neoforge-1.6.0+1.21.1.jar"
 hash = "a57cd041be1bee86640861588ad9b4a3a032d2dedff8d44abf5305136e2f5854"
 
 [[files]]
-file = "mods/spelunkery-1.21.1-0.4.3-neoforge.jar"
-hash = "43c40a6e2eaa59e61360aec59b948ee84e391d917eba0fa51927324a5ff4783a"
+file = "mods/spelunkery-1.21.1-0.4.4-neoforge.jar"
+hash = "a97b691ad53c64ed2534fa1928d2994cbc7ae938f624db230d926e2228a2748a"
 
 [[files]]
 file = "mods/spyglass_improvements-1.5.7+mc1.21+neoforge.jar"
@@ -43013,8 +43453,8 @@ file = "mods/usefulspyglass-neoforge-1.21.1-1.0.2.jar"
 hash = "09bf63f22dfb0e9b607e6357d34bab8d574e3046733072ceb9a17861817bfb08"
 
 [[files]]
-file = "mods/valcon-0.9.jar"
-hash = "c8dfa1a008171c9a81c005c78d432b15b2544b590e84c7a87d57d7f9f1515c2b"
+file = "mods/valcon-0.9.1.2.jar"
+hash = "b77e4400d7c43c54bdb0527148c5191eb04cf1ad3762f8d9039e35d72c65e35c"
 
 [[files]]
 file = "mods/wakes-0.4.1+1.21.1.jar"
@@ -43033,8 +43473,8 @@ file = "mods/windswept-1.21.1-4.0.2.jar"
 hash = "f78bb0f3c86a760d49bbf425b227817e8d258e6e03e42a540d62634925610bab"
 
 [[files]]
-file = "mods/wizards-neoforge-3.0.4+1.21.1.jar"
-hash = "83b4f4b739b6994556e77abe0e4832ac79762ec8762ab2e178ca459bb79e09ae"
+file = "mods/wizards-neoforge-3.1.2+1.21.1.jar"
+hash = "feb4d0ac5c000e64ce2c19ddb42ab33092273001dd4fcf45521c6308eae1bf94"
 
 [[files]]
 file = "mods/worldplaytime-1.2.2-1.21-FABRIC.jar"
@@ -43053,8 +43493,8 @@ file = "mods/zfastnoise-1.0.13+1.21.1+neoforge.jar"
 hash = "36ee58475c46c56e76c199eebe48dc95aacaa1133512617dcc46053339c2fb5d"
 
 [[files]]
-file = "mods/zipline-neoforge-1.21.1-1.5.1.jar"
-hash = "6cd6f07469f6590973962875c54838dc4ad0c2d9ab31c4cd12f67bb80f2ed56a"
+file = "mods/zipline-neoforge-1.21.1-1.5.2.jar"
+hash = "e0e54790b4d6a9ccf861e81e1d4fbdd163d63c48848ed69e00131eb05a19ba2f"
 
 [[files]]
 file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/ecologics/vanilla_woods/azalea_bookshelf.png"
@@ -43087,6 +43527,30 @@ hash = "abf96138e1b2cb42a2d34127fdd32e18648a0892eea17ba993a7a20f95fcb0a9"
 [[files]]
 file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/minecraft/vanilla_woods/pale_oak_bookshelf_alt.png"
 hash = "f2b8e693aa21e4803fc0e9e85105b4c9f034400b4b86402fcf1a0c05d4c6f774"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/netherexp/vanilla_woods/claret_bookshelf.png"
+hash = "6448e8a9f0816d3552b2b4a01631adddec96996abda681abae0412ec8c0274d7"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/everycomp/textures/block/nml/netherexp/vanilla_woods/claret_bookshelf_alt.png"
+hash = "aed6a4ae48bf2cf206f48addecc0754f0c1d3ee7591fa70c39045e4ea1b78ad6"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/farmersdelight/textures/block/acacia_cabinet_top.png"
+hash = "8eb5f1931500da64ff4a652110da44207fe6c2ea4a852d7efe92135df46c564e"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/netherexp/lang/en_us.json"
+hash = "1bcc3859fe1b9787d8162ccfb0d1cf2218e26b82fd29a03237f481c5b3acb1e9"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/nomansland/lang/en_us.json"
+hash = "232246e9033553abdfad1d692c1ba445f2a2c13c53130f0cc0eb837ad598c03e"
+
+[[files]]
+file = "packdev_toolkit_resource_pack/assets/undead_unleashed/lang/en_us.json"
+hash = "54c181dcd15f6663807b6d51a24ac3ef5f194f15782852affa8811c98a6cbe20"
 
 [[files]]
 file = "resourcepacks/Antique_Atlas_4_Compat_v1.4.zip"
@@ -43185,8 +43649,8 @@ file = "resourcepacks/Shiny Hearts.zip"
 hash = "2dd37f6a9622c004bdf12a9e880eac0fd1436cb333053a2fc160488cec972f24"
 
 [[files]]
-file = "resourcepacks/Sun & Moon Fusion 2.1.zip"
-hash = "0c7cf04168b09497f89250310eb53aca7864f92ca532c39e96ee45e237eb486a"
+file = "resourcepacks/Sun & Moon Fusion 3.zip"
+hash = "e6d15e7f401386cd182bd4deb7306d44949d746bddaf69dccceb13d090961ea7"
 
 [[files]]
 file = "resourcepacks/Texture_Tweaks_v2.0.zip"
@@ -43229,12 +43693,12 @@ file = "resourcepacks/§fMinecraft∶ Update §8• Beta 1.zip"
 hash = "74e86f4cc5ad87c81b46ec47ff9df907e41e0415309fa1e434442b02311e195e"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.9.zip"
-hash = "46ed277127f04bac69af03effa897815bd20af959023784fa12a003d31425dfe"
+file = "shaderpacks/ComplementaryReimagined_r5.9.1.zip"
+hash = "f2bc85507f8bfed274ede69fc7df3b6af3f35c5c98baea8bec95ebeb5f3eb79b"
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.9.zip"
-hash = "8b7a55b4303ca5ef47a42948ca27435857a70bb0d4f40d4f81096deb1afe1344"
+file = "shaderpacks/ComplementaryUnbound_r5.9.1.zip"
+hash = "328a7e75422897ac57e9b914ec79842cb3881573c675eaed9f436c69400845ee"
 
 [[files]]
 file = "shaderpacks/OPAL.zip"
