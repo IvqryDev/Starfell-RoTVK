@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "starfell:copper_base",
+    "starfell:beskelt_base",
+    "starfell:iron_base",
+    "starfell:gold_base",
+    "starfell:silver_base",
+    "starfell:mythril_base",
+    "starfell:ashen_base"
+  ]
+}

@@ -41913,7 +41913,7 @@ file = "kubejs/startup_scripts/durabilty_tweaks.js"
 hash = "f1ede25b2ca4b48c4887f6fea74528cb9365d331390a9cf46bd8b1049b114fd2"
 
 [[files]]
-file = "kubejs/startup_scripts/great_rune_tweaks.js"
+file = "kubejs/startup_scripts/rarity_tweaks.js"
 hash = "890966690ab81244b150dcc396b5954b3f99f15076821c879f52a60075be865f"
 
 [[files]]

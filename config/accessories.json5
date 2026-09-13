@@ -1,7 +1,7 @@
 {
 	"useExperimentalCaching": false,
 	"clientOptions": {
-		"equipControl": "MUST_NOT_CROUCH",
+		"equipControl": "MUST_CROUCH",
 		"forceNullRenderReplacement": false,
 		"disableEmptySlotScreenError": false,
 		"showCosmeticAccessories": false,
@@ -53,7 +53,7 @@
 	"modifiers": [
 		{
 			"slotType": "necklace",
-			"amount": 3
+			"amount": -1
 		},
 		{
 			"slotType": "spell_quiver",
@@ -65,6 +65,18 @@
 		},
 		{
 			"slotType": "charm",
+			"amount": -1
+		},
+		{
+			"slotType": "ring",
+			"amount": 2
+		},
+		{
+			"slotType": "back",
+			"amount": -1
+		},
+		{
+			"slotType": "belt",
 			"amount": -1
 		}
 	]

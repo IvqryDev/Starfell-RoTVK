@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 0.04,
+      "attribute": "spell_power:arcane",
+      "operation": "add_multiplied_total"
+    }
+  },
+  "descriptionId": "material.starfell.tanzanite",
+  "ingredient": {
+    "item": "jewelry:tanzanite"
+  },
+  "paletteLocation": "starfell:palettes/tanzanite",
+  "quality": 2
+}

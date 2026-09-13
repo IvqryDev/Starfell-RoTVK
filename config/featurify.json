@@ -1,6 +1,6 @@
 {
-  "config_version": "2.0.8",
-  "config_datetime": "2026-09-03_16-24-07",
+  "config_version": "2.0.13",
+  "config_datetime": "2026-09-13_13-52-44",
   "global": {
     "disable_all_placed_features": false
   },
@@ -22,10 +22,6 @@
       "is_disabled": true
     },
     {
-      "name": "caverns_and_chasms:ore_gold_and_silver_lower",
-      "is_disabled": true
-    },
-    {
       "name": "caverns_and_chasms:ore_gold_buried",
       "is_disabled": true
     },
@@ -42,20 +38,27 @@
       "is_disabled": true
     },
     {
-      "name": "caverns_and_chasms:ore_silver_buried",
-      "is_disabled": true
-    },
-    {
       "name": "caverns_and_chasms:ore_silver_buried_with_gold",
       "is_disabled": true
     },
     {
       "name": "caverns_and_chasms:ore_silver_extra",
-      "is_disabled": true
-    },
-    {
-      "name": "caverns_and_chasms:ore_silver_soul",
-      "is_disabled": true
+      "is_disabled": false,
+      "whitelisted_biomes": [
+        "minecraft:sulfur_caves",
+        "minecraft:lush_caves",
+        "minecraft:dripstone_caves",
+        "clifftree:warm_caves",
+        "clifftree:mushroom_caves",
+        "clifftree:lukewarm_caves",
+        "clifftree:frozen_caves",
+        "clifftree:dirt_caves",
+        "clifftree:cold_caves",
+        "clifftree:caves"
+      ],
+      "blacklisted_biomes": [
+        "minecraft:ice_spikes"
+      ]
     },
     {
       "name": "caverns_and_chasms:ore_spinel",
@@ -95,6 +98,14 @@
     },
     {
       "name": "friendsandfoes:buttercup_patch",
+      "is_disabled": true
+    },
+    {
+      "name": "incubation:nest_turkey",
+      "is_disabled": true
+    },
+    {
+      "name": "jewelry:gem_vein_placed",
       "is_disabled": true
     },
     {

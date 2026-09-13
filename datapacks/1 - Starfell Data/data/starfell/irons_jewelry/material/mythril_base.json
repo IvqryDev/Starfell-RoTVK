@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 0.04,
+      "attribute": "critical_strike:damage",
+      "operation": "add_multiplied_total"
+    }
+  },
+  "descriptionId": "material.starfell.mythril",
+  "ingredient": {
+    "item": "oreganized:silver_ingot"
+  },
+  "paletteLocation": "starfell:palettes/mythril",
+  "quality": 2
+}

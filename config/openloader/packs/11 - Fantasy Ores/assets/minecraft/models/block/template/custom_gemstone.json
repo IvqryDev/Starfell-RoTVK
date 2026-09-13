@@ -1,0 +1,124 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Model created by Zorak Design - Contact me on discord for work: CesarZorak#0808",
+	"parent": "minecraft:block/template/zk_block_crystal",
+	"textures": {
+		"particle": "#block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#block", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#block", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#block", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#block", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#block_top", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#block_top", "cullface": "down"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [5.75, 15.75, 4.75],
+			"to": [10.25, 20.25, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 10]},
+			"faces": {
+				"north": {"uv": [0, 5, 4, 9], "texture": "#crystal_ore", "cullface": "up"},
+				"east": {"uv": [0, 5, 4, 9], "texture": "#crystal_ore", "cullface": "up"},
+				"south": {"uv": [0, 5, 4, 9], "texture": "#crystal_ore", "cullface": "up"},
+				"west": {"uv": [0, 5, 4, 9], "texture": "#crystal_ore", "cullface": "up"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#crystal_ore", "cullface": "up"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [7.85, 15.85, 3.85],
+			"to": [11.15, 19.15, 7.15],
+			"rotation": {"angle": 45, "axis": "y", "origin": [6, 8, 10]},
+			"faces": {
+				"north": {"uv": [9, 3, 12, 6], "texture": "#crystal_ore", "cullface": "up"},
+				"east": {"uv": [9, 3, 12, 6], "texture": "#crystal_ore", "cullface": "up"},
+				"south": {"uv": [9, 3, 12, 6], "texture": "#crystal_ore", "cullface": "up"},
+				"west": {"uv": [9, 3, 12, 6], "texture": "#crystal_ore", "cullface": "up"},
+				"up": {"uv": [13, 13, 16, 16], "texture": "#crystal_ore", "cullface": "up"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [8, 16, 3],
+			"to": [10, 20, 5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 9]},
+			"faces": {
+				"north": {"uv": [13, 3, 15, 7], "texture": "#crystal_ore", "cullface": "up"},
+				"east": {"uv": [13, 3, 15, 7], "texture": "#crystal_ore", "cullface": "up"},
+				"south": {"uv": [13, 3, 15, 7], "texture": "#crystal_ore", "cullface": "up"},
+				"west": {"uv": [13, 3, 15, 7], "texture": "#crystal_ore", "cullface": "up"},
+				"up": {"uv": [13, 0, 15, 2], "texture": "#crystal_ore", "cullface": "up"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [1.85, 15.85, 7.85],
+			"to": [5.15, 18.15, 11.15],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 9]},
+			"faces": {
+				"north": {"uv": [5, 4, 8, 6], "texture": "#crystal_ore", "cullface": "up"},
+				"east": {"uv": [5, 4, 8, 6], "texture": "#crystal_ore", "cullface": "up"},
+				"south": {"uv": [5, 4, 8, 6], "texture": "#crystal_ore", "cullface": "up"},
+				"west": {"uv": [5, 4, 8, 6], "texture": "#crystal_ore", "cullface": "up"},
+				"up": {"uv": [5, 0, 8, 3], "texture": "#crystal_ore", "cullface": "up"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [1.85, 15.85, 7.85],
+			"to": [4.15, 17.15, 10.15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 9]},
+			"faces": {
+				"north": {"uv": [13, 3, 15, 4], "texture": "#crystal_ore", "cullface": "up"},
+				"east": {"uv": [13, 3, 15, 4], "texture": "#crystal_ore", "cullface": "up"},
+				"south": {"uv": [13, 3, 15, 4], "texture": "#crystal_ore", "cullface": "up"},
+				"west": {"uv": [13, 3, 15, 4], "texture": "#crystal_ore", "cullface": "up"},
+				"up": {"uv": [13, 0, 15, 2], "texture": "#crystal_ore", "cullface": "up"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [7.85, 15.85, 4.85],
+			"to": [11.15, 21.15, 8.15],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7, 8, 7]},
+			"faces": {
+				"north": {"uv": [5, 4, 8, 9], "texture": "#crystal_ore", "cullface": "up"},
+				"east": {"uv": [5, 4, 8, 9], "texture": "#crystal_ore", "cullface": "up"},
+				"south": {"uv": [5, 4, 8, 9], "texture": "#crystal_ore", "cullface": "up"},
+				"west": {"uv": [5, 4, 8, 9], "texture": "#crystal_ore", "cullface": "up"},
+				"up": {"uv": [5, 0, 8, 3], "texture": "#crystal_ore", "cullface": "up"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [11, 14, 2],
+			"to": [13, 19, 5],
+			"rotation": {"angle": 45, "axis": "x", "origin": [7, 8, 7]},
+			"faces": {
+				"north": {"uv": [11, 3, 9, 8], "texture": "#crystal_ore", "cullface": "up"},
+				"east": {"uv": [9, 3, 12, 8], "texture": "#crystal_ore", "cullface": "up"},
+				"south": {"uv": [10, 3, 12, 8], "texture": "#crystal_ore", "cullface": "up"},
+				"west": {"uv": [9, 3, 12, 8], "texture": "#crystal_ore", "cullface": "up"},
+				"up": {"uv": [9, 0, 12, 2], "rotation": 90, "texture": "#crystal_ore", "cullface": "up"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "ore",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 9,
+			"children": [1, 2, 3, 4, 5, 6, 7]
+		}
+	]
+}

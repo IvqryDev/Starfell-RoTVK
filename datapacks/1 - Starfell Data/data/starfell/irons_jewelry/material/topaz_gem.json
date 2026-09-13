@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 0.04,
+      "attribute": "spell_power:fire",
+      "operation": "add_multiplied_total"
+    }
+  },
+  "descriptionId": "material.starfell.topaz",
+  "ingredient": {
+    "item": "jewelry:topaz"
+  },
+  "paletteLocation": "starfell:palettes/topaz",
+  "quality": 1
+}

@@ -1,9 +1,6 @@
 {
   "cache": {
-    "rpg_series:loot_tier/tier_1_accessories": [
-      "jewelry:diamond_ring",
-      "jewelry:diamond_necklace"
-    ],
+    "rpg_series:loot_tier/tier_1_accessories": [],
     "rpg_series:archetype/healing_weapon": [
       "paladins:holy_staff",
       "paladins:diamond_holy_staff",
@@ -55,11 +52,7 @@
       "paladins:netherite_prior_robe_legs",
       "paladins:netherite_prior_robe_feet"
     ],
-    "rpg_series:loot_tier/tier_0_accessories": [
-      "jewelry:iron_ring",
-      "jewelry:gold_ring",
-      "jewelry:copper_ring"
-    ],
+    "rpg_series:loot_tier/tier_0_accessories": [],
     "rpg_series:loot_reference/tier_3_treasures": [
       "minecraft:netherite_ingot",
       "minecraft:netherite_scrap",
@@ -156,56 +149,9 @@
       "paladins:acolyte_wand"
     ],
     "rpg_series:archetype/defense_weapon": [],
-    "rpg_series:loot_tier/tier_2_accessories": [
-      "jewelry:ruby_necklace",
-      "jewelry:citrine_necklace",
-      "jewelry:jade_necklace",
-      "jewelry:tanzanite_ring",
-      "jewelry:sapphire_necklace",
-      "jewelry:topaz_necklace",
-      "jewelry:citrine_ring",
-      "jewelry:sapphire_ring",
-      "jewelry:tanzanite_necklace",
-      "jewelry:ruby_ring",
-      "jewelry:topaz_ring",
-      "jewelry:jade_ring"
-    ],
-    "rpg_series:loot_tier/tier_4_accessories": [
-      "jewelry:unique_arcane_ring",
-      "jewelry:unique_healing_ring",
-      "jewelry:unique_crit_necklace",
-      "jewelry:unique_attack_necklace",
-      "jewelry:unique_arcane_necklace",
-      "jewelry:unique_spell_ring",
-      "jewelry:unique_tank_necklace",
-      "jewelry:unique_crit_ring",
-      "jewelry:unique_archer_ring",
-      "jewelry:unique_dex_necklace",
-      "jewelry:unique_fire_necklace",
-      "jewelry:unique_healing_necklace",
-      "jewelry:unique_attack_ring",
-      "jewelry:unique_frost_necklace",
-      "jewelry:unique_fire_ring",
-      "jewelry:unique_archer_necklace",
-      "jewelry:unique_spell_necklace",
-      "jewelry:unique_frost_ring",
-      "jewelry:unique_tank_ring",
-      "jewelry:unique_dex_ring"
-    ],
-    "rpg_series:loot_tier/tier_3_accessories": [
-      "jewelry:netherite_jade_ring",
-      "jewelry:netherite_sapphire_necklace",
-      "jewelry:netherite_tanzanite_ring",
-      "jewelry:netherite_jade_necklace",
-      "jewelry:netherite_citrine_necklace",
-      "jewelry:netherite_topaz_ring",
-      "jewelry:netherite_citrine_ring",
-      "jewelry:netherite_tanzanite_necklace",
-      "jewelry:netherite_ruby_ring",
-      "jewelry:netherite_ruby_necklace",
-      "jewelry:netherite_topaz_necklace",
-      "jewelry:netherite_sapphire_ring"
-    ],
+    "rpg_series:loot_tier/tier_2_accessories": [],
+    "rpg_series:loot_tier/tier_4_accessories": [],
+    "rpg_series:loot_tier/tier_3_accessories": [],
     "rpg_series:loot_reference/tier_0_armors": [
       "minecraft:leather_helmet",
       "minecraft:leather_chestplate",

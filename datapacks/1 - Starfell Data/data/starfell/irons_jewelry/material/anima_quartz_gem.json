@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 2,
+      "attribute": "minecraft:generic.max_health",
+      "operation": "add_value"
+    }
+  },
+  "descriptionId": "material.starfell.anima_quartz",
+  "ingredient": {
+    "item": "heart_crystals:heart_crystal"
+  },
+  "paletteLocation": "starfell:palettes/anima_quartz",
+  "quality": 1
+}

@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "starfell:ring/standard_ring",
+    "starfell:necklace/standard_necklace"
+  ]
+}

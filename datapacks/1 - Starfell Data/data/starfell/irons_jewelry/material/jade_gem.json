@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 0.04,
+      "attribute": "ranged_weapon:damage",
+      "operation": "add_multiplied_total"
+    }
+  },
+  "descriptionId": "material.starfell.jade",
+  "ingredient": {
+    "item": "jewelry:jade"
+  },
+  "paletteLocation": "starfell:palettes/jade",
+  "quality": 2
+}

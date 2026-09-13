@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 0.04,
+      "attribute": "minecraft:generic.attack_speed",
+      "operation": "add_multiplied_total"
+    }
+  },
+  "descriptionId": "material.starfell.gold",
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  },
+  "paletteLocation": "starfell:palettes/gold",
+  "quality": 1.5
+}

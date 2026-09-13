@@ -1,0 +1,24 @@
+{
+  "type": "irons_jewelry:ring",
+  "descriptionId": "pattern.starfell.standard_ring",
+  "partForQuality": "starfell:ring/standard_ring_gem",
+  "parts": [
+    {
+      "drawOrder": 1,
+      "id": "starfell:ring/standard_ring_gem",
+      "materialCost": 2
+    },
+    {
+      "bonuses": [
+        {
+          "bonusType": "irons_jewelry:attribute_bonus",
+          "qualityMultiplier": 1.5
+        }
+      ],
+      "drawOrder": 0,
+      "id": "starfell:ring/standard_ring_base",
+      "materialCost": 5
+    }
+  ],
+  "unlockedByDefault": false
+}

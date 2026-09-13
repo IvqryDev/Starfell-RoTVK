@@ -1,0 +1,24 @@
+{
+  "type": "irons_jewelry:necklace",
+  "descriptionId": "pattern.starfell.standard_necklace",
+  "partForQuality": "starfell:necklace/standard_necklace_base",
+  "parts": [
+    {
+      "drawOrder": 0,
+      "id": "starfell:necklace/standard_necklace_base",
+      "materialCost": 5
+    },
+    {
+      "bonuses": [
+        {
+          "bonusType": "irons_jewelry:attribute_bonus",
+          "qualityMultiplier": 1.5
+        }
+      ],
+      "drawOrder": 1,
+      "id": "starfell:necklace/standard_necklace_gem",
+      "materialCost": 2
+    }
+  ],
+  "unlockedByDefault": false
+}

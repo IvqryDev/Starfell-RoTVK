@@ -1,0 +1,6 @@
+{
+  "allowedMaterials": "#irons_jewelry:metal",
+  "baseTextureLocation": "starfell:talismans/ring/major_ring_base",
+  "descriptionId": "part.starfell.major_ring_base",
+  "paletteKey": "irons_jewelry:palettes/gold"
+}

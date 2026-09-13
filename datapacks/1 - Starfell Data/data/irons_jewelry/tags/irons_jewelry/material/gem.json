@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "starfell:citrine_gem",
+    "starfell:anima_quartz_gem",
+    "starfell:ruby_gem",
+    "starfell:topaz_gem",
+    "starfell:sapphire_gem",
+    "starfell:jade_gem",
+    "starfell:tanzanite_gem"
+  ]
+}

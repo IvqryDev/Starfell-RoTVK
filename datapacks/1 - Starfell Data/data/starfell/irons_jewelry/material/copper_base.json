@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 0.04,
+      "attribute": "puffish_attributes:mining_speed",
+      "operation": "add_multiplied_total"
+    }
+  },
+  "descriptionId": "material.starfell.copper",
+  "ingredient": {
+    "item": "minecraft:copper_ingot"
+  },
+  "paletteLocation": "starfell:palettes/copper",
+  "quality": 1
+}

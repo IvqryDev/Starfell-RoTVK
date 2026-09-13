@@ -1,0 +1,6 @@
+{
+  "allowedMaterials": "#irons_jewelry:metal",
+  "baseTextureLocation": "starfell:talismans/necklace/minor_necklace_base",
+  "descriptionId": "part.starfell.minor_necklace_base",
+  "paletteKey": "irons_jewelry:palettes/gold"
+}

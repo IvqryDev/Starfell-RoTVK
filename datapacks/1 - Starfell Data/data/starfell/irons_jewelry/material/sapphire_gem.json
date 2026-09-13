@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 0.04,
+      "attribute": "spell_power:frost",
+      "operation": "add_multiplied_total"
+    }
+  },
+  "descriptionId": "material.starfell.sapphire",
+  "ingredient": {
+    "item": "jewelry:sapphire"
+  },
+  "paletteLocation": "starfell:palettes/sapphire",
+  "quality": 1.5
+}

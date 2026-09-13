@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 0.04,
+      "attribute": "minecraft:generic.movement_speed",
+      "operation": "add_multiplied_total"
+    }
+  },
+  "descriptionId": "material.starfell.beskelt",
+  "ingredient": {
+    "item": "oreganized:lead_ingot"
+  },
+  "paletteLocation": "starfell:palettes/beskelt",
+  "quality": 1.5
+}

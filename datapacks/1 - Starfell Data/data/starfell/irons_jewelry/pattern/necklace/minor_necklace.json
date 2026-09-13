@@ -1,0 +1,22 @@
+{
+  "type": "irons_jewelry:necklace",
+  "descriptionId": "pattern.starfell.minor_necklace",
+  "partForQuality": "starfell:necklace/minor_necklace_base",
+  "parts": [
+    {
+      "drawOrder": 0,
+      "id": "starfell:necklace/minor_necklace_base",
+      "materialCost": 4
+    },
+    {
+      "bonuses": [
+        {
+          "bonusType": "irons_jewelry:attribute_bonus"
+        }
+      ],
+      "drawOrder": 1,
+      "id": "starfell:necklace/minor_necklace_gem",
+      "materialCost": 1
+    }
+  ]
+}

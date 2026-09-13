@@ -1,0 +1,6 @@
+{
+  "allowedMaterials": "#irons_jewelry:gem",
+  "baseTextureLocation": "starfell:talismans/ring/minor_ring_gem",
+  "descriptionId": "part.starfell.minor_ring_gem",
+  "paletteKey": "irons_jewelry:palettes/diamond"
+}

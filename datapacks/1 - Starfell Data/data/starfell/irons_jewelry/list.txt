@@ -1,0 +1,27 @@
+BASES:
+- Copper / MINING SPEED - 1
+- Iron / DEFENSE - 1
+- Beskelt / MOVEMENT SPEED - 1.5
+- Gold / ATTACK SPEED - 1.5
+- Silver / CRIT CHANCE - 1.5
+- Mythril / CRIT DAMAGE - 2
+- Ashen / ARMOR SHRED - 2
+
+GEMS:
+- Citrine / DENDRO - 1
+- Anima Quartz / VITALITY - 1
+- Ruby / MELEE - 1.5
+- Topaz / PYRO - 1.5
+- Sapphire / CRYO - 1.5
+- Jade / RANGED - 2
+- Tanzanite / SELENO - 2
+
+PATTERNS:
+- Minor Stat Ring - Attribute / GEM
+- Minor Stat Ring - Attribute / BASE
+
+- Stat Ring - Attribute / GEM
+- Stat Ring - Attribute / BASE
+
+- Major Stat Ring - Attribute / GEM
+- Major Stat Ring - Attribute / BASE

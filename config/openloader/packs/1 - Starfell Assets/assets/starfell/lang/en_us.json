@@ -1,0 +1,47 @@
+{
+  "part.starfell.minor_necklace_base": "Necklace Thread",
+  "part.starfell.minor_necklace_gem": "Necklace Gem",
+  "part.starfell.standard_necklace_base": "Necklace Thread",
+  "part.starfell.standard_necklace_gem": "Necklace Gem",
+  "part.starfell.major_necklace_base": "Necklace Thread",
+  "part.starfell.major_necklace_gem": "Necklace Gem",
+
+  "pattern.starfell.minor_necklace": "Signature Necklace",
+  "pattern.starfell.standard_necklace": "Refined Necklace",
+  "pattern.starfell.major_necklace": "Flawless Necklace",
+
+  "pattern.starfell.minor_necklace.item": "%s-%s Necklace",
+  "pattern.starfell.standard_necklace.item": "Refined %s-%s Necklace",
+  "pattern.starfell.major_necklace.item": "Flawless %s-%s Necklace",
+
+  "part.starfell.minor_ring_base": "Ring Band",
+  "part.starfell.minor_ring_gem": "Ring Gem",
+  "part.starfell.standard_ring_base": "Ring Band",
+  "part.starfell.standard_ring_gem": "Ring Gem",
+  "part.starfell.major_ring_base": "Ring Band",
+  "part.starfell.major_ring_gem": "Ring Gem",
+
+  "pattern.starfell.minor_ring": "Standard Ring",
+  "pattern.starfell.standard_ring": "Enhanced Ring",
+  "pattern.starfell.major_ring": "Masterwork Ring",
+
+  "pattern.starfell.minor_ring.item": "%s-%s Ring",
+  "pattern.starfell.standard_ring.item": "Enhanced %s-%s Ring",
+  "pattern.starfell.major_ring.item": "Masterwork %s-%s Ring",
+
+  "material.starfell.copper": "Copper",
+  "material.starfell.beskelt": "Beskelt",
+  "material.starfell.iron": "Iron",
+  "material.starfell.gold": "Gold",
+  "material.starfell.silver": "Silver",
+  "material.starfell.mythril": "Mythril",
+  "material.starfell.ashen": "Ashen Steel",
+
+  "material.starfell.citrine": "Citrine",
+  "material.starfell.anima_quartz": "Anima Quartz",
+  "material.starfell.ruby": "Ruby",
+  "material.starfell.topaz": "Topaz",
+  "material.starfell.sapphire": "Sapphire",
+  "material.starfell.jade": "Jade",
+  "material.starfell.tanzanite": "Tanzanite"
+}

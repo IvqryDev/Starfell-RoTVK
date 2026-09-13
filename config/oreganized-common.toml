@@ -1,11 +1,9 @@
 #Common
 [common]
-	#Can lead blocks be placed into a cauldron to melt?
-	cauldronLeadMelting = false
-	#Should lead poisoning events give just Poison instead of Brain Damage?
-	poisonInsteadOfBrainDamage = true
 	#Should lead ore spawn dust clouds when broken without adjacent water?
-	leadDustCloud = true
+	leadDustCloud = false
+	#Should lead poisoning events give just Poison instead of Brain Damage?
+	poisonInsteadOfBrainDamage = false
 	#Pillagers have a chance to spawn with a lead bolt in their offhand
 	pillagerSpawnWithBolts = true
 	#The scribe is able to silk-touch pickaxe-related blocks
@@ -14,6 +12,8 @@
 	# Default: 200
 	# Range: 0 ~ 2000
 	moltenLeadDelay = 200
+	#Can lead blocks be placed into a cauldron to melt?
+	cauldronLeadMelting = true
 	#Replace the stained glass windows in cleric temples with crystal glass
 	replaceClericWindows = true
 

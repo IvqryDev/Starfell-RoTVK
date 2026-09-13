@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 0.04,
+      "attribute": "spell_power:healing",
+      "operation": "add_multiplied_total"
+    }
+  },
+  "descriptionId": "material.starfell.citrine",
+  "ingredient": {
+    "item": "jewelry:citrine"
+  },
+  "paletteLocation": "starfell:palettes/citrine",
+  "quality": 1
+}

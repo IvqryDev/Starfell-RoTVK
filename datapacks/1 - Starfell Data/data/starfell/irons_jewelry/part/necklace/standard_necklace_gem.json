@@ -1,0 +1,6 @@
+{
+  "allowedMaterials": "#irons_jewelry:gem",
+  "baseTextureLocation": "starfell:talismans/necklace/standard_necklace_gem",
+  "descriptionId": "part.starfell.standard_necklace_gem",
+  "paletteKey": "irons_jewelry:palettes/diamond"
+}

@@ -1,0 +1,15 @@
+{
+  "bonusParameters": {
+    "irons_jewelry:attribute": {
+      "amount": 0.02,
+      "attribute": "critical_strike:chance",
+      "operation": "add_multiplied_total"
+    }
+  },
+  "descriptionId": "material.starfell.silver",
+  "ingredient": {
+    "item": "caverns_and_chasms:silver_ingot"
+  },
+  "paletteLocation": "starfell:palettes/silver",
+  "quality": 1.5
+}

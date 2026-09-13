@@ -1,0 +1,22 @@
+{
+  "type": "irons_jewelry:ring",
+  "descriptionId": "pattern.starfell.minor_ring",
+  "partForQuality": "starfell:ring/minor_ring_gem",
+  "parts": [
+    {
+      "drawOrder": 1,
+      "id": "starfell:ring/minor_ring_gem",
+      "materialCost": 1
+    },
+    {
+      "bonuses": [
+        {
+          "bonusType": "irons_jewelry:attribute_bonus"
+        }
+      ],
+      "drawOrder": 0,
+      "id": "starfell:ring/minor_ring_base",
+      "materialCost": 4
+    }
+  ]
+}

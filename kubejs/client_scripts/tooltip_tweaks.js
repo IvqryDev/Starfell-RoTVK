@@ -55,6 +55,21 @@ ItemEvents.modifyTooltips(tooltip => {
         tooltip.removeLine(6)
     })
 
+    tooltip.modify([
+        "irons_jewelry:ring",
+        "irons_jewelry:necklace"
+    ], tooltip => {
+        tooltip.removeLine(10)
+        tooltip.removeLine(9)
+        tooltip.removeLine(8)
+        tooltip.removeLine(7)
+        tooltip.removeLine(6)
+        tooltip.removeLine(5)
+    })
+
+    tooltip.modify("irons_jewelry:ring", tooltip => {
+    })
+
     //Audio Listeners, Love Ya' To Death
     tooltip.add(['artifacts:everlasting_beef'], '§7"Would you rather have..."')
     tooltip.add(['artifacts:eternal_steak'], '§7"The final ingredient, was all of you."')
@@ -76,6 +91,11 @@ ItemEvents.modifyTooltips(tooltip => {
     tooltip.add(['heart_crystals:heart_lantern'], "§7Heals you when nearby.")
     tooltip.add(['nomansland:warding_effigy'], "§7Reduces monster spawns when nearby.")
     tooltip.add(['runes:crafting_altar'], "§7Can craft icons more efficiently than by hand.")
+
+    //Items
+    tooltip.add(["jewelry:citrine", "jewelry:topaz"], "§7Modest")
+    tooltip.add(["jewelry:ruby", "jewelry:sapphire"], "§7Semi-precious")
+    tooltip.add(["jewelry:jade", "jewelry:tanzanite"], "§7Precious")
 
     //Class: Basic
     tooltip.add([
