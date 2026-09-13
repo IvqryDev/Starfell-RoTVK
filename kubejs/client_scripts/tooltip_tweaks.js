@@ -10,7 +10,8 @@ ItemEvents.modifyTooltips(tooltip => {
         "minecraft:vine",
         "minecraft:lead",
         "farmersdelight:rope",
-        "minecraft:crying_obsidian"
+        "minecraft:crying_obsidian",
+        "irons_jewelry:jewelcrafting_guide"
     ], tooltip => {
         tooltip.removeLine(1)
     })
@@ -20,31 +21,6 @@ ItemEvents.modifyTooltips(tooltip => {
         "archers:medium_quiver"
     ], tooltip => {
         tooltip.removeLine(3)
-    })
-
-    tooltip.modify([
-        "jewelry:unique_crit_necklace",
-        "jewelry:unique_crit_ring",
-        "jewelry:unique_arcane_necklace",
-        "jewelry:unique_fire_ring",
-        "jewelry:unique_fire_necklace",
-        "jewelry:unique_frost_ring",
-        "jewelry:unique_frost_necklace",
-        "jewelry:unique_healing_ring",
-        "jewelry:unique_healing_necklace",
-        "jewelry:unique_dex_ring",
-        "jewelry:unique_dex_necklace",
-        "jewelry:unique_tank_ring",
-        "jewelry:unique_tank_necklace",
-        "jewelry:unique_archer_ring",
-        "jewelry:unique_archer_necklace",
-        "jewelry:unique_arcane_ring",
-        "jewelry:unique_attack_ring",
-        "jewelry:unique_attack_necklace",
-        "jewelry:unique_spell_necklace",
-        "jewelry:unique_spell_ring"
-    ], tooltip => {
-        tooltip.removeLine(6)
     })
 
     tooltip.modify("windswept:feather_cloak", tooltip => {
@@ -96,6 +72,7 @@ ItemEvents.modifyTooltips(tooltip => {
     tooltip.add(["jewelry:citrine", "jewelry:topaz"], "§7Modest")
     tooltip.add(["jewelry:ruby", "jewelry:sapphire"], "§7Semi-precious")
     tooltip.add(["jewelry:jade", "jewelry:tanzanite"], "§7Precious")
+    tooltip.add(["irons_jewelry:jewelcrafting_guide"], "§7A guide to talisman crafting.")
 
     //Class: Basic
     tooltip.add([
