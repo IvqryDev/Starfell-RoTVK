@@ -8,7 +8,7 @@ WIP DESCRIPTION PAGE - SNOOPERS WELCOME WITH OPEN ARMS
 - IvqryDev (Development & Storywriting)
 - NineRavens (Artist & Storywriting)
 - Apenaz (Major Beta Playtester & Artist)
-- Nekomaster (Vampires Strike Back)
+- Nekomaster (Vampires Strike Back & Purgatory Inspiration)
 - Noelledotjpg/Niko (Artist)
 - EvanBones (Configurations & Reliable Series Developer)
 - Mod developers and resource pack artists.
