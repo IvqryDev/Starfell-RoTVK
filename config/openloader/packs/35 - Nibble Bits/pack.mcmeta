@@ -1,7 +1,6 @@
 {
     "pack": {
-        "pack_format": 15,
-        "supported_formats": [15,32767],
-        "description": "Assets by - §6Sheddmer"
+        "pack_format": 34,
+        "description": "By: Sheddmer"
     }
 }

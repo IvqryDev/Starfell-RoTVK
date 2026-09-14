@@ -1,7 +1,6 @@
 {
   "pack": {
-    "pack_format": 15,
-    "supported_formats": [15,32767],
-    "description": "Pretty Produce :)"
+    "pack_format": 34,
+    "description": "Edit By: IvqryDev\nOriginal By: Probleyes"
   }
 }

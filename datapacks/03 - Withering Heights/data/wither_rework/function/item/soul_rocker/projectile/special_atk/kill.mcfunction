@@ -1,3 +1,0 @@
-
-#Kill
-kill @s
