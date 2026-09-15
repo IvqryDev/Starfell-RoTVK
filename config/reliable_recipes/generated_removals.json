@@ -422,7 +422,9 @@
       "manual_labour:mortar/grinding/sand",
       "hunters_return:mini_crossbow",
       "hunters_return:boomerang",
-      "irons_jewelry:jewelcrafting_guide_duplicate"
+      "irons_jewelry:jewelcrafting_guide_duplicate",
+      "minecraft:bread",
+      "farmersdelight:cake_from_milk_bottle"
     ]
   }
 ]

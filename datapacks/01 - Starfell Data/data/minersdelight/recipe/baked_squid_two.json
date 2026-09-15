@@ -3,10 +3,17 @@
   "ingredients": [
     {
       "tag": "c:foods/raw_squid"
+    },
+    {
+      "tag": "c:foods/raw_squid"
+    },
+    {
+      "tag": "c:foods/raw_squid"
     }
   ],
   "result": {
-    "id": "minersdelight:baked_squid"
+    "id": "minersdelight:baked_squid",
+    "count": 3
   },
   "cookingtime": 200
 }

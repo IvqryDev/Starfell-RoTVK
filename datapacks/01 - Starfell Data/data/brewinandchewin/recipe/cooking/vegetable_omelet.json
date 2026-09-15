@@ -1,0 +1,28 @@
+{
+  "type": "cookscollection:baking",
+  "ingredients": [
+    {
+      "tag": "brewinandchewin:foods/cheese_wedge"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:eggs"
+    },
+    {
+      "tag": "c:foods/onion"
+    },
+    {
+      "tag": "c:crops/carrot"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "id": "brewinandchewin:vegetable_omelet",
+    "count": 1
+  },
+  "cookingtime": 200
+}
