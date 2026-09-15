@@ -1,8 +1,9 @@
 # Starfell: Rise of The Valcon Knight
 ** **
-Starfell: RoTVK is a difficult, story-rich, adventure souls-like RPG Minecraft modpack set in the sci-fi and fantasy world of Starfell; This modpack was developed for NeoForge 1.21.1 by IvqryDev and NineRavens of Starlight Studios. Inspired by the likes of Elden Ring, Nine Sols, and Ninja Gaiden.
+Starfell: RoTVK is a difficult, story-rich, adventure souls-like RPG Minecraft modpack set in the sci-fi and medieval world of Starfell;
+This modpack was developed for NeoForge 1.21.1 by IvqryDev and NineRavens of Starlight Studios. Inspired by the likes of Elden Ring, Nine Sols, and Ninja Gaiden.
 
-Anyone is welcome and encouraged to copy this repository and build beta versions of the modpack themselves in order to track down and report issues accordingly, as long as they follow the guidelines stated in the **GNU-LGPL-V3.0** license. Official public beta builds will occasionally release  when I feel it's in a good state.
+Anyone is welcome and encouraged to copy this repository and build beta versions of the modpack themselves in order to track down and report issues accordingly, as long as they follow the guidelines stated in the **GNU-LGPL-V3.0** license. Pull requests, and recommendations are welcome. Official public beta builds will be published occasionally. If you have any questions, you can contact me on Discord at `ivqrydev` and I will get back to you as soon as possible.
 
 **WIP DESCRIPTION PAGE! - SNOOPERS WELCOME WITH OPEN ARMS!**
 ** **
