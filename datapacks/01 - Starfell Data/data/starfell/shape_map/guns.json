@@ -1,9 +1,0 @@
-{
-  "priority": 500,
-  "add": {
-    "guns": [
-      "netherexp:shotgun_fist",
-      "netherexp:pump_charge_shotgun"
-    ]
-  }
-}

@@ -1,10 +1,21 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:nether_star"
-  },
-  "result": {
-    "id": "modestmagic:stardust",
-    "count": 8
-  }
+  "type": "manual_labour:workstone",
+  "ingredients": [
+    {
+      "item": "windswept:lunalite"
+    },
+    {
+      "tag": "manual_labour:hammers"
+    }
+  ],
+  "results": [
+    {
+      "count": 2,
+      "id": "modestmagic:stardust"
+    },
+    {
+      "chance": 0.5,
+      "id": "modestmagic:stardust"
+    }
+  ]
 }

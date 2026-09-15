@@ -1,13 +1,21 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "category": "misc",
+  "type": "manual_labour:workstone",
   "ingredients": [
     {
       "item": "heart_crystals:heart_crystal"
+    },
+    {
+      "tag": "manual_labour:hammers"
     }
   ],
-  "result": {
-    "count": 9,
-    "id": "heart_crystals:heart_crystal_shard"
-  }
+  "results": [
+    {
+      "count": 8,
+      "id": "heart_crystals:heart_crystal_shard"
+    },
+    {
+      "chance": 0.5,
+      "id": "modestmagic:stardust"
+    }
+  ]
 }

@@ -4,12 +4,15 @@
   "key": {
     "#": {
       "item": "heart_crystals:heart_crystal_shard"
+    },
+    "x": {
+      "item": "windswept:lunalite"
     }
   },
   "pattern": [
-    "###",
-    "###",
-    "###"
+    " ##",
+    "#x#",
+    "## "
   ],
   "result": {
     "count": 1,
