@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "item": "minecraft:polished_deepslate"
+    }
+  },
+  "pattern": [
+    "C C",
+    "C C",
+    "CCC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "manual_labour:mortar"
+  }
+}
