@@ -58,5 +58,10 @@
     "action": "remove",
     "items": ["netherexp:cooked_hogham"],
     "replace_with": "farmersdelight:cooked_ham"
+  },
+  {
+    "action": "remove",
+    "items": ["nomansland:sturdy_scute", "minecraft:armadillo_scute"],
+    "replace_with": "minecraft:turtle_scute"
   }
 ]

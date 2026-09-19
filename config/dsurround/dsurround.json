@@ -34,7 +34,7 @@
     "flameJetEnabled": true,
     "bubbleColumnEnabled": true,
     "firefliesEnabled": false,
-    "waterfallsEnabled": true,
+    "waterfallsEnabled": false,
     "enableWaterfallSounds": true,
     "enableWaterfallParticles": true,
     "waterRippleStyle": "PIXELATED_CIRCLE"
